@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometri</string>
+    <string name="widget_name" formatted="false">Deplasări</string>
+    <string name="widget_description" formatted="false">Kilometrii de azi și deplasările dvs. favorite, dintr-o singură atingere.</string>
+    <string name="tab_trips" formatted="false">Deplasări</string>
+    <string name="tab_estimate" formatted="false">Estimare</string>
+    <string name="tab_more" formatted="false">Mai mult</string>
+    <string name="this_month" formatted="false">Luna aceasta</string>
+    <string name="this_year" formatted="false">Anul acesta</string>
+    <string name="trips_count">Deplasări: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Deplasare nouă</string>
+    <string name="free_remaining">Deplasări gratuite rămase luna aceasta: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Limita gratuită a fost atinsă luna aceasta</string>
+    <string name="free_quota_reached" formatted="false">Versiunea gratuită permite 5 deplasări pe lună. Treceți la Pro pentru deplasări nelimitate sau vizionați o reclamă pentru încă 5.</string>
+    <string name="go_pro" formatted="false">Treceți la Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Nicio deplasare încă.\nAtingeți + pentru a o înregistra pe prima.</string>
+    <string name="trip_new" formatted="false">Deplasare nouă</string>
+    <string name="trip_edit" formatted="false">Editați deplasarea</string>
+    <string name="field_date" formatted="false">Data</string>
+    <string name="field_from" formatted="false">Plecare</string>
+    <string name="field_to" formatted="false">Sosire</string>
+    <string name="field_distance" formatted="false">Distanța pe un sens (km)</string>
+    <string name="field_round_trip" formatted="false">Dus-întors</string>
+    <string name="field_purpose" formatted="false">Scop</string>
+    <string name="field_vehicle" formatted="false">Vehicul</string>
+    <string name="field_note" formatted="false">Notă</string>
+    <string name="field_justified" formatted="false">Împrejurări speciale</string>
+    <string name="field_justified_help" formatted="false">Bifați dacă distanța domiciliu–serviciu depășește 40 km dintr-un motiv anume sau pentru un drum dus-întors suplimentar justificat în aceeași zi.</string>
+    <string name="purpose_commute" formatted="false">Navetă</string>
+    <string name="purpose_business" formatted="false">Serviciu</string>
+    <string name="purpose_personal" formatted="false">Personal</string>
+    <string name="save" formatted="false">Salvați</string>
+    <string name="cancel" formatted="false">Anulați</string>
+    <string name="delete" formatted="false">Ștergeți</string>
+    <string name="edit" formatted="false">Editați</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Închideți</string>
+    <string name="back" formatted="false">Înapoi</string>
+    <string name="confirm_delete" formatted="false">Ștergeți definitiv?</string>
+    <string name="invalid_distance" formatted="false">Introduceți o distanță mai mare de 0.</string>
+    <string name="favorites" formatted="false">Favorite</string>
+    <string name="save_as_favorite" formatted="false">Salvați și ca favorită</string>
+    <string name="favorite_label" formatted="false">Numele favoritei</string>
+    <string name="no_favorites" formatted="false">Salvați o deplasare ca favorită pentru a o înregistra dintr-o atingere.</string>
+    <string name="use_favorite" formatted="false">Deplasări favorite</string>
+    <string name="swap" formatted="false">Inversați</string>
+    <string name="quick_add_hint" formatted="false">Atingeți o favorită pentru a o adăuga pentru azi.</string>
+    <string name="added" formatted="false">Deplasare adăugată.</string>
+    <string name="undo" formatted="false">Anulați</string>
+    <string name="vehicles" formatted="false">Vehicule</string>
+    <string name="add_vehicle" formatted="false">Adăugați un vehicul</string>
+    <string name="edit_vehicle" formatted="false">Editați vehiculul</string>
+    <string name="vehicle_name" formatted="false">Nume</string>
+    <string name="vehicle_kind" formatted="false">Tip</string>
+    <string name="kind_car" formatted="false">Autoturism</string>
+    <string name="kind_motorcycle" formatted="false">Motocicletă</string>
+    <string name="kind_moped" formatted="false">Moped</string>
+    <string name="fiscal_power" formatted="false">Putere fiscală (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV și peste</string>
+    <string name="cv_or_less">%1$d CV și sub</string>
+    <string name="cv_range_3_5" formatted="false">3 până la 5 CV</string>
+    <string name="electric" formatted="false">Vehicul electric</string>
+    <string name="no_vehicle" formatted="false">Niciun vehicul. Adăugați unul: estimarea are nevoie de el.</string>
+    <string name="default_vehicle" formatted="false">Vehicul implicit</string>
+    <string name="vehicle_needed" formatted="false">Adăugați mai întâi un vehicul în Mai mult &gt; Vehicule.</string>
+    <string name="estimation" formatted="false">Estimarea cheltuielilor reale</string>
+    <string name="income_year">Anul veniturilor %1$d</string>
+    <string name="estimation_locked" formatted="false">Estimarea cheltuielilor reale, exporturile, importul istoricului și restaurarea unei copii de rezervă fac parte din versiunea Pro.</string>
+    <string name="disclaimer_short" formatted="false">Estimare orientativă, negarantată.</string>
+    <string name="disclaimer_long" formatted="false">Această estimare este orientativă și negarantată. Nu reprezintă consultanță fiscală și nu înlocuiește textele oficiale, administrația fiscală sau un specialist. Verificați regulile aplicabile situației dvs. înainte de a depune declarația.</string>
+    <string name="commute_km_raw" formatted="false">Km navetă introduși</string>
+    <string name="commute_km_retained" formatted="false">Km navetă reținuți</string>
+    <string name="business_km" formatted="false">Km de serviciu</string>
+    <string name="retained_km" formatted="false">Km reținuți</string>
+    <string name="allowance" formatted="false">Indemnizație kilometrică</string>
+    <string name="tolls_parking" formatted="false">Taxe de drum și parcări</string>
+    <string name="total" formatted="false">Total estimat</string>
+    <string name="flat_deduction" formatted="false">Deducere forfetară de 10 %</string>
+    <string name="real_better" formatted="false">Cheltuielile reale par mai avantajoase decât deducerea forfetară.</string>
+    <string name="flat_better" formatted="false">Deducerea forfetară pare mai avantajoasă decât cheltuielile reale.</string>
+    <string name="enter_salary" formatted="false">Introduceți salariul net impozabil anual pentru a-l compara cu deducerea forfetară.</string>
+    <string name="net_taxable_salary" formatted="false">Salariu net impozabil anual</string>
+    <string name="per_vehicle" formatted="false">Pe vehicul</string>
+    <string name="note_scale_unconfirmed" formatted="false">Baremul pentru acest an nu a fost încă publicat: se aplică ultimul barem cunoscut.</string>
+    <string name="note_cap_applied" formatted="false">Unul sau mai multe drumuri de navetă au fost plafonate la 40 km, în lipsa unor împrejurări speciale declarate.</string>
+    <string name="note_extra_legs" formatted="false">Dincolo de un drum dus-întors de navetă pe zi, deplasările fără împrejurări speciale au fost excluse.</string>
+    <string name="note_no_vehicle" formatted="false">Deplasările fără vehicul au fost ignorate: alegeți un vehicul implicit.</string>
+    <string name="note_fuel">Carburantul introdus (%1$s) nu se adaugă: baremul kilometric îl acoperă deja.</string>
+    <string name="note_no_salary" formatted="false">Salariul nu a fost introdus: nicio comparație cu deducerea forfetară.</string>
+    <string name="documents_title" formatted="false">Documente de păstrat</string>
+    <string name="documents_list" formatted="false">Certificatul de înmatriculare al vehiculului\nContractul de muncă sau adeverința de la angajator\nEvidența zilelor lucrate\nBonurile pentru taxe de drum și parcări\nOrice dovedește împrejurările speciale</string>
+    <string name="export" formatted="false">Exportați</string>
+    <string name="export_title" formatted="false">Export</string>
+    <string name="export_pdf" formatted="false">Raport PDF</string>
+    <string name="export_xlsx" formatted="false">Registru de calcul tabelar</string>
+    <string name="export_csv" formatted="false">Fișier CSV</string>
+    <string name="export_period" formatted="false">Perioadă</string>
+    <string name="year" formatted="false">An</string>
+    <string name="export_from" formatted="false">De la</string>
+    <string name="export_to" formatted="false">Până la</string>
+    <string name="export_include_estimation" formatted="false">Includeți estimarea anului</string>
+    <string name="export_share" formatted="false">Fișierul se deschide în meniul de partajare: salvați-l sau trimiteți-l.</string>
+    <string name="export_failed" formatted="false">Exportul a eșuat.</string>
+    <string name="report_title" formatted="false">Raport kilometric</string>
+    <string name="generated_on">Generat la %1$s</string>
+    <string name="yes" formatted="false">da</string>
+    <string name="no" formatted="false">nu</string>
+    <string name="import_title" formatted="false">Importați un istoric</string>
+    <string name="import_help" formatted="false">Dacă telefonul dvs. păstrează un istoric al locațiilor, îl puteți exporta ca fișier JSON din aplicația care îl gestionează, apoi îl puteți deschide aici. Sunt citite doar călătoriile cu vehiculul. Fișierul nu este păstrat: se salvează doar data, distanța și, când se cunosc, plecarea și sosirea.</string>
+    <string name="import_pick" formatted="false">Alegeți fișierul</string>
+    <string name="import_reading" formatted="false">Se citește…</string>
+    <string name="import_found">Călătorii cu vehiculul găsite: %1$d</string>
+    <string name="import_skipped">Alte călătorii ignorate (pe jos, bicicletă, transport în comun): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Scopul călătoriilor nerecunoscute ca navetă</string>
+    <string name="import_period">De la %1$s până la %2$s</string>
+    <string name="import_confirm">Importați %1$d deplasări</string>
+    <string name="import_done">Deplasări importate: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Nicio deplasare nouă: fuseseră deja importate.</string>
+    <string name="import_unreadable" formatted="false">Acest fișier nu este un istoric al locațiilor care poate fi citit.</string>
+    <string name="import_commute_hint" formatted="false">Călătoriile între domiciliul și locul dvs. de muncă sunt recunoscute când fișierul le marchează astfel; ele primesc scopul navetă.</string>
+    <string name="backup_title" formatted="false">Copie de rezervă</string>
+    <string name="backup_explain" formatted="false">Datele dvs. părăsesc dispozitivul doar când decideți dvs. O copie de rezervă este un fișier pe care îl puteți păstra oriunde și restaura pe orice dispozitiv.</string>
+    <string name="backup_export" formatted="false">Exportați o copie de rezervă</string>
+    <string name="backup_restore" formatted="false">Restaurați o copie de rezervă</string>
+    <string name="backup_restore_help" formatted="false">Restaurarea îmbină datele: nimic din ce ați introdus de atunci nu se pierde.</string>
+    <string name="backup_restored">Copie de rezervă restaurată: %1$d deplasări în total.</string>
+    <string name="backup_invalid" formatted="false">Acest fișier nu este o copie de rezervă din această aplicație.</string>
+    <string name="cloud_title" formatted="false">Copie de rezervă în cloud</string>
+    <string name="cloud_explain" formatted="false">Copie automată a datelor dvs. în spațiul cloud al dispozitivului, fără cont suplimentar. Se reîmprospătează după fiecare modificare.</string>
+    <string name="cloud_now" formatted="false">Salvați acum</string>
+    <string name="cloud_restore" formatted="false">Restaurați din cloud</string>
+    <string name="cloud_last">Ultima copie în cloud: %1$s</string>
+    <string name="cloud_never" formatted="false">Nicio copie în cloud încă.</string>
+    <string name="cloud_unavailable" formatted="false">Copia de rezervă în cloud nu este disponibilă pe acest dispozitiv. Folosiți exportul copiei de rezervă.</string>
+    <string name="cloud_done" formatted="false">Copie în cloud realizată.</string>
+    <string name="cloud_nothing" formatted="false">Nicio copie în cloud de restaurat.</string>
+    <string name="cloud_system_restore" formatted="false">Sistemul restaurează singur această copie când reinstalați aplicația sau configurați un dispozitiv nou.</string>
+    <string name="settings" formatted="false">Setări</string>
+    <string name="rules_title" formatted="false">Reguli de calcul</string>
+    <string name="rule_fr" formatted="false">Baremul kilometric francez</string>
+    <string name="rule_generic" formatted="false">Tarif fix pe kilometru</string>
+    <string name="generic_rate" formatted="false">Tarif pe kilometru</string>
+    <string name="currency" formatted="false">Monedă</string>
+    <string name="home_label" formatted="false">Numele domiciliului dvs.</string>
+    <string name="work_label" formatted="false">Numele locului dvs. de muncă</string>
+    <string name="home_work_distance" formatted="false">Distanța domiciliu–serviciu (un sens, km)</string>
+    <string name="places_help" formatted="false">Folosite de deplasările favorite și de importul istoricului.</string>
+    <string name="pro_title" formatted="false">Versiunea Pro</string>
+    <string name="pro_subtitle" formatted="false">Tot ce vă trebuie pentru cheltuielile reale, fără nicio reclamă.</string>
+    <string name="pro_features_title" formatted="false">Funcții deblocate:</string>
+    <string name="pro_feature_unlimited" formatted="false">Deplasări nelimitate.</string>
+    <string name="pro_feature_estimation" formatted="false">Estimarea cheltuielilor reale și comparația cu deducerea forfetară.</string>
+    <string name="pro_feature_export" formatted="false">Export complet și certificat (PDF curat, format tabelar gata pentru contabil sau pentru declarația fiscală).</string>
+    <string name="pro_feature_import" formatted="false">Importul istoricului de deplasări al telefonului dvs.</string>
+    <string name="pro_feature_expenses" formatted="false">Taxe de drum, parcări și carburant adăugate la estimare.</string>
+    <string name="pro_feature_cloud" formatted="false">Restaurare dintr-un fișier de rezervă și sincronizare între dispozitivele dvs.</string>
+    <string name="pro_feature_widgets" formatted="false">Widget pe ecranul principal.</string>
+    <string name="pro_feature_watch" formatted="false">Aplicație pentru ceas.</string>
+    <string name="pro_feature_no_ads" formatted="false">Nicio reclamă.</string>
+    <string name="pro_feature_gps" formatted="false">Urmărire GPS automată (detectarea mișcării sau conexiune Bluetooth cu mașina).</string>
+    <string name="pro_feature_scan" formatted="false">Scanare inteligentă (OCR) a bonurilor de taxe de drum, parcare și carburant cu camera.</string>
+    <string name="pro_monthly">%1$s pe lună</string>
+    <string name="pro_yearly">%1$s pe an</string>
+    <string name="pro_yearly_hint" formatted="false">Două luni gratuite față de abonamentul lunar</string>
+    <string name="subscribe" formatted="false">Abonați-vă</string>
+    <string name="restore_purchases" formatted="false">Restaurați achizițiile</string>
+    <string name="pro_active" formatted="false">Versiunea Pro este activă</string>
+    <string name="pro_active_since">Abonament: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Achizițiile nu sunt disponibile în această versiune a aplicației.</string>
+    <string name="pro_legal" formatted="false">Abonament cu reînnoire automată, debitat din contul dvs. din magazin. Se poate anula oricând din setările magazinului; prețul este debitat pentru perioada următoare dacă nu anulați cu cel puțin 24 de ore înainte de expirare.</string>
+    <string name="purchase_pending" formatted="false">Achiziție în curs…</string>
+    <string name="purchase_failed" formatted="false">Achiziția nu s-a finalizat.</string>
+    <string name="purchase_restored" formatted="false">Achiziții restaurate.</string>
+    <string name="purchase_nothing" formatted="false">Nimic de restaurat.</string>
+    <string name="rewarded_title" formatted="false">Încercați cu o reclamă</string>
+    <string name="rewarded_explain" formatted="false">Vizionați o reclamă scurtă pentru a debloca această funcție pentru o vreme. Pro elimină reclamele și deblochează totul.</string>
+    <string name="rewarded_estimation" formatted="false">Vedeți estimarea timp de 24 de ore</string>
+    <string name="rewarded_export" formatted="false">Un export, în următoarea oră</string>
+    <string name="rewarded_trips" formatted="false">Încă 5 deplasări luna aceasta</string>
+    <string name="rewarded_watch" formatted="false">Vizionați o reclamă</string>
+    <string name="rewarded_unavailable" formatted="false">Nicio reclamă disponibilă momentan. Încercați din nou peste puțin timp.</string>
+    <string name="rewarded_granted" formatted="false">Deblocat. Drum bun!</string>
+    <string name="expenses" formatted="false">Cheltuieli</string>
+    <string name="add_expense" formatted="false">Cheltuială nouă</string>
+    <string name="edit_expense" formatted="false">Editați cheltuiala</string>
+    <string name="expense_kind" formatted="false">Tip</string>
+    <string name="kind_toll" formatted="false">Taxă de drum</string>
+    <string name="kind_parking" formatted="false">Parcare</string>
+    <string name="kind_fuel" formatted="false">Carburant</string>
+    <string name="kind_other" formatted="false">Altele</string>
+    <string name="amount" formatted="false">Sumă</string>
+    <string name="place" formatted="false">Loc</string>
+    <string name="litres" formatted="false">Litri</string>
+    <string name="odometer" formatted="false">Kilometraj la bord</string>
+    <string name="no_expenses" formatted="false">Nicio cheltuială. Taxele de drum și parcările se adaugă la estimare.</string>
+    <string name="invalid_amount" formatted="false">Introduceți o sumă mai mare de 0.</string>
+    <string name="legal_title" formatted="false">Informații legale și confidențialitate</string>
+    <string name="privacy_text" formatted="false">Toate datele dvs. rămân pe dispozitiv. Aplicația nu cere niciun cont și nu trimite nimic către un server. Singurele schimburi cu exteriorul sunt cele declanșate de dvs., un export, o copie de rezervă sau o achiziție, și reclamele versiunii gratuite, pe care versiunea Pro le elimină.</string>
+    <string name="about" formatted="false">Despre</string>
+    <string name="version">Versiunea %1$s</string>
+    <string name="error_generic" formatted="false">Ceva nu a funcționat.</string>
+    <string name="today" formatted="false">Azi</string>
+    <string name="yesterday" formatted="false">Ieri</string>
+    <string name="ads_privacy_options" formatted="false">Opțiuni de confidențialitate pentru reclame</string>
+    <string name="ads_disabled_title" formatted="false">Reclamele sunt dezactivate</string>
+    <string name="ads_disabled_text" formatted="false">Sistemul indică faptul că acest cont aparține unui utilizator tânăr. Prin urmare, aplicația nu afișează nicio reclamă și nu cere niciun consimțământ. Nu se citește niciun identificator publicitar și nu se colectează sau trimite nicio dată.</string>
+    <string name="watch_quick_add" formatted="false">Deplasare rapidă</string>
+    <string name="watch_no_favorites" formatted="false">Adăugați deplasări favorite pe telefon.</string>
+    <string name="watch_added" formatted="false">Adăugată</string>
+    <string name="watch_open_phone" formatted="false">Deschideți aplicația de pe telefon</string>
+    <string name="widget_today" formatted="false">Azi</string>
+    <string name="widget_month" formatted="false">Luna aceasta</string>
+    <string name="widget_pro_needed" formatted="false">Widget disponibil cu Pro</string>
+</resources>

@@ -1,0 +1,8 @@
+Eerste versie van Kilomètres.
+
+• Ritten met één tik, favoriete routes
+• Schatting van de werkelijke kosten met de officiële tabel (Pro)
+• PDF- en spreadsheetexport (Pro)
+• Import van de ritgeschiedenis (Pro)
+• Cloudback-up voor iedereen; widget en horloge-app (Pro)
+• 71 talen

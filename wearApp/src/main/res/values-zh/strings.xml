@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">公里</string>
+    <string name="watch_quick_add" formatted="false">快速行程</string>
+    <string name="watch_no_favorites" formatted="false">请在手机上添加收藏行程。</string>
+    <string name="watch_added" formatted="false">已添加</string>
+    <string name="watch_open_phone" formatted="false">打开手机应用</string>
+    <string name="km_value">%1$s 公里</string>
+    <string name="this_month" formatted="false">本月</string>
+    <string name="today" formatted="false">今天</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">小组件需要 Pro 版</string>
+</resources>

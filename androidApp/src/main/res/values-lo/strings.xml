@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">ກິໂລແມັດ</string>
+    <string name="widget_name" formatted="false">ການເດີນທາງ</string>
+    <string name="widget_description" formatted="false">ກິໂລແມັດຂອງມື້ນີ້ ແລະ ການເດີນທາງໂປດຂອງທ່ານໃນການແຕະດຽວ</string>
+    <string name="tab_trips" formatted="false">ການເດີນທາງ</string>
+    <string name="tab_estimate" formatted="false">ປະເມີນ</string>
+    <string name="tab_more" formatted="false">ເພີ່ມເຕີມ</string>
+    <string name="this_month" formatted="false">ເດືອນນີ້</string>
+    <string name="this_year" formatted="false">ປີນີ້</string>
+    <string name="trips_count">ການເດີນທາງ: %1$d</string>
+    <string name="km_value">%1$s ກມ</string>
+    <string name="add_trip" formatted="false">ການເດີນທາງໃໝ່</string>
+    <string name="free_remaining">ການເດີນທາງຟຣີທີ່ຍັງເຫຼືອໃນເດືອນນີ້: %1$d</string>
+    <string name="free_limit_reached" formatted="false">ຄົບຈຳນວນຟຣີຂອງເດືອນນີ້ແລ້ວ</string>
+    <string name="free_quota_reached" formatted="false">ເວີຊັນຟຣີບັນທຶກໄດ້ 5 ການເດີນທາງຕໍ່ເດືອນ ອັບເກຣດເປັນ Pro ເພື່ອບັນທຶກໄດ້ບໍ່ຈຳກັດ ຫຼື ເບິ່ງໂຄສະນາເພື່ອຮັບເພີ່ມອີກ 5 ຄັ້ງ</string>
+    <string name="go_pro" formatted="false">ອັບເກຣດເປັນ Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">ຍັງບໍ່ມີການເດີນທາງ\nແຕະ + ເພື່ອບັນທຶກຄັ້ງທຳອິດ</string>
+    <string name="trip_new" formatted="false">ການເດີນທາງໃໝ່</string>
+    <string name="trip_edit" formatted="false">ແກ້ໄຂການເດີນທາງ</string>
+    <string name="field_date" formatted="false">ວັນທີ</string>
+    <string name="field_from" formatted="false">ຕົ້ນທາງ</string>
+    <string name="field_to" formatted="false">ປາຍທາງ</string>
+    <string name="field_distance" formatted="false">ໄລຍະທາງຖ້ຽວດຽວ (ກມ)</string>
+    <string name="field_round_trip" formatted="false">ໄປ-ກັບ</string>
+    <string name="field_purpose" formatted="false">ຈຸດປະສົງ</string>
+    <string name="field_vehicle" formatted="false">ພາຫະນະ</string>
+    <string name="field_note" formatted="false">ໝາຍເຫດ</string>
+    <string name="field_justified" formatted="false">ເຫດຜົນພິເສດ</string>
+    <string name="field_justified_help" formatted="false">ໝາຍຖືກຖ້າໄລຍະທາງເຮືອນ-ບ່ອນເຮັດວຽກເກີນ 40 ກມ ດ້ວຍເຫດຜົນສະເພາະ ຫຼື ມີການເດີນທາງໄປ-ກັບເພີ່ມເຕີມໃນມື້ດຽວກັນໂດຍມີເຫດຜົນອັນສົມຄວນ</string>
+    <string name="purpose_commute" formatted="false">ໄປເຮັດວຽກ</string>
+    <string name="purpose_business" formatted="false">ທຸລະກິດ</string>
+    <string name="purpose_personal" formatted="false">ສ່ວນຕົວ</string>
+    <string name="save" formatted="false">ບັນທຶກ</string>
+    <string name="cancel" formatted="false">ຍົກເລີກ</string>
+    <string name="delete" formatted="false">ລຶບ</string>
+    <string name="edit" formatted="false">ແກ້ໄຂ</string>
+    <string name="ok" formatted="false">ຕົກລົງ</string>
+    <string name="close" formatted="false">ປິດ</string>
+    <string name="back" formatted="false">ກັບຄືນ</string>
+    <string name="confirm_delete" formatted="false">ລຶບຖາວອນບໍ?</string>
+    <string name="invalid_distance" formatted="false">ປ້ອນໄລຍະທາງທີ່ຫຼາຍກວ່າ 0</string>
+    <string name="favorites" formatted="false">ລາຍການໂປດ</string>
+    <string name="save_as_favorite" formatted="false">ບັນທຶກເປັນລາຍການໂປດນຳ</string>
+    <string name="favorite_label" formatted="false">ຊື່ລາຍການໂປດ</string>
+    <string name="no_favorites" formatted="false">ບັນທຶກການເດີນທາງເປັນລາຍການໂປດ ເພື່ອບັນທຶກຄືນໄດ້ໃນການແຕະດຽວ</string>
+    <string name="use_favorite" formatted="false">ການເດີນທາງໂປດ</string>
+    <string name="swap" formatted="false">ສະຫຼັບ</string>
+    <string name="quick_add_hint" formatted="false">ແຕະລາຍການໂປດເພື່ອເພີ່ມສຳລັບມື້ນີ້</string>
+    <string name="added" formatted="false">ເພີ່ມການເດີນທາງແລ້ວ</string>
+    <string name="undo" formatted="false">ຍົກເລີກຄືນ</string>
+    <string name="vehicles" formatted="false">ພາຫະນະ</string>
+    <string name="add_vehicle" formatted="false">ເພີ່ມພາຫະນະ</string>
+    <string name="edit_vehicle" formatted="false">ແກ້ໄຂພາຫະນະ</string>
+    <string name="vehicle_name" formatted="false">ຊື່</string>
+    <string name="vehicle_kind" formatted="false">ປະເພດ</string>
+    <string name="kind_car" formatted="false">ລົດໃຫຍ່</string>
+    <string name="kind_motorcycle" formatted="false">ລົດຈັກ</string>
+    <string name="kind_moped" formatted="false">ລົດຈັກນ້ອຍ</string>
+    <string name="fiscal_power" formatted="false">ແຮງມ້າພາສີ (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV ຂຶ້ນໄປ</string>
+    <string name="cv_or_less">%1$d CV ລົງມາ</string>
+    <string name="cv_range_3_5" formatted="false">3 ຫາ 5 CV</string>
+    <string name="electric" formatted="false">ພາຫະນະໄຟຟ້າ</string>
+    <string name="no_vehicle" formatted="false">ບໍ່ມີພາຫະນະ ເພີ່ມໜຶ່ງຄັນ: ການປະເມີນຕ້ອງການມັນ</string>
+    <string name="default_vehicle" formatted="false">ພາຫະນະເລີ່ມຕົ້ນ</string>
+    <string name="vehicle_needed" formatted="false">ເພີ່ມພາຫະນະກ່ອນໃນ ເພີ່ມເຕີມ &gt; ພາຫະນະ</string>
+    <string name="estimation" formatted="false">ການປະເມີນຄ່າໃຊ້ຈ່າຍຕົວຈິງ</string>
+    <string name="income_year">ປີລາຍຮັບ %1$d</string>
+    <string name="estimation_locked" formatted="false">ການປະເມີນຄ່າໃຊ້ຈ່າຍຕົວຈິງ, ການສົ່ງອອກ, ການນຳເຂົ້າປະຫວັດ ແລະ ການກູ້ຄືນຂໍ້ມູນສຳຮອງ ແມ່ນສ່ວນໜຶ່ງຂອງເວີຊັນ Pro</string>
+    <string name="disclaimer_short" formatted="false">ການປະເມີນເພື່ອເປັນແນວທາງເທົ່ານັ້ນ ບໍ່ຮັບປະກັນ</string>
+    <string name="disclaimer_long" formatted="false">ການປະເມີນນີ້ເປັນພຽງແນວທາງ ແລະ ບໍ່ຮັບປະກັນ ມັນບໍ່ແມ່ນຄຳແນະນຳດ້ານພາສີ ແລະ ບໍ່ສາມາດໃຊ້ແທນເອກະສານທາງການ, ອົງການພາສີ ຫຼື ຜູ້ຊ່ຽວຊານໄດ້ ກະລຸນາກວດສອບກົດລະບຽບທີ່ໃຊ້ກັບສະຖານະການຂອງທ່ານກ່ອນຍື່ນແບບ</string>
+    <string name="commute_km_raw" formatted="false">ກມ ໄປເຮັດວຽກທີ່ປ້ອນ</string>
+    <string name="commute_km_retained" formatted="false">ກມ ໄປເຮັດວຽກທີ່ນັບ</string>
+    <string name="business_km" formatted="false">ກມ ທຸລະກິດ</string>
+    <string name="retained_km" formatted="false">ກມ ທີ່ນັບ</string>
+    <string name="allowance" formatted="false">ເງິນຊົດເຊີຍໄລຍະທາງ</string>
+    <string name="tolls_parking" formatted="false">ຄ່າທາງດ່ວນ ແລະ ຄ່າຈອດລົດ</string>
+    <string name="total" formatted="false">ລວມໂດຍປະມານ</string>
+    <string name="flat_deduction" formatted="false">ການຫັກເໝົາ 10%</string>
+    <string name="real_better" formatted="false">ຄ່າໃຊ້ຈ່າຍຕົວຈິງເບິ່ງຄືຈະຄຸ້ມກວ່າການຫັກເໝົາ</string>
+    <string name="flat_better" formatted="false">ການຫັກເໝົາເບິ່ງຄືຈະຄຸ້ມກວ່າຄ່າໃຊ້ຈ່າຍຕົວຈິງ</string>
+    <string name="enter_salary" formatted="false">ປ້ອນເງິນເດືອນສຸດທິທີ່ຕ້ອງເສຍພາສີຕໍ່ປີຂອງທ່ານ ເພື່ອປຽບທຽບກັບການຫັກເໝົາ</string>
+    <string name="net_taxable_salary" formatted="false">ເງິນເດືອນສຸດທິທີ່ຕ້ອງເສຍພາສີຕໍ່ປີ</string>
+    <string name="per_vehicle" formatted="false">ຕໍ່ພາຫະນະ</string>
+    <string name="note_scale_unconfirmed" formatted="false">ອັດຕາຂອງປີນີ້ຍັງບໍ່ທັນປະກາດ: ໃຊ້ອັດຕາຫຼ້າສຸດທີ່ຮູ້ແທນ</string>
+    <string name="note_cap_applied" formatted="false">ຖ້ຽວໄປເຮັດວຽກໜຶ່ງຖ້ຽວ ຫຼື ຫຼາຍກວ່າຖືກຈຳກັດໄວ້ທີ່ 40 ກມ ເນື່ອງຈາກບໍ່ໄດ້ລະບຸເຫດຜົນພິເສດ</string>
+    <string name="note_extra_legs" formatted="false">ການເດີນທາງທີ່ເກີນກວ່າໄປ-ກັບບ່ອນເຮັດວຽກມື້ລະໜຶ່ງຄັ້ງ ແລະ ບໍ່ມີເຫດຜົນພິເສດ ຖືກຕັດອອກ</string>
+    <string name="note_no_vehicle" formatted="false">ການເດີນທາງທີ່ບໍ່ມີພາຫະນະຖືກຂ້າມໄປ: ເລືອກພາຫະນະເລີ່ມຕົ້ນ</string>
+    <string name="note_fuel">ຄ່ານ້ຳມັນທີ່ປ້ອນ (%1$s) ບໍ່ຖືກບວກເພີ່ມ: ອັດຕາໄລຍະທາງລວມໄວ້ແລ້ວ</string>
+    <string name="note_no_salary" formatted="false">ບໍ່ໄດ້ປ້ອນເງິນເດືອນ: ບໍ່ມີການປຽບທຽບກັບການຫັກເໝົາ</string>
+    <string name="documents_title" formatted="false">ເອກະສານທີ່ຄວນເກັບໄວ້</string>
+    <string name="documents_list" formatted="false">ທະບຽນລົດ\nສັນຍາຈ້າງງານ ຫຼື ໃບຢັ້ງຢືນຈາກນາຍຈ້າງ\nບັນທຶກວັນເຮັດວຽກ\nໃບຮັບເງິນຄ່າທາງດ່ວນ ແລະ ຄ່າຈອດລົດ\nຫຼັກຖານໃດໆ ທີ່ສະໜັບສະໜູນເຫດຜົນພິເສດ</string>
+    <string name="export" formatted="false">ສົ່ງອອກ</string>
+    <string name="export_title" formatted="false">ສົ່ງອອກ</string>
+    <string name="export_pdf" formatted="false">ລາຍງານ PDF</string>
+    <string name="export_xlsx" formatted="false">ຕາຕະລາງຄິດໄລ່</string>
+    <string name="export_csv" formatted="false">ໄຟລ໌ CSV</string>
+    <string name="export_period" formatted="false">ໄລຍະເວລາ</string>
+    <string name="year" formatted="false">ປີ</string>
+    <string name="export_from" formatted="false">ແຕ່</string>
+    <string name="export_to" formatted="false">ຫາ</string>
+    <string name="export_include_estimation" formatted="false">ລວມການປະເມີນຂອງປີ</string>
+    <string name="export_share" formatted="false">ໄຟລ໌ຈະເປີດໃນໜ້າຕ່າງແບ່ງປັນ: ບັນທຶກ ຫຼື ສົ່ງຕໍ່ໄດ້</string>
+    <string name="export_failed" formatted="false">ສົ່ງອອກບໍ່ສຳເລັດ</string>
+    <string name="report_title" formatted="false">ລາຍງານໄລຍະທາງ</string>
+    <string name="generated_on">ສ້າງເມື່ອ %1$s</string>
+    <string name="yes" formatted="false">ແມ່ນ</string>
+    <string name="no" formatted="false">ບໍ່</string>
+    <string name="import_title" formatted="false">ນຳເຂົ້າປະຫວັດ</string>
+    <string name="import_help" formatted="false">ຖ້າໂທລະສັບຂອງທ່ານເກັບປະຫວັດຕຳແໜ່ງໄວ້ ທ່ານສາມາດສົ່ງອອກເປັນໄຟລ໌ JSON ຈາກແອັບທີ່ຈັດການປະຫວັດນັ້ນ ແລ້ວເປີດຢູ່ນີ້ ຈະອ່ານສະເພາະການເດີນທາງດ້ວຍພາຫະນະເທົ່ານັ້ນ ໄຟລ໌ຈະບໍ່ຖືກເກັບໄວ້: ບັນທຶກພຽງວັນທີ, ໄລຍະທາງ ແລະ ຕົ້ນທາງກັບປາຍທາງຖ້າຮູ້</string>
+    <string name="import_pick" formatted="false">ເລືອກໄຟລ໌</string>
+    <string name="import_reading" formatted="false">ກຳລັງອ່ານ…</string>
+    <string name="import_found">ພົບການເດີນທາງດ້ວຍພາຫະນະ: %1$d</string>
+    <string name="import_skipped">ການເດີນທາງອື່ນທີ່ຂ້າມໄປ (ຍ່າງ, ລົດຖີບ, ຂົນສົ່ງສາທາລະນະ): %1$d</string>
+    <string name="import_default_purpose" formatted="false">ຈຸດປະສົງສຳລັບການເດີນທາງທີ່ບໍ່ຖືກຈົດຈຳວ່າເປັນການໄປເຮັດວຽກ</string>
+    <string name="import_period">ແຕ່ %1$s ຫາ %2$s</string>
+    <string name="import_confirm">ນຳເຂົ້າ %1$d ການເດີນທາງ</string>
+    <string name="import_done">ນຳເຂົ້າການເດີນທາງແລ້ວ: %1$d</string>
+    <string name="import_nothing_new" formatted="false">ບໍ່ມີການເດີນທາງໃໝ່: ນຳເຂົ້າໄປແລ້ວກ່ອນໜ້ານີ້</string>
+    <string name="import_unreadable" formatted="false">ໄຟລ໌ນີ້ບໍ່ແມ່ນປະຫວັດຕຳແໜ່ງທີ່ອ່ານໄດ້</string>
+    <string name="import_commute_hint" formatted="false">ການເດີນທາງລະຫວ່າງເຮືອນກັບບ່ອນເຮັດວຽກຈະຖືກຈົດຈຳເມື່ອໄຟລ໌ລະບຸໄວ້ ແລະ ຈະໄດ້ຈຸດປະສົງໄປເຮັດວຽກ</string>
+    <string name="backup_title" formatted="false">ສຳຮອງຂໍ້ມູນ</string>
+    <string name="backup_explain" formatted="false">ຂໍ້ມູນຂອງທ່ານຈະອອກຈາກອຸປະກອນເມື່ອທ່ານຕັດສິນໃຈເທົ່ານັ້ນ ຂໍ້ມູນສຳຮອງຄືໄຟລ໌ທີ່ທ່ານເກັບໄວ້ບ່ອນໃດກໍໄດ້ ແລະ ກູ້ຄືນໃນອຸປະກອນໃດກໍໄດ້</string>
+    <string name="backup_export" formatted="false">ສົ່ງອອກຂໍ້ມູນສຳຮອງ</string>
+    <string name="backup_restore" formatted="false">ກູ້ຄືນຂໍ້ມູນສຳຮອງ</string>
+    <string name="backup_restore_help" formatted="false">ການກູ້ຄືນຈະລວມຂໍ້ມູນ: ສິ່ງທີ່ທ່ານປ້ອນຫຼັງຈາກນັ້ນຈະບໍ່ຫາຍໄປ</string>
+    <string name="backup_restored">ກູ້ຄືນຂໍ້ມູນສຳຮອງແລ້ວ: ລວມ %1$d ການເດີນທາງ</string>
+    <string name="backup_invalid" formatted="false">ໄຟລ໌ນີ້ບໍ່ແມ່ນຂໍ້ມູນສຳຮອງຈາກແອັບນີ້</string>
+    <string name="cloud_title" formatted="false">ສຳຮອງຂໍ້ມູນໃນຄລາວ</string>
+    <string name="cloud_explain" formatted="false">ສຳເນົາຂໍ້ມູນຂອງທ່ານໄປຍັງພື້ນທີ່ຄລາວຂອງອຸປະກອນໂດຍອັດຕະໂນມັດ ບໍ່ຕ້ອງມີບັນຊີເພີ່ມ ອັບເດດຫຼັງທຸກການປ່ຽນແປງ</string>
+    <string name="cloud_now" formatted="false">ສຳຮອງຂໍ້ມູນດຽວນີ້</string>
+    <string name="cloud_restore" formatted="false">ກູ້ຄືນຈາກຄລາວ</string>
+    <string name="cloud_last">ສຳຮອງຂໍ້ມູນໃນຄລາວຫຼ້າສຸດ: %1$s</string>
+    <string name="cloud_never" formatted="false">ຍັງບໍ່ມີຂໍ້ມູນສຳຮອງໃນຄລາວ</string>
+    <string name="cloud_unavailable" formatted="false">ອຸປະກອນນີ້ບໍ່ຮອງຮັບການສຳຮອງຂໍ້ມູນໃນຄລາວ ໃຊ້ການສົ່ງອອກຂໍ້ມູນສຳຮອງແທນ</string>
+    <string name="cloud_done" formatted="false">ສຳຮອງຂໍ້ມູນໃນຄລາວສຳເລັດແລ້ວ</string>
+    <string name="cloud_nothing" formatted="false">ບໍ່ມີຂໍ້ມູນສຳຮອງໃນຄລາວໃຫ້ກູ້ຄືນ</string>
+    <string name="cloud_system_restore" formatted="false">ລະບົບຈະກູ້ຄືນຂໍ້ມູນສຳຮອງນີ້ເອງເມື່ອທ່ານຕິດຕັ້ງແອັບໃໝ່ ຫຼື ຕັ້ງຄ່າອຸປະກອນເຄື່ອງໃໝ່</string>
+    <string name="settings" formatted="false">ການຕັ້ງຄ່າ</string>
+    <string name="rules_title" formatted="false">ກົດການຄິດໄລ່</string>
+    <string name="rule_fr" formatted="false">ອັດຕາໄລຍະທາງຂອງຝຣັ່ງ</string>
+    <string name="rule_generic" formatted="false">ອັດຕາຄົງທີ່ຕໍ່ກິໂລແມັດ</string>
+    <string name="generic_rate" formatted="false">ອັດຕາຕໍ່ກິໂລແມັດ</string>
+    <string name="currency" formatted="false">ສະກຸນເງິນ</string>
+    <string name="home_label" formatted="false">ຊື່ເຮືອນຂອງທ່ານ</string>
+    <string name="work_label" formatted="false">ຊື່ບ່ອນເຮັດວຽກຂອງທ່ານ</string>
+    <string name="home_work_distance" formatted="false">ໄລຍະທາງເຮືອນ-ບ່ອນເຮັດວຽກ (ຖ້ຽວດຽວ, ກມ)</string>
+    <string name="places_help" formatted="false">ໃຊ້ສຳລັບການເດີນທາງໂປດ ແລະ ການນຳເຂົ້າປະຫວັດ</string>
+    <string name="pro_title" formatted="false">ເວີຊັນ Pro</string>
+    <string name="pro_subtitle" formatted="false">ທຸກຢ່າງທີ່ທ່ານຕ້ອງການສຳລັບຄ່າໃຊ້ຈ່າຍຕົວຈິງ ແລະ ບໍ່ມີໂຄສະນາ</string>
+    <string name="pro_features_title" formatted="false">ຄຸນສົມບັດທີ່ປົດລັອກ:</string>
+    <string name="pro_feature_unlimited" formatted="false">ບັນທຶກການເດີນທາງໄດ້ບໍ່ຈຳກັດ</string>
+    <string name="pro_feature_estimation" formatted="false">ການປະເມີນຄ່າໃຊ້ຈ່າຍຕົວຈິງ ແລະ ປຽບທຽບກັບການຫັກເໝົາ</string>
+    <string name="pro_feature_export" formatted="false">ສົ່ງອອກແບບຄົບຖ້ວນ ແລະ ຢັ້ງຢືນໄດ້ (PDF ສະອາດຕາ, ຮູບແບບຕາຕະລາງຄິດໄລ່ພ້ອມສົ່ງໃຫ້ນັກບັນຊີ ຫຼື ໃຊ້ຍື່ນພາສີ)</string>
+    <string name="pro_feature_import" formatted="false">ນຳເຂົ້າປະຫວັດການເດີນທາງຈາກໂທລະສັບຂອງທ່ານ</string>
+    <string name="pro_feature_expenses" formatted="false">ຄ່າທາງດ່ວນ, ຄ່າຈອດລົດ ແລະ ຄ່ານ້ຳມັນລວມໃນການປະເມີນ</string>
+    <string name="pro_feature_cloud" formatted="false">ກູ້ຄືນຈາກໄຟລ໌ສຳຮອງ ແລະ ຊິງຂ້າມອຸປະກອນ</string>
+    <string name="pro_feature_widgets" formatted="false">ວິດເຈັດໜ້າຈໍຫຼັກ</string>
+    <string name="pro_feature_watch" formatted="false">ແອັບໃນໂມງ</string>
+    <string name="pro_feature_no_ads" formatted="false">ບໍ່ມີໂຄສະນາເລີຍ</string>
+    <string name="pro_feature_gps" formatted="false">ຕິດຕາມດ້ວຍ GPS ອັດຕະໂນມັດ (ກວດຈັບການເຄື່ອນໄຫວ ຫຼື ເຊື່ອມຕໍ່ບລູທູດກັບລົດ)</string>
+    <string name="pro_feature_scan" formatted="false">ສະແກນອັດສະລິຍະ (OCR) ໃບຮັບເງິນຄ່າທາງດ່ວນ, ຄ່າຈອດລົດ ແລະ ຄ່ານ້ຳມັນດ້ວຍກ້ອງ</string>
+    <string name="pro_monthly">%1$s ຕໍ່ເດືອນ</string>
+    <string name="pro_yearly">%1$s ຕໍ່ປີ</string>
+    <string name="pro_yearly_hint" formatted="false">ຟຣີສອງເດືອນເມື່ອທຽບກັບລາຍເດືອນ</string>
+    <string name="subscribe" formatted="false">ສະໝັກສະມາຊິກ</string>
+    <string name="restore_purchases" formatted="false">ກູ້ຄືນການຊື້</string>
+    <string name="pro_active" formatted="false">ເວີຊັນ Pro ໃຊ້ງານຢູ່</string>
+    <string name="pro_active_since">ສະມາຊິກ: %1$s</string>
+    <string name="pro_unavailable" formatted="false">ບໍ່ສາມາດຊື້ໄດ້ໃນແອັບເວີຊັນນີ້</string>
+    <string name="pro_legal" formatted="false">ສະມາຊິກແບບຕໍ່ອາຍຸອັດຕະໂນມັດ ເກັບເງິນຜ່ານບັນຊີຮ້ານຄ້າຂອງທ່ານ ຍົກເລີກໄດ້ທຸກເວລາໃນການຕັ້ງຄ່າຮ້ານຄ້າ ລະບົບຈະເກັບຄ່າບໍລິການຮອບຕໍ່ໄປ ເວັ້ນແຕ່ຈະຍົກເລີກຢ່າງໜ້ອຍ 24 ຊົ່ວໂມງກ່ອນສິ້ນສຸດຮອບ</string>
+    <string name="purchase_pending" formatted="false">ກຳລັງຊື້…</string>
+    <string name="purchase_failed" formatted="false">ການຊື້ບໍ່ສຳເລັດ</string>
+    <string name="purchase_restored" formatted="false">ກູ້ຄືນການຊື້ແລ້ວ</string>
+    <string name="purchase_nothing" formatted="false">ບໍ່ມີຫຍັງໃຫ້ກູ້ຄືນ</string>
+    <string name="rewarded_title" formatted="false">ລອງໃຊ້ດ້ວຍການເບິ່ງໂຄສະນາ</string>
+    <string name="rewarded_explain" formatted="false">ເບິ່ງໂຄສະນາສັ້ນໆ ເພື່ອປົດລັອກຄຸນສົມບັດນີ້ຊົ່ວຄາວ Pro ຈະລຶບໂຄສະນາ ແລະ ປົດລັອກທຸກຢ່າງ</string>
+    <string name="rewarded_estimation" formatted="false">ເບິ່ງການປະເມີນໄດ້ 24 ຊົ່ວໂມງ</string>
+    <string name="rewarded_export" formatted="false">ສົ່ງອອກໜຶ່ງຄັ້ງພາຍໃນໜຶ່ງຊົ່ວໂມງ</string>
+    <string name="rewarded_trips" formatted="false">ເພີ່ມອີກ 5 ການເດີນທາງໃນເດືອນນີ້</string>
+    <string name="rewarded_watch" formatted="false">ເບິ່ງໂຄສະນາ</string>
+    <string name="rewarded_unavailable" formatted="false">ຕອນນີ້ບໍ່ມີໂຄສະນາ ລອງໃໝ່ອີກຈັກໜ້ອຍ</string>
+    <string name="rewarded_granted" formatted="false">ປົດລັອກແລ້ວ ຂັບຂີ່ປອດໄພ!</string>
+    <string name="expenses" formatted="false">ຄ່າໃຊ້ຈ່າຍ</string>
+    <string name="add_expense" formatted="false">ຄ່າໃຊ້ຈ່າຍໃໝ່</string>
+    <string name="edit_expense" formatted="false">ແກ້ໄຂຄ່າໃຊ້ຈ່າຍ</string>
+    <string name="expense_kind" formatted="false">ປະເພດ</string>
+    <string name="kind_toll" formatted="false">ຄ່າທາງດ່ວນ</string>
+    <string name="kind_parking" formatted="false">ຄ່າຈອດລົດ</string>
+    <string name="kind_fuel" formatted="false">ນ້ຳມັນ</string>
+    <string name="kind_other" formatted="false">ອື່ນໆ</string>
+    <string name="amount" formatted="false">ຈຳນວນເງິນ</string>
+    <string name="place" formatted="false">ສະຖານທີ່</string>
+    <string name="litres" formatted="false">ລິດ</string>
+    <string name="odometer" formatted="false">ເລກໄມລ໌</string>
+    <string name="no_expenses" formatted="false">ບໍ່ມີຄ່າໃຊ້ຈ່າຍ ຄ່າທາງດ່ວນ ແລະ ຄ່າຈອດລົດຈະລວມໃນການປະເມີນ</string>
+    <string name="invalid_amount" formatted="false">ປ້ອນຈຳນວນເງິນທີ່ຫຼາຍກວ່າ 0</string>
+    <string name="legal_title" formatted="false">ກົດໝາຍ ແລະ ຄວາມເປັນສ່ວນຕົວ</string>
+    <string name="privacy_text" formatted="false">ຂໍ້ມູນທັງໝົດຂອງທ່ານຢູ່ໃນອຸປະກອນຂອງທ່ານ ແອັບບໍ່ຕ້ອງໃຊ້ບັນຊີ ແລະ ບໍ່ສົ່ງຫຍັງໄປຍັງເຊີບເວີ ການຕິດຕໍ່ກັບພາຍນອກມີພຽງສິ່ງທີ່ທ່ານສັ່ງເອງ ເຊັ່ນ ການສົ່ງອອກ, ການສຳຮອງຂໍ້ມູນ ຫຼື ການຊື້ ແລະ ໂຄສະນາຂອງເວີຊັນຟຣີ ເຊິ່ງເວີຊັນ Pro ຈະລຶບອອກ</string>
+    <string name="about" formatted="false">ກ່ຽວກັບ</string>
+    <string name="version">ເວີຊັນ %1$s</string>
+    <string name="error_generic" formatted="false">ເກີດຂໍ້ຜິດພາດ</string>
+    <string name="today" formatted="false">ມື້ນີ້</string>
+    <string name="yesterday" formatted="false">ມື້ວານ</string>
+    <string name="ads_privacy_options" formatted="false">ຕົວເລືອກຄວາມເປັນສ່ວນຕົວຂອງໂຄສະນາ</string>
+    <string name="ads_disabled_title" formatted="false">ປິດໂຄສະນາແລ້ວ</string>
+    <string name="ads_disabled_text" formatted="false">ລະບົບລະບຸວ່າບັນຊີນີ້ເປັນຂອງຜູ້ໃຊ້ເຍົາວະຊົນ ແອັບຈຶ່ງບໍ່ສະແດງໂຄສະນາ ແລະ ບໍ່ຂໍຄວາມຍິນຍອມໃດໆ ບໍ່ອ່ານຕົວລະບຸໂຄສະນາ ແລະ ບໍ່ເກັບ ຫຼື ສົ່ງຂໍ້ມູນໃດໆ</string>
+    <string name="watch_quick_add" formatted="false">ການເດີນທາງດ່ວນ</string>
+    <string name="watch_no_favorites" formatted="false">ເພີ່ມການເດີນທາງໂປດໃນໂທລະສັບຂອງທ່ານ</string>
+    <string name="watch_added" formatted="false">ເພີ່ມແລ້ວ</string>
+    <string name="watch_open_phone" formatted="false">ເປີດແອັບໃນໂທລະສັບ</string>
+    <string name="widget_today" formatted="false">ມື້ນີ້</string>
+    <string name="widget_month" formatted="false">ເດືອນນີ້</string>
+    <string name="widget_pro_needed" formatted="false">ວິດເຈັດໃຊ້ໄດ້ກັບ Pro</string>
+</resources>

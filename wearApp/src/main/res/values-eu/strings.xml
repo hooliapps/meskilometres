@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometroak</string>
+    <string name="watch_quick_add" formatted="false">Bidaia azkarra</string>
+    <string name="watch_no_favorites" formatted="false">Gehitu bidaia gogokoak zure telefonoan.</string>
+    <string name="watch_added" formatted="false">Gehituta</string>
+    <string name="watch_open_phone" formatted="false">Telefonoko aplikazioa ireki</string>
+    <string name="km_value">%1$s km</string>
+    <string name="this_month" formatted="false">Hilabete hau</string>
+    <string name="today" formatted="false">Gaur</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">Widgeta Pro bertsioarekin erabilgarri</string>
+</resources>

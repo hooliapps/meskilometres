@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilômét</string>
+    <string name="widget_name" formatted="false">Hành trình</string>
+    <string name="widget_description" formatted="false">Số km hôm nay và các hành trình yêu thích của bạn trong một chạm.</string>
+    <string name="tab_trips" formatted="false">Hành trình</string>
+    <string name="tab_estimate" formatted="false">Ước tính</string>
+    <string name="tab_more" formatted="false">Thêm</string>
+    <string name="this_month" formatted="false">Tháng này</string>
+    <string name="this_year" formatted="false">Năm nay</string>
+    <string name="trips_count">Hành trình: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Hành trình mới</string>
+    <string name="free_remaining">Hành trình miễn phí còn lại tháng này: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Đã hết lượt miễn phí tháng này</string>
+    <string name="free_quota_reached" formatted="false">Bản miễn phí cho phép 5 hành trình mỗi tháng. Nâng cấp Pro để không giới hạn, hoặc xem một quảng cáo để có thêm 5 lượt.</string>
+    <string name="go_pro" formatted="false">Nâng cấp Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Chưa có hành trình nào.\nChạm + để ghi hành trình đầu tiên.</string>
+    <string name="trip_new" formatted="false">Hành trình mới</string>
+    <string name="trip_edit" formatted="false">Sửa hành trình</string>
+    <string name="field_date" formatted="false">Ngày</string>
+    <string name="field_from" formatted="false">Điểm đi</string>
+    <string name="field_to" formatted="false">Điểm đến</string>
+    <string name="field_distance" formatted="false">Quãng đường một chiều (km)</string>
+    <string name="field_round_trip" formatted="false">Khứ hồi</string>
+    <string name="field_purpose" formatted="false">Mục đích</string>
+    <string name="field_vehicle" formatted="false">Phương tiện</string>
+    <string name="field_note" formatted="false">Ghi chú</string>
+    <string name="field_justified" formatted="false">Lý do đặc biệt</string>
+    <string name="field_justified_help" formatted="false">Đánh dấu nếu quãng đường nhà–nơi làm việc vượt quá 40 km vì một lý do cụ thể, hoặc có một chuyến khứ hồi bổ sung hợp lý trong cùng ngày.</string>
+    <string name="purpose_commute" formatted="false">Đi làm</string>
+    <string name="purpose_business" formatted="false">Công việc</string>
+    <string name="purpose_personal" formatted="false">Cá nhân</string>
+    <string name="save" formatted="false">Lưu</string>
+    <string name="cancel" formatted="false">Hủy</string>
+    <string name="delete" formatted="false">Xóa</string>
+    <string name="edit" formatted="false">Sửa</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Đóng</string>
+    <string name="back" formatted="false">Quay lại</string>
+    <string name="confirm_delete" formatted="false">Xóa vĩnh viễn?</string>
+    <string name="invalid_distance" formatted="false">Nhập quãng đường lớn hơn 0.</string>
+    <string name="favorites" formatted="false">Yêu thích</string>
+    <string name="save_as_favorite" formatted="false">Lưu thêm vào yêu thích</string>
+    <string name="favorite_label" formatted="false">Tên mục yêu thích</string>
+    <string name="no_favorites" formatted="false">Lưu một hành trình vào yêu thích để ghi lại trong một chạm.</string>
+    <string name="use_favorite" formatted="false">Hành trình yêu thích</string>
+    <string name="swap" formatted="false">Đảo chiều</string>
+    <string name="quick_add_hint" formatted="false">Chạm vào một mục yêu thích để thêm cho hôm nay.</string>
+    <string name="added" formatted="false">Đã thêm hành trình.</string>
+    <string name="undo" formatted="false">Hoàn tác</string>
+    <string name="vehicles" formatted="false">Phương tiện</string>
+    <string name="add_vehicle" formatted="false">Thêm phương tiện</string>
+    <string name="edit_vehicle" formatted="false">Sửa phương tiện</string>
+    <string name="vehicle_name" formatted="false">Tên</string>
+    <string name="vehicle_kind" formatted="false">Loại</string>
+    <string name="kind_car" formatted="false">Ô tô</string>
+    <string name="kind_motorcycle" formatted="false">Xe máy</string>
+    <string name="kind_moped" formatted="false">Xe máy nhỏ</string>
+    <string name="fiscal_power" formatted="false">Công suất thuế (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV trở lên</string>
+    <string name="cv_or_less">%1$d CV trở xuống</string>
+    <string name="cv_range_3_5" formatted="false">3 đến 5 CV</string>
+    <string name="electric" formatted="false">Xe điện</string>
+    <string name="no_vehicle" formatted="false">Chưa có phương tiện. Hãy thêm một chiếc: ước tính cần đến nó.</string>
+    <string name="default_vehicle" formatted="false">Phương tiện mặc định</string>
+    <string name="vehicle_needed" formatted="false">Hãy thêm phương tiện trước trong Thêm &gt; Phương tiện.</string>
+    <string name="estimation" formatted="false">Ước tính chi phí thực tế</string>
+    <string name="income_year">Năm thu nhập %1$d</string>
+    <string name="estimation_locked" formatted="false">Ước tính chi phí thực tế, xuất dữ liệu, nhập lịch sử và khôi phục bản sao lưu thuộc bản Pro.</string>
+    <string name="disclaimer_short" formatted="false">Ước tính chỉ mang tính tham khảo, không đảm bảo.</string>
+    <string name="disclaimer_long" formatted="false">Ước tính này chỉ mang tính tham khảo và không được đảm bảo. Đây không phải tư vấn thuế và không thay thế văn bản chính thức, cơ quan thuế hay chuyên gia. Hãy kiểm tra các quy định áp dụng cho trường hợp của bạn trước khi kê khai.</string>
+    <string name="commute_km_raw" formatted="false">Km đi làm đã nhập</string>
+    <string name="commute_km_retained" formatted="false">Km đi làm được tính</string>
+    <string name="business_km" formatted="false">Km công việc</string>
+    <string name="retained_km" formatted="false">Km được tính</string>
+    <string name="allowance" formatted="false">Phụ cấp theo km</string>
+    <string name="tolls_parking" formatted="false">Phí cầu đường và đỗ xe</string>
+    <string name="total" formatted="false">Tổng ước tính</string>
+    <string name="flat_deduction" formatted="false">Khấu trừ khoán 10%</string>
+    <string name="real_better" formatted="false">Chi phí thực tế có vẻ có lợi hơn khấu trừ khoán.</string>
+    <string name="flat_better" formatted="false">Khấu trừ khoán có vẻ có lợi hơn chi phí thực tế.</string>
+    <string name="enter_salary" formatted="false">Nhập lương ròng chịu thuế hàng năm của bạn để so sánh với khấu trừ khoán.</string>
+    <string name="net_taxable_salary" formatted="false">Lương ròng chịu thuế hàng năm</string>
+    <string name="per_vehicle" formatted="false">Theo phương tiện</string>
+    <string name="note_scale_unconfirmed" formatted="false">Biểu giá năm nay chưa được công bố: biểu giá mới nhất đã biết được áp dụng.</string>
+    <string name="note_cap_applied" formatted="false">Một hoặc nhiều chặng đi làm đã bị giới hạn ở 40 km vì không khai báo lý do đặc biệt.</string>
+    <string name="note_extra_legs" formatted="false">Ngoài một chuyến khứ hồi đi làm mỗi ngày, các hành trình không có lý do đặc biệt đã bị loại.</string>
+    <string name="note_no_vehicle" formatted="false">Các hành trình không có phương tiện đã bị bỏ qua: hãy chọn một phương tiện mặc định.</string>
+    <string name="note_fuel">Nhiên liệu đã nhập (%1$s) không được cộng thêm: biểu giá theo km đã bao gồm khoản này.</string>
+    <string name="note_no_salary" formatted="false">Chưa nhập lương: không có so sánh với khấu trừ khoán.</string>
+    <string name="documents_title" formatted="false">Giấy tờ cần lưu giữ</string>
+    <string name="documents_list" formatted="false">Giấy đăng ký xe\nHợp đồng lao động hoặc xác nhận của người sử dụng lao động\nBảng kê ngày làm việc\nBiên lai phí cầu đường và đỗ xe\nMọi tài liệu chứng minh lý do đặc biệt</string>
+    <string name="export" formatted="false">Xuất</string>
+    <string name="export_title" formatted="false">Xuất</string>
+    <string name="export_pdf" formatted="false">Báo cáo PDF</string>
+    <string name="export_xlsx" formatted="false">Bảng tính</string>
+    <string name="export_csv" formatted="false">Tệp CSV</string>
+    <string name="export_period" formatted="false">Khoảng thời gian</string>
+    <string name="year" formatted="false">Năm</string>
+    <string name="export_from" formatted="false">Từ</string>
+    <string name="export_to" formatted="false">Đến</string>
+    <string name="export_include_estimation" formatted="false">Bao gồm ước tính của năm</string>
+    <string name="export_share" formatted="false">Tệp sẽ mở trong bảng chia sẻ: lưu lại hoặc gửi đi.</string>
+    <string name="export_failed" formatted="false">Xuất thất bại.</string>
+    <string name="report_title" formatted="false">Báo cáo số km</string>
+    <string name="generated_on">Tạo ngày %1$s</string>
+    <string name="yes" formatted="false">có</string>
+    <string name="no" formatted="false">không</string>
+    <string name="import_title" formatted="false">Nhập lịch sử</string>
+    <string name="import_help" formatted="false">Nếu điện thoại của bạn lưu lịch sử vị trí, bạn có thể xuất nó thành tệp JSON từ ứng dụng quản lý lịch sử đó, rồi mở tại đây. Chỉ các chuyến đi bằng xe được đọc. Tệp không được giữ lại: chỉ ngày, quãng đường và, nếu biết, điểm đi và điểm đến được lưu.</string>
+    <string name="import_pick" formatted="false">Chọn tệp</string>
+    <string name="import_reading" formatted="false">Đang đọc…</string>
+    <string name="import_found">Chuyến đi bằng xe tìm thấy: %1$d</string>
+    <string name="import_skipped">Chuyến đi khác bị bỏ qua (đi bộ, xe đạp, phương tiện công cộng): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Mục đích cho các chuyến không được nhận dạng là đi làm</string>
+    <string name="import_period">Từ %1$s đến %2$s</string>
+    <string name="import_confirm">Nhập %1$d hành trình</string>
+    <string name="import_done">Hành trình đã nhập: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Không có hành trình mới: tất cả đã được nhập trước đó.</string>
+    <string name="import_unreadable" formatted="false">Tệp này không phải lịch sử vị trí đọc được.</string>
+    <string name="import_commute_hint" formatted="false">Các chuyến đi giữa nhà và nơi làm việc được nhận dạng khi tệp có ghi nhãn; chúng sẽ nhận mục đích đi làm.</string>
+    <string name="backup_title" formatted="false">Sao lưu</string>
+    <string name="backup_explain" formatted="false">Dữ liệu của bạn chỉ rời khỏi thiết bị khi bạn quyết định. Bản sao lưu là một tệp bạn có thể lưu ở bất cứ đâu và khôi phục trên bất kỳ thiết bị nào.</string>
+    <string name="backup_export" formatted="false">Xuất bản sao lưu</string>
+    <string name="backup_restore" formatted="false">Khôi phục bản sao lưu</string>
+    <string name="backup_restore_help" formatted="false">Khôi phục sẽ hợp nhất dữ liệu: không mất gì bạn đã nhập kể từ đó.</string>
+    <string name="backup_restored">Đã khôi phục bản sao lưu: tổng cộng %1$d hành trình.</string>
+    <string name="backup_invalid" formatted="false">Tệp này không phải bản sao lưu của ứng dụng này.</string>
+    <string name="cloud_title" formatted="false">Sao lưu đám mây</string>
+    <string name="cloud_explain" formatted="false">Tự động sao chép dữ liệu của bạn vào không gian đám mây của thiết bị, không cần tài khoản bổ sung. Được cập nhật sau mỗi thay đổi.</string>
+    <string name="cloud_now" formatted="false">Sao lưu ngay</string>
+    <string name="cloud_restore" formatted="false">Khôi phục từ đám mây</string>
+    <string name="cloud_last">Sao lưu đám mây gần nhất: %1$s</string>
+    <string name="cloud_never" formatted="false">Chưa có bản sao lưu đám mây.</string>
+    <string name="cloud_unavailable" formatted="false">Sao lưu đám mây không khả dụng trên thiết bị này. Hãy dùng xuất bản sao lưu.</string>
+    <string name="cloud_done" formatted="false">Đã sao lưu lên đám mây.</string>
+    <string name="cloud_nothing" formatted="false">Không có bản sao lưu đám mây để khôi phục.</string>
+    <string name="cloud_system_restore" formatted="false">Hệ thống sẽ tự khôi phục bản sao lưu này khi bạn cài lại ứng dụng hoặc thiết lập thiết bị mới.</string>
+    <string name="settings" formatted="false">Cài đặt</string>
+    <string name="rules_title" formatted="false">Quy tắc tính toán</string>
+    <string name="rule_fr" formatted="false">Biểu giá theo km của Pháp</string>
+    <string name="rule_generic" formatted="false">Mức cố định mỗi km</string>
+    <string name="generic_rate" formatted="false">Mức giá mỗi km</string>
+    <string name="currency" formatted="false">Tiền tệ</string>
+    <string name="home_label" formatted="false">Tên nhà của bạn</string>
+    <string name="work_label" formatted="false">Tên nơi làm việc của bạn</string>
+    <string name="home_work_distance" formatted="false">Quãng đường nhà–nơi làm việc (một chiều, km)</string>
+    <string name="places_help" formatted="false">Dùng cho hành trình yêu thích và nhập lịch sử.</string>
+    <string name="pro_title" formatted="false">Bản Pro</string>
+    <string name="pro_subtitle" formatted="false">Mọi thứ bạn cần cho chi phí thực tế, và không có quảng cáo.</string>
+    <string name="pro_features_title" formatted="false">Tính năng được mở khóa:</string>
+    <string name="pro_feature_unlimited" formatted="false">Hành trình không giới hạn.</string>
+    <string name="pro_feature_estimation" formatted="false">Ước tính chi phí thực tế và so sánh với khấu trừ khoán.</string>
+    <string name="pro_feature_export" formatted="false">Xuất đầy đủ, có xác nhận (PDF gọn gàng, định dạng bảng tính sẵn sàng cho kế toán hoặc kê khai thuế).</string>
+    <string name="pro_feature_import" formatted="false">Nhập lịch sử hành trình từ điện thoại của bạn.</string>
+    <string name="pro_feature_expenses" formatted="false">Phí cầu đường, đỗ xe và nhiên liệu được cộng vào ước tính.</string>
+    <string name="pro_feature_cloud" formatted="false">Khôi phục từ tệp sao lưu, và đồng bộ nhiều thiết bị.</string>
+    <string name="pro_feature_widgets" formatted="false">Tiện ích màn hình chính.</string>
+    <string name="pro_feature_watch" formatted="false">Ứng dụng đồng hồ.</string>
+    <string name="pro_feature_no_ads" formatted="false">Hoàn toàn không có quảng cáo.</string>
+    <string name="pro_feature_gps" formatted="false">Theo dõi GPS tự động (phát hiện chuyển động hoặc kết nối Bluetooth với xe).</string>
+    <string name="pro_feature_scan" formatted="false">Quét thông minh (OCR) biên lai cầu đường, đỗ xe và nhiên liệu bằng máy ảnh.</string>
+    <string name="pro_monthly">%1$s mỗi tháng</string>
+    <string name="pro_yearly">%1$s mỗi năm</string>
+    <string name="pro_yearly_hint" formatted="false">Tiết kiệm hai tháng so với gói tháng</string>
+    <string name="subscribe" formatted="false">Đăng ký</string>
+    <string name="restore_purchases" formatted="false">Khôi phục mua hàng</string>
+    <string name="pro_active" formatted="false">Bản Pro đang hoạt động</string>
+    <string name="pro_active_since">Đăng ký: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Không thể mua hàng trong phiên bản này của ứng dụng.</string>
+    <string name="pro_legal" formatted="false">Đăng ký tự động gia hạn, tính phí qua tài khoản cửa hàng của bạn. Hủy bất cứ lúc nào trong cài đặt cửa hàng; phí kỳ tiếp theo sẽ được tính trừ khi hủy ít nhất 24 giờ trước khi kỳ hiện tại kết thúc.</string>
+    <string name="purchase_pending" formatted="false">Đang mua…</string>
+    <string name="purchase_failed" formatted="false">Giao dịch chưa hoàn tất.</string>
+    <string name="purchase_restored" formatted="false">Đã khôi phục mua hàng.</string>
+    <string name="purchase_nothing" formatted="false">Không có gì để khôi phục.</string>
+    <string name="rewarded_title" formatted="false">Dùng thử bằng quảng cáo</string>
+    <string name="rewarded_explain" formatted="false">Xem một quảng cáo ngắn để mở khóa tính năng này trong một thời gian. Pro loại bỏ quảng cáo và mở khóa tất cả.</string>
+    <string name="rewarded_estimation" formatted="false">Xem ước tính trong 24 giờ</string>
+    <string name="rewarded_export" formatted="false">Một lần xuất, trong vòng một giờ</string>
+    <string name="rewarded_trips" formatted="false">Thêm 5 hành trình tháng này</string>
+    <string name="rewarded_watch" formatted="false">Xem quảng cáo</string>
+    <string name="rewarded_unavailable" formatted="false">Hiện không có quảng cáo. Hãy thử lại sau giây lát.</string>
+    <string name="rewarded_granted" formatted="false">Đã mở khóa. Chúc bạn lái xe an toàn!</string>
+    <string name="expenses" formatted="false">Chi phí</string>
+    <string name="add_expense" formatted="false">Chi phí mới</string>
+    <string name="edit_expense" formatted="false">Sửa chi phí</string>
+    <string name="expense_kind" formatted="false">Loại</string>
+    <string name="kind_toll" formatted="false">Phí cầu đường</string>
+    <string name="kind_parking" formatted="false">Đỗ xe</string>
+    <string name="kind_fuel" formatted="false">Nhiên liệu</string>
+    <string name="kind_other" formatted="false">Khác</string>
+    <string name="amount" formatted="false">Số tiền</string>
+    <string name="place" formatted="false">Địa điểm</string>
+    <string name="litres" formatted="false">Lít</string>
+    <string name="odometer" formatted="false">Số công tơ mét</string>
+    <string name="no_expenses" formatted="false">Chưa có chi phí. Phí cầu đường và đỗ xe được cộng vào ước tính.</string>
+    <string name="invalid_amount" formatted="false">Nhập số tiền lớn hơn 0.</string>
+    <string name="legal_title" formatted="false">Pháp lý và quyền riêng tư</string>
+    <string name="privacy_text" formatted="false">Toàn bộ dữ liệu của bạn ở lại trên thiết bị. Ứng dụng không yêu cầu tài khoản và không gửi gì lên máy chủ. Các trao đổi duy nhất với bên ngoài là những gì bạn chủ động thực hiện, như xuất, sao lưu hoặc mua hàng, và quảng cáo của bản miễn phí, vốn được bản Pro loại bỏ.</string>
+    <string name="about" formatted="false">Giới thiệu</string>
+    <string name="version">Phiên bản %1$s</string>
+    <string name="error_generic" formatted="false">Đã xảy ra lỗi.</string>
+    <string name="today" formatted="false">Hôm nay</string>
+    <string name="yesterday" formatted="false">Hôm qua</string>
+    <string name="ads_privacy_options" formatted="false">Tùy chọn quyền riêng tư quảng cáo</string>
+    <string name="ads_disabled_title" formatted="false">Quảng cáo đã tắt</string>
+    <string name="ads_disabled_text" formatted="false">Hệ thống cho biết tài khoản này thuộc về một người dùng nhỏ tuổi. Vì vậy ứng dụng không hiển thị quảng cáo và không yêu cầu sự đồng ý nào. Không đọc mã nhận dạng quảng cáo, không thu thập hay gửi dữ liệu nào.</string>
+    <string name="watch_quick_add" formatted="false">Hành trình nhanh</string>
+    <string name="watch_no_favorites" formatted="false">Thêm hành trình yêu thích trên điện thoại của bạn.</string>
+    <string name="watch_added" formatted="false">Đã thêm</string>
+    <string name="watch_open_phone" formatted="false">Mở ứng dụng trên điện thoại</string>
+    <string name="widget_today" formatted="false">Hôm nay</string>
+    <string name="widget_month" formatted="false">Tháng này</string>
+    <string name="widget_pro_needed" formatted="false">Tiện ích khả dụng với Pro</string>
+</resources>

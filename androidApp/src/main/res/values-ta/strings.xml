@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">கிலோமீட்டர்</string>
+    <string name="widget_name" formatted="false">பயணங்கள்</string>
+    <string name="widget_description" formatted="false">இன்றைய கிலோமீட்டரும் உங்கள் பிடித்த பயணங்களும், ஒரே தட்டலில்.</string>
+    <string name="tab_trips" formatted="false">பயணங்கள்</string>
+    <string name="tab_estimate" formatted="false">மதிப்பீடு</string>
+    <string name="tab_more" formatted="false">மேலும்</string>
+    <string name="this_month" formatted="false">இந்த மாதம்</string>
+    <string name="this_year" formatted="false">இந்த ஆண்டு</string>
+    <string name="trips_count">பயணங்கள்: %1$d</string>
+    <string name="km_value">%1$s கி.மீ</string>
+    <string name="add_trip" formatted="false">புதிய பயணம்</string>
+    <string name="free_remaining">இந்த மாதம் மீதமுள்ள இலவசப் பயணங்கள்: %1$d</string>
+    <string name="free_limit_reached" formatted="false">இந்த மாத இலவச வரம்பு முடிந்தது</string>
+    <string name="free_quota_reached" formatted="false">இலவசப் பதிப்பில் மாதத்திற்கு 5 பயணங்கள் பதியலாம். வரம்பற்ற பயணங்களுக்கு Pro பெறுங்கள், அல்லது மேலும் 5 பயணங்களுக்கு ஒரு விளம்பரத்தைப் பாருங்கள்.</string>
+    <string name="go_pro" formatted="false">Pro பெறுங்கள்</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">இன்னும் பயணங்கள் இல்லை.\nமுதல் பயணத்தைப் பதிய + ஐத் தட்டுங்கள்.</string>
+    <string name="trip_new" formatted="false">புதிய பயணம்</string>
+    <string name="trip_edit" formatted="false">பயணத்தைத் திருத்து</string>
+    <string name="field_date" formatted="false">தேதி</string>
+    <string name="field_from" formatted="false">எங்கிருந்து</string>
+    <string name="field_to" formatted="false">எங்கே</string>
+    <string name="field_distance" formatted="false">ஒரு வழித் தூரம் (கி.மீ)</string>
+    <string name="field_round_trip" formatted="false">போய் வருதல்</string>
+    <string name="field_purpose" formatted="false">நோக்கம்</string>
+    <string name="field_vehicle" formatted="false">வாகனம்</string>
+    <string name="field_note" formatted="false">குறிப்பு</string>
+    <string name="field_justified" formatted="false">சிறப்புச் சூழ்நிலைகள்</string>
+    <string name="field_justified_help" formatted="false">குறிப்பிட்ட காரணத்தால் வீடு-பணியிடத் தூரம் 40 கி.மீ-ஐத் தாண்டினால், அல்லது அதே நாளில் நியாயமான கூடுதல் போய் வரும் பயணத்திற்கு இதைத் தேர்ந்தெடுங்கள்.</string>
+    <string name="purpose_commute" formatted="false">வீடு-பணியிடம்</string>
+    <string name="purpose_business" formatted="false">வணிகம்</string>
+    <string name="purpose_personal" formatted="false">தனிப்பட்டது</string>
+    <string name="save" formatted="false">சேமி</string>
+    <string name="cancel" formatted="false">ரத்துசெய்</string>
+    <string name="delete" formatted="false">நீக்கு</string>
+    <string name="edit" formatted="false">திருத்து</string>
+    <string name="ok" formatted="false">சரி</string>
+    <string name="close" formatted="false">மூடு</string>
+    <string name="back" formatted="false">பின்</string>
+    <string name="confirm_delete" formatted="false">நிரந்தரமாக நீக்கவா?</string>
+    <string name="invalid_distance" formatted="false">0-ஐ விட அதிகமான தூரத்தை உள்ளிடுங்கள்.</string>
+    <string name="favorites" formatted="false">பிடித்தவை</string>
+    <string name="save_as_favorite" formatted="false">பிடித்ததாகவும் சேமி</string>
+    <string name="favorite_label" formatted="false">பிடித்ததின் பெயர்</string>
+    <string name="no_favorites" formatted="false">ஒரே தட்டலில் பதிய ஒரு பயணத்தைப் பிடித்ததாகச் சேமியுங்கள்.</string>
+    <string name="use_favorite" formatted="false">பிடித்த பயணங்கள்</string>
+    <string name="swap" formatted="false">மாற்றிடு</string>
+    <string name="quick_add_hint" formatted="false">இன்றைக்குச் சேர்க்க பிடித்த ஒன்றைத் தட்டுங்கள்.</string>
+    <string name="added" formatted="false">பயணம் சேர்க்கப்பட்டது.</string>
+    <string name="undo" formatted="false">செயல்தவிர்</string>
+    <string name="vehicles" formatted="false">வாகனங்கள்</string>
+    <string name="add_vehicle" formatted="false">வாகனம் சேர்</string>
+    <string name="edit_vehicle" formatted="false">வாகனத்தைத் திருத்து</string>
+    <string name="vehicle_name" formatted="false">பெயர்</string>
+    <string name="vehicle_kind" formatted="false">வகை</string>
+    <string name="kind_car" formatted="false">கார்</string>
+    <string name="kind_motorcycle" formatted="false">மோட்டார் சைக்கிள்</string>
+    <string name="kind_moped" formatted="false">மொபெட்</string>
+    <string name="fiscal_power" formatted="false">வரிக் குதிரைத்திறன் (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV மற்றும் அதற்கு மேல்</string>
+    <string name="cv_or_less">%1$d CV மற்றும் அதற்குக் கீழ்</string>
+    <string name="cv_range_3_5" formatted="false">3 முதல் 5 CV</string>
+    <string name="electric" formatted="false">மின்சார வாகனம்</string>
+    <string name="no_vehicle" formatted="false">வாகனம் இல்லை. ஒன்றைச் சேர்க்கவும்: மதிப்பீட்டிற்கு அது தேவை.</string>
+    <string name="default_vehicle" formatted="false">இயல்புநிலை வாகனம்</string>
+    <string name="vehicle_needed" formatted="false">முதலில் மேலும் &gt; வாகனங்கள் என்பதில் ஒரு வாகனத்தைச் சேர்க்கவும்.</string>
+    <string name="estimation" formatted="false">உண்மைச் செலவுகளின் மதிப்பீடு</string>
+    <string name="income_year">வருமான ஆண்டு %1$d</string>
+    <string name="estimation_locked" formatted="false">உண்மைச் செலவுகளின் மதிப்பீடு, ஏற்றுமதிகள், வரலாறு இறக்குமதி மற்றும் காப்புப்பிரதி மீட்டமைப்பு ஆகியவை Pro பதிப்பின் பகுதியாகும்.</string>
+    <string name="disclaimer_short" formatted="false">குறிப்பு மதிப்பீடு, உத்தரவாதம் இல்லை.</string>
+    <string name="disclaimer_long" formatted="false">இந்த மதிப்பீடு குறிப்பிற்காக மட்டுமே, உத்தரவாதம் இல்லை. இது வரி ஆலோசனை அல்ல; அதிகாரபூர்வ ஆவணங்கள், வரித் துறை அல்லது நிபுணரை இது மாற்றாது. ரிட்டர்ன் தாக்கல் செய்யும் முன் உங்கள் நிலைக்குப் பொருந்தும் விதிகளைச் சரிபாருங்கள்.</string>
+    <string name="commute_km_raw" formatted="false">உள்ளிட்ட வீடு-பணியிட கி.மீ</string>
+    <string name="commute_km_retained" formatted="false">கணக்கில் எடுத்த வீடு-பணியிட கி.மீ</string>
+    <string name="business_km" formatted="false">வணிக கி.மீ</string>
+    <string name="retained_km" formatted="false">கணக்கில் எடுத்த கி.மீ</string>
+    <string name="allowance" formatted="false">கிலோமீட்டர் படி</string>
+    <string name="tolls_parking" formatted="false">சுங்கம் மற்றும் பார்க்கிங்</string>
+    <string name="total" formatted="false">மதிப்பிடப்பட்ட மொத்தம்</string>
+    <string name="flat_deduction" formatted="false">நிலையான 10% கழிவு</string>
+    <string name="real_better" formatted="false">நிலையான கழிவை விட உண்மைச் செலவுகள் அதிகச் சாதகமாகத் தெரிகிறது.</string>
+    <string name="flat_better" formatted="false">உண்மைச் செலவுகளை விட நிலையான கழிவு அதிகச் சாதகமாகத் தெரிகிறது.</string>
+    <string name="enter_salary" formatted="false">நிலையான கழிவுடன் ஒப்பிட உங்கள் ஆண்டு நிகர வரிக்குட்பட்ட சம்பளத்தை உள்ளிடுங்கள்.</string>
+    <string name="net_taxable_salary" formatted="false">ஆண்டு நிகர வரிக்குட்பட்ட சம்பளம்</string>
+    <string name="per_vehicle" formatted="false">ஒரு வாகனத்திற்கு</string>
+    <string name="note_scale_unconfirmed" formatted="false">இந்த ஆண்டின் விகித அட்டவணை இன்னும் வெளியிடப்படவில்லை: கடைசியாக அறியப்பட்ட அட்டவணை பயன்படுத்தப்பட்டுள்ளது.</string>
+    <string name="note_cap_applied" formatted="false">சிறப்புச் சூழ்நிலைகள் அறிவிக்கப்படாததால், ஒன்று அல்லது அதற்கு மேற்பட்ட வீடு-பணியிடப் பயணங்கள் 40 கி.மீ-ஆக வரம்பிடப்பட்டன.</string>
+    <string name="note_extra_legs" formatted="false">ஒரு நாளில் ஒரு வீடு-பணியிடப் போய் வரும் பயணத்திற்கு மேல், சிறப்புச் சூழ்நிலைகள் இல்லாத பயணங்கள் விடப்பட்டன.</string>
+    <string name="note_no_vehicle" formatted="false">வாகனம் இல்லாத பயணங்கள் புறக்கணிக்கப்பட்டன: இயல்புநிலை வாகனத்தைத் தேர்ந்தெடுங்கள்.</string>
+    <string name="note_fuel">உள்ளிட்ட எரிபொருள் (%1$s) சேர்க்கப்படவில்லை: கிலோமீட்டர் விகித அட்டவணையில் அது ஏற்கனவே அடங்கியுள்ளது.</string>
+    <string name="note_no_salary" formatted="false">சம்பளம் உள்ளிடப்படவில்லை: நிலையான கழிவுடன் ஒப்பீடு இல்லை.</string>
+    <string name="documents_title" formatted="false">வைத்திருக்க வேண்டிய ஆவணங்கள்</string>
+    <string name="documents_list" formatted="false">வாகனப் பதிவுச் சான்றிதழ்\nபணி ஒப்பந்தம் அல்லது பணியளிப்பவரின் சான்றிதழ்\nபணிபுரிந்த நாட்களின் பதிவு\nசுங்கம் மற்றும் பார்க்கிங் ரசீதுகள்\nசிறப்புச் சூழ்நிலைகளை ஆதரிக்கும் எதுவும்</string>
+    <string name="export" formatted="false">ஏற்றுமதி செய்</string>
+    <string name="export_title" formatted="false">ஏற்றுமதி</string>
+    <string name="export_pdf" formatted="false">PDF அறிக்கை</string>
+    <string name="export_xlsx" formatted="false">விரிதாள் பணிப்புத்தகம்</string>
+    <string name="export_csv" formatted="false">CSV கோப்பு</string>
+    <string name="export_period" formatted="false">காலம்</string>
+    <string name="year" formatted="false">ஆண்டு</string>
+    <string name="export_from" formatted="false">முதல்</string>
+    <string name="export_to" formatted="false">வரை</string>
+    <string name="export_include_estimation" formatted="false">ஆண்டின் மதிப்பீட்டைச் சேர்</string>
+    <string name="export_share" formatted="false">கோப்பு பகிர்வுத் தாளில் திறக்கும்: அதைச் சேமிக்கவும் அல்லது அனுப்பவும்.</string>
+    <string name="export_failed" formatted="false">ஏற்றுமதி தோல்வியடைந்தது.</string>
+    <string name="report_title" formatted="false">கிலோமீட்டர் அறிக்கை</string>
+    <string name="generated_on">%1$s அன்று உருவாக்கப்பட்டது</string>
+    <string name="yes" formatted="false">ஆம்</string>
+    <string name="no" formatted="false">இல்லை</string>
+    <string name="import_title" formatted="false">வரலாற்றை இறக்குமதி செய்</string>
+    <string name="import_help" formatted="false">உங்கள் போன் உங்கள் இருப்பிடங்களின் வரலாற்றை வைத்திருந்தால், அதை நிர்வகிக்கும் செயலியிலிருந்து JSON கோப்பாக ஏற்றுமதி செய்து இங்கே திறக்கலாம். வாகனப் பயணங்கள் மட்டுமே படிக்கப்படும். கோப்பு வைத்திருக்கப்படாது: தேதி, தூரம் மற்றும் தெரிந்தால் புறப்பாடு மற்றும் சேருமிடம் மட்டுமே சேமிக்கப்படும்.</string>
+    <string name="import_pick" formatted="false">கோப்பைத் தேர்ந்தெடு</string>
+    <string name="import_reading" formatted="false">படிக்கிறது…</string>
+    <string name="import_found">கண்டறிந்த வாகனப் பயணங்கள்: %1$d</string>
+    <string name="import_skipped">புறக்கணித்த பிற பயணங்கள் (நடை, சைக்கிள், பொதுப் போக்குவரத்து): %1$d</string>
+    <string name="import_default_purpose" formatted="false">வீடு-பணியிடம் என அடையாளம் காணப்படாத பயணங்களின் நோக்கம்</string>
+    <string name="import_period">%1$s முதல் %2$s வரை</string>
+    <string name="import_confirm">%1$d பயணங்களை இறக்குமதி செய்</string>
+    <string name="import_done">இறக்குமதி செய்த பயணங்கள்: %1$d</string>
+    <string name="import_nothing_new" formatted="false">புதிய பயணம் இல்லை: அவை ஏற்கனவே இறக்குமதி செய்யப்பட்டிருந்தன.</string>
+    <string name="import_unreadable" formatted="false">இந்தக் கோப்பு படிக்கக்கூடிய இருப்பிட வரலாறு அல்ல.</string>
+    <string name="import_commute_hint" formatted="false">கோப்பு குறித்திருந்தால் உங்கள் வீட்டிற்கும் பணியிடத்திற்கும் இடையிலான பயணங்கள் அடையாளம் காணப்படும்; அவற்றிற்கு வீடு-பணியிட நோக்கம் வழங்கப்படும்.</string>
+    <string name="backup_title" formatted="false">காப்புப்பிரதி</string>
+    <string name="backup_explain" formatted="false">நீங்கள் முடிவு செய்யும்போது மட்டுமே உங்கள் தரவு உங்கள் சாதனத்தை விட்டு வெளியேறும். காப்புப்பிரதி என்பது எங்கும் சேமித்து, எந்தச் சாதனத்திலும் மீட்டமைக்கக்கூடிய ஒரு கோப்பு.</string>
+    <string name="backup_export" formatted="false">காப்புப்பிரதியை ஏற்றுமதி செய்</string>
+    <string name="backup_restore" formatted="false">காப்புப்பிரதியை மீட்டமை</string>
+    <string name="backup_restore_help" formatted="false">மீட்டமைப்பு ஒன்றிணைக்கும்: அதன் பிறகு உள்ளிட்ட எதுவும் இழக்கப்படாது.</string>
+    <string name="backup_restored">காப்புப்பிரதி மீட்டமைக்கப்பட்டது: மொத்தம் %1$d பயணங்கள்.</string>
+    <string name="backup_invalid" formatted="false">இந்தக் கோப்பு இந்தச் செயலியின் காப்புப்பிரதி அல்ல.</string>
+    <string name="cloud_title" formatted="false">கிளவுட் காப்புப்பிரதி</string>
+    <string name="cloud_explain" formatted="false">கூடுதல் கணக்கின்றி, உங்கள் சாதனத்தின் கிளவுட் இடத்தில் உங்கள் தரவின் தானியங்கி நகல். ஒவ்வொரு மாற்றத்திற்குப் பிறகும் அது புதுப்பிக்கப்படும்.</string>
+    <string name="cloud_now" formatted="false">இப்போதே காப்புப்பிரதி எடு</string>
+    <string name="cloud_restore" formatted="false">கிளவுடிலிருந்து மீட்டமை</string>
+    <string name="cloud_last">கடைசி கிளவுட் காப்புப்பிரதி: %1$s</string>
+    <string name="cloud_never" formatted="false">இன்னும் கிளவுட் காப்புப்பிரதி இல்லை.</string>
+    <string name="cloud_unavailable" formatted="false">இந்தச் சாதனத்தில் கிளவுட் காப்புப்பிரதி கிடைக்கவில்லை. காப்புப்பிரதி ஏற்றுமதியைப் பயன்படுத்துங்கள்.</string>
+    <string name="cloud_done" formatted="false">கிளவுட் காப்புப்பிரதி முடிந்தது.</string>
+    <string name="cloud_nothing" formatted="false">மீட்டமைக்க கிளவுட் காப்புப்பிரதி இல்லை.</string>
+    <string name="cloud_system_restore" formatted="false">செயலியை மீண்டும் நிறுவும்போது அல்லது புதிய சாதனத்தை அமைக்கும்போது சிஸ்டம் இந்தக் காப்புப்பிரதியைத் தானாகவே மீட்டமைக்கும்.</string>
+    <string name="settings" formatted="false">அமைப்புகள்</string>
+    <string name="rules_title" formatted="false">கணக்கீட்டு விதிகள்</string>
+    <string name="rule_fr" formatted="false">பிரெஞ்சு கிலோமீட்டர் விகித அட்டவணை</string>
+    <string name="rule_generic" formatted="false">கிலோமீட்டருக்கு நிலையான விகிதம்</string>
+    <string name="generic_rate" formatted="false">கிலோமீட்டருக்கான விகிதம்</string>
+    <string name="currency" formatted="false">நாணயம்</string>
+    <string name="home_label" formatted="false">உங்கள் வீட்டின் பெயர்</string>
+    <string name="work_label" formatted="false">உங்கள் பணியிடத்தின் பெயர்</string>
+    <string name="home_work_distance" formatted="false">வீடு-பணியிடத் தூரம் (ஒரு வழி, கி.மீ)</string>
+    <string name="places_help" formatted="false">பிடித்த பயணங்களுக்கும் வரலாறு இறக்குமதிக்கும் பயன்படும்.</string>
+    <string name="pro_title" formatted="false">Pro பதிப்பு</string>
+    <string name="pro_subtitle" formatted="false">உங்கள் உண்மைச் செலவுகளுக்குத் தேவையான அனைத்தும், விளம்பரங்கள் இல்லாமல்.</string>
+    <string name="pro_features_title" formatted="false">திறக்கப்பட்ட அம்சங்கள்:</string>
+    <string name="pro_feature_unlimited" formatted="false">வரம்பற்ற பயணங்கள்.</string>
+    <string name="pro_feature_estimation" formatted="false">உண்மைச் செலவுகளின் மதிப்பீடு மற்றும் நிலையான கழிவுடன் ஒப்பீடு.</string>
+    <string name="pro_feature_export" formatted="false">முழுமையான, சான்றளிக்கப்பட்ட ஏற்றுமதி (சுத்தமான PDF, உங்கள் கணக்காளர் அல்லது வரி ரிட்டர்னுக்குத் தயாரான விரிதாள் வடிவம்).</string>
+    <string name="pro_feature_import" formatted="false">உங்கள் போனின் பயண வரலாற்றின் இறக்குமதி.</string>
+    <string name="pro_feature_expenses" formatted="false">சுங்கம், பார்க்கிங் மற்றும் எரிபொருள் மதிப்பீட்டில் சேர்க்கப்படும்.</string>
+    <string name="pro_feature_cloud" formatted="false">காப்புப்பிரதிக் கோப்பிலிருந்து மீட்டமைப்பு, மற்றும் பல சாதன ஒத்திசைவு.</string>
+    <string name="pro_feature_widgets" formatted="false">முகப்புத் திரை விட்ஜெட்.</string>
+    <string name="pro_feature_watch" formatted="false">வாட்ச் செயலி.</string>
+    <string name="pro_feature_no_ads" formatted="false">விளம்பரங்களே இல்லை.</string>
+    <string name="pro_feature_gps" formatted="false">தானியங்கி GPS கண்காணிப்பு (இயக்கக் கண்டறிதல் அல்லது காருடன் புளூடூத் இணைப்பு).</string>
+    <string name="pro_feature_scan" formatted="false">கேமரா மூலம் சுங்கம், பார்க்கிங் மற்றும் எரிபொருள் ரசீதுகளின் ஸ்மார்ட் ஸ்கேன் (OCR).</string>
+    <string name="pro_monthly">மாதத்திற்கு %1$s</string>
+    <string name="pro_yearly">ஆண்டிற்கு %1$s</string>
+    <string name="pro_yearly_hint" formatted="false">மாதாந்திரத்துடன் ஒப்பிடும்போது இரண்டு மாதங்கள் இலவசம்</string>
+    <string name="subscribe" formatted="false">சந்தா செலுத்து</string>
+    <string name="restore_purchases" formatted="false">வாங்கியவற்றை மீட்டமை</string>
+    <string name="pro_active" formatted="false">Pro பதிப்பு செயலில்</string>
+    <string name="pro_active_since">சந்தா: %1$s</string>
+    <string name="pro_unavailable" formatted="false">செயலியின் இந்தப் பதிப்பில் வாங்குதல் கிடைக்கவில்லை.</string>
+    <string name="pro_legal" formatted="false">தானாகப் புதுப்பிக்கும் சந்தா, உங்கள் ஸ்டோர் கணக்கில் வசூலிக்கப்படும். ஸ்டோர் அமைப்புகளில் எப்போது வேண்டுமானாலும் ரத்துசெய்யலாம்; காலம் முடிவதற்குக் குறைந்தது 24 மணி நேரத்திற்கு முன் ரத்துசெய்யாவிட்டால் அடுத்த காலத்திற்கான விலை வசூலிக்கப்படும்.</string>
+    <string name="purchase_pending" formatted="false">வாங்குதல் நடைபெறுகிறது…</string>
+    <string name="purchase_failed" formatted="false">வாங்குதல் முடிவடையவில்லை.</string>
+    <string name="purchase_restored" formatted="false">வாங்கியவை மீட்டமைக்கப்பட்டன.</string>
+    <string name="purchase_nothing" formatted="false">மீட்டமைக்க எதுவும் இல்லை.</string>
+    <string name="rewarded_title" formatted="false">விளம்பரத்துடன் முயற்சி செய்</string>
+    <string name="rewarded_explain" formatted="false">இதைச் சிறிது நேரம் திறக்க ஒரு குறுகிய விளம்பரத்தைப் பாருங்கள். Pro விளம்பரங்களை நீக்கி அனைத்தையும் திறக்கும்.</string>
+    <string name="rewarded_estimation" formatted="false">24 மணி நேரம் மதிப்பீட்டைப் பார்</string>
+    <string name="rewarded_export" formatted="false">ஒரு ஏற்றுமதி, ஒரு மணி நேரத்திற்குள்</string>
+    <string name="rewarded_trips" formatted="false">இந்த மாதம் மேலும் 5 பயணங்கள்</string>
+    <string name="rewarded_watch" formatted="false">விளம்பரத்தைப் பார்</string>
+    <string name="rewarded_unavailable" formatted="false">இப்போது விளம்பரம் எதுவும் இல்லை. சிறிது நேரம் கழித்து மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="rewarded_granted" formatted="false">திறக்கப்பட்டது. இனிய பயணம்!</string>
+    <string name="expenses" formatted="false">செலவுகள்</string>
+    <string name="add_expense" formatted="false">புதிய செலவு</string>
+    <string name="edit_expense" formatted="false">செலவைத் திருத்து</string>
+    <string name="expense_kind" formatted="false">வகை</string>
+    <string name="kind_toll" formatted="false">சுங்கம்</string>
+    <string name="kind_parking" formatted="false">பார்க்கிங்</string>
+    <string name="kind_fuel" formatted="false">எரிபொருள்</string>
+    <string name="kind_other" formatted="false">பிற</string>
+    <string name="amount" formatted="false">தொகை</string>
+    <string name="place" formatted="false">இடம்</string>
+    <string name="litres" formatted="false">லிட்டர்</string>
+    <string name="odometer" formatted="false">ஓடோமீட்டர் அளவு</string>
+    <string name="no_expenses" formatted="false">செலவுகள் இல்லை. சுங்கமும் பார்க்கிங்கும் மதிப்பீட்டில் சேர்க்கப்படும்.</string>
+    <string name="invalid_amount" formatted="false">0-ஐ விட அதிகமான தொகையை உள்ளிடுங்கள்.</string>
+    <string name="legal_title" formatted="false">சட்டம் மற்றும் தனியுரிமை</string>
+    <string name="privacy_text" formatted="false">உங்கள் எல்லாத் தரவும் உங்கள் சாதனத்திலேயே இருக்கும். செயலிக்குக் கணக்கு தேவையில்லை, எந்த சர்வருக்கும் எதையும் அனுப்பாது. வெளியுடனான ஒரே பரிமாற்றங்கள் நீங்களே தொடங்கும் ஏற்றுமதி, காப்புப்பிரதி அல்லது வாங்குதல், மற்றும் இலவசப் பதிப்பின் விளம்பரங்கள் மட்டுமே; விளம்பரங்களை Pro பதிப்பு நீக்கும்.</string>
+    <string name="about" formatted="false">செயலி பற்றி</string>
+    <string name="version">பதிப்பு %1$s</string>
+    <string name="error_generic" formatted="false">ஏதோ தவறு நடந்தது.</string>
+    <string name="today" formatted="false">இன்று</string>
+    <string name="yesterday" formatted="false">நேற்று</string>
+    <string name="ads_privacy_options" formatted="false">விளம்பரத் தனியுரிமை விருப்பங்கள்</string>
+    <string name="ads_disabled_title" formatted="false">விளம்பரங்கள் முடக்கப்பட்டுள்ளன</string>
+    <string name="ads_disabled_text" formatted="false">இந்தக் கணக்கு இளம் பயனருக்குச் சொந்தமானது என சிஸ்டம் குறிப்பிடுகிறது. எனவே செயலி விளம்பரங்களைக் காட்டாது, ஒப்புதலும் கேட்காது. விளம்பர அடையாளங்காட்டி எதுவும் படிக்கப்படாது, தரவு எதுவும் சேகரிக்கப்படவோ அனுப்பப்படவோ இல்லை.</string>
+    <string name="watch_quick_add" formatted="false">விரைவுப் பயணம்</string>
+    <string name="watch_no_favorites" formatted="false">உங்கள் போனில் பிடித்த பயணங்களைச் சேர்க்கவும்.</string>
+    <string name="watch_added" formatted="false">சேர்க்கப்பட்டது</string>
+    <string name="watch_open_phone" formatted="false">போன் செயலியைத் திற</string>
+    <string name="widget_today" formatted="false">இன்று</string>
+    <string name="widget_month" formatted="false">இந்த மாதம்</string>
+    <string name="widget_pro_needed" formatted="false">Pro உடன் விட்ஜெட் கிடைக்கும்</string>
+</resources>

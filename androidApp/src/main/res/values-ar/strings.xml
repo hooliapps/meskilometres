@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">كيلومترات</string>
+    <string name="widget_name" formatted="false">الرحلات</string>
+    <string name="widget_description" formatted="false">كيلومترات اليوم ورحلاتك المفضلة بلمسة واحدة.</string>
+    <string name="tab_trips" formatted="false">الرحلات</string>
+    <string name="tab_estimate" formatted="false">التقدير</string>
+    <string name="tab_more" formatted="false">المزيد</string>
+    <string name="this_month" formatted="false">هذا الشهر</string>
+    <string name="this_year" formatted="false">هذه السنة</string>
+    <string name="trips_count">الرحلات: %1$d</string>
+    <string name="km_value">%1$s كم</string>
+    <string name="add_trip" formatted="false">رحلة جديدة</string>
+    <string name="free_remaining">الرحلات المجانية المتبقية هذا الشهر: %1$d</string>
+    <string name="free_limit_reached" formatted="false">بلغت الحد المجاني لهذا الشهر</string>
+    <string name="free_quota_reached" formatted="false">تسمح النسخة المجانية بخمس رحلات في الشهر. انتقل إلى Pro لرحلات غير محدودة، أو شاهد إعلانًا لتحصل على 5 رحلات إضافية.</string>
+    <string name="go_pro" formatted="false">الانتقال إلى Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">لا توجد رحلات بعد.\nاضغط على + لتسجيل الرحلة الأولى.</string>
+    <string name="trip_new" formatted="false">رحلة جديدة</string>
+    <string name="trip_edit" formatted="false">تعديل الرحلة</string>
+    <string name="field_date" formatted="false">التاريخ</string>
+    <string name="field_from" formatted="false">من</string>
+    <string name="field_to" formatted="false">إلى</string>
+    <string name="field_distance" formatted="false">مسافة الذهاب فقط (كم)</string>
+    <string name="field_round_trip" formatted="false">ذهاب وإياب</string>
+    <string name="field_purpose" formatted="false">الغرض</string>
+    <string name="field_vehicle" formatted="false">المركبة</string>
+    <string name="field_note" formatted="false">ملاحظة</string>
+    <string name="field_justified" formatted="false">ظروف خاصة</string>
+    <string name="field_justified_help" formatted="false">حدد هذا الخيار إذا تجاوزت مسافة المنزل-العمل 40 كم لسبب محدد، أو لرحلة ذهاب وإياب إضافية مبررة في اليوم نفسه.</string>
+    <string name="purpose_commute" formatted="false">المنزل-العمل</string>
+    <string name="purpose_business" formatted="false">مهني</string>
+    <string name="purpose_personal" formatted="false">شخصي</string>
+    <string name="save" formatted="false">حفظ</string>
+    <string name="cancel" formatted="false">إلغاء</string>
+    <string name="delete" formatted="false">حذف</string>
+    <string name="edit" formatted="false">تعديل</string>
+    <string name="ok" formatted="false">حسنًا</string>
+    <string name="close" formatted="false">إغلاق</string>
+    <string name="back" formatted="false">رجوع</string>
+    <string name="confirm_delete" formatted="false">هل تريد الحذف نهائيًا؟</string>
+    <string name="invalid_distance" formatted="false">أدخل مسافة أكبر من 0.</string>
+    <string name="favorites" formatted="false">المفضلة</string>
+    <string name="save_as_favorite" formatted="false">الحفظ أيضًا في المفضلة</string>
+    <string name="favorite_label" formatted="false">اسم الرحلة المفضلة</string>
+    <string name="no_favorites" formatted="false">احفظ رحلة في المفضلة لتسجيلها بلمسة واحدة.</string>
+    <string name="use_favorite" formatted="false">الرحلات المفضلة</string>
+    <string name="swap" formatted="false">تبديل</string>
+    <string name="quick_add_hint" formatted="false">اضغط على رحلة مفضلة لإضافتها بتاريخ اليوم.</string>
+    <string name="added" formatted="false">تمت إضافة الرحلة.</string>
+    <string name="undo" formatted="false">تراجع</string>
+    <string name="vehicles" formatted="false">المركبات</string>
+    <string name="add_vehicle" formatted="false">إضافة مركبة</string>
+    <string name="edit_vehicle" formatted="false">تعديل المركبة</string>
+    <string name="vehicle_name" formatted="false">الاسم</string>
+    <string name="vehicle_kind" formatted="false">النوع</string>
+    <string name="kind_car" formatted="false">سيارة</string>
+    <string name="kind_motorcycle" formatted="false">دراجة نارية</string>
+    <string name="kind_moped" formatted="false">دراجة بخارية صغيرة</string>
+    <string name="fiscal_power" formatted="false">القوة الضريبية (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV فأكثر</string>
+    <string name="cv_or_less">%1$d CV فأقل</string>
+    <string name="cv_range_3_5" formatted="false">من 3 إلى 5 CV</string>
+    <string name="electric" formatted="false">مركبة كهربائية</string>
+    <string name="no_vehicle" formatted="false">لا توجد مركبة. أضف واحدة: التقدير يحتاج إليها.</string>
+    <string name="default_vehicle" formatted="false">المركبة الافتراضية</string>
+    <string name="vehicle_needed" formatted="false">أضف مركبة أولًا من المزيد &gt; المركبات.</string>
+    <string name="estimation" formatted="false">تقدير المصاريف الفعلية</string>
+    <string name="income_year">سنة الدخل %1$d</string>
+    <string name="estimation_locked" formatted="false">تقدير المصاريف الفعلية والتصدير واستيراد السجل واستعادة نسخة احتياطية جزء من نسخة Pro.</string>
+    <string name="disclaimer_short" formatted="false">تقدير إرشادي غير مضمون.</string>
+    <string name="disclaimer_long" formatted="false">هذا التقدير إرشادي وغير مضمون. وهو ليس استشارة ضريبية ولا يحل محل النصوص الرسمية أو الإدارة الضريبية أو المختص. تحقق من القواعد المنطبقة على وضعك قبل تقديم إقرارك.</string>
+    <string name="commute_km_raw" formatted="false">كم المنزل-العمل المدخلة</string>
+    <string name="commute_km_retained" formatted="false">كم المنزل-العمل المحتسبة</string>
+    <string name="business_km" formatted="false">الكيلومترات المهنية</string>
+    <string name="retained_km" formatted="false">الكيلومترات المحتسبة</string>
+    <string name="allowance" formatted="false">بدل الكيلومترات</string>
+    <string name="tolls_parking" formatted="false">رسوم الطرق ومواقف السيارات</string>
+    <string name="total" formatted="false">الإجمالي المقدر</string>
+    <string name="flat_deduction" formatted="false">الخصم الثابت بنسبة 10%</string>
+    <string name="real_better" formatted="false">تبدو المصاريف الفعلية أكثر فائدة من الخصم الثابت.</string>
+    <string name="flat_better" formatted="false">يبدو الخصم الثابت أكثر فائدة من المصاريف الفعلية.</string>
+    <string name="enter_salary" formatted="false">أدخل راتبك السنوي الصافي الخاضع للضريبة للمقارنة مع الخصم الثابت.</string>
+    <string name="net_taxable_salary" formatted="false">الراتب السنوي الصافي الخاضع للضريبة</string>
+    <string name="per_vehicle" formatted="false">لكل مركبة</string>
+    <string name="note_scale_unconfirmed" formatted="false">لم يُنشر جدول هذه السنة بعد: يُطبق آخر جدول معروف.</string>
+    <string name="note_cap_applied" formatted="false">تم تحديد مسافة رحلة واحدة أو أكثر بين المنزل والعمل عند 40 كم، لعدم الإشارة إلى ظروف خاصة.</string>
+    <string name="note_extra_legs" formatted="false">بعد رحلة ذهاب وإياب واحدة بين المنزل والعمل في اليوم، استُبعدت الرحلات التي لا تتضمن ظروفًا خاصة.</string>
+    <string name="note_no_vehicle" formatted="false">تم تجاهل الرحلات التي لا مركبة لها: اختر مركبة افتراضية.</string>
+    <string name="note_fuel">الوقود المدخل (%1$s) لا يُضاف: جدول الكيلومترات يشمله بالفعل.</string>
+    <string name="note_no_salary" formatted="false">لم يُدخل الراتب: لا مقارنة مع الخصم الثابت.</string>
+    <string name="documents_title" formatted="false">المستندات التي يجب الاحتفاظ بها</string>
+    <string name="documents_list" formatted="false">رخصة تسجيل المركبة\nعقد العمل أو شهادة من صاحب العمل\nكشف بأيام العمل\nإيصالات رسوم الطرق ومواقف السيارات\nكل ما يثبت وجود ظروف خاصة</string>
+    <string name="export" formatted="false">تصدير</string>
+    <string name="export_title" formatted="false">التصدير</string>
+    <string name="export_pdf" formatted="false">تقرير PDF</string>
+    <string name="export_xlsx" formatted="false">مصنف جدول بيانات</string>
+    <string name="export_csv" formatted="false">ملف CSV</string>
+    <string name="export_period" formatted="false">الفترة</string>
+    <string name="year" formatted="false">السنة</string>
+    <string name="export_from" formatted="false">من</string>
+    <string name="export_to" formatted="false">إلى</string>
+    <string name="export_include_estimation" formatted="false">تضمين تقدير السنة</string>
+    <string name="export_share" formatted="false">يُفتح الملف في نافذة المشاركة: احفظه أو أرسله.</string>
+    <string name="export_failed" formatted="false">فشل التصدير.</string>
+    <string name="report_title" formatted="false">تقرير الكيلومترات</string>
+    <string name="generated_on">أُنشئ في %1$s</string>
+    <string name="yes" formatted="false">نعم</string>
+    <string name="no" formatted="false">لا</string>
+    <string name="import_title" formatted="false">استيراد سجل</string>
+    <string name="import_help" formatted="false">إذا كان هاتفك يحتفظ بسجل لمواقعك، يمكنك تصديره كملف JSON من التطبيق الذي يديره، ثم فتحه هنا. تُقرأ رحلات المركبات فقط. لا يُحتفظ بالملف: تُحفظ فقط التاريخ والمسافة، وعند توفرهما، نقطة الانطلاق والوجهة.</string>
+    <string name="import_pick" formatted="false">اختيار الملف</string>
+    <string name="import_reading" formatted="false">جارٍ القراءة…</string>
+    <string name="import_found">رحلات المركبات التي عُثر عليها: %1$d</string>
+    <string name="import_skipped">التنقلات الأخرى المتجاهلة (مشيًا، بالدراجة، بالمواصلات): %1$d</string>
+    <string name="import_default_purpose" formatted="false">غرض الرحلات غير المعترف بها كرحلات منزل-عمل</string>
+    <string name="import_period">من %1$s إلى %2$s</string>
+    <string name="import_confirm">استيراد %1$d رحلة</string>
+    <string name="import_done">الرحلات المستوردة: %1$d</string>
+    <string name="import_nothing_new" formatted="false">لا توجد رحلة جديدة: سبق استيرادها.</string>
+    <string name="import_unreadable" formatted="false">هذا الملف ليس سجل مواقع قابلًا للقراءة.</string>
+    <string name="import_commute_hint" formatted="false">يتم التعرف على التنقلات بين منزلك ومكان عملك عندما يحددها الملف؛ وتأخذ غرض المنزل-العمل.</string>
+    <string name="backup_title" formatted="false">النسخ الاحتياطي</string>
+    <string name="backup_explain" formatted="false">لا تغادر بياناتك جهازك إلا بقرارك. النسخة الاحتياطية ملف يمكنك تخزينه في أي مكان واستعادته على أي جهاز.</string>
+    <string name="backup_export" formatted="false">تصدير نسخة احتياطية</string>
+    <string name="backup_restore" formatted="false">استعادة نسخة احتياطية</string>
+    <string name="backup_restore_help" formatted="false">الاستعادة تدمج البيانات: لن تفقد شيئًا مما أدخلته منذ ذلك الحين.</string>
+    <string name="backup_restored">تمت استعادة النسخة الاحتياطية: %1$d رحلة في المجموع.</string>
+    <string name="backup_invalid" formatted="false">هذا الملف ليس نسخة احتياطية من هذا التطبيق.</string>
+    <string name="cloud_title" formatted="false">النسخ الاحتياطي السحابي</string>
+    <string name="cloud_explain" formatted="false">نسخة تلقائية من بياناتك في المساحة السحابية لجهازك، دون حساب إضافي. تُحدَّث بعد كل تعديل.</string>
+    <string name="cloud_now" formatted="false">النسخ الاحتياطي الآن</string>
+    <string name="cloud_restore" formatted="false">الاستعادة من السحابة</string>
+    <string name="cloud_last">آخر نسخة احتياطية سحابية: %1$s</string>
+    <string name="cloud_never" formatted="false">لا توجد نسخة احتياطية سحابية بعد.</string>
+    <string name="cloud_unavailable" formatted="false">النسخ الاحتياطي السحابي غير متاح على هذا الجهاز. استخدم تصدير النسخة الاحتياطية.</string>
+    <string name="cloud_done" formatted="false">تم النسخ الاحتياطي السحابي.</string>
+    <string name="cloud_nothing" formatted="false">لا توجد نسخة احتياطية سحابية لاستعادتها.</string>
+    <string name="cloud_system_restore" formatted="false">يستعيد النظام هذه النسخة الاحتياطية تلقائيًا عند إعادة تثبيت التطبيق أو إعداد جهاز جديد.</string>
+    <string name="settings" formatted="false">الإعدادات</string>
+    <string name="rules_title" formatted="false">قواعد الحساب</string>
+    <string name="rule_fr" formatted="false">جدول الكيلومترات الفرنسي</string>
+    <string name="rule_generic" formatted="false">معدل ثابت لكل كيلومتر</string>
+    <string name="generic_rate" formatted="false">المعدل لكل كيلومتر</string>
+    <string name="currency" formatted="false">العملة</string>
+    <string name="home_label" formatted="false">اسم منزلك</string>
+    <string name="work_label" formatted="false">اسم مكان عملك</string>
+    <string name="home_work_distance" formatted="false">مسافة المنزل-العمل (ذهاب فقط، كم)</string>
+    <string name="places_help" formatted="false">تُستخدم للرحلات المفضلة ولاستيراد السجل.</string>
+    <string name="pro_title" formatted="false">نسخة Pro</string>
+    <string name="pro_subtitle" formatted="false">كل ما تحتاجه لمصاريفك الفعلية، وبلا إعلانات.</string>
+    <string name="pro_features_title" formatted="false">الميزات المفعلة:</string>
+    <string name="pro_feature_unlimited" formatted="false">رحلات غير محدودة.</string>
+    <string name="pro_feature_estimation" formatted="false">تقدير المصاريف الفعلية ومقارنتها بالخصم الثابت.</string>
+    <string name="pro_feature_export" formatted="false">تصدير كامل وموثق (ملف PDF منسق، وجدول بيانات جاهز للمحاسب أو للإقرار الضريبي).</string>
+    <string name="pro_feature_import" formatted="false">استيراد سجل الرحلات من هاتفك.</string>
+    <string name="pro_feature_expenses" formatted="false">إضافة رسوم الطرق ومواقف السيارات والوقود إلى التقدير.</string>
+    <string name="pro_feature_cloud" formatted="false">استعادة من ملف نسخة احتياطية، ومزامنة بين أجهزتك.</string>
+    <string name="pro_feature_widgets" formatted="false">أداة للشاشة الرئيسية.</string>
+    <string name="pro_feature_watch" formatted="false">تطبيق للساعة.</string>
+    <string name="pro_feature_no_ads" formatted="false">بلا أي إعلانات.</string>
+    <string name="pro_feature_gps" formatted="false">تتبع تلقائي عبر GPS (باكتشاف الحركة أو بالاتصال بالسيارة عبر البلوتوث).</string>
+    <string name="pro_feature_scan" formatted="false">مسح ذكي (OCR) لإيصالات رسوم الطرق ومواقف السيارات والوقود بالكاميرا.</string>
+    <string name="pro_monthly">%1$s شهريًا</string>
+    <string name="pro_yearly">%1$s سنويًا</string>
+    <string name="pro_yearly_hint" formatted="false">شهران مجانًا مقارنة بالاشتراك الشهري</string>
+    <string name="subscribe" formatted="false">اشتراك</string>
+    <string name="restore_purchases" formatted="false">استعادة المشتريات</string>
+    <string name="pro_active" formatted="false">نسخة Pro مفعلة</string>
+    <string name="pro_active_since">الاشتراك: %1$s</string>
+    <string name="pro_unavailable" formatted="false">المشتريات غير متاحة في هذه النسخة من التطبيق.</string>
+    <string name="pro_legal" formatted="false">اشتراك يتجدد تلقائيًا، يُخصم من حسابك في المتجر. يمكنك الإلغاء في أي وقت من إعدادات المتجر؛ يُخصم السعر للفترة التالية ما لم يُلغَ الاشتراك قبل 24 ساعة على الأقل من انتهائها.</string>
+    <string name="purchase_pending" formatted="false">جارٍ الشراء…</string>
+    <string name="purchase_failed" formatted="false">لم تكتمل عملية الشراء.</string>
+    <string name="purchase_restored" formatted="false">تمت استعادة المشتريات.</string>
+    <string name="purchase_nothing" formatted="false">لا شيء لاستعادته.</string>
+    <string name="rewarded_title" formatted="false">جرّبها مع إعلان</string>
+    <string name="rewarded_explain" formatted="false">شاهد إعلانًا قصيرًا لتفعيل هذه الميزة لفترة محدودة. نسخة Pro تزيل الإعلانات وتفعّل كل شيء.</string>
+    <string name="rewarded_estimation" formatted="false">عرض التقدير لمدة 24 ساعة</string>
+    <string name="rewarded_export" formatted="false">تصدير واحد خلال ساعة</string>
+    <string name="rewarded_trips" formatted="false">5 رحلات إضافية هذا الشهر</string>
+    <string name="rewarded_watch" formatted="false">مشاهدة إعلان</string>
+    <string name="rewarded_unavailable" formatted="false">لا يوجد إعلان متاح حاليًا. حاول مرة أخرى بعد قليل.</string>
+    <string name="rewarded_granted" formatted="false">تم التفعيل. رحلة سعيدة!</string>
+    <string name="expenses" formatted="false">المصاريف</string>
+    <string name="add_expense" formatted="false">مصروف جديد</string>
+    <string name="edit_expense" formatted="false">تعديل المصروف</string>
+    <string name="expense_kind" formatted="false">النوع</string>
+    <string name="kind_toll" formatted="false">رسوم طريق</string>
+    <string name="kind_parking" formatted="false">موقف سيارات</string>
+    <string name="kind_fuel" formatted="false">وقود</string>
+    <string name="kind_other" formatted="false">أخرى</string>
+    <string name="amount" formatted="false">المبلغ</string>
+    <string name="place" formatted="false">المكان</string>
+    <string name="litres" formatted="false">لترات</string>
+    <string name="odometer" formatted="false">قراءة عداد المسافة</string>
+    <string name="no_expenses" formatted="false">لا توجد مصاريف. تُضاف رسوم الطرق ومواقف السيارات إلى التقدير.</string>
+    <string name="invalid_amount" formatted="false">أدخل مبلغًا أكبر من 0.</string>
+    <string name="legal_title" formatted="false">الشروط القانونية والخصوصية</string>
+    <string name="privacy_text" formatted="false">تبقى جميع بياناتك على جهازك. لا يتطلب التطبيق أي حساب ولا يرسل شيئًا إلى أي خادم. التبادلات الوحيدة مع الخارج هي التي تطلقها بنفسك، كالتصدير أو النسخ الاحتياطي أو الشراء، وإعلانات النسخة المجانية التي تزيلها نسخة Pro.</string>
+    <string name="about" formatted="false">حول التطبيق</string>
+    <string name="version">الإصدار %1$s</string>
+    <string name="error_generic" formatted="false">حدث خطأ ما.</string>
+    <string name="today" formatted="false">اليوم</string>
+    <string name="yesterday" formatted="false">أمس</string>
+    <string name="ads_privacy_options" formatted="false">خيارات خصوصية الإعلانات</string>
+    <string name="ads_disabled_title" formatted="false">الإعلانات معطلة</string>
+    <string name="ads_disabled_text" formatted="false">يشير النظام إلى أن هذا الحساب يخص مستخدمًا صغير السن. لذلك لا يعرض التطبيق أي إعلانات ولا يطلب أي موافقة. لا تتم قراءة أي معرّف إعلاني ولا يتم جمع أي بيانات أو إرسالها.</string>
+    <string name="watch_quick_add" formatted="false">رحلة سريعة</string>
+    <string name="watch_no_favorites" formatted="false">أضف رحلات مفضلة على هاتفك.</string>
+    <string name="watch_added" formatted="false">تمت الإضافة</string>
+    <string name="watch_open_phone" formatted="false">فتح تطبيق الهاتف</string>
+    <string name="widget_today" formatted="false">اليوم</string>
+    <string name="widget_month" formatted="false">هذا الشهر</string>
+    <string name="widget_pro_needed" formatted="false">الأداة متاحة مع Pro</string>
+</resources>

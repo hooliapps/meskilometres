@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Χιλιόμετρα</string>
+    <string name="widget_name" formatted="false">Διαδρομές</string>
+    <string name="widget_description" formatted="false">Τα χιλιόμετρα της ημέρας και οι αγαπημένες σας διαδρομές με ένα πάτημα.</string>
+    <string name="tab_trips" formatted="false">Διαδρομές</string>
+    <string name="tab_estimate" formatted="false">Εκτίμηση</string>
+    <string name="tab_more" formatted="false">Περισσότερα</string>
+    <string name="this_month" formatted="false">Αυτόν τον μήνα</string>
+    <string name="this_year" formatted="false">Φέτος</string>
+    <string name="trips_count">Διαδρομές: %1$d</string>
+    <string name="km_value">%1$s χλμ</string>
+    <string name="add_trip" formatted="false">Νέα διαδρομή</string>
+    <string name="free_remaining">Δωρεάν διαδρομές που απομένουν αυτόν τον μήνα: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Συμπληρώθηκε το δωρεάν όριο αυτού του μήνα</string>
+    <string name="free_quota_reached" formatted="false">Η δωρεάν έκδοση επιτρέπει 5 διαδρομές τον μήνα. Αποκτήστε το Pro για απεριόριστες διαδρομές ή δείτε μια διαφήμιση για 5 ακόμη.</string>
+    <string name="go_pro" formatted="false">Αποκτήστε το Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Καμία διαδρομή ακόμη.\nΠατήστε + για να καταχωρίσετε την πρώτη.</string>
+    <string name="trip_new" formatted="false">Νέα διαδρομή</string>
+    <string name="trip_edit" formatted="false">Επεξεργασία διαδρομής</string>
+    <string name="field_date" formatted="false">Ημερομηνία</string>
+    <string name="field_from" formatted="false">Από</string>
+    <string name="field_to" formatted="false">Προς</string>
+    <string name="field_distance" formatted="false">Απόσταση απλής μετάβασης (χλμ)</string>
+    <string name="field_round_trip" formatted="false">Μετ\' επιστροφής</string>
+    <string name="field_purpose" formatted="false">Σκοπός</string>
+    <string name="field_vehicle" formatted="false">Όχημα</string>
+    <string name="field_note" formatted="false">Σημείωση</string>
+    <string name="field_justified" formatted="false">Ειδικές περιστάσεις</string>
+    <string name="field_justified_help" formatted="false">Επιλέξτε αν η απόσταση κατοικίας-εργασίας υπερβαίνει τα 40 χλμ για συγκεκριμένο λόγο, ή για μια δικαιολογημένη επιπλέον διαδρομή μετ\' επιστροφής την ίδια ημέρα.</string>
+    <string name="purpose_commute" formatted="false">Κατοικία-εργασία</string>
+    <string name="purpose_business" formatted="false">Επαγγελματική</string>
+    <string name="purpose_personal" formatted="false">Προσωπική</string>
+    <string name="save" formatted="false">Αποθήκευση</string>
+    <string name="cancel" formatted="false">Ακύρωση</string>
+    <string name="delete" formatted="false">Διαγραφή</string>
+    <string name="edit" formatted="false">Επεξεργασία</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Κλείσιμο</string>
+    <string name="back" formatted="false">Πίσω</string>
+    <string name="confirm_delete" formatted="false">Οριστική διαγραφή;</string>
+    <string name="invalid_distance" formatted="false">Εισαγάγετε απόσταση μεγαλύτερη από 0.</string>
+    <string name="favorites" formatted="false">Αγαπημένα</string>
+    <string name="save_as_favorite" formatted="false">Αποθήκευση και ως αγαπημένο</string>
+    <string name="favorite_label" formatted="false">Όνομα αγαπημένου</string>
+    <string name="no_favorites" formatted="false">Αποθηκεύστε μια διαδρομή ως αγαπημένη για να την καταχωρίζετε με ένα πάτημα.</string>
+    <string name="use_favorite" formatted="false">Αγαπημένες διαδρομές</string>
+    <string name="swap" formatted="false">Εναλλαγή</string>
+    <string name="quick_add_hint" formatted="false">Πατήστε ένα αγαπημένο για να το προσθέσετε για σήμερα.</string>
+    <string name="added" formatted="false">Η διαδρομή προστέθηκε.</string>
+    <string name="undo" formatted="false">Αναίρεση</string>
+    <string name="vehicles" formatted="false">Οχήματα</string>
+    <string name="add_vehicle" formatted="false">Προσθήκη οχήματος</string>
+    <string name="edit_vehicle" formatted="false">Επεξεργασία οχήματος</string>
+    <string name="vehicle_name" formatted="false">Όνομα</string>
+    <string name="vehicle_kind" formatted="false">Τύπος</string>
+    <string name="kind_car" formatted="false">Αυτοκίνητο</string>
+    <string name="kind_motorcycle" formatted="false">Μοτοσικλέτα</string>
+    <string name="kind_moped" formatted="false">Μοτοποδήλατο</string>
+    <string name="fiscal_power" formatted="false">Φορολογήσιμοι ίπποι</string>
+    <string name="cv">%1$d φορ. ίπποι</string>
+    <string name="cv_or_more">%1$d φορ. ίπποι και άνω</string>
+    <string name="cv_or_less">%1$d φορ. ίπποι και κάτω</string>
+    <string name="cv_range_3_5" formatted="false">3 έως 5 φορ. ίπποι</string>
+    <string name="electric" formatted="false">Ηλεκτρικό όχημα</string>
+    <string name="no_vehicle" formatted="false">Κανένα όχημα. Προσθέστε ένα: η εκτίμηση το χρειάζεται.</string>
+    <string name="default_vehicle" formatted="false">Προεπιλεγμένο όχημα</string>
+    <string name="vehicle_needed" formatted="false">Προσθέστε πρώτα ένα όχημα στο Περισσότερα &gt; Οχήματα.</string>
+    <string name="estimation" formatted="false">Εκτίμηση πραγματικών εξόδων</string>
+    <string name="income_year">Έτος εισοδήματος %1$d</string>
+    <string name="estimation_locked" formatted="false">Η εκτίμηση πραγματικών εξόδων, οι εξαγωγές, η εισαγωγή ιστορικού και η επαναφορά αντιγράφου ασφαλείας ανήκουν στην έκδοση Pro.</string>
+    <string name="disclaimer_short" formatted="false">Ενδεικτική εκτίμηση, χωρίς εγγύηση.</string>
+    <string name="disclaimer_long" formatted="false">Η εκτίμηση αυτή είναι ενδεικτική και δεν είναι εγγυημένη. Δεν αποτελεί φορολογική συμβουλή και δεν αντικαθιστά τα επίσημα κείμενα, τη φορολογική διοίκηση ή έναν επαγγελματία. Ελέγξτε τους κανόνες που ισχύουν για την περίπτωσή σας πριν από κάθε δήλωση.</string>
+    <string name="commute_km_raw" formatted="false">Χλμ κατοικίας-εργασίας που καταχωρίστηκαν</string>
+    <string name="commute_km_retained" formatted="false">Χλμ κατοικίας-εργασίας που λήφθηκαν υπόψη</string>
+    <string name="business_km" formatted="false">Επαγγελματικά χλμ</string>
+    <string name="retained_km" formatted="false">Χλμ που λήφθηκαν υπόψη</string>
+    <string name="allowance" formatted="false">Χιλιομετρική αποζημίωση</string>
+    <string name="tolls_parking" formatted="false">Διόδια και στάθμευση</string>
+    <string name="total" formatted="false">Εκτιμώμενο σύνολο</string>
+    <string name="flat_deduction" formatted="false">Κατ\' αποκοπή έκπτωση 10%</string>
+    <string name="real_better" formatted="false">Τα πραγματικά έξοδα φαίνονται πιο συμφέροντα από την κατ\' αποκοπή έκπτωση.</string>
+    <string name="flat_better" formatted="false">Η κατ\' αποκοπή έκπτωση φαίνεται πιο συμφέρουσα από τα πραγματικά έξοδα.</string>
+    <string name="enter_salary" formatted="false">Εισαγάγετε τον ετήσιο καθαρό φορολογητέο μισθό σας για σύγκριση με την κατ\' αποκοπή έκπτωση.</string>
+    <string name="net_taxable_salary" formatted="false">Ετήσιος καθαρός φορολογητέος μισθός</string>
+    <string name="per_vehicle" formatted="false">Ανά όχημα</string>
+    <string name="note_scale_unconfirmed" formatted="false">Η κλίμακα αυτού του έτους δεν έχει δημοσιευτεί ακόμη: εφαρμόζεται η τελευταία γνωστή κλίμακα.</string>
+    <string name="note_cap_applied" formatted="false">Ένα ή περισσότερα σκέλη κατοικίας-εργασίας περιορίστηκαν στα 40 χλμ, καθώς δεν δηλώθηκαν ειδικές περιστάσεις.</string>
+    <string name="note_extra_legs" formatted="false">Πέρα από μία διαδρομή κατοικίας-εργασίας μετ\' επιστροφής την ημέρα, οι διαδρομές χωρίς ειδικές περιστάσεις εξαιρέθηκαν.</string>
+    <string name="note_no_vehicle" formatted="false">Διαδρομές χωρίς όχημα αγνοήθηκαν: επιλέξτε προεπιλεγμένο όχημα.</string>
+    <string name="note_fuel">Τα καύσιμα που καταχωρίστηκαν (%1$s) δεν προστίθενται: η χιλιομετρική κλίμακα τα καλύπτει ήδη.</string>
+    <string name="note_no_salary" formatted="false">Δεν καταχωρίστηκε μισθός: καμία σύγκριση με την κατ\' αποκοπή έκπτωση.</string>
+    <string name="documents_title" formatted="false">Δικαιολογητικά προς φύλαξη</string>
+    <string name="documents_list" formatted="false">Άδεια κυκλοφορίας του οχήματος\nΣύμβαση εργασίας ή βεβαίωση εργοδότη\nΚατάσταση ημερών εργασίας\nΑποδείξεις διοδίων και στάθμευσης\nΟτιδήποτε τεκμηριώνει ειδικές περιστάσεις</string>
+    <string name="export" formatted="false">Εξαγωγή</string>
+    <string name="export_title" formatted="false">Εξαγωγή</string>
+    <string name="export_pdf" formatted="false">Αναφορά PDF</string>
+    <string name="export_xlsx" formatted="false">Βιβλίο υπολογιστικών φύλλων</string>
+    <string name="export_csv" formatted="false">Αρχείο CSV</string>
+    <string name="export_period" formatted="false">Περίοδος</string>
+    <string name="year" formatted="false">Έτος</string>
+    <string name="export_from" formatted="false">Από</string>
+    <string name="export_to" formatted="false">Έως</string>
+    <string name="export_include_estimation" formatted="false">Συμπερίληψη της εκτίμησης του έτους</string>
+    <string name="export_share" formatted="false">Το αρχείο ανοίγει στο μενού κοινής χρήσης: αποθηκεύστε το ή στείλτε το.</string>
+    <string name="export_failed" formatted="false">Η εξαγωγή απέτυχε.</string>
+    <string name="report_title" formatted="false">Χιλιομετρική αναφορά</string>
+    <string name="generated_on">Δημιουργήθηκε στις %1$s</string>
+    <string name="yes" formatted="false">ναι</string>
+    <string name="no" formatted="false">όχι</string>
+    <string name="import_title" formatted="false">Εισαγωγή ιστορικού</string>
+    <string name="import_help" formatted="false">Αν το τηλέφωνό σας διατηρεί ιστορικό των τοποθεσιών σας, μπορείτε να το εξαγάγετε ως αρχείο JSON από την εφαρμογή που το διαχειρίζεται και έπειτα να το ανοίξετε εδώ. Διαβάζονται μόνο οι μετακινήσεις με όχημα. Το αρχείο δεν διατηρείται: αποθηκεύονται μόνο η ημερομηνία, η απόσταση και, όταν είναι γνωστά, η αφετηρία και ο προορισμός.</string>
+    <string name="import_pick" formatted="false">Επιλογή αρχείου</string>
+    <string name="import_reading" formatted="false">Ανάγνωση…</string>
+    <string name="import_found">Μετακινήσεις με όχημα που βρέθηκαν: %1$d</string>
+    <string name="import_skipped">Άλλες μετακινήσεις που αγνοήθηκαν (πεζή, ποδήλατο, ΜΜΜ): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Σκοπός για μετακινήσεις που δεν αναγνωρίστηκαν ως κατοικία-εργασία</string>
+    <string name="import_period">Από %1$s έως %2$s</string>
+    <string name="import_confirm">Εισαγωγή %1$d διαδρομών</string>
+    <string name="import_done">Διαδρομές που εισήχθησαν: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Καμία νέα διαδρομή: είχαν ήδη εισαχθεί.</string>
+    <string name="import_unreadable" formatted="false">Αυτό το αρχείο δεν είναι αναγνώσιμο ιστορικό τοποθεσιών.</string>
+    <string name="import_commute_hint" formatted="false">Οι μετακινήσεις μεταξύ της κατοικίας και της εργασίας σας αναγνωρίζονται όταν το αρχείο τις επισημαίνει· λαμβάνουν τον σκοπό κατοικία-εργασία.</string>
+    <string name="backup_title" formatted="false">Αντίγραφο ασφαλείας</string>
+    <string name="backup_explain" formatted="false">Τα δεδομένα σας φεύγουν από τη συσκευή σας μόνο όταν το αποφασίσετε εσείς. Το αντίγραφο ασφαλείας είναι ένα αρχείο που μπορείτε να αποθηκεύσετε οπουδήποτε και να επαναφέρετε σε οποιαδήποτε συσκευή.</string>
+    <string name="backup_export" formatted="false">Εξαγωγή αντιγράφου ασφαλείας</string>
+    <string name="backup_restore" formatted="false">Επαναφορά αντιγράφου ασφαλείας</string>
+    <string name="backup_restore_help" formatted="false">Η επαναφορά συγχωνεύει: τίποτα από όσα καταχωρίσατε έκτοτε δεν χάνεται.</string>
+    <string name="backup_restored">Το αντίγραφο ασφαλείας επαναφέρθηκε: %1$d διαδρομές συνολικά.</string>
+    <string name="backup_invalid" formatted="false">Αυτό το αρχείο δεν είναι αντίγραφο ασφαλείας αυτής της εφαρμογής.</string>
+    <string name="cloud_title" formatted="false">Αντίγραφο ασφαλείας στο cloud</string>
+    <string name="cloud_explain" formatted="false">Αυτόματο αντίγραφο των δεδομένων σας στον χώρο cloud της συσκευής σας, χωρίς επιπλέον λογαριασμό. Ανανεώνεται μετά από κάθε αλλαγή.</string>
+    <string name="cloud_now" formatted="false">Δημιουργία αντιγράφου τώρα</string>
+    <string name="cloud_restore" formatted="false">Επαναφορά από το cloud</string>
+    <string name="cloud_last">Τελευταίο αντίγραφο στο cloud: %1$s</string>
+    <string name="cloud_never" formatted="false">Κανένα αντίγραφο στο cloud ακόμη.</string>
+    <string name="cloud_unavailable" formatted="false">Το αντίγραφο ασφαλείας στο cloud δεν είναι διαθέσιμο σε αυτήν τη συσκευή. Χρησιμοποιήστε την εξαγωγή αντιγράφου ασφαλείας.</string>
+    <string name="cloud_done" formatted="false">Το αντίγραφο στο cloud ολοκληρώθηκε.</string>
+    <string name="cloud_nothing" formatted="false">Κανένα αντίγραφο στο cloud για επαναφορά.</string>
+    <string name="cloud_system_restore" formatted="false">Το σύστημα επαναφέρει αυτό το αντίγραφο από μόνο του όταν επανεγκαταστήσετε την εφαρμογή ή ρυθμίσετε νέα συσκευή.</string>
+    <string name="settings" formatted="false">Ρυθμίσεις</string>
+    <string name="rules_title" formatted="false">Κανόνες υπολογισμού</string>
+    <string name="rule_fr" formatted="false">Γαλλική χιλιομετρική κλίμακα</string>
+    <string name="rule_generic" formatted="false">Σταθερή τιμή ανά χιλιόμετρο</string>
+    <string name="generic_rate" formatted="false">Τιμή ανά χιλιόμετρο</string>
+    <string name="currency" formatted="false">Νόμισμα</string>
+    <string name="home_label" formatted="false">Όνομα της κατοικίας σας</string>
+    <string name="work_label" formatted="false">Όνομα του χώρου εργασίας σας</string>
+    <string name="home_work_distance" formatted="false">Απόσταση κατοικίας-εργασίας (απλή μετάβαση, χλμ)</string>
+    <string name="places_help" formatted="false">Χρησιμοποιούνται από τις αγαπημένες διαδρομές και την εισαγωγή ιστορικού.</string>
+    <string name="pro_title" formatted="false">Έκδοση Pro</string>
+    <string name="pro_subtitle" formatted="false">Όλα όσα χρειάζεστε για τα πραγματικά σας έξοδα, και καμία διαφήμιση.</string>
+    <string name="pro_features_title" formatted="false">Λειτουργίες που ξεκλειδώνουν:</string>
+    <string name="pro_feature_unlimited" formatted="false">Απεριόριστες διαδρομές.</string>
+    <string name="pro_feature_estimation" formatted="false">Εκτίμηση πραγματικών εξόδων και σύγκριση με την κατ\' αποκοπή έκπτωση.</string>
+    <string name="pro_feature_export" formatted="false">Πλήρης, πιστοποιημένη εξαγωγή (καθαρό PDF, μορφή υπολογιστικού φύλλου έτοιμη για τον λογιστή ή τη φορολογική δήλωση).</string>
+    <string name="pro_feature_import" formatted="false">Εισαγωγή του ιστορικού διαδρομών του τηλεφώνου σας.</string>
+    <string name="pro_feature_expenses" formatted="false">Διόδια, στάθμευση και καύσιμα προστίθενται στην εκτίμηση.</string>
+    <string name="pro_feature_cloud" formatted="false">Επαναφορά από αρχείο αντιγράφου ασφαλείας και συγχρονισμός στις συσκευές σας.</string>
+    <string name="pro_feature_widgets" formatted="false">Γραφικό στοιχείο αρχικής οθόνης.</string>
+    <string name="pro_feature_watch" formatted="false">Εφαρμογή για το ρολόι.</string>
+    <string name="pro_feature_no_ads" formatted="false">Καμία απολύτως διαφήμιση.</string>
+    <string name="pro_feature_gps" formatted="false">Αυτόματη καταγραφή GPS (ανίχνευση κίνησης ή σύνδεση Bluetooth με το αυτοκίνητο).</string>
+    <string name="pro_feature_scan" formatted="false">Έξυπνη σάρωση (OCR) αποδείξεων διοδίων, στάθμευσης και καυσίμων με την κάμερα.</string>
+    <string name="pro_monthly">%1$s τον μήνα</string>
+    <string name="pro_yearly">%1$s τον χρόνο</string>
+    <string name="pro_yearly_hint" formatted="false">Δύο μήνες δωρεάν σε σχέση με τη μηνιαία συνδρομή</string>
+    <string name="subscribe" formatted="false">Συνδρομή</string>
+    <string name="restore_purchases" formatted="false">Επαναφορά αγορών</string>
+    <string name="pro_active" formatted="false">Η έκδοση Pro είναι ενεργή</string>
+    <string name="pro_active_since">Συνδρομή: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Οι αγορές δεν είναι διαθέσιμες σε αυτήν την έκδοση της εφαρμογής.</string>
+    <string name="pro_legal" formatted="false">Συνδρομή με αυτόματη ανανέωση, που χρεώνεται στον λογαριασμό σας στο κατάστημα. Ακύρωση ανά πάσα στιγμή από τις ρυθμίσεις του καταστήματος· το ποσό χρεώνεται για την επόμενη περίοδο, εκτός αν ακυρωθεί τουλάχιστον 24 ώρες πριν από τη λήξη της.</string>
+    <string name="purchase_pending" formatted="false">Αγορά σε εξέλιξη…</string>
+    <string name="purchase_failed" formatted="false">Η αγορά δεν ολοκληρώθηκε.</string>
+    <string name="purchase_restored" formatted="false">Οι αγορές επαναφέρθηκαν.</string>
+    <string name="purchase_nothing" formatted="false">Τίποτα για επαναφορά.</string>
+    <string name="rewarded_title" formatted="false">Δοκιμή με μια διαφήμιση</string>
+    <string name="rewarded_explain" formatted="false">Δείτε μια σύντομη διαφήμιση για να το ξεκλειδώσετε για λίγο. Το Pro αφαιρεί τις διαφημίσεις και ξεκλειδώνει τα πάντα.</string>
+    <string name="rewarded_estimation" formatted="false">Δείτε την εκτίμηση για 24 ώρες</string>
+    <string name="rewarded_export" formatted="false">Μία εξαγωγή, μέσα σε μία ώρα</string>
+    <string name="rewarded_trips" formatted="false">5 ακόμη διαδρομές αυτόν τον μήνα</string>
+    <string name="rewarded_watch" formatted="false">Δείτε μια διαφήμιση</string>
+    <string name="rewarded_unavailable" formatted="false">Καμία διαφήμιση διαθέσιμη αυτήν τη στιγμή. Δοκιμάστε ξανά σε λίγο.</string>
+    <string name="rewarded_granted" formatted="false">Ξεκλειδώθηκε. Καλό δρόμο!</string>
+    <string name="expenses" formatted="false">Έξοδα</string>
+    <string name="add_expense" formatted="false">Νέο έξοδο</string>
+    <string name="edit_expense" formatted="false">Επεξεργασία εξόδου</string>
+    <string name="expense_kind" formatted="false">Τύπος</string>
+    <string name="kind_toll" formatted="false">Διόδια</string>
+    <string name="kind_parking" formatted="false">Στάθμευση</string>
+    <string name="kind_fuel" formatted="false">Καύσιμα</string>
+    <string name="kind_other" formatted="false">Άλλο</string>
+    <string name="amount" formatted="false">Ποσό</string>
+    <string name="place" formatted="false">Τόπος</string>
+    <string name="litres" formatted="false">Λίτρα</string>
+    <string name="odometer" formatted="false">Ένδειξη χιλιομετρητή</string>
+    <string name="no_expenses" formatted="false">Κανένα έξοδο. Τα διόδια και η στάθμευση προστίθενται στην εκτίμηση.</string>
+    <string name="invalid_amount" formatted="false">Εισαγάγετε ποσό μεγαλύτερο από 0.</string>
+    <string name="legal_title" formatted="false">Νομικά και απόρρητο</string>
+    <string name="privacy_text" formatted="false">Όλα τα δεδομένα σας παραμένουν στη συσκευή σας. Η εφαρμογή δεν απαιτεί λογαριασμό και δεν στέλνει τίποτα σε διακομιστή. Οι μόνες ανταλλαγές με τον έξω κόσμο είναι όσες ξεκινάτε εσείς, μια εξαγωγή, ένα αντίγραφο ασφαλείας ή μια αγορά, και οι διαφημίσεις της δωρεάν έκδοσης, τις οποίες η έκδοση Pro αφαιρεί.</string>
+    <string name="about" formatted="false">Σχετικά</string>
+    <string name="version">Έκδοση %1$s</string>
+    <string name="error_generic" formatted="false">Κάτι πήγε στραβά.</string>
+    <string name="today" formatted="false">Σήμερα</string>
+    <string name="yesterday" formatted="false">Χθες</string>
+    <string name="ads_privacy_options" formatted="false">Επιλογές απορρήτου διαφημίσεων</string>
+    <string name="ads_disabled_title" formatted="false">Οι διαφημίσεις είναι απενεργοποιημένες</string>
+    <string name="ads_disabled_text" formatted="false">Το σύστημα υποδεικνύει ότι αυτός ο λογαριασμός ανήκει σε νεαρό χρήστη. Η εφαρμογή επομένως δεν εμφανίζει διαφημίσεις και δεν ζητά συγκατάθεση. Δεν διαβάζεται κανένα διαφημιστικό αναγνωριστικό και δεν συλλέγονται ούτε αποστέλλονται δεδομένα.</string>
+    <string name="watch_quick_add" formatted="false">Γρήγορη διαδρομή</string>
+    <string name="watch_no_favorites" formatted="false">Προσθέστε αγαπημένες διαδρομές στο τηλέφωνό σας.</string>
+    <string name="watch_added" formatted="false">Προστέθηκε</string>
+    <string name="watch_open_phone" formatted="false">Άνοιγμα της εφαρμογής στο τηλέφωνο</string>
+    <string name="widget_today" formatted="false">Σήμερα</string>
+    <string name="widget_month" formatted="false">Αυτόν τον μήνα</string>
+    <string name="widget_pro_needed" formatted="false">Γραφικό στοιχείο διαθέσιμο με το Pro</string>
+</resources>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">کیلومترها</string>
+    <string name="widget_name" formatted="false">سفرها</string>
+    <string name="widget_description" formatted="false">کیلومترهای امروز و سفرهای دلخواه شما با یک ضربه.</string>
+    <string name="tab_trips" formatted="false">سفرها</string>
+    <string name="tab_estimate" formatted="false">برآورد</string>
+    <string name="tab_more" formatted="false">بیشتر</string>
+    <string name="this_month" formatted="false">این ماه</string>
+    <string name="this_year" formatted="false">امسال</string>
+    <string name="trips_count">سفرها: %1$d</string>
+    <string name="km_value">%1$s کیلومتر</string>
+    <string name="add_trip" formatted="false">سفر جدید</string>
+    <string name="free_remaining">سفرهای رایگان باقی‌مانده در این ماه: %1$d</string>
+    <string name="free_limit_reached" formatted="false">به سقف رایگان این ماه رسیدید</string>
+    <string name="free_quota_reached" formatted="false">نسخهٔ رایگان ۵ سفر در ماه را مجاز می‌داند. برای سفرهای نامحدود به Pro بروید، یا با تماشای یک آگهی ۵ سفر دیگر بگیرید.</string>
+    <string name="go_pro" formatted="false">رفتن به Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">هنوز سفری ثبت نشده است.\nبرای ثبت اولین سفر روی + بزنید.</string>
+    <string name="trip_new" formatted="false">سفر جدید</string>
+    <string name="trip_edit" formatted="false">ویرایش سفر</string>
+    <string name="field_date" formatted="false">تاریخ</string>
+    <string name="field_from" formatted="false">مبدأ</string>
+    <string name="field_to" formatted="false">مقصد</string>
+    <string name="field_distance" formatted="false">مسافت یک‌طرفه (کیلومتر)</string>
+    <string name="field_round_trip" formatted="false">رفت و برگشت</string>
+    <string name="field_purpose" formatted="false">هدف</string>
+    <string name="field_vehicle" formatted="false">وسیلهٔ نقلیه</string>
+    <string name="field_note" formatted="false">یادداشت</string>
+    <string name="field_justified" formatted="false">شرایط خاص</string>
+    <string name="field_justified_help" formatted="false">اگر فاصلهٔ خانه تا محل کار به دلیلی مشخص بیش از ۴۰ کیلومتر است، یا برای یک رفت و برگشت اضافی موجه در همان روز، این گزینه را علامت بزنید.</string>
+    <string name="purpose_commute" formatted="false">خانه-محل کار</string>
+    <string name="purpose_business" formatted="false">کاری</string>
+    <string name="purpose_personal" formatted="false">شخصی</string>
+    <string name="save" formatted="false">ذخیره</string>
+    <string name="cancel" formatted="false">لغو</string>
+    <string name="delete" formatted="false">حذف</string>
+    <string name="edit" formatted="false">ویرایش</string>
+    <string name="ok" formatted="false">تأیید</string>
+    <string name="close" formatted="false">بستن</string>
+    <string name="back" formatted="false">بازگشت</string>
+    <string name="confirm_delete" formatted="false">برای همیشه حذف شود؟</string>
+    <string name="invalid_distance" formatted="false">مسافتی بزرگ‌تر از ۰ وارد کنید.</string>
+    <string name="favorites" formatted="false">دلخواه‌ها</string>
+    <string name="save_as_favorite" formatted="false">ذخیره به‌عنوان سفر دلخواه هم</string>
+    <string name="favorite_label" formatted="false">نام سفر دلخواه</string>
+    <string name="no_favorites" formatted="false">یک سفر را به‌عنوان دلخواه ذخیره کنید تا با یک ضربه ثبتش کنید.</string>
+    <string name="use_favorite" formatted="false">سفرهای دلخواه</string>
+    <string name="swap" formatted="false">جابه‌جایی</string>
+    <string name="quick_add_hint" formatted="false">روی یک سفر دلخواه بزنید تا برای امروز اضافه شود.</string>
+    <string name="added" formatted="false">سفر اضافه شد.</string>
+    <string name="undo" formatted="false">واگرد</string>
+    <string name="vehicles" formatted="false">وسایل نقلیه</string>
+    <string name="add_vehicle" formatted="false">افزودن وسیلهٔ نقلیه</string>
+    <string name="edit_vehicle" formatted="false">ویرایش وسیلهٔ نقلیه</string>
+    <string name="vehicle_name" formatted="false">نام</string>
+    <string name="vehicle_kind" formatted="false">نوع</string>
+    <string name="kind_car" formatted="false">خودرو</string>
+    <string name="kind_motorcycle" formatted="false">موتورسیکلت</string>
+    <string name="kind_moped" formatted="false">موتور گازی</string>
+    <string name="fiscal_power" formatted="false">قدرت مالیاتی (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV و بیشتر</string>
+    <string name="cv_or_less">%1$d CV و کمتر</string>
+    <string name="cv_range_3_5" formatted="false">۳ تا ۵ CV</string>
+    <string name="electric" formatted="false">وسیلهٔ نقلیهٔ برقی</string>
+    <string name="no_vehicle" formatted="false">وسیلهٔ نقلیه‌ای ثبت نشده است. یکی اضافه کنید: برآورد به آن نیاز دارد.</string>
+    <string name="default_vehicle" formatted="false">وسیلهٔ نقلیهٔ پیش‌فرض</string>
+    <string name="vehicle_needed" formatted="false">ابتدا در بیشتر &gt; وسایل نقلیه یک وسیلهٔ نقلیه اضافه کنید.</string>
+    <string name="estimation" formatted="false">برآورد هزینه‌های واقعی</string>
+    <string name="income_year">سال درآمد %1$d</string>
+    <string name="estimation_locked" formatted="false">برآورد هزینه‌های واقعی، خروجی‌ها، درون‌ریزی سابقه و بازیابی نسخهٔ پشتیبان بخشی از نسخهٔ Pro هستند.</string>
+    <string name="disclaimer_short" formatted="false">برآورد تقریبی، بدون تضمین.</string>
+    <string name="disclaimer_long" formatted="false">این برآورد تقریبی است و تضمین نمی‌شود. مشاورهٔ مالیاتی نیست و جایگزین متون رسمی، ادارهٔ مالیات یا یک متخصص نمی‌شود. پیش از اظهار، قوانین مربوط به وضعیت خود را بررسی کنید.</string>
+    <string name="commute_km_raw" formatted="false">کیلومتر خانه-محل کار واردشده</string>
+    <string name="commute_km_retained" formatted="false">کیلومتر خانه-محل کار پذیرفته‌شده</string>
+    <string name="business_km" formatted="false">کیلومتر کاری</string>
+    <string name="retained_km" formatted="false">کیلومتر پذیرفته‌شده</string>
+    <string name="allowance" formatted="false">حق‌الزحمهٔ کیلومتری</string>
+    <string name="tolls_parking" formatted="false">عوارض و پارکینگ</string>
+    <string name="total" formatted="false">جمع برآوردی</string>
+    <string name="flat_deduction" formatted="false">کسر ثابت ۱۰٪</string>
+    <string name="real_better" formatted="false">به نظر می‌رسد هزینه‌های واقعی از کسر ثابت به‌صرفه‌تر باشد.</string>
+    <string name="flat_better" formatted="false">به نظر می‌رسد کسر ثابت از هزینه‌های واقعی به‌صرفه‌تر باشد.</string>
+    <string name="enter_salary" formatted="false">برای مقایسه با کسر ثابت، حقوق خالص مشمول مالیات سالانهٔ خود را وارد کنید.</string>
+    <string name="net_taxable_salary" formatted="false">حقوق خالص مشمول مالیات سالانه</string>
+    <string name="per_vehicle" formatted="false">به ازای هر وسیلهٔ نقلیه</string>
+    <string name="note_scale_unconfirmed" formatted="false">جدول نرخ امسال هنوز منتشر نشده است: آخرین جدول شناخته‌شده اعمال می‌شود.</string>
+    <string name="note_cap_applied" formatted="false">یک یا چند مسیر خانه-محل کار به ۴۰ کیلومتر محدود شد، چون شرایط خاصی اعلام نشده بود.</string>
+    <string name="note_extra_legs" formatted="false">فراتر از یک رفت و برگشت خانه-محل کار در روز، سفرهای بدون شرایط خاص کنار گذاشته شدند.</string>
+    <string name="note_no_vehicle" formatted="false">سفرهای بدون وسیلهٔ نقلیه نادیده گرفته شدند: یک وسیلهٔ نقلیهٔ پیش‌فرض انتخاب کنید.</string>
+    <string name="note_fuel">سوخت واردشده (%1$s) اضافه نمی‌شود: جدول نرخ کیلومتری از قبل آن را در بر می‌گیرد.</string>
+    <string name="note_no_salary" formatted="false">حقوق وارد نشده است: مقایسه‌ای با کسر ثابت انجام نمی‌شود.</string>
+    <string name="documents_title" formatted="false">مدارکی که باید نگه دارید</string>
+    <string name="documents_list" formatted="false">سند یا کارت خودرو\nقرارداد کار یا گواهی کارفرما\nفهرست روزهای کاری\nرسیدهای عوارض و پارکینگ\nهر مدرکی که شرایط خاص را ثابت کند</string>
+    <string name="export" formatted="false">خروجی</string>
+    <string name="export_title" formatted="false">خروجی</string>
+    <string name="export_pdf" formatted="false">گزارش PDF</string>
+    <string name="export_xlsx" formatted="false">فایل صفحه‌گسترده</string>
+    <string name="export_csv" formatted="false">فایل CSV</string>
+    <string name="export_period" formatted="false">بازه</string>
+    <string name="year" formatted="false">سال</string>
+    <string name="export_from" formatted="false">از</string>
+    <string name="export_to" formatted="false">تا</string>
+    <string name="export_include_estimation" formatted="false">افزودن برآورد سال</string>
+    <string name="export_share" formatted="false">فایل در پنجرهٔ اشتراک‌گذاری باز می‌شود: آن را ذخیره یا ارسال کنید.</string>
+    <string name="export_failed" formatted="false">خروجی گرفتن ناموفق بود.</string>
+    <string name="report_title" formatted="false">گزارش کیلومتری</string>
+    <string name="generated_on">ایجادشده در %1$s</string>
+    <string name="yes" formatted="false">بله</string>
+    <string name="no" formatted="false">خیر</string>
+    <string name="import_title" formatted="false">درون‌ریزی سابقه</string>
+    <string name="import_help" formatted="false">اگر تلفن شما سابقه‌ای از موقعیت‌های مکانی‌تان نگه می‌دارد، می‌توانید آن را از برنامه‌ای که این سابقه را مدیریت می‌کند به‌صورت فایل JSON خروجی بگیرید و سپس اینجا باز کنید. فقط سفرهای با وسیلهٔ نقلیه خوانده می‌شوند. فایل نگه داشته نمی‌شود: فقط تاریخ، مسافت و در صورت مشخص بودن، مبدأ و مقصد ذخیره می‌شوند.</string>
+    <string name="import_pick" formatted="false">انتخاب فایل</string>
+    <string name="import_reading" formatted="false">در حال خواندن…</string>
+    <string name="import_found">سفرهای با وسیلهٔ نقلیهٔ پیداشده: %1$d</string>
+    <string name="import_skipped">جابه‌جایی‌های دیگر نادیده گرفته شد (پیاده، دوچرخه، حمل‌ونقل عمومی): %1$d</string>
+    <string name="import_default_purpose" formatted="false">هدف سفرهایی که به‌عنوان خانه-محل کار شناسایی نشدند</string>
+    <string name="import_period">از %1$s تا %2$s</string>
+    <string name="import_confirm">درون‌ریزی %1$d سفر</string>
+    <string name="import_done">سفرهای درون‌ریزی‌شده: %1$d</string>
+    <string name="import_nothing_new" formatted="false">سفر جدیدی نیست: قبلاً درون‌ریزی شده بودند.</string>
+    <string name="import_unreadable" formatted="false">این فایل یک سابقهٔ موقعیت مکانی قابل خواندن نیست.</string>
+    <string name="import_commute_hint" formatted="false">جابه‌جایی‌های بین خانه و محل کار شما وقتی شناسایی می‌شوند که فایل آن‌ها را مشخص کرده باشد؛ این سفرها هدف خانه-محل کار می‌گیرند.</string>
+    <string name="backup_title" formatted="false">پشتیبان‌گیری</string>
+    <string name="backup_explain" formatted="false">داده‌های شما فقط با تصمیم خودتان از دستگاه خارج می‌شوند. نسخهٔ پشتیبان فایلی است که می‌توانید هر جا نگه دارید و روی هر دستگاهی بازیابی کنید.</string>
+    <string name="backup_export" formatted="false">خروجی نسخهٔ پشتیبان</string>
+    <string name="backup_restore" formatted="false">بازیابی نسخهٔ پشتیبان</string>
+    <string name="backup_restore_help" formatted="false">بازیابی ادغام می‌کند: هیچ‌چیز از آنچه از آن زمان وارد کرده‌اید از دست نمی‌رود.</string>
+    <string name="backup_restored">نسخهٔ پشتیبان بازیابی شد: در مجموع %1$d سفر.</string>
+    <string name="backup_invalid" formatted="false">این فایل نسخهٔ پشتیبان این برنامه نیست.</string>
+    <string name="cloud_title" formatted="false">پشتیبان‌گیری ابری</string>
+    <string name="cloud_explain" formatted="false">کپی خودکار داده‌های شما در فضای ابری دستگاهتان، بدون حساب اضافی. پس از هر تغییر به‌روز می‌شود.</string>
+    <string name="cloud_now" formatted="false">پشتیبان‌گیری همین حالا</string>
+    <string name="cloud_restore" formatted="false">بازیابی از ابر</string>
+    <string name="cloud_last">آخرین پشتیبان‌گیری ابری: %1$s</string>
+    <string name="cloud_never" formatted="false">هنوز پشتیبان ابری وجود ندارد.</string>
+    <string name="cloud_unavailable" formatted="false">پشتیبان‌گیری ابری روی این دستگاه در دسترس نیست. از خروجی نسخهٔ پشتیبان استفاده کنید.</string>
+    <string name="cloud_done" formatted="false">پشتیبان‌گیری ابری انجام شد.</string>
+    <string name="cloud_nothing" formatted="false">پشتیبان ابری‌ای برای بازیابی وجود ندارد.</string>
+    <string name="cloud_system_restore" formatted="false">سیستم هنگام نصب دوبارهٔ برنامه یا راه‌اندازی دستگاه جدید، این نسخهٔ پشتیبان را خودش بازیابی می‌کند.</string>
+    <string name="settings" formatted="false">تنظیمات</string>
+    <string name="rules_title" formatted="false">قواعد محاسبه</string>
+    <string name="rule_fr" formatted="false">جدول نرخ کیلومتری فرانسه</string>
+    <string name="rule_generic" formatted="false">نرخ ثابت به ازای هر کیلومتر</string>
+    <string name="generic_rate" formatted="false">نرخ هر کیلومتر</string>
+    <string name="currency" formatted="false">واحد پول</string>
+    <string name="home_label" formatted="false">نام خانهٔ شما</string>
+    <string name="work_label" formatted="false">نام محل کار شما</string>
+    <string name="home_work_distance" formatted="false">فاصلهٔ خانه تا محل کار (یک‌طرفه، کیلومتر)</string>
+    <string name="places_help" formatted="false">برای سفرهای دلخواه و درون‌ریزی سابقه به کار می‌روند.</string>
+    <string name="pro_title" formatted="false">نسخهٔ Pro</string>
+    <string name="pro_subtitle" formatted="false">هر آنچه برای هزینه‌های واقعی‌تان لازم است، بدون هیچ آگهی.</string>
+    <string name="pro_features_title" formatted="false">امکانات بازشده:</string>
+    <string name="pro_feature_unlimited" formatted="false">سفرهای نامحدود.</string>
+    <string name="pro_feature_estimation" formatted="false">برآورد هزینه‌های واقعی و مقایسه با کسر ثابت.</string>
+    <string name="pro_feature_export" formatted="false">خروجی کامل و معتبر (PDF مرتب، قالب صفحه‌گسترده آمادهٔ تحویل به حسابدار یا اظهارنامهٔ مالیاتی).</string>
+    <string name="pro_feature_import" formatted="false">درون‌ریزی سابقهٔ سفرهای تلفن شما.</string>
+    <string name="pro_feature_expenses" formatted="false">افزودن عوارض، پارکینگ و سوخت به برآورد.</string>
+    <string name="pro_feature_cloud" formatted="false">بازیابی از فایل پشتیبان و همگام‌سازی بین دستگاه‌هایتان.</string>
+    <string name="pro_feature_widgets" formatted="false">ابزارک صفحهٔ اصلی.</string>
+    <string name="pro_feature_watch" formatted="false">برنامهٔ ساعت.</string>
+    <string name="pro_feature_no_ads" formatted="false">بدون هیچ آگهی.</string>
+    <string name="pro_feature_gps" formatted="false">ردیابی خودکار GPS (تشخیص حرکت یا اتصال بلوتوث به خودرو).</string>
+    <string name="pro_feature_scan" formatted="false">اسکن هوشمند (OCR) رسیدهای عوارض، پارکینگ و سوخت با دوربین.</string>
+    <string name="pro_monthly">%1$s در ماه</string>
+    <string name="pro_yearly">%1$s در سال</string>
+    <string name="pro_yearly_hint" formatted="false">دو ماه رایگان نسبت به اشتراک ماهانه</string>
+    <string name="subscribe" formatted="false">اشتراک</string>
+    <string name="restore_purchases" formatted="false">بازیابی خریدها</string>
+    <string name="pro_active" formatted="false">نسخهٔ Pro فعال است</string>
+    <string name="pro_active_since">اشتراک: %1$s</string>
+    <string name="pro_unavailable" formatted="false">خرید در این نسخه از برنامه در دسترس نیست.</string>
+    <string name="pro_legal" formatted="false">اشتراک با تمدید خودکار که از حساب فروشگاه شما کسر می‌شود. هر زمان از تنظیمات فروشگاه قابل لغو است؛ مبلغ دورهٔ بعد کسر می‌شود مگر اینکه دست‌کم ۲۴ ساعت پیش از پایان دوره لغو شود.</string>
+    <string name="purchase_pending" formatted="false">خرید در حال انجام…</string>
+    <string name="purchase_failed" formatted="false">خرید کامل نشد.</string>
+    <string name="purchase_restored" formatted="false">خریدها بازیابی شدند.</string>
+    <string name="purchase_nothing" formatted="false">چیزی برای بازیابی نیست.</string>
+    <string name="rewarded_title" formatted="false">امتحان با یک آگهی</string>
+    <string name="rewarded_explain" formatted="false">یک آگهی کوتاه تماشا کنید تا این امکان برای مدتی باز شود. Pro آگهی‌ها را حذف می‌کند و همه‌چیز را باز می‌کند.</string>
+    <string name="rewarded_estimation" formatted="false">دیدن برآورد به مدت ۲۴ ساعت</string>
+    <string name="rewarded_export" formatted="false">یک خروجی، در یک ساعت</string>
+    <string name="rewarded_trips" formatted="false">۵ سفر دیگر در این ماه</string>
+    <string name="rewarded_watch" formatted="false">تماشای آگهی</string>
+    <string name="rewarded_unavailable" formatted="false">فعلاً آگهی‌ای در دسترس نیست. کمی بعد دوباره امتحان کنید.</string>
+    <string name="rewarded_granted" formatted="false">باز شد. سفر خوش!</string>
+    <string name="expenses" formatted="false">هزینه‌ها</string>
+    <string name="add_expense" formatted="false">هزینهٔ جدید</string>
+    <string name="edit_expense" formatted="false">ویرایش هزینه</string>
+    <string name="expense_kind" formatted="false">نوع</string>
+    <string name="kind_toll" formatted="false">عوارض</string>
+    <string name="kind_parking" formatted="false">پارکینگ</string>
+    <string name="kind_fuel" formatted="false">سوخت</string>
+    <string name="kind_other" formatted="false">سایر</string>
+    <string name="amount" formatted="false">مبلغ</string>
+    <string name="place" formatted="false">مکان</string>
+    <string name="litres" formatted="false">لیتر</string>
+    <string name="odometer" formatted="false">عدد کیلومترشمار</string>
+    <string name="no_expenses" formatted="false">هزینه‌ای ثبت نشده است. عوارض و پارکینگ به برآورد اضافه می‌شوند.</string>
+    <string name="invalid_amount" formatted="false">مبلغی بزرگ‌تر از ۰ وارد کنید.</string>
+    <string name="legal_title" formatted="false">حقوقی و حریم خصوصی</string>
+    <string name="privacy_text" formatted="false">همهٔ داده‌های شما روی دستگاهتان می‌ماند. برنامه هیچ حسابی نمی‌خواهد و چیزی به هیچ سروری نمی‌فرستد. تنها تبادل‌ها با بیرون آن‌هایی هستند که خودتان آغاز می‌کنید، یک خروجی، یک نسخهٔ پشتیبان یا یک خرید، و آگهی‌های نسخهٔ رایگان که نسخهٔ Pro حذفشان می‌کند.</string>
+    <string name="about" formatted="false">درباره</string>
+    <string name="version">نسخهٔ %1$s</string>
+    <string name="error_generic" formatted="false">خطایی رخ داد.</string>
+    <string name="today" formatted="false">امروز</string>
+    <string name="yesterday" formatted="false">دیروز</string>
+    <string name="ads_privacy_options" formatted="false">گزینه‌های حریم خصوصی آگهی‌ها</string>
+    <string name="ads_disabled_title" formatted="false">آگهی‌ها غیرفعال هستند</string>
+    <string name="ads_disabled_text" formatted="false">سیستم نشان می‌دهد که این حساب به یک کاربر کم‌سن تعلق دارد. بنابراین برنامه هیچ آگهی‌ای نشان نمی‌دهد و هیچ رضایتی نمی‌خواهد. هیچ شناسهٔ تبلیغاتی خوانده نمی‌شود و هیچ داده‌ای جمع‌آوری یا ارسال نمی‌شود.</string>
+    <string name="watch_quick_add" formatted="false">سفر سریع</string>
+    <string name="watch_no_favorites" formatted="false">سفرهای دلخواه را روی تلفن خود اضافه کنید.</string>
+    <string name="watch_added" formatted="false">اضافه شد</string>
+    <string name="watch_open_phone" formatted="false">باز کردن برنامهٔ تلفن</string>
+    <string name="widget_today" formatted="false">امروز</string>
+    <string name="widget_month" formatted="false">این ماه</string>
+    <string name="widget_pro_needed" formatted="false">ابزارک با Pro در دسترس است</string>
+</resources>

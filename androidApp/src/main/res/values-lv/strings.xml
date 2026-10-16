@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometri</string>
+    <string name="widget_name" formatted="false">Braucieni</string>
+    <string name="widget_description" formatted="false">Šodienas kilometri un jūsu iecienītie braucieni ar vienu pieskārienu.</string>
+    <string name="tab_trips" formatted="false">Braucieni</string>
+    <string name="tab_estimate" formatted="false">Aplēse</string>
+    <string name="tab_more" formatted="false">Vairāk</string>
+    <string name="this_month" formatted="false">Šomēnes</string>
+    <string name="this_year" formatted="false">Šogad</string>
+    <string name="trips_count">Braucieni: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Jauns brauciens</string>
+    <string name="free_remaining">Šomēnes atlikuši bezmaksas braucieni: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Šomēnes sasniegts bezmaksas limits</string>
+    <string name="free_quota_reached" formatted="false">Bezmaksas versija atļauj 5 braucienus mēnesī. Iegādājieties Pro neierobežotiem braucieniem vai noskatieties reklāmu, lai saņemtu vēl 5.</string>
+    <string name="go_pro" formatted="false">Iegūt Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Vēl nav braucienu.\nPieskarieties +, lai ierakstītu pirmo.</string>
+    <string name="trip_new" formatted="false">Jauns brauciens</string>
+    <string name="trip_edit" formatted="false">Rediģēt braucienu</string>
+    <string name="field_date" formatted="false">Datums</string>
+    <string name="field_from" formatted="false">No</string>
+    <string name="field_to" formatted="false">Uz</string>
+    <string name="field_distance" formatted="false">Attālums vienā virzienā (km)</string>
+    <string name="field_round_trip" formatted="false">Turp un atpakaļ</string>
+    <string name="field_purpose" formatted="false">Mērķis</string>
+    <string name="field_vehicle" formatted="false">Transportlīdzeklis</string>
+    <string name="field_note" formatted="false">Piezīme</string>
+    <string name="field_justified" formatted="false">Īpaši apstākļi</string>
+    <string name="field_justified_help" formatted="false">Atzīmējiet, ja attālums starp mājām un darbu pārsniedz 40 km īpaša iemesla dēļ vai ja tas ir pamatots papildu brauciens turp un atpakaļ tajā pašā dienā.</string>
+    <string name="purpose_commute" formatted="false">Mājas–darbs</string>
+    <string name="purpose_business" formatted="false">Darba</string>
+    <string name="purpose_personal" formatted="false">Personisks</string>
+    <string name="save" formatted="false">Saglabāt</string>
+    <string name="cancel" formatted="false">Atcelt</string>
+    <string name="delete" formatted="false">Dzēst</string>
+    <string name="edit" formatted="false">Rediģēt</string>
+    <string name="ok" formatted="false">Labi</string>
+    <string name="close" formatted="false">Aizvērt</string>
+    <string name="back" formatted="false">Atpakaļ</string>
+    <string name="confirm_delete" formatted="false">Dzēst neatgriezeniski?</string>
+    <string name="invalid_distance" formatted="false">Ievadiet attālumu, kas lielāks par 0.</string>
+    <string name="favorites" formatted="false">Izlase</string>
+    <string name="save_as_favorite" formatted="false">Saglabāt arī izlasē</string>
+    <string name="favorite_label" formatted="false">Izlases nosaukums</string>
+    <string name="no_favorites" formatted="false">Saglabājiet braucienu izlasē, lai to ierakstītu ar vienu pieskārienu.</string>
+    <string name="use_favorite" formatted="false">Iecienītie braucieni</string>
+    <string name="swap" formatted="false">Apmainīt</string>
+    <string name="quick_add_hint" formatted="false">Pieskarieties izlases braucienam, lai to pievienotu šodienai.</string>
+    <string name="added" formatted="false">Brauciens pievienots.</string>
+    <string name="undo" formatted="false">Atsaukt</string>
+    <string name="vehicles" formatted="false">Transportlīdzekļi</string>
+    <string name="add_vehicle" formatted="false">Pievienot transportlīdzekli</string>
+    <string name="edit_vehicle" formatted="false">Rediģēt transportlīdzekli</string>
+    <string name="vehicle_name" formatted="false">Nosaukums</string>
+    <string name="vehicle_kind" formatted="false">Veids</string>
+    <string name="kind_car" formatted="false">Automašīna</string>
+    <string name="kind_motorcycle" formatted="false">Motocikls</string>
+    <string name="kind_moped" formatted="false">Mopēds</string>
+    <string name="fiscal_power" formatted="false">Fiskālā jauda (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV un vairāk</string>
+    <string name="cv_or_less">%1$d CV un mazāk</string>
+    <string name="cv_range_3_5" formatted="false">3 līdz 5 CV</string>
+    <string name="electric" formatted="false">Elektrotransportlīdzeklis</string>
+    <string name="no_vehicle" formatted="false">Nav transportlīdzekļa. Pievienojiet vienu: aplēsei tas ir nepieciešams.</string>
+    <string name="default_vehicle" formatted="false">Noklusējuma transportlīdzeklis</string>
+    <string name="vehicle_needed" formatted="false">Vispirms pievienojiet transportlīdzekli sadaļā Vairāk &gt; Transportlīdzekļi.</string>
+    <string name="estimation" formatted="false">Faktisko izdevumu aplēse</string>
+    <string name="income_year">Ienākumu gads %1$d</string>
+    <string name="estimation_locked" formatted="false">Faktisko izdevumu aplēse, eksports, vēstures imports un dublējuma atjaunošana ir pieejami Pro versijā.</string>
+    <string name="disclaimer_short" formatted="false">Orientējoša aplēse, bez garantijas.</string>
+    <string name="disclaimer_long" formatted="false">Šī aplēse ir orientējoša un nav garantēta. Tā nav nodokļu konsultācija un neaizstāj ne oficiālos tekstus, ne nodokļu administrāciju, ne speciālistu. Pirms deklarēšanas pārbaudiet jūsu situācijai piemērojamos noteikumus.</string>
+    <string name="commute_km_raw" formatted="false">Ievadītie mājas–darbs km</string>
+    <string name="commute_km_retained" formatted="false">Vērā ņemtie mājas–darbs km</string>
+    <string name="business_km" formatted="false">Darba km</string>
+    <string name="retained_km" formatted="false">Vērā ņemtie km</string>
+    <string name="allowance" formatted="false">Kilometru kompensācija</string>
+    <string name="tolls_parking" formatted="false">Ceļa nodevas un stāvvietas</string>
+    <string name="total" formatted="false">Aplēstā kopsumma</string>
+    <string name="flat_deduction" formatted="false">Fiksētais 10 % atskaitījums</string>
+    <string name="real_better" formatted="false">Faktiskie izdevumi šķiet izdevīgāki nekā fiksētais atskaitījums.</string>
+    <string name="flat_better" formatted="false">Fiksētais atskaitījums šķiet izdevīgāks nekā faktiskie izdevumi.</string>
+    <string name="enter_salary" formatted="false">Ievadiet savu gada neto ar nodokli apliekamo algu, lai salīdzinātu ar fiksēto atskaitījumu.</string>
+    <string name="net_taxable_salary" formatted="false">Gada neto ar nodokli apliekamā alga</string>
+    <string name="per_vehicle" formatted="false">Par transportlīdzekli</string>
+    <string name="note_scale_unconfirmed" formatted="false">Šā gada likmju tabula vēl nav publicēta: tiek piemērota pēdējā zināmā tabula.</string>
+    <string name="note_cap_applied" formatted="false">Viens vai vairāki mājas–darbs posmi tika ierobežoti līdz 40 km, jo nav norādīti īpaši apstākļi.</string>
+    <string name="note_extra_legs" formatted="false">Papildus vienam mājas–darbs braucienam turp un atpakaļ dienā braucieni bez īpašiem apstākļiem netika iekļauti.</string>
+    <string name="note_no_vehicle" formatted="false">Braucieni bez transportlīdzekļa tika ignorēti: izvēlieties noklusējuma transportlīdzekli.</string>
+    <string name="note_fuel">Ievadītā degviela (%1$s) netiek pieskaitīta: kilometru tabula to jau ietver.</string>
+    <string name="note_no_salary" formatted="false">Alga nav ievadīta: nav salīdzinājuma ar fiksēto atskaitījumu.</string>
+    <string name="documents_title" formatted="false">Saglabājamie dokumenti</string>
+    <string name="documents_list" formatted="false">Transportlīdzekļa reģistrācijas apliecība\nDarba līgums vai darba devēja izziņa\nNostrādāto dienu uzskaite\nCeļa nodevu un stāvvietu čeki\nViss, kas pamato īpašos apstākļus</string>
+    <string name="export" formatted="false">Eksportēt</string>
+    <string name="export_title" formatted="false">Eksports</string>
+    <string name="export_pdf" formatted="false">PDF atskaite</string>
+    <string name="export_xlsx" formatted="false">Izklājlapu darbgrāmata</string>
+    <string name="export_csv" formatted="false">CSV fails</string>
+    <string name="export_period" formatted="false">Periods</string>
+    <string name="year" formatted="false">Gads</string>
+    <string name="export_from" formatted="false">No</string>
+    <string name="export_to" formatted="false">Līdz</string>
+    <string name="export_include_estimation" formatted="false">Iekļaut gada aplēsi</string>
+    <string name="export_share" formatted="false">Fails tiek atvērts koplietošanas izvēlnē: saglabājiet vai nosūtiet to.</string>
+    <string name="export_failed" formatted="false">Eksports neizdevās.</string>
+    <string name="report_title" formatted="false">Kilometrāžas atskaite</string>
+    <string name="generated_on">Izveidots %1$s</string>
+    <string name="yes" formatted="false">jā</string>
+    <string name="no" formatted="false">nē</string>
+    <string name="import_title" formatted="false">Importēt vēsturi</string>
+    <string name="import_help" formatted="false">Ja jūsu tālrunis glabā jūsu atrašanās vietu vēsturi, varat to eksportēt kā JSON failu no lietotnes, kas to pārvalda, un pēc tam atvērt šeit. Tiek nolasīti tikai braucieni ar transportlīdzekli. Fails netiek saglabāts: tiek saglabāts tikai datums, attālums un, ja zināmi, sākuma un galapunkts.</string>
+    <string name="import_pick" formatted="false">Izvēlēties failu</string>
+    <string name="import_reading" formatted="false">Nolasa…</string>
+    <string name="import_found">Atrasti braucieni ar transportlīdzekli: %1$d</string>
+    <string name="import_skipped">Citi ignorētie pārvietošanās veidi (kājām, ar velosipēdu, sabiedriskais transports): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Mērķis braucieniem, kas nav atpazīti kā mājas–darbs</string>
+    <string name="import_period">No %1$s līdz %2$s</string>
+    <string name="import_confirm">Importēt %1$d braucienus</string>
+    <string name="import_done">Importētie braucieni: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Nav jaunu braucienu: tie jau bija importēti.</string>
+    <string name="import_unreadable" formatted="false">Šis fails nav nolasāma atrašanās vietu vēsture.</string>
+    <string name="import_commute_hint" formatted="false">Braucieni starp jūsu mājām un darbavietu tiek atpazīti, ja fails tos tā apzīmē; tie saņem mērķi mājas–darbs.</string>
+    <string name="backup_title" formatted="false">Dublējums</string>
+    <string name="backup_explain" formatted="false">Jūsu dati atstāj jūsu ierīci tikai tad, kad jūs tā izlemjat. Dublējums ir fails, ko varat glabāt jebkur un atjaunot jebkurā ierīcē.</string>
+    <string name="backup_export" formatted="false">Eksportēt dublējumu</string>
+    <string name="backup_restore" formatted="false">Atjaunot dublējumu</string>
+    <string name="backup_restore_help" formatted="false">Atjaunošana apvieno: nekas no tā, ko esat ievadījis kopš tā laika, netiek zaudēts.</string>
+    <string name="backup_restored">Dublējums atjaunots: kopā %1$d braucieni.</string>
+    <string name="backup_invalid" formatted="false">Šis fails nav šīs lietotnes dublējums.</string>
+    <string name="cloud_title" formatted="false">Mākoņa dublējums</string>
+    <string name="cloud_explain" formatted="false">Automātiska jūsu datu kopija jūsu ierīces mākoņa krātuvē, bez papildu konta. Tā tiek atjaunota pēc katras izmaiņas.</string>
+    <string name="cloud_now" formatted="false">Dublēt tagad</string>
+    <string name="cloud_restore" formatted="false">Atjaunot no mākoņa</string>
+    <string name="cloud_last">Pēdējais mākoņa dublējums: %1$s</string>
+    <string name="cloud_never" formatted="false">Mākoņa dublējuma vēl nav.</string>
+    <string name="cloud_unavailable" formatted="false">Mākoņa dublējums šajā ierīcē nav pieejams. Izmantojiet dublējuma eksportu.</string>
+    <string name="cloud_done" formatted="false">Mākoņa dublējums pabeigts.</string>
+    <string name="cloud_nothing" formatted="false">Nav mākoņa dublējuma, ko atjaunot.</string>
+    <string name="cloud_system_restore" formatted="false">Sistēma šo dublējumu atjauno pati, kad pārinstalējat lietotni vai iestatāt jaunu ierīci.</string>
+    <string name="settings" formatted="false">Iestatījumi</string>
+    <string name="rules_title" formatted="false">Aprēķina noteikumi</string>
+    <string name="rule_fr" formatted="false">Francijas kilometru tabula</string>
+    <string name="rule_generic" formatted="false">Fiksēta likme par kilometru</string>
+    <string name="generic_rate" formatted="false">Likme par kilometru</string>
+    <string name="currency" formatted="false">Valūta</string>
+    <string name="home_label" formatted="false">Jūsu māju nosaukums</string>
+    <string name="work_label" formatted="false">Jūsu darbavietas nosaukums</string>
+    <string name="home_work_distance" formatted="false">Attālums mājas–darbs (vienā virzienā, km)</string>
+    <string name="places_help" formatted="false">Izmanto iecienītajiem braucieniem un vēstures importam.</string>
+    <string name="pro_title" formatted="false">Pro versija</string>
+    <string name="pro_subtitle" formatted="false">Viss, kas nepieciešams jūsu faktiskajiem izdevumiem, un bez reklāmām.</string>
+    <string name="pro_features_title" formatted="false">Atbloķētās funkcijas:</string>
+    <string name="pro_feature_unlimited" formatted="false">Neierobežoti braucieni.</string>
+    <string name="pro_feature_estimation" formatted="false">Faktisko izdevumu aplēse un salīdzinājums ar fiksēto atskaitījumu.</string>
+    <string name="pro_feature_export" formatted="false">Pilnīgs, sertificēts eksports (tīrs PDF, izklājlapas formāts grāmatvedim vai nodokļu deklarācijai).</string>
+    <string name="pro_feature_import" formatted="false">Jūsu tālruņa braucienu vēstures imports.</string>
+    <string name="pro_feature_expenses" formatted="false">Ceļa nodevas, stāvvietas un degviela pievienotas aplēsei.</string>
+    <string name="pro_feature_cloud" formatted="false">Atjaunošana no dublējuma faila un sinhronizācija starp jūsu ierīcēm.</string>
+    <string name="pro_feature_widgets" formatted="false">Sākuma ekrāna logrīks.</string>
+    <string name="pro_feature_watch" formatted="false">Lietotne pulkstenim.</string>
+    <string name="pro_feature_no_ads" formatted="false">Nekādu reklāmu.</string>
+    <string name="pro_feature_gps" formatted="false">Automātiska GPS izsekošana (kustības noteikšana vai Bluetooth savienojums ar automašīnu).</string>
+    <string name="pro_feature_scan" formatted="false">Ceļa nodevu, stāvvietu un degvielas čeku viedā skenēšana (OCR) ar kameru.</string>
+    <string name="pro_monthly">%1$s mēnesī</string>
+    <string name="pro_yearly">%1$s gadā</string>
+    <string name="pro_yearly_hint" formatted="false">Divi mēneši bez maksas salīdzinājumā ar mēneša abonementu</string>
+    <string name="subscribe" formatted="false">Abonēt</string>
+    <string name="restore_purchases" formatted="false">Atjaunot pirkumus</string>
+    <string name="pro_active" formatted="false">Pro versija aktīva</string>
+    <string name="pro_active_since">Abonements: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Pirkumi šajā lietotnes versijā nav pieejami.</string>
+    <string name="pro_legal" formatted="false">Automātiski atjaunojams abonements, kas tiek iekasēts no jūsu veikala konta. Atcelt var jebkurā laikā veikala iestatījumos; maksa par nākamo periodu tiek iekasēta, ja abonements nav atcelts vismaz 24 stundas pirms tā beigām.</string>
+    <string name="purchase_pending" formatted="false">Notiek pirkums…</string>
+    <string name="purchase_failed" formatted="false">Pirkums netika pabeigts.</string>
+    <string name="purchase_restored" formatted="false">Pirkumi atjaunoti.</string>
+    <string name="purchase_nothing" formatted="false">Nav ko atjaunot.</string>
+    <string name="rewarded_title" formatted="false">Izmēģināt ar reklāmu</string>
+    <string name="rewarded_explain" formatted="false">Noskatieties īsu reklāmu, lai uz laiku atbloķētu šo funkciju. Pro noņem reklāmas un atbloķē visu.</string>
+    <string name="rewarded_estimation" formatted="false">Skatīt aplēsi 24 stundas</string>
+    <string name="rewarded_export" formatted="false">Viens eksports stundas laikā</string>
+    <string name="rewarded_trips" formatted="false">Vēl 5 braucieni šomēnes</string>
+    <string name="rewarded_watch" formatted="false">Skatīties reklāmu</string>
+    <string name="rewarded_unavailable" formatted="false">Pašlaik nav pieejamas reklāmas. Mēģiniet vēlreiz pēc brīža.</string>
+    <string name="rewarded_granted" formatted="false">Atbloķēts. Laimīgu ceļu!</string>
+    <string name="expenses" formatted="false">Izdevumi</string>
+    <string name="add_expense" formatted="false">Jauns izdevums</string>
+    <string name="edit_expense" formatted="false">Rediģēt izdevumu</string>
+    <string name="expense_kind" formatted="false">Veids</string>
+    <string name="kind_toll" formatted="false">Ceļa nodeva</string>
+    <string name="kind_parking" formatted="false">Stāvvieta</string>
+    <string name="kind_fuel" formatted="false">Degviela</string>
+    <string name="kind_other" formatted="false">Cits</string>
+    <string name="amount" formatted="false">Summa</string>
+    <string name="place" formatted="false">Vieta</string>
+    <string name="litres" formatted="false">Litri</string>
+    <string name="odometer" formatted="false">Odometra rādījums</string>
+    <string name="no_expenses" formatted="false">Nav izdevumu. Ceļa nodevas un stāvvietas tiek pieskaitītas aplēsei.</string>
+    <string name="invalid_amount" formatted="false">Ievadiet summu, kas lielāka par 0.</string>
+    <string name="legal_title" formatted="false">Juridiskā informācija un privātums</string>
+    <string name="privacy_text" formatted="false">Visi jūsu dati paliek jūsu ierīcē. Lietotne neprasa kontu un neko nesūta uz serveri. Vienīgā apmaiņa ar ārpasauli ir tā, ko ierosināt jūs pats, eksports, dublējums vai pirkums, kā arī bezmaksas versijas reklāmas, kuras Pro versija noņem.</string>
+    <string name="about" formatted="false">Par lietotni</string>
+    <string name="version">Versija %1$s</string>
+    <string name="error_generic" formatted="false">Radās kļūda.</string>
+    <string name="today" formatted="false">Šodien</string>
+    <string name="yesterday" formatted="false">Vakar</string>
+    <string name="ads_privacy_options" formatted="false">Reklāmu privātuma opcijas</string>
+    <string name="ads_disabled_title" formatted="false">Reklāmas ir atspējotas</string>
+    <string name="ads_disabled_text" formatted="false">Sistēma norāda, ka šis konts pieder jaunam lietotājam. Tāpēc lietotne nerāda reklāmas un neprasa piekrišanu. Netiek nolasīts reklāmas identifikators, un dati netiek vākti vai sūtīti.</string>
+    <string name="watch_quick_add" formatted="false">Ātrs brauciens</string>
+    <string name="watch_no_favorites" formatted="false">Pievienojiet iecienītos braucienus savā tālrunī.</string>
+    <string name="watch_added" formatted="false">Pievienots</string>
+    <string name="watch_open_phone" formatted="false">Atvērt tālruņa lietotni</string>
+    <string name="widget_today" formatted="false">Šodien</string>
+    <string name="widget_month" formatted="false">Šomēnes</string>
+    <string name="widget_pro_needed" formatted="false">Logrīks pieejams ar Pro</string>
+</resources>

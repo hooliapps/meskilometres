@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Кіламетры</string>
+    <string name="widget_name" formatted="false">Паездкі</string>
+    <string name="widget_description" formatted="false">Кіламетры за сёння і вашы абраныя паездкі ў адзін дотык.</string>
+    <string name="tab_trips" formatted="false">Паездкі</string>
+    <string name="tab_estimate" formatted="false">Ацэнка</string>
+    <string name="tab_more" formatted="false">Яшчэ</string>
+    <string name="this_month" formatted="false">У гэтым месяцы</string>
+    <string name="this_year" formatted="false">У гэтым годзе</string>
+    <string name="trips_count">Паездак: %1$d</string>
+    <string name="km_value">%1$s км</string>
+    <string name="add_trip" formatted="false">Новая паездка</string>
+    <string name="free_remaining">Бясплатных паездак у гэтым месяцы засталося: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Бясплатны ліміт на гэты месяц вычарпаны</string>
+    <string name="free_quota_reached" formatted="false">Бясплатная версія дазваляе 5 паездак у месяц. Перайдзіце на Pro для неабмежаваных паездак або паглядзіце рэкламу, каб атрымаць яшчэ 5.</string>
+    <string name="go_pro" formatted="false">Перайсці на Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Паездак пакуль няма.\nНацісніце +, каб дадаць першую.</string>
+    <string name="trip_new" formatted="false">Новая паездка</string>
+    <string name="trip_edit" formatted="false">Змяніць паездку</string>
+    <string name="field_date" formatted="false">Дата</string>
+    <string name="field_from" formatted="false">Адкуль</string>
+    <string name="field_to" formatted="false">Куды</string>
+    <string name="field_distance" formatted="false">Адлегласць у адзін бок (км)</string>
+    <string name="field_round_trip" formatted="false">Туды і назад</string>
+    <string name="field_purpose" formatted="false">Мэта</string>
+    <string name="field_vehicle" formatted="false">Транспарт</string>
+    <string name="field_note" formatted="false">Нататка</string>
+    <string name="field_justified" formatted="false">Асаблівыя абставіны</string>
+    <string name="field_justified_help" formatted="false">Адзначце, калі адлегласць ад дому да працы перавышае 40 км па асаблівай прычыне, або для абгрунтаванай дадатковай паездкі туды і назад у той жа дзень.</string>
+    <string name="purpose_commute" formatted="false">Дом – праца</string>
+    <string name="purpose_business" formatted="false">Службовая</string>
+    <string name="purpose_personal" formatted="false">Асабістая</string>
+    <string name="save" formatted="false">Захаваць</string>
+    <string name="cancel" formatted="false">Адмяніць</string>
+    <string name="delete" formatted="false">Выдаліць</string>
+    <string name="edit" formatted="false">Змяніць</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Закрыць</string>
+    <string name="back" formatted="false">Назад</string>
+    <string name="confirm_delete" formatted="false">Выдаліць назаўсёды?</string>
+    <string name="invalid_distance" formatted="false">Увядзіце адлегласць больш за 0.</string>
+    <string name="favorites" formatted="false">Абранае</string>
+    <string name="save_as_favorite" formatted="false">Таксама захаваць у абранае</string>
+    <string name="favorite_label" formatted="false">Назва абранага</string>
+    <string name="no_favorites" formatted="false">Захавайце паездку ў абранае, каб дадаваць яе ў адзін дотык.</string>
+    <string name="use_favorite" formatted="false">Абраныя паездкі</string>
+    <string name="swap" formatted="false">Памяняць месцамі</string>
+    <string name="quick_add_hint" formatted="false">Націсніце на абранае, каб дадаць яго на сёння.</string>
+    <string name="added" formatted="false">Паездка дададзена.</string>
+    <string name="undo" formatted="false">Адмяніць</string>
+    <string name="vehicles" formatted="false">Транспарт</string>
+    <string name="add_vehicle" formatted="false">Дадаць транспарт</string>
+    <string name="edit_vehicle" formatted="false">Змяніць транспарт</string>
+    <string name="vehicle_name" formatted="false">Назва</string>
+    <string name="vehicle_kind" formatted="false">Тып</string>
+    <string name="kind_car" formatted="false">Аўтамабіль</string>
+    <string name="kind_motorcycle" formatted="false">Матацыкл</string>
+    <string name="kind_moped" formatted="false">Мапед</string>
+    <string name="fiscal_power" formatted="false">Падатковая магутнасць</string>
+    <string name="cv">%1$d к. с.</string>
+    <string name="cv_or_more">%1$d к. с. і больш</string>
+    <string name="cv_or_less">%1$d к. с. і менш</string>
+    <string name="cv_range_3_5" formatted="false">Ад 3 да 5 к. с.</string>
+    <string name="electric" formatted="false">Электратранспарт</string>
+    <string name="no_vehicle" formatted="false">Няма транспарту. Дадайце яго: ён патрэбны для ацэнкі.</string>
+    <string name="default_vehicle" formatted="false">Транспарт па змаўчанні</string>
+    <string name="vehicle_needed" formatted="false">Спачатку дадайце транспарт у раздзеле Яшчэ &gt; Транспарт.</string>
+    <string name="estimation" formatted="false">Ацэнка фактычных выдаткаў</string>
+    <string name="income_year">Год даходаў %1$d</string>
+    <string name="estimation_locked" formatted="false">Ацэнка фактычных выдаткаў, экспарт, імпарт гісторыі і аднаўленне з рэзервовай копіі даступныя ў версіі Pro.</string>
+    <string name="disclaimer_short" formatted="false">Арыенціровачная ацэнка, без гарантый.</string>
+    <string name="disclaimer_long" formatted="false">Гэтая ацэнка мае арыенціровачны характар і не гарантуецца. Яна не з\'яўляецца падатковай кансультацыяй і не замяняе афіцыйныя дакументы, падатковую службу або спецыяліста. Праверце правілы, якія прымяняюцца да вашай сітуацыі, перш чым падаваць дэкларацыю.</string>
+    <string name="commute_km_raw" formatted="false">Км дом – праца ўведзена</string>
+    <string name="commute_km_retained" formatted="false">Км дом – праца ўлічана</string>
+    <string name="business_km" formatted="false">Службовыя км</string>
+    <string name="retained_km" formatted="false">Улічаныя км</string>
+    <string name="allowance" formatted="false">Кіламетражная кампенсацыя</string>
+    <string name="tolls_parking" formatted="false">Платныя дарогі і паркоўкі</string>
+    <string name="total" formatted="false">Разам (ацэнка)</string>
+    <string name="flat_deduction" formatted="false">Стандартны вылік 10 %</string>
+    <string name="real_better" formatted="false">Фактычныя выдаткі выглядаюць выгадней за стандартны вылік.</string>
+    <string name="flat_better" formatted="false">Стандартны вылік выглядае выгадней за фактычныя выдаткі.</string>
+    <string name="enter_salary" formatted="false">Укажыце гадавы чысты падаткаабкладаемы заробак, каб параўнаць са стандартным вылікам.</string>
+    <string name="net_taxable_salary" formatted="false">Гадавы чысты падаткаабкладаемы заробак</string>
+    <string name="per_vehicle" formatted="false">Па транспартных сродках</string>
+    <string name="note_scale_unconfirmed" formatted="false">Шкала на гэты год яшчэ не апублікаваная: прымяняецца апошняя вядомая.</string>
+    <string name="note_cap_applied" formatted="false">Адна або некалькі паездак дом – праца абмежаваныя 40 км, бо асаблівыя абставіны не ўказаныя.</string>
+    <string name="note_extra_legs" formatted="false">Акрамя адной паездкі дом – праца туды і назад у дзень, паездкі без асаблівых абставін не ўлічаныя.</string>
+    <string name="note_no_vehicle" formatted="false">Паездкі без транспарту прапушчаныя: выберыце транспарт па змаўчанні.</string>
+    <string name="note_fuel">Уведзенае паліва (%1$s) не дадаецца: кіламетражная шкала ўжо яго ўлічвае.</string>
+    <string name="note_no_salary" formatted="false">Заробак не ўказаны: параўнанне са стандартным вылікам немагчымае.</string>
+    <string name="documents_title" formatted="false">Дакументы, якія трэба захоўваць</string>
+    <string name="documents_list" formatted="false">Пасведчанне аб рэгістрацыі транспартнага сродку\nПрацоўны дагавор або даведка наймальніка\nУлік адпрацаваных дзён\nЧэкі за платныя дарогі і паркоўку\nУсё, што пацвярджае асаблівыя абставіны</string>
+    <string name="export" formatted="false">Экспарт</string>
+    <string name="export_title" formatted="false">Экспарт</string>
+    <string name="export_pdf" formatted="false">Справаздача PDF</string>
+    <string name="export_xlsx" formatted="false">Кніга табліц</string>
+    <string name="export_csv" formatted="false">Файл CSV</string>
+    <string name="export_period" formatted="false">Перыяд</string>
+    <string name="year" formatted="false">Год</string>
+    <string name="export_from" formatted="false">З</string>
+    <string name="export_to" formatted="false">Па</string>
+    <string name="export_include_estimation" formatted="false">Уключыць ацэнку за год</string>
+    <string name="export_share" formatted="false">Файл адкрыецца ў акне «Падзяліцца»: захавайце або адпраўце яго.</string>
+    <string name="export_failed" formatted="false">Экспарт не ўдаўся.</string>
+    <string name="report_title" formatted="false">Справаздача аб прабегу</string>
+    <string name="generated_on">Створана %1$s</string>
+    <string name="yes" formatted="false">так</string>
+    <string name="no" formatted="false">не</string>
+    <string name="import_title" formatted="false">Імпарт гісторыі</string>
+    <string name="import_help" formatted="false">Калі тэлефон захоўвае гісторыю вашых месцазнаходжанняў, вы можаце экспартаваць яе ў файл JSON з праграмы, якая ёю кіруе, а потым адкрыць тут. Чытаюцца толькі аўтамабільныя паездкі. Файл не захоўваецца: запісваюцца толькі дата, адлегласць і, калі вядомыя, пункты адпраўлення і прызначэння.</string>
+    <string name="import_pick" formatted="false">Выбраць файл</string>
+    <string name="import_reading" formatted="false">Чытанне…</string>
+    <string name="import_found">Знойдзена аўтамабільных паездак: %1$d</string>
+    <string name="import_skipped">Прапушчана іншых перамяшчэнняў (пешшу, на веласіпедзе, грамадскім транспартам): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Мэта для паездак, не распазнаных як дом – праца</string>
+    <string name="import_period">З %1$s па %2$s</string>
+    <string name="import_confirm">Імпартаваць паездак: %1$d</string>
+    <string name="import_done">Імпартавана паездак: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Новых паездак няма: яны ўжо былі імпартаваныя.</string>
+    <string name="import_unreadable" formatted="false">Гэты файл не з\'яўляецца чытэльнай гісторыяй месцазнаходжанняў.</string>
+    <string name="import_commute_hint" formatted="false">Паездкі паміж домам і працай распазнаюцца, калі файл іх так пазначае; ім прысвойваецца мэта «дом – праца».</string>
+    <string name="backup_title" formatted="false">Рэзервовая копія</string>
+    <string name="backup_explain" formatted="false">Вашы даныя пакідаюць прыладу толькі па вашым рашэнні. Рэзервовая копія — гэта файл, які можна захоўваць дзе заўгодна і аднавіць на любой прыладзе.</string>
+    <string name="backup_export" formatted="false">Экспартаваць копію</string>
+    <string name="backup_restore" formatted="false">Аднавіць з копіі</string>
+    <string name="backup_restore_help" formatted="false">Аднаўленне аб\'ядноўвае даныя: усё, што вы ўвялі з таго часу, захаваецца.</string>
+    <string name="backup_restored">Копія адноўленая: усяго паездак — %1$d.</string>
+    <string name="backup_invalid" formatted="false">Гэты файл не з\'яўляецца рэзервовай копіяй гэтай праграмы.</string>
+    <string name="cloud_title" formatted="false">Воблачная копія</string>
+    <string name="cloud_explain" formatted="false">Аўтаматычная копія вашых даных у воблачным сховішчы вашай прылады, без дадатковага ўліковага запісу. Абнаўляецца пасля кожнай змены.</string>
+    <string name="cloud_now" formatted="false">Захаваць зараз</string>
+    <string name="cloud_restore" formatted="false">Аднавіць з воблака</string>
+    <string name="cloud_last">Апошняя воблачная копія: %1$s</string>
+    <string name="cloud_never" formatted="false">Воблачнай копіі пакуль няма.</string>
+    <string name="cloud_unavailable" formatted="false">Воблачная копія недаступная на гэтай прыладзе. Скарыстайцеся экспартам рэзервовай копіі.</string>
+    <string name="cloud_done" formatted="false">Воблачная копія створаная.</string>
+    <string name="cloud_nothing" formatted="false">Няма воблачнай копіі для аднаўлення.</string>
+    <string name="cloud_system_restore" formatted="false">Сістэма сама аднаўляе гэтую копію пры пераўсталяванні праграмы або наладцы новай прылады.</string>
+    <string name="settings" formatted="false">Налады</string>
+    <string name="rules_title" formatted="false">Правілы разліку</string>
+    <string name="rule_fr" formatted="false">Французская кіламетражная шкала</string>
+    <string name="rule_generic" formatted="false">Фіксаваная стаўка за кіламетр</string>
+    <string name="generic_rate" formatted="false">Стаўка за кіламетр</string>
+    <string name="currency" formatted="false">Валюта</string>
+    <string name="home_label" formatted="false">Назва вашага дому</string>
+    <string name="work_label" formatted="false">Назва вашага месца працы</string>
+    <string name="home_work_distance" formatted="false">Адлегласць дом – праца (у адзін бок, км)</string>
+    <string name="places_help" formatted="false">Выкарыстоўваюцца для абраных паездак і імпарту гісторыі.</string>
+    <string name="pro_title" formatted="false">Версія Pro</string>
+    <string name="pro_subtitle" formatted="false">Усё патрэбнае для вашых фактычных выдаткаў, і ніякай рэкламы.</string>
+    <string name="pro_features_title" formatted="false">Разблакаваныя функцыі:</string>
+    <string name="pro_feature_unlimited" formatted="false">Неабмежаваныя паездкі.</string>
+    <string name="pro_feature_estimation" formatted="false">Ацэнка фактычных выдаткаў і параўнанне са стандартным вылікам.</string>
+    <string name="pro_feature_export" formatted="false">Поўны сертыфікаваны экспарт (акуратны PDF, таблічны фармат для бухгалтара або падатковай дэкларацыі).</string>
+    <string name="pro_feature_import" formatted="false">Імпарт гісторыі паездак з вашага тэлефона.</string>
+    <string name="pro_feature_expenses" formatted="false">Платныя дарогі, паркоўкі і паліва ў ацэнцы.</string>
+    <string name="pro_feature_cloud" formatted="false">Аднаўленне з рэзервовай копіі і сінхранізацыя паміж прыладамі.</string>
+    <string name="pro_feature_widgets" formatted="false">Віджэт на галоўным экране.</string>
+    <string name="pro_feature_watch" formatted="false">Праграма для гадзінніка.</string>
+    <string name="pro_feature_no_ads" formatted="false">Ніякай рэкламы.</string>
+    <string name="pro_feature_gps" formatted="false">Аўтаматычнае адсочванне GPS (па датчыках руху або Bluetooth-падключэнні да аўтамабіля).</string>
+    <string name="pro_feature_scan" formatted="false">Разумнае сканаванне (OCR) чэкаў за платныя дарогі, паркоўку і паліва камерай.</string>
+    <string name="pro_monthly">%1$s у месяц</string>
+    <string name="pro_yearly">%1$s у год</string>
+    <string name="pro_yearly_hint" formatted="false">Два месяцы бясплатна ў параўнанні з памесячнай аплатай</string>
+    <string name="subscribe" formatted="false">Аформіць падпіску</string>
+    <string name="restore_purchases" formatted="false">Аднавіць пакупкі</string>
+    <string name="pro_active" formatted="false">Версія Pro актыўная</string>
+    <string name="pro_active_since">Падпіска: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Пакупкі недаступныя ў гэтай версіі праграмы.</string>
+    <string name="pro_legal" formatted="false">Падпіска з аўтападаўжэннем, аплата спісваецца з рахунку вашай крамы праграм. Адмяніць можна ў любы момант у наладах крамы; плата за наступны перыяд спісваецца, калі падпіска не адмененая мінімум за 24 г да яго заканчэння.</string>
+    <string name="purchase_pending" formatted="false">Пакупка выконваецца…</string>
+    <string name="purchase_failed" formatted="false">Пакупка не завершаная.</string>
+    <string name="purchase_restored" formatted="false">Пакупкі адноўленыя.</string>
+    <string name="purchase_nothing" formatted="false">Няма чаго аднаўляць.</string>
+    <string name="rewarded_title" formatted="false">Паспрабаваць за прагляд рэкламы</string>
+    <string name="rewarded_explain" formatted="false">Паглядзіце кароткую рэкламу, каб на нейкі час разблакаваць гэтую функцыю. Pro прыбірае рэкламу і разблакуе ўсё.</string>
+    <string name="rewarded_estimation" formatted="false">Паказаць ацэнку на 24 гадзіны</string>
+    <string name="rewarded_export" formatted="false">Адзін экспарт на працягу гадзіны</string>
+    <string name="rewarded_trips" formatted="false">Яшчэ 5 паездак у гэтым месяцы</string>
+    <string name="rewarded_watch" formatted="false">Глядзець рэкламу</string>
+    <string name="rewarded_unavailable" formatted="false">Зараз рэклама недаступная. Паспрабуйце крыху пазней.</string>
+    <string name="rewarded_granted" formatted="false">Разблакавана. Шчаслівай дарогі!</string>
+    <string name="expenses" formatted="false">Выдаткі</string>
+    <string name="add_expense" formatted="false">Новы выдатак</string>
+    <string name="edit_expense" formatted="false">Змяніць выдатак</string>
+    <string name="expense_kind" formatted="false">Тып</string>
+    <string name="kind_toll" formatted="false">Платная дарога</string>
+    <string name="kind_parking" formatted="false">Паркоўка</string>
+    <string name="kind_fuel" formatted="false">Паліва</string>
+    <string name="kind_other" formatted="false">Іншае</string>
+    <string name="amount" formatted="false">Сума</string>
+    <string name="place" formatted="false">Месца</string>
+    <string name="litres" formatted="false">Літры</string>
+    <string name="odometer" formatted="false">Паказанні адометра</string>
+    <string name="no_expenses" formatted="false">Выдаткаў няма. Платныя дарогі і паркоўкі дадаюцца да ацэнкі.</string>
+    <string name="invalid_amount" formatted="false">Увядзіце суму больш за 0.</string>
+    <string name="legal_title" formatted="false">Прававая інфармацыя і канфідэнцыяльнасць</string>
+    <string name="privacy_text" formatted="false">Усе вашы даныя застаюцца на вашай прыладзе. Праграме не патрэбны ўліковы запіс, і яна нічога не адпраўляе на сервер. Адзіны абмен са знешнім светам — той, які запускаеце вы: экспарт, рэзервовая копія або пакупка, а таксама рэклама ў бясплатнай версіі, якую прыбірае версія Pro.</string>
+    <string name="about" formatted="false">Пра праграму</string>
+    <string name="version">Версія %1$s</string>
+    <string name="error_generic" formatted="false">Нешта пайшло не так.</string>
+    <string name="today" formatted="false">Сёння</string>
+    <string name="yesterday" formatted="false">Учора</string>
+    <string name="ads_privacy_options" formatted="false">Налады канфідэнцыяльнасці рэкламы</string>
+    <string name="ads_disabled_title" formatted="false">Рэклама адключаная</string>
+    <string name="ads_disabled_text" formatted="false">Сістэма паведамляе, што гэты ўліковы запіс належыць юнаму карыстальніку. Таму праграма не паказвае рэкламу і не запытвае згоды. Рэкламны ідэнтыфікатар не счытваецца, даныя не збіраюцца і не адпраўляюцца.</string>
+    <string name="watch_quick_add" formatted="false">Хуткая паездка</string>
+    <string name="watch_no_favorites" formatted="false">Дадайце абраныя паездкі на тэлефоне.</string>
+    <string name="watch_added" formatted="false">Дададзена</string>
+    <string name="watch_open_phone" formatted="false">Адкрыць праграму на тэлефоне</string>
+    <string name="widget_today" formatted="false">Сёння</string>
+    <string name="widget_month" formatted="false">У гэтым месяцы</string>
+    <string name="widget_pro_needed" formatted="false">Віджэт даступны з Pro</string>
+</resources>

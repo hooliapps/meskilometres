@@ -1,0 +1,1 @@
+chilometri,diario,viaggi,km,spese reali,tasse,tabella,pedaggio,parcheggio,veicolo,carburante

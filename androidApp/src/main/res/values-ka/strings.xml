@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">კილომეტრები</string>
+    <string name="widget_name" formatted="false">მგზავრობები</string>
+    <string name="widget_description" formatted="false">დღევანდელი კილომეტრები და თქვენი რჩეული მგზავრობები ერთი შეხებით.</string>
+    <string name="tab_trips" formatted="false">მგზავრობები</string>
+    <string name="tab_estimate" formatted="false">შეფასება</string>
+    <string name="tab_more" formatted="false">მეტი</string>
+    <string name="this_month" formatted="false">ამ თვეში</string>
+    <string name="this_year" formatted="false">წელს</string>
+    <string name="trips_count">მგზავრობები: %1$d</string>
+    <string name="km_value">%1$s კმ</string>
+    <string name="add_trip" formatted="false">ახალი მგზავრობა</string>
+    <string name="free_remaining">ამ თვეში დარჩენილი უფასო მგზავრობები: %1$d</string>
+    <string name="free_limit_reached" formatted="false">ამ თვის უფასო ლიმიტი ამოწურულია</string>
+    <string name="free_quota_reached" formatted="false">უფასო ვერსია თვეში 5 მგზავრობის საშუალებას იძლევა. გადადით Pro-ზე შეუზღუდავი მგზავრობებისთვის, ან უყურეთ რეკლამას კიდევ 5-ისთვის.</string>
+    <string name="go_pro" formatted="false">Pro-ზე გადასვლა</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">მგზავრობები ჯერ არ არის.\nშეეხეთ + პირველის ჩასაწერად.</string>
+    <string name="trip_new" formatted="false">ახალი მგზავრობა</string>
+    <string name="trip_edit" formatted="false">მგზავრობის რედაქტირება</string>
+    <string name="field_date" formatted="false">თარიღი</string>
+    <string name="field_from" formatted="false">საიდან</string>
+    <string name="field_to" formatted="false">სად</string>
+    <string name="field_distance" formatted="false">მანძილი ერთი მიმართულებით (კმ)</string>
+    <string name="field_round_trip" formatted="false">წასვლა-დაბრუნება</string>
+    <string name="field_purpose" formatted="false">მიზანი</string>
+    <string name="field_vehicle" formatted="false">ავტომობილი</string>
+    <string name="field_note" formatted="false">შენიშვნა</string>
+    <string name="field_justified" formatted="false">განსაკუთრებული გარემოება</string>
+    <string name="field_justified_help" formatted="false">მონიშნეთ, თუ სახლიდან სამსახურამდე მანძილი კონკრეტული მიზეზით 40 კმ-ს აღემატება, ან იმავე დღეს დასაბუთებული დამატებითი წასვლა-დაბრუნებისთვის.</string>
+    <string name="purpose_commute" formatted="false">სახლი-სამსახური</string>
+    <string name="purpose_business" formatted="false">სამსახურებრივი</string>
+    <string name="purpose_personal" formatted="false">პირადი</string>
+    <string name="save" formatted="false">შენახვა</string>
+    <string name="cancel" formatted="false">გაუქმება</string>
+    <string name="delete" formatted="false">წაშლა</string>
+    <string name="edit" formatted="false">რედაქტირება</string>
+    <string name="ok" formatted="false">კარგი</string>
+    <string name="close" formatted="false">დახურვა</string>
+    <string name="back" formatted="false">უკან</string>
+    <string name="confirm_delete" formatted="false">სამუდამოდ წაიშალოს?</string>
+    <string name="invalid_distance" formatted="false">შეიყვანეთ 0-ზე მეტი მანძილი.</string>
+    <string name="favorites" formatted="false">რჩეულები</string>
+    <string name="save_as_favorite" formatted="false">რჩეულადაც შენახვა</string>
+    <string name="favorite_label" formatted="false">რჩეულის სახელი</string>
+    <string name="no_favorites" formatted="false">შეინახეთ მგზავრობა რჩეულად, რომ ერთი შეხებით ჩაწეროთ.</string>
+    <string name="use_favorite" formatted="false">რჩეული მგზავრობები</string>
+    <string name="swap" formatted="false">გაცვლა</string>
+    <string name="quick_add_hint" formatted="false">შეეხეთ რჩეულს დღევანდელ დღეზე დასამატებლად.</string>
+    <string name="added" formatted="false">მგზავრობა დაემატა.</string>
+    <string name="undo" formatted="false">დაბრუნება</string>
+    <string name="vehicles" formatted="false">ავტომობილები</string>
+    <string name="add_vehicle" formatted="false">ავტომობილის დამატება</string>
+    <string name="edit_vehicle" formatted="false">ავტომობილის რედაქტირება</string>
+    <string name="vehicle_name" formatted="false">სახელი</string>
+    <string name="vehicle_kind" formatted="false">ტიპი</string>
+    <string name="kind_car" formatted="false">მანქანა</string>
+    <string name="kind_motorcycle" formatted="false">მოტოციკლი</string>
+    <string name="kind_moped" formatted="false">მოპედი</string>
+    <string name="fiscal_power" formatted="false">საგადასახადო ცხენის ძალა (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV და მეტი</string>
+    <string name="cv_or_less">%1$d CV და ნაკლები</string>
+    <string name="cv_range_3_5" formatted="false">3-დან 5 CV-მდე</string>
+    <string name="electric" formatted="false">ელექტრომობილი</string>
+    <string name="no_vehicle" formatted="false">ავტომობილი არ არის. დაამატეთ ერთი: შეფასებას ის სჭირდება.</string>
+    <string name="default_vehicle" formatted="false">ნაგულისხმევი ავტომობილი</string>
+    <string name="vehicle_needed" formatted="false">ჯერ დაამატეთ ავტომობილი განყოფილებაში მეტი &gt; ავტომობილები.</string>
+    <string name="estimation" formatted="false">რეალური ხარჯების შეფასება</string>
+    <string name="income_year">შემოსავლის წელი %1$d</string>
+    <string name="estimation_locked" formatted="false">რეალური ხარჯების შეფასება, ექსპორტი, ისტორიის იმპორტი და სარეზერვო ასლის აღდგენა Pro ვერსიის ნაწილია.</string>
+    <string name="disclaimer_short" formatted="false">სავარაუდო შეფასება, გარანტიის გარეშე.</string>
+    <string name="disclaimer_long" formatted="false">ეს შეფასება სავარაუდოა და გარანტირებული არ არის. ის არ არის საგადასახადო რჩევა და არ ცვლის ოფიციალურ ტექსტებს, საგადასახადო ორგანოს ან სპეციალისტს. დეკლარაციის წარდგენამდე გადაამოწმეთ თქვენს მდგომარეობაზე მოქმედი წესები.</string>
+    <string name="commute_km_raw" formatted="false">შეყვანილი სახლი-სამსახური კმ</string>
+    <string name="commute_km_retained" formatted="false">გათვალისწინებული სახლი-სამსახური კმ</string>
+    <string name="business_km" formatted="false">სამსახურებრივი კმ</string>
+    <string name="retained_km" formatted="false">გათვალისწინებული კმ</string>
+    <string name="allowance" formatted="false">საკილომეტრო კომპენსაცია</string>
+    <string name="tolls_parking" formatted="false">გზის გადასახადი და პარკირება</string>
+    <string name="total" formatted="false">სავარაუდო ჯამი</string>
+    <string name="flat_deduction" formatted="false">სტანდარტული 10% გამოქვითვა</string>
+    <string name="real_better" formatted="false">რეალური ხარჯები სტანდარტულ გამოქვითვაზე მომგებიანი ჩანს.</string>
+    <string name="flat_better" formatted="false">სტანდარტული გამოქვითვა რეალურ ხარჯებზე მომგებიანი ჩანს.</string>
+    <string name="enter_salary" formatted="false">შეიყვანეთ წლიური წმინდა დასაბეგრი ხელფასი სტანდარტულ გამოქვითვასთან შესადარებლად.</string>
+    <string name="net_taxable_salary" formatted="false">წლიური წმინდა დასაბეგრი ხელფასი</string>
+    <string name="per_vehicle" formatted="false">თითო ავტომობილზე</string>
+    <string name="note_scale_unconfirmed" formatted="false">წლევანდელი შკალა ჯერ არ გამოქვეყნებულა: გამოიყენება ბოლო ცნობილი შკალა.</string>
+    <string name="note_cap_applied" formatted="false">ერთი ან მეტი სახლი-სამსახურის მონაკვეთი 40 კმ-მდე შეიზღუდა, რადგან განსაკუთრებული გარემოება მითითებული არ იყო.</string>
+    <string name="note_extra_legs" formatted="false">დღეში ერთ სახლი-სამსახურის წასვლა-დაბრუნებაზე მეტი, განსაკუთრებული გარემოების გარეშე მგზავრობები არ იქნა გათვალისწინებული.</string>
+    <string name="note_no_vehicle" formatted="false">ავტომობილის გარეშე მგზავრობები იგნორირებულია: აირჩიეთ ნაგულისხმევი ავტომობილი.</string>
+    <string name="note_fuel">შეყვანილი საწვავი (%1$s) არ ემატება: საკილომეტრო შკალა მას უკვე მოიცავს.</string>
+    <string name="note_no_salary" formatted="false">ხელფასი შეყვანილი არ არის: სტანდარტულ გამოქვითვასთან შედარება არ ხდება.</string>
+    <string name="documents_title" formatted="false">შესანახი დოკუმენტები</string>
+    <string name="documents_list" formatted="false">ავტომობილის სარეგისტრაციო მოწმობა\nშრომითი ხელშეკრულება ან დამსაქმებლის ცნობა\nსამუშაო დღეების აღრიცხვა\nგზის გადასახადისა და პარკირების ქვითრები\nყველაფერი, რაც განსაკუთრებულ გარემოებას ადასტურებს</string>
+    <string name="export" formatted="false">ექსპორტი</string>
+    <string name="export_title" formatted="false">ექსპორტი</string>
+    <string name="export_pdf" formatted="false">PDF ანგარიში</string>
+    <string name="export_xlsx" formatted="false">ელექტრონული ცხრილი</string>
+    <string name="export_csv" formatted="false">CSV ფაილი</string>
+    <string name="export_period" formatted="false">პერიოდი</string>
+    <string name="year" formatted="false">წელი</string>
+    <string name="export_from" formatted="false">დან</string>
+    <string name="export_to" formatted="false">მდე</string>
+    <string name="export_include_estimation" formatted="false">წლის შეფასების ჩართვა</string>
+    <string name="export_share" formatted="false">ფაილი გაზიარების ფანჯარაში იხსნება: შეინახეთ ან გააგზავნეთ.</string>
+    <string name="export_failed" formatted="false">ექსპორტი ვერ შესრულდა.</string>
+    <string name="report_title" formatted="false">საკილომეტრო ანგარიში</string>
+    <string name="generated_on">შექმნილია %1$s</string>
+    <string name="yes" formatted="false">დიახ</string>
+    <string name="no" formatted="false">არა</string>
+    <string name="import_title" formatted="false">ისტორიის იმპორტი</string>
+    <string name="import_help" formatted="false">თუ თქვენი ტელეფონი ინახავს თქვენი მდებარეობების ისტორიას, შეგიძლიათ მისი მმართველი აპლიკაციიდან JSON ფაილად გაიტანოთ და აქ გახსნათ. იკითხება მხოლოდ ავტომობილით მგზავრობები. ფაილი არ ინახება: ინახება მხოლოდ თარიღი, მანძილი და, თუ ცნობილია, საწყისი და საბოლოო წერტილი.</string>
+    <string name="import_pick" formatted="false">ფაილის არჩევა</string>
+    <string name="import_reading" formatted="false">იკითხება…</string>
+    <string name="import_found">ნაპოვნი მგზავრობები ავტომობილით: %1$d</string>
+    <string name="import_skipped">იგნორირებული სხვა გადაადგილებები (ფეხით, ველოსიპედით, ტრანსპორტით): %1$d</string>
+    <string name="import_default_purpose" formatted="false">მიზანი მგზავრობებისთვის, რომლებიც სახლი-სამსახურად არ არის ამოცნობილი</string>
+    <string name="import_period">%1$s-დან %2$s-მდე</string>
+    <string name="import_confirm">%1$d მგზავრობის იმპორტი</string>
+    <string name="import_done">იმპორტირებული მგზავრობები: %1$d</string>
+    <string name="import_nothing_new" formatted="false">ახალი მგზავრობა არ არის: ისინი უკვე იმპორტირებული იყო.</string>
+    <string name="import_unreadable" formatted="false">ეს ფაილი წაკითხვადი მდებარეობების ისტორია არ არის.</string>
+    <string name="import_commute_hint" formatted="false">თქვენს სახლსა და სამსახურს შორის მგზავრობები ამოიცნობა, როცა ფაილი მათ ასე აღნიშნავს; მათ სახლი-სამსახურის მიზანი ენიჭება.</string>
+    <string name="backup_title" formatted="false">სარეზერვო ასლი</string>
+    <string name="backup_explain" formatted="false">თქვენი მონაცემები მოწყობილობას მხოლოდ თქვენი გადაწყვეტილებით ტოვებს. სარეზერვო ასლი არის ფაილი, რომელიც შეგიძლიათ ნებისმიერ ადგილას შეინახოთ და ნებისმიერ მოწყობილობაზე აღადგინოთ.</string>
+    <string name="backup_export" formatted="false">სარეზერვო ასლის ექსპორტი</string>
+    <string name="backup_restore" formatted="false">სარეზერვო ასლის აღდგენა</string>
+    <string name="backup_restore_help" formatted="false">აღდგენა აერთიანებს: მას შემდეგ შეყვანილი არაფერი იკარგება.</string>
+    <string name="backup_restored">სარეზერვო ასლი აღდგენილია: სულ %1$d მგზავრობა.</string>
+    <string name="backup_invalid" formatted="false">ეს ფაილი ამ აპლიკაციის სარეზერვო ასლი არ არის.</string>
+    <string name="cloud_title" formatted="false">ღრუბლოვანი სარეზერვო ასლი</string>
+    <string name="cloud_explain" formatted="false">თქვენი მონაცემების ავტომატური ასლი თქვენი მოწყობილობის ღრუბლოვან სივრცეში, დამატებითი ანგარიშის გარეშე. ის ყოველი ცვლილების შემდეგ განახლდება.</string>
+    <string name="cloud_now" formatted="false">ახლავე შენახვა</string>
+    <string name="cloud_restore" formatted="false">ღრუბლიდან აღდგენა</string>
+    <string name="cloud_last">ბოლო ღრუბლოვანი ასლი: %1$s</string>
+    <string name="cloud_never" formatted="false">ღრუბლოვანი სარეზერვო ასლი ჯერ არ არის.</string>
+    <string name="cloud_unavailable" formatted="false">ღრუბლოვანი სარეზერვო ასლი ამ მოწყობილობაზე მიუწვდომელია. გამოიყენეთ სარეზერვო ასლის ექსპორტი.</string>
+    <string name="cloud_done" formatted="false">ღრუბლოვანი სარეზერვო ასლი შექმნილია.</string>
+    <string name="cloud_nothing" formatted="false">აღსადგენი ღრუბლოვანი ასლი არ არის.</string>
+    <string name="cloud_system_restore" formatted="false">სისტემა ამ სარეზერვო ასლს თავად აღადგენს აპლიკაციის ხელახლა დაყენებისას ან ახალი მოწყობილობის მომზადებისას.</string>
+    <string name="settings" formatted="false">პარამეტრები</string>
+    <string name="rules_title" formatted="false">გამოთვლის წესები</string>
+    <string name="rule_fr" formatted="false">ფრანგული საკილომეტრო შკალა</string>
+    <string name="rule_generic" formatted="false">ფიქსირებული განაკვეთი კილომეტრზე</string>
+    <string name="generic_rate" formatted="false">განაკვეთი კილომეტრზე</string>
+    <string name="currency" formatted="false">ვალუტა</string>
+    <string name="home_label" formatted="false">თქვენი სახლის სახელი</string>
+    <string name="work_label" formatted="false">თქვენი სამუშაო ადგილის სახელი</string>
+    <string name="home_work_distance" formatted="false">მანძილი სახლი-სამსახური (ერთი მიმართულებით, კმ)</string>
+    <string name="places_help" formatted="false">გამოიყენება რჩეული მგზავრობებისა და ისტორიის იმპორტისთვის.</string>
+    <string name="pro_title" formatted="false">Pro ვერსია</string>
+    <string name="pro_subtitle" formatted="false">ყველაფერი თქვენი რეალური ხარჯებისთვის, რეკლამის გარეშე.</string>
+    <string name="pro_features_title" formatted="false">გახსნილი ფუნქციები:</string>
+    <string name="pro_feature_unlimited" formatted="false">შეუზღუდავი მგზავრობები.</string>
+    <string name="pro_feature_estimation" formatted="false">რეალური ხარჯების შეფასება და შედარება სტანდარტულ გამოქვითვასთან.</string>
+    <string name="pro_feature_export" formatted="false">სრული, დამოწმებული ექსპორტი (სუფთა PDF, ცხრილის ფორმატი, მზად თქვენი ბუღალტრისთვის ან საგადასახადო დეკლარაციისთვის).</string>
+    <string name="pro_feature_import" formatted="false">თქვენი ტელეფონის მგზავრობების ისტორიის იმპორტი.</string>
+    <string name="pro_feature_expenses" formatted="false">გზის გადასახადი, პარკირება და საწვავი შეფასებაში.</string>
+    <string name="pro_feature_cloud" formatted="false">აღდგენა სარეზერვო ფაილიდან და სინქრონიზაცია თქვენს მოწყობილობებს შორის.</string>
+    <string name="pro_feature_widgets" formatted="false">მთავარი ეკრანის ვიჯეტი.</string>
+    <string name="pro_feature_watch" formatted="false">საათის აპლიკაცია.</string>
+    <string name="pro_feature_no_ads" formatted="false">არანაირი რეკლამა.</string>
+    <string name="pro_feature_gps" formatted="false">ავტომატური GPS თვალყურის დევნება (მოძრაობის ამოცნობა ან Bluetooth კავშირი მანქანასთან).</string>
+    <string name="pro_feature_scan" formatted="false">გზის გადასახადის, პარკირებისა და საწვავის ქვითრების ჭკვიანი სკანირება (OCR) კამერით.</string>
+    <string name="pro_monthly">%1$s თვეში</string>
+    <string name="pro_yearly">%1$s წელიწადში</string>
+    <string name="pro_yearly_hint" formatted="false">ორი თვე უფასოდ ყოველთვიურთან შედარებით</string>
+    <string name="subscribe" formatted="false">გამოწერა</string>
+    <string name="restore_purchases" formatted="false">შენაძენების აღდგენა</string>
+    <string name="pro_active" formatted="false">Pro ვერსია აქტიურია</string>
+    <string name="pro_active_since">გამოწერა: %1$s</string>
+    <string name="pro_unavailable" formatted="false">შენაძენები აპლიკაციის ამ ვერსიაში მიუწვდომელია.</string>
+    <string name="pro_legal" formatted="false">ავტომატურად განახლებადი გამოწერა, თანხა ჩამოიჭრება თქვენი მაღაზიის ანგარიშიდან. გაუქმება ნებისმიერ დროს შეგიძლიათ მაღაზიის პარამეტრებში; შემდეგი პერიოდის ფასი ჩამოიჭრება, თუ გამოწერა პერიოდის დასრულებამდე მინიმუმ 24 საათით ადრე არ გაუქმდა.</string>
+    <string name="purchase_pending" formatted="false">შენაძენი მიმდინარეობს…</string>
+    <string name="purchase_failed" formatted="false">შენაძენი ვერ დასრულდა.</string>
+    <string name="purchase_restored" formatted="false">შენაძენები აღდგენილია.</string>
+    <string name="purchase_nothing" formatted="false">აღსადგენი არაფერია.</string>
+    <string name="rewarded_title" formatted="false">სცადეთ რეკლამით</string>
+    <string name="rewarded_explain" formatted="false">უყურეთ მოკლე რეკლამას, რომ ეს ფუნქცია დროებით გაიხსნას. Pro რეკლამას აშორებს და ყველაფერს ხსნის.</string>
+    <string name="rewarded_estimation" formatted="false">შეფასების ნახვა 24 საათით</string>
+    <string name="rewarded_export" formatted="false">ერთი ექსპორტი ერთ საათში</string>
+    <string name="rewarded_trips" formatted="false">კიდევ 5 მგზავრობა ამ თვეში</string>
+    <string name="rewarded_watch" formatted="false">რეკლამის ყურება</string>
+    <string name="rewarded_unavailable" formatted="false">ამჟამად რეკლამა მიუწვდომელია. სცადეთ ცოტა ხანში.</string>
+    <string name="rewarded_granted" formatted="false">გახსნილია. ბედნიერ გზას!</string>
+    <string name="expenses" formatted="false">ხარჯები</string>
+    <string name="add_expense" formatted="false">ახალი ხარჯი</string>
+    <string name="edit_expense" formatted="false">ხარჯის რედაქტირება</string>
+    <string name="expense_kind" formatted="false">ტიპი</string>
+    <string name="kind_toll" formatted="false">გზის გადასახადი</string>
+    <string name="kind_parking" formatted="false">პარკირება</string>
+    <string name="kind_fuel" formatted="false">საწვავი</string>
+    <string name="kind_other" formatted="false">სხვა</string>
+    <string name="amount" formatted="false">თანხა</string>
+    <string name="place" formatted="false">ადგილი</string>
+    <string name="litres" formatted="false">ლიტრი</string>
+    <string name="odometer" formatted="false">ოდომეტრის მაჩვენებელი</string>
+    <string name="no_expenses" formatted="false">ხარჯები არ არის. გზის გადასახადი და პარკირება შეფასებას ემატება.</string>
+    <string name="invalid_amount" formatted="false">შეიყვანეთ 0-ზე მეტი თანხა.</string>
+    <string name="legal_title" formatted="false">სამართლებრივი ინფორმაცია და კონფიდენციალურობა</string>
+    <string name="privacy_text" formatted="false">თქვენი ყველა მონაცემი თქვენს მოწყობილობაზე რჩება. აპლიკაცია ანგარიშს არ ითხოვს და სერვერზე არაფერს აგზავნის. გარე სამყაროსთან ერთადერთი კავშირი ისაა, რასაც თქვენ იწყებთ: ექსპორტი, სარეზერვო ასლი ან შენაძენი, და უფასო ვერსიის რეკლამები, რომლებსაც Pro ვერსია აშორებს.</string>
+    <string name="about" formatted="false">აპლიკაციის შესახებ</string>
+    <string name="version">ვერსია %1$s</string>
+    <string name="error_generic" formatted="false">რაღაც შეცდომა მოხდა.</string>
+    <string name="today" formatted="false">დღეს</string>
+    <string name="yesterday" formatted="false">გუშინ</string>
+    <string name="ads_privacy_options" formatted="false">რეკლამის კონფიდენციალურობის პარამეტრები</string>
+    <string name="ads_disabled_title" formatted="false">რეკლამა გამორთულია</string>
+    <string name="ads_disabled_text" formatted="false">სისტემა მიუთითებს, რომ ეს ანგარიში ახალგაზრდა მომხმარებელს ეკუთვნის. ამიტომ აპლიკაცია რეკლამას არ აჩვენებს და თანხმობას არ ითხოვს. სარეკლამო იდენტიფიკატორი არ იკითხება და არანაირი მონაცემი არ გროვდება და არ იგზავნება.</string>
+    <string name="watch_quick_add" formatted="false">სწრაფი მგზავრობა</string>
+    <string name="watch_no_favorites" formatted="false">დაამატეთ რჩეული მგზავრობები ტელეფონზე.</string>
+    <string name="watch_added" formatted="false">დამატებულია</string>
+    <string name="watch_open_phone" formatted="false">ტელეფონის აპლიკაციის გახსნა</string>
+    <string name="widget_today" formatted="false">დღეს</string>
+    <string name="widget_month" formatted="false">ამ თვეში</string>
+    <string name="widget_pro_needed" formatted="false">ვიჯეტი ხელმისაწვდომია Pro-თი</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 11 et moins : les donnees et le droit Pro, rien d'autre. -->
+<full-backup-content>
+    <include domain="file" path="kilometres-data.json" />
+    <include domain="file" path="kilometres-entitlement.json" />
+</full-backup-content>

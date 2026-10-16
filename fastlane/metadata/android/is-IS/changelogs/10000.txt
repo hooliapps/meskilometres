@@ -1,0 +1,8 @@
+Fyrsta útgáfa af Kilomètres.
+
+• Ferðir með einni snertingu, uppáhaldsleiðir
+• Áætlun raunkostnaðar samkvæmt opinberu töflunni (Pro)
+• Útflutningur í PDF og töflureikni (Pro)
+• Innflutningur ferðaferils (Pro)
+• Skýjaafrit fyrir alla; græja og úrforrit (Pro)
+• 71 tungumál

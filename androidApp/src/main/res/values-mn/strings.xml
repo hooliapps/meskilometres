@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Километр</string>
+    <string name="widget_name" formatted="false">Аяллууд</string>
+    <string name="widget_description" formatted="false">Өнөөдрийн километр болон дуртай аяллууд тань нэг товшилтоор.</string>
+    <string name="tab_trips" formatted="false">Аяллууд</string>
+    <string name="tab_estimate" formatted="false">Тооцоо</string>
+    <string name="tab_more" formatted="false">Бусад</string>
+    <string name="this_month" formatted="false">Энэ сар</string>
+    <string name="this_year" formatted="false">Энэ жил</string>
+    <string name="trips_count">Аялал: %1$d</string>
+    <string name="km_value">%1$s км</string>
+    <string name="add_trip" formatted="false">Шинэ аялал</string>
+    <string name="free_remaining">Энэ сард үлдсэн үнэгүй аялал: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Энэ сарын үнэгүй хязгаарт хүрлээ</string>
+    <string name="free_quota_reached" formatted="false">Үнэгүй хувилбар сард 5 аялал бүртгэх боломжтой. Хязгааргүй аяллын тулд Pro-д шилжих эсвэл сурталчилгаа үзээд 5 аялал нэмж аваарай.</string>
+    <string name="go_pro" formatted="false">Pro-д шилжих</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Аялал хараахан байхгүй.\nЭхнийхийг бүртгэхийн тулд + дээр товшино уу.</string>
+    <string name="trip_new" formatted="false">Шинэ аялал</string>
+    <string name="trip_edit" formatted="false">Аялал засах</string>
+    <string name="field_date" formatted="false">Огноо</string>
+    <string name="field_from" formatted="false">Хаанаас</string>
+    <string name="field_to" formatted="false">Хаашаа</string>
+    <string name="field_distance" formatted="false">Нэг талын зай (км)</string>
+    <string name="field_round_trip" formatted="false">Явах-буцах</string>
+    <string name="field_purpose" formatted="false">Зорилго</string>
+    <string name="field_vehicle" formatted="false">Тээврийн хэрэгсэл</string>
+    <string name="field_note" formatted="false">Тэмдэглэл</string>
+    <string name="field_justified" formatted="false">Онцгой нөхцөл</string>
+    <string name="field_justified_help" formatted="false">Гэр-ажлын зай тодорхой шалтгаанаар 40 км-ээс хэтэрсэн, эсвэл нэг өдөрт үндэслэлтэй нэмэлт явах-буцах аялал хийсэн бол тэмдэглэнэ үү.</string>
+    <string name="purpose_commute" formatted="false">Гэр-ажил</string>
+    <string name="purpose_business" formatted="false">Албан</string>
+    <string name="purpose_personal" formatted="false">Хувийн</string>
+    <string name="save" formatted="false">Хадгалах</string>
+    <string name="cancel" formatted="false">Болих</string>
+    <string name="delete" formatted="false">Устгах</string>
+    <string name="edit" formatted="false">Засах</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Хаах</string>
+    <string name="back" formatted="false">Буцах</string>
+    <string name="confirm_delete" formatted="false">Бүрмөсөн устгах уу?</string>
+    <string name="invalid_distance" formatted="false">0-ээс их зай оруулна уу.</string>
+    <string name="favorites" formatted="false">Дуртай</string>
+    <string name="save_as_favorite" formatted="false">Дуртайгаар бас хадгалах</string>
+    <string name="favorite_label" formatted="false">Дуртай аяллын нэр</string>
+    <string name="no_favorites" formatted="false">Аяллыг нэг товшилтоор бүртгэхийн тулд дуртайгаар хадгална уу.</string>
+    <string name="use_favorite" formatted="false">Дуртай аяллууд</string>
+    <string name="swap" formatted="false">Солих</string>
+    <string name="quick_add_hint" formatted="false">Өнөөдөрт нэмэхийн тулд дуртай аялал дээр товшино уу.</string>
+    <string name="added" formatted="false">Аялал нэмэгдлээ.</string>
+    <string name="undo" formatted="false">Буцаах</string>
+    <string name="vehicles" formatted="false">Тээврийн хэрэгсэл</string>
+    <string name="add_vehicle" formatted="false">Тээврийн хэрэгсэл нэмэх</string>
+    <string name="edit_vehicle" formatted="false">Тээврийн хэрэгсэл засах</string>
+    <string name="vehicle_name" formatted="false">Нэр</string>
+    <string name="vehicle_kind" formatted="false">Төрөл</string>
+    <string name="kind_car" formatted="false">Автомашин</string>
+    <string name="kind_motorcycle" formatted="false">Мотоцикл</string>
+    <string name="kind_moped" formatted="false">Мопед</string>
+    <string name="fiscal_power" formatted="false">Татварын морины хүч (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV ба түүнээс дээш</string>
+    <string name="cv_or_less">%1$d CV ба түүнээс доош</string>
+    <string name="cv_range_3_5" formatted="false">3-5 CV</string>
+    <string name="electric" formatted="false">Цахилгаан тээврийн хэрэгсэл</string>
+    <string name="no_vehicle" formatted="false">Тээврийн хэрэгсэл байхгүй. Нэгийг нэмнэ үү: тооцоонд шаардлагатай.</string>
+    <string name="default_vehicle" formatted="false">Үндсэн тээврийн хэрэгсэл</string>
+    <string name="vehicle_needed" formatted="false">Эхлээд Бусад &gt; Тээврийн хэрэгсэл хэсэгт тээврийн хэрэгсэл нэмнэ үү.</string>
+    <string name="estimation" formatted="false">Бодит зардлын тооцоо</string>
+    <string name="income_year">Орлогын жил %1$d</string>
+    <string name="estimation_locked" formatted="false">Бодит зардлын тооцоо, экспорт, түүх импортлох болон нөөц сэргээх нь Pro хувилбарын боломж.</string>
+    <string name="disclaimer_short" formatted="false">Баримжаа тооцоо, баталгаагүй.</string>
+    <string name="disclaimer_long" formatted="false">Энэ тооцоо нь баримжаа бөгөөд баталгаагүй. Энэ нь татварын зөвлөгөө биш бөгөөд албан ёсны баримт бичиг, татварын алба эсвэл мэргэжилтнийг орлохгүй. Мэдүүлэг өгөхөөс өмнө өөрийн нөхцөлд хамаарах дүрмийг шалгана уу.</string>
+    <string name="commute_km_raw" formatted="false">Оруулсан гэр-ажлын км</string>
+    <string name="commute_km_retained" formatted="false">Тооцсон гэр-ажлын км</string>
+    <string name="business_km" formatted="false">Албан км</string>
+    <string name="retained_km" formatted="false">Тооцсон км</string>
+    <string name="allowance" formatted="false">Километрийн нөхөн олговор</string>
+    <string name="tolls_parking" formatted="false">Замын хураамж ба зогсоол</string>
+    <string name="total" formatted="false">Тооцоолсон нийт</string>
+    <string name="flat_deduction" formatted="false">Стандарт 10% хасалт</string>
+    <string name="real_better" formatted="false">Бодит зардал стандарт хасалтаас илүү ашигтай харагдаж байна.</string>
+    <string name="flat_better" formatted="false">Стандарт хасалт бодит зардлаас илүү ашигтай харагдаж байна.</string>
+    <string name="enter_salary" formatted="false">Стандарт хасалттай харьцуулахын тулд жилийн татвар ногдох цэвэр цалингаа оруулна уу.</string>
+    <string name="net_taxable_salary" formatted="false">Жилийн татвар ногдох цэвэр цалин</string>
+    <string name="per_vehicle" formatted="false">Тээврийн хэрэгсэл тус бүрээр</string>
+    <string name="note_scale_unconfirmed" formatted="false">Энэ жилийн жишиг хараахан нийтлэгдээгүй: мэдэгдэж буй сүүлийн жишгийг хэрэглэж байна.</string>
+    <string name="note_cap_applied" formatted="false">Онцгой нөхцөл заагаагүй тул нэг буюу хэд хэдэн гэр-ажлын аяллыг 40 км-ээр хязгаарлав.</string>
+    <string name="note_extra_legs" formatted="false">Өдөрт нэг гэр-ажлын явах-буцахаас гадна онцгой нөхцөлгүй аяллуудыг тооцоогүй.</string>
+    <string name="note_no_vehicle" formatted="false">Тээврийн хэрэгсэлгүй аяллуудыг тооцоогүй: үндсэн тээврийн хэрэгсэл сонгоно уу.</string>
+    <string name="note_fuel">Оруулсан шатахуун (%1$s) нэмэгдэхгүй: километрийн жишигт аль хэдийн багтсан.</string>
+    <string name="note_no_salary" formatted="false">Цалин оруулаагүй: стандарт хасалттай харьцуулаагүй.</string>
+    <string name="documents_title" formatted="false">Хадгалах баримт бичиг</string>
+    <string name="documents_list" formatted="false">Тээврийн хэрэгслийн гэрчилгээ\nХөдөлмөрийн гэрээ эсвэл ажил олгогчийн тодорхойлолт\nАжилласан өдрийн бүртгэл\nЗамын хураамж ба зогсоолын баримт\nОнцгой нөхцөлийг нотлох бүх зүйл</string>
+    <string name="export" formatted="false">Экспортлох</string>
+    <string name="export_title" formatted="false">Экспорт</string>
+    <string name="export_pdf" formatted="false">PDF тайлан</string>
+    <string name="export_xlsx" formatted="false">Хүснэгт файл</string>
+    <string name="export_csv" formatted="false">CSV файл</string>
+    <string name="export_period" formatted="false">Хугацаа</string>
+    <string name="year" formatted="false">Жил</string>
+    <string name="export_from" formatted="false">Эхлэх</string>
+    <string name="export_to" formatted="false">Дуусах</string>
+    <string name="export_include_estimation" formatted="false">Жилийн тооцоог оруулах</string>
+    <string name="export_share" formatted="false">Файл хуваалцах цонхонд нээгдэнэ: хадгалах эсвэл илгээнэ үү.</string>
+    <string name="export_failed" formatted="false">Экспорт амжилтгүй боллоо.</string>
+    <string name="report_title" formatted="false">Километрийн тайлан</string>
+    <string name="generated_on">%1$s-нд үүсгэв</string>
+    <string name="yes" formatted="false">тийм</string>
+    <string name="no" formatted="false">үгүй</string>
+    <string name="import_title" formatted="false">Түүх импортлох</string>
+    <string name="import_help" formatted="false">Таны утас байршлын түүхийг хадгалдаг бол түүнийг удирддаг аппаас JSON файл болгон экспортлоод энд нээж болно. Зөвхөн тээврийн хэрэгслээр хийсэн аяллыг уншина. Файлыг хадгалахгүй: зөвхөн огноо, зай, мэдэгдэж байвал гарах ба хүрэх цэгийг хадгална.</string>
+    <string name="import_pick" formatted="false">Файл сонгох</string>
+    <string name="import_reading" formatted="false">Уншиж байна…</string>
+    <string name="import_found">Олдсон тээврийн хэрэгслийн аялал: %1$d</string>
+    <string name="import_skipped">Тооцоогүй бусад аялал (явган, дугуй, нийтийн тээвэр): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Гэр-ажил гэж танигдаагүй аяллын зорилго</string>
+    <string name="import_period">%1$s-с %2$s хүртэл</string>
+    <string name="import_confirm">%1$d аялал импортлох</string>
+    <string name="import_done">Импортолсон аялал: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Шинэ аялал байхгүй: аль хэдийн импортолсон байна.</string>
+    <string name="import_unreadable" formatted="false">Энэ файл уншигдах байршлын түүх биш.</string>
+    <string name="import_commute_hint" formatted="false">Файлд тэмдэглэсэн бол гэр ба ажлын байрны хоорондох аяллыг таньж, гэр-ажлын зорилго оноодог.</string>
+    <string name="backup_title" formatted="false">Нөөц хуулбар</string>
+    <string name="backup_explain" formatted="false">Таны өгөгдөл зөвхөн таны шийдвэрээр төхөөрөмжөөс гарна. Нөөц хуулбар нь хүссэн газраа хадгалж, ямар ч төхөөрөмж дээр сэргээж болох файл юм.</string>
+    <string name="backup_export" formatted="false">Нөөц экспортлох</string>
+    <string name="backup_restore" formatted="false">Нөөц сэргээх</string>
+    <string name="backup_restore_help" formatted="false">Сэргээлт нэгтгэдэг: түүнээс хойш оруулсан юу ч алдагдахгүй.</string>
+    <string name="backup_restored">Нөөц сэргээгдлээ: нийт %1$d аялал.</string>
+    <string name="backup_invalid" formatted="false">Энэ файл энэ аппын нөөц хуулбар биш.</string>
+    <string name="cloud_title" formatted="false">Үүлэн нөөц</string>
+    <string name="cloud_explain" formatted="false">Нэмэлт бүртгэлгүйгээр таны өгөгдлийг төхөөрөмжийн үүлэн орон зайд автоматаар хуулна. Өөрчлөлт бүрийн дараа шинэчлэгдэнэ.</string>
+    <string name="cloud_now" formatted="false">Одоо нөөцлөх</string>
+    <string name="cloud_restore" formatted="false">Үүлнээс сэргээх</string>
+    <string name="cloud_last">Сүүлийн үүлэн нөөц: %1$s</string>
+    <string name="cloud_never" formatted="false">Үүлэн нөөц хараахан байхгүй.</string>
+    <string name="cloud_unavailable" formatted="false">Энэ төхөөрөмж дээр үүлэн нөөц боломжгүй. Нөөц экспортыг ашиглана уу.</string>
+    <string name="cloud_done" formatted="false">Үүлэн нөөц хийгдлээ.</string>
+    <string name="cloud_nothing" formatted="false">Сэргээх үүлэн нөөц байхгүй.</string>
+    <string name="cloud_system_restore" formatted="false">Аппыг дахин суулгах эсвэл шинэ төхөөрөмж тохируулахад систем энэ нөөцийг өөрөө сэргээнэ.</string>
+    <string name="settings" formatted="false">Тохиргоо</string>
+    <string name="rules_title" formatted="false">Тооцооны дүрэм</string>
+    <string name="rule_fr" formatted="false">Францын километрийн жишиг</string>
+    <string name="rule_generic" formatted="false">Километр тутмын тогтмол тариф</string>
+    <string name="generic_rate" formatted="false">Километр тутмын тариф</string>
+    <string name="currency" formatted="false">Валют</string>
+    <string name="home_label" formatted="false">Гэрийн нэр</string>
+    <string name="work_label" formatted="false">Ажлын байрны нэр</string>
+    <string name="home_work_distance" formatted="false">Гэр-ажлын зай (нэг тал, км)</string>
+    <string name="places_help" formatted="false">Дуртай аялал болон түүх импортлоход ашиглана.</string>
+    <string name="pro_title" formatted="false">Pro хувилбар</string>
+    <string name="pro_subtitle" formatted="false">Бодит зардалд тань хэрэгтэй бүх зүйл, сурталчилгаагүй.</string>
+    <string name="pro_features_title" formatted="false">Нээгдэх боломжууд:</string>
+    <string name="pro_feature_unlimited" formatted="false">Хязгааргүй аялал.</string>
+    <string name="pro_feature_estimation" formatted="false">Бодит зардлын тооцоо ба стандарт хасалттай харьцуулалт.</string>
+    <string name="pro_feature_export" formatted="false">Бүрэн, баталгаажсан экспорт (цэвэр PDF, нягтлан эсвэл татварын мэдүүлэгт бэлэн хүснэгт формат).</string>
+    <string name="pro_feature_import" formatted="false">Утасны аяллын түүхийг импортлох.</string>
+    <string name="pro_feature_expenses" formatted="false">Замын хураамж, зогсоол, шатахууныг тооцоонд нэмэх.</string>
+    <string name="pro_feature_cloud" formatted="false">Нөөц файлаас сэргээх ба төхөөрөмжүүдийн хооронд синк хийх.</string>
+    <string name="pro_feature_widgets" formatted="false">Нүүр дэлгэцийн виджет.</string>
+    <string name="pro_feature_watch" formatted="false">Цагны апп.</string>
+    <string name="pro_feature_no_ads" formatted="false">Ямар ч сурталчилгаагүй.</string>
+    <string name="pro_feature_gps" formatted="false">Автомат GPS мөшгөлт (хөдөлгөөн илрүүлэх эсвэл машинтай Bluetooth холболт).</string>
+    <string name="pro_feature_scan" formatted="false">Замын хураамж, зогсоол, шатахууны баримтыг камераар ухаалаг уншуулах (OCR).</string>
+    <string name="pro_monthly">Сард %1$s</string>
+    <string name="pro_yearly">Жилд %1$s</string>
+    <string name="pro_yearly_hint" formatted="false">Сарын төлбөртэй харьцуулахад хоёр сар үнэгүй</string>
+    <string name="subscribe" formatted="false">Захиалах</string>
+    <string name="restore_purchases" formatted="false">Худалдан авалт сэргээх</string>
+    <string name="pro_active" formatted="false">Pro хувилбар идэвхтэй</string>
+    <string name="pro_active_since">Захиалга: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Аппын энэ хувилбарт худалдан авалт боломжгүй.</string>
+    <string name="pro_legal" formatted="false">Автоматаар сунгагдах захиалга, таны дэлгүүрийн бүртгэлээс төлбөр авна. Дэлгүүрийн тохиргооноос хүссэн үедээ цуцалж болно; хугацаа дуусахаас дор хаяж 24 цагийн өмнө цуцлаагүй бол дараагийн хугацааны төлбөр авна.</string>
+    <string name="purchase_pending" formatted="false">Худалдан авалт хийгдэж байна…</string>
+    <string name="purchase_failed" formatted="false">Худалдан авалт дуусаагүй.</string>
+    <string name="purchase_restored" formatted="false">Худалдан авалт сэргээгдлээ.</string>
+    <string name="purchase_nothing" formatted="false">Сэргээх зүйл байхгүй.</string>
+    <string name="rewarded_title" formatted="false">Сурталчилгаагаар турших</string>
+    <string name="rewarded_explain" formatted="false">Энэ боломжийг түр нээхийн тулд богино сурталчилгаа үзнэ үү. Pro сурталчилгааг арилгаж, бүгдийг нээнэ.</string>
+    <string name="rewarded_estimation" formatted="false">Тооцоог 24 цагийн турш үзэх</string>
+    <string name="rewarded_export" formatted="false">Нэг цагийн дотор нэг экспорт</string>
+    <string name="rewarded_trips" formatted="false">Энэ сард 5 аялал нэмэх</string>
+    <string name="rewarded_watch" formatted="false">Сурталчилгаа үзэх</string>
+    <string name="rewarded_unavailable" formatted="false">Одоогоор сурталчилгаа байхгүй. Хэсэг хугацааны дараа дахин оролдоно уу.</string>
+    <string name="rewarded_granted" formatted="false">Нээгдлээ. Сайн яваарай!</string>
+    <string name="expenses" formatted="false">Зардал</string>
+    <string name="add_expense" formatted="false">Шинэ зардал</string>
+    <string name="edit_expense" formatted="false">Зардал засах</string>
+    <string name="expense_kind" formatted="false">Төрөл</string>
+    <string name="kind_toll" formatted="false">Замын хураамж</string>
+    <string name="kind_parking" formatted="false">Зогсоол</string>
+    <string name="kind_fuel" formatted="false">Шатахуун</string>
+    <string name="kind_other" formatted="false">Бусад</string>
+    <string name="amount" formatted="false">Дүн</string>
+    <string name="place" formatted="false">Газар</string>
+    <string name="litres" formatted="false">Литр</string>
+    <string name="odometer" formatted="false">Гүйлтийн заалт</string>
+    <string name="no_expenses" formatted="false">Зардал байхгүй. Замын хураамж, зогсоолыг тооцоонд нэмнэ.</string>
+    <string name="invalid_amount" formatted="false">0-ээс их дүн оруулна уу.</string>
+    <string name="legal_title" formatted="false">Хууль эрх зүй ба нууцлал</string>
+    <string name="privacy_text" formatted="false">Таны бүх өгөгдөл төхөөрөмж дээр тань хадгалагдана. Апп бүртгэл шаарддаггүй, сервер рүү юу ч илгээдэггүй. Гадагш гарах цорын ганц солилцоо бол таны өөрөө эхлүүлсэн экспорт, нөөц, худалдан авалт болон Pro хувилбарт арилдаг үнэгүй хувилбарын сурталчилгаа юм.</string>
+    <string name="about" formatted="false">Аппын тухай</string>
+    <string name="version">Хувилбар %1$s</string>
+    <string name="error_generic" formatted="false">Алдаа гарлаа.</string>
+    <string name="today" formatted="false">Өнөөдөр</string>
+    <string name="yesterday" formatted="false">Өчигдөр</string>
+    <string name="ads_privacy_options" formatted="false">Сурталчилгааны нууцлалын сонголт</string>
+    <string name="ads_disabled_title" formatted="false">Сурталчилгаа идэвхгүй</string>
+    <string name="ads_disabled_text" formatted="false">Энэ бүртгэл залуу хэрэглэгчийнх гэж систем мэдэгдэж байна. Тиймээс апп сурталчилгаа харуулахгүй, зөвшөөрөл асуухгүй. Сурталчилгааны танигчийг уншихгүй, ямар ч өгөгдөл цуглуулахгүй, илгээхгүй.</string>
+    <string name="watch_quick_add" formatted="false">Хурдан аялал</string>
+    <string name="watch_no_favorites" formatted="false">Утсан дээрээ дуртай аялал нэмнэ үү.</string>
+    <string name="watch_added" formatted="false">Нэмэгдлээ</string>
+    <string name="watch_open_phone" formatted="false">Утасны аппыг нээх</string>
+    <string name="widget_today" formatted="false">Өнөөдөр</string>
+    <string name="widget_month" formatted="false">Энэ сар</string>
+    <string name="widget_pro_needed" formatted="false">Виджет Pro-той ашиглах боломжтой</string>
+</resources>

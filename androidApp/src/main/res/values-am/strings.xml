@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">ኪሎሜትሮች</string>
+    <string name="widget_name" formatted="false">ጉዞዎች</string>
+    <string name="widget_description" formatted="false">የዛሬ ኪሎሜትሮች እና ተወዳጅ ጉዞዎችዎ በአንድ ንክኪ።</string>
+    <string name="tab_trips" formatted="false">ጉዞዎች</string>
+    <string name="tab_estimate" formatted="false">ግምት</string>
+    <string name="tab_more" formatted="false">ተጨማሪ</string>
+    <string name="this_month" formatted="false">በዚህ ወር</string>
+    <string name="this_year" formatted="false">በዚህ ዓመት</string>
+    <string name="trips_count">ጉዞዎች፦ %1$d</string>
+    <string name="km_value">%1$s ኪ.ሜ</string>
+    <string name="add_trip" formatted="false">አዲስ ጉዞ</string>
+    <string name="free_remaining">በዚህ ወር የቀሩ ነፃ ጉዞዎች፦ %1$d</string>
+    <string name="free_limit_reached" formatted="false">የዚህ ወር ነፃ ገደብ ደርሷል</string>
+    <string name="free_quota_reached" formatted="false">ነፃው ስሪት በወር 5 ጉዞዎችን ይፈቅዳል። ያልተገደቡ ጉዞዎች ለማግኘት ወደ Pro ይሂዱ፣ ወይም 5 ተጨማሪ ለማግኘት ማስታወቂያ ይመልከቱ።</string>
+    <string name="go_pro" formatted="false">ወደ Pro ይሂዱ</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">እስካሁን ጉዞ የለም።\nየመጀመሪያውን ለመመዝገብ + ን ይንኩ።</string>
+    <string name="trip_new" formatted="false">አዲስ ጉዞ</string>
+    <string name="trip_edit" formatted="false">ጉዞ ያርትዑ</string>
+    <string name="field_date" formatted="false">ቀን</string>
+    <string name="field_from" formatted="false">ከ</string>
+    <string name="field_to" formatted="false">ወደ</string>
+    <string name="field_distance" formatted="false">የአንድ አቅጣጫ ርቀት (ኪ.ሜ)</string>
+    <string name="field_round_trip" formatted="false">ደርሶ መልስ</string>
+    <string name="field_purpose" formatted="false">ዓላማ</string>
+    <string name="field_vehicle" formatted="false">ተሽከርካሪ</string>
+    <string name="field_note" formatted="false">ማስታወሻ</string>
+    <string name="field_justified" formatted="false">ልዩ ሁኔታዎች</string>
+    <string name="field_justified_help" formatted="false">ከቤት ወደ ሥራ ያለው ርቀት በተለየ ምክንያት ከ40 ኪ.ሜ በላይ ከሆነ፣ ወይም በአንድ ቀን ውስጥ ተገቢ ምክንያት ላለው ተጨማሪ ደርሶ መልስ ጉዞ ምልክት ያድርጉ።</string>
+    <string name="purpose_commute" formatted="false">ቤት-ሥራ</string>
+    <string name="purpose_business" formatted="false">የሥራ</string>
+    <string name="purpose_personal" formatted="false">የግል</string>
+    <string name="save" formatted="false">አስቀምጥ</string>
+    <string name="cancel" formatted="false">ይቅር</string>
+    <string name="delete" formatted="false">ሰርዝ</string>
+    <string name="edit" formatted="false">አርትዕ</string>
+    <string name="ok" formatted="false">እሺ</string>
+    <string name="close" formatted="false">ዝጋ</string>
+    <string name="back" formatted="false">ተመለስ</string>
+    <string name="confirm_delete" formatted="false">እስከመጨረሻው ይሰረዝ?</string>
+    <string name="invalid_distance" formatted="false">ከ0 የሚበልጥ ርቀት ያስገቡ።</string>
+    <string name="favorites" formatted="false">ተወዳጆች</string>
+    <string name="save_as_favorite" formatted="false">እንደ ተወዳጅም አስቀምጥ</string>
+    <string name="favorite_label" formatted="false">የተወዳጁ ስም</string>
+    <string name="no_favorites" formatted="false">በአንድ ንክኪ ለመመዝገብ አንድ ጉዞ እንደ ተወዳጅ ያስቀምጡ።</string>
+    <string name="use_favorite" formatted="false">ተወዳጅ ጉዞዎች</string>
+    <string name="swap" formatted="false">ቀያይር</string>
+    <string name="quick_add_hint" formatted="false">ለዛሬ ለመጨመር አንድ ተወዳጅ ይንኩ።</string>
+    <string name="added" formatted="false">ጉዞ ተጨምሯል።</string>
+    <string name="undo" formatted="false">ቀልብስ</string>
+    <string name="vehicles" formatted="false">ተሽከርካሪዎች</string>
+    <string name="add_vehicle" formatted="false">ተሽከርካሪ ጨምር</string>
+    <string name="edit_vehicle" formatted="false">ተሽከርካሪ አርትዕ</string>
+    <string name="vehicle_name" formatted="false">ስም</string>
+    <string name="vehicle_kind" formatted="false">ዓይነት</string>
+    <string name="kind_car" formatted="false">መኪና</string>
+    <string name="kind_motorcycle" formatted="false">ሞተር ሳይክል</string>
+    <string name="kind_moped" formatted="false">ሞፔድ</string>
+    <string name="fiscal_power" formatted="false">የግብር ፈረስ ኃይል (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV እና ከዚያ በላይ</string>
+    <string name="cv_or_less">%1$d CV እና ከዚያ በታች</string>
+    <string name="cv_range_3_5" formatted="false">ከ3 እስከ 5 CV</string>
+    <string name="electric" formatted="false">የኤሌክትሪክ ተሽከርካሪ</string>
+    <string name="no_vehicle" formatted="false">ተሽከርካሪ የለም። አንድ ይጨምሩ፦ ግምቱ ያስፈልገዋል።</string>
+    <string name="default_vehicle" formatted="false">ነባሪ ተሽከርካሪ</string>
+    <string name="vehicle_needed" formatted="false">መጀመሪያ በተጨማሪ &gt; ተሽከርካሪዎች ውስጥ ተሽከርካሪ ይጨምሩ።</string>
+    <string name="estimation" formatted="false">የትክክለኛ ወጪዎች ግምት</string>
+    <string name="income_year">የገቢ ዓመት %1$d</string>
+    <string name="estimation_locked" formatted="false">የትክክለኛ ወጪዎች ግምት፣ ወደ ውጭ መላክ፣ የታሪክ ማስመጣት እና ምትኬን መመለስ የPro ስሪት አካል ናቸው።</string>
+    <string name="disclaimer_short" formatted="false">አመላካች ግምት፣ ዋስትና የለውም።</string>
+    <string name="disclaimer_long" formatted="false">ይህ ግምት አመላካች ብቻ ነው እንጂ ዋስትና የለውም። የግብር ምክር አይደለም፤ ኦፊሴላዊ ሰነዶችን፣ የግብር አስተዳደርን ወይም ባለሙያን አይተካም። ከማስታወቅዎ በፊት በሁኔታዎ ላይ የሚሠሩ ደንቦችን ያረጋግጡ።</string>
+    <string name="commute_km_raw" formatted="false">የገቡ የቤት-ሥራ ኪ.ሜ</string>
+    <string name="commute_km_retained" formatted="false">የተያዙ የቤት-ሥራ ኪ.ሜ</string>
+    <string name="business_km" formatted="false">የሥራ ኪ.ሜ</string>
+    <string name="retained_km" formatted="false">የተያዙ ኪ.ሜ</string>
+    <string name="allowance" formatted="false">የኪሎሜትር አበል</string>
+    <string name="tolls_parking" formatted="false">የመንገድ ክፍያ እና ፓርኪንግ</string>
+    <string name="total" formatted="false">የተገመተ ድምር</string>
+    <string name="flat_deduction" formatted="false">ቋሚ 10% ቅናሽ</string>
+    <string name="real_better" formatted="false">ትክክለኛ ወጪዎች ከቋሚ ቅናሹ የበለጠ ጠቃሚ ይመስላሉ።</string>
+    <string name="flat_better" formatted="false">ቋሚ ቅናሹ ከትክክለኛ ወጪዎች የበለጠ ጠቃሚ ይመስላል።</string>
+    <string name="enter_salary" formatted="false">ከቋሚ ቅናሹ ጋር ለማነጻጸር ዓመታዊ የተጣራ ግብር የሚከፈልበት ደመወዝዎን ያስገቡ።</string>
+    <string name="net_taxable_salary" formatted="false">ዓመታዊ የተጣራ ግብር የሚከፈልበት ደመወዝ</string>
+    <string name="per_vehicle" formatted="false">በተሽከርካሪ</string>
+    <string name="note_scale_unconfirmed" formatted="false">የዚህ ዓመት ሰንጠረዥ ገና አልታተመም፦ የመጨረሻው የታወቀ ሰንጠረዥ ተተግብሯል።</string>
+    <string name="note_cap_applied" formatted="false">ልዩ ሁኔታ ስላልተገለጸ አንድ ወይም ከዚያ በላይ የቤት-ሥራ ጉዞዎች በ40 ኪ.ሜ ተገድበዋል።</string>
+    <string name="note_extra_legs" formatted="false">በቀን ከአንድ የቤት-ሥራ ደርሶ መልስ በላይ፣ ልዩ ሁኔታ የሌላቸው ጉዞዎች ተትተዋል።</string>
+    <string name="note_no_vehicle" formatted="false">ተሽከርካሪ የሌላቸው ጉዞዎች ችላ ተብለዋል፦ ነባሪ ተሽከርካሪ ይምረጡ።</string>
+    <string name="note_fuel">የገባው ነዳጅ (%1$s) አይጨመርም፦ የኪሎሜትር ሰንጠረዡ አስቀድሞ ያካትተዋል።</string>
+    <string name="note_no_salary" formatted="false">ደመወዝ አልገባም፦ ከቋሚ ቅናሹ ጋር ንጽጽር የለም።</string>
+    <string name="documents_title" formatted="false">መያዝ ያለባቸው ሰነዶች</string>
+    <string name="documents_list" formatted="false">የተሽከርካሪ ምዝገባ ሰነድ\nየሥራ ውል ወይም የአሠሪ ማረጋገጫ\nየተሠሩ ቀናት መዝገብ\nየመንገድ ክፍያ እና የፓርኪንግ ደረሰኞች\nልዩ ሁኔታዎችን የሚደግፍ ማንኛውም ነገር</string>
+    <string name="export" formatted="false">ወደ ውጭ ላክ</string>
+    <string name="export_title" formatted="false">ወደ ውጭ መላክ</string>
+    <string name="export_pdf" formatted="false">የPDF ሪፖርት</string>
+    <string name="export_xlsx" formatted="false">የተመን ሉህ ፋይል</string>
+    <string name="export_csv" formatted="false">የCSV ፋይል</string>
+    <string name="export_period" formatted="false">ጊዜ</string>
+    <string name="year" formatted="false">ዓመት</string>
+    <string name="export_from" formatted="false">ከ</string>
+    <string name="export_to" formatted="false">እስከ</string>
+    <string name="export_include_estimation" formatted="false">የዓመቱን ግምት አካትት</string>
+    <string name="export_share" formatted="false">ፋይሉ በማጋሪያ መስኮት ይከፈታል፦ ያስቀምጡት ወይም ይላኩት።</string>
+    <string name="export_failed" formatted="false">ወደ ውጭ መላክ አልተሳካም።</string>
+    <string name="report_title" formatted="false">የኪሎሜትር ሪፖርት</string>
+    <string name="generated_on">የተዘጋጀው በ%1$s</string>
+    <string name="yes" formatted="false">አዎ</string>
+    <string name="no" formatted="false">አይ</string>
+    <string name="import_title" formatted="false">ታሪክ አስመጣ</string>
+    <string name="import_help" formatted="false">ስልክዎ የአካባቢዎችዎን ታሪክ የሚያስቀምጥ ከሆነ፣ ከሚያስተዳድረው መተግበሪያ እንደ JSON ፋይል ወደ ውጭ ልከው እዚህ መክፈት ይችላሉ። የተሽከርካሪ ጉዞዎች ብቻ ይነበባሉ። ፋይሉ አይቀመጥም፦ ቀኑ፣ ርቀቱ እና ሲታወቁ መነሻውና መድረሻው ብቻ ይቀመጣሉ።</string>
+    <string name="import_pick" formatted="false">ፋይል ምረጥ</string>
+    <string name="import_reading" formatted="false">በማንበብ ላይ…</string>
+    <string name="import_found">የተገኙ የተሽከርካሪ ጉዞዎች፦ %1$d</string>
+    <string name="import_skipped">ችላ የተባሉ ሌሎች ጉዞዎች (በእግር፣ በብስክሌት፣ በትራንስፖርት)፦ %1$d</string>
+    <string name="import_default_purpose" formatted="false">እንደ ቤት-ሥራ ላልታወቁ ጉዞዎች ዓላማ</string>
+    <string name="import_period">ከ%1$s እስከ %2$s</string>
+    <string name="import_confirm">%1$d ጉዞዎችን አስመጣ</string>
+    <string name="import_done">የገቡ ጉዞዎች፦ %1$d</string>
+    <string name="import_nothing_new" formatted="false">አዲስ ጉዞ የለም፦ አስቀድመው ገብተዋል።</string>
+    <string name="import_unreadable" formatted="false">ይህ ፋይል ሊነበብ የሚችል የአካባቢ ታሪክ አይደለም።</string>
+    <string name="import_commute_hint" formatted="false">በቤትዎ እና በሥራ ቦታዎ መካከል ያሉ ጉዞዎች ፋይሉ ሲሰይማቸው ይታወቃሉ፤ የቤት-ሥራ ዓላማን ያገኛሉ።</string>
+    <string name="backup_title" formatted="false">ምትኬ</string>
+    <string name="backup_explain" formatted="false">ውሂብዎ ከመሣሪያዎ የሚወጣው እርስዎ ሲወስኑ ብቻ ነው። ምትኬ የትም ሊያስቀምጡት እና በማንኛውም መሣሪያ ላይ ሊመልሱት የሚችሉት ፋይል ነው።</string>
+    <string name="backup_export" formatted="false">ምትኬ ወደ ውጭ ላክ</string>
+    <string name="backup_restore" formatted="false">ምትኬ መልስ</string>
+    <string name="backup_restore_help" formatted="false">መመለስ ያዋህዳል፦ ከዚያ ወዲህ ያስገቡት ምንም ነገር አይጠፋም።</string>
+    <string name="backup_restored">ምትኬ ተመልሷል፦ በድምሩ %1$d ጉዞዎች።</string>
+    <string name="backup_invalid" formatted="false">ይህ ፋይል የዚህ መተግበሪያ ምትኬ አይደለም።</string>
+    <string name="cloud_title" formatted="false">የደመና ምትኬ</string>
+    <string name="cloud_explain" formatted="false">ያለ ተጨማሪ መለያ፣ በመሣሪያዎ የደመና ቦታ ውስጥ የውሂብዎ ራስ-ሰር ቅጂ። ከእያንዳንዱ ለውጥ በኋላ ይታደሳል።</string>
+    <string name="cloud_now" formatted="false">አሁን ምትኬ አስቀምጥ</string>
+    <string name="cloud_restore" formatted="false">ከደመና መልስ</string>
+    <string name="cloud_last">የመጨረሻ የደመና ምትኬ፦ %1$s</string>
+    <string name="cloud_never" formatted="false">እስካሁን የደመና ምትኬ የለም።</string>
+    <string name="cloud_unavailable" formatted="false">የደመና ምትኬ በዚህ መሣሪያ ላይ አይገኝም። ምትኬ ወደ ውጭ መላክን ይጠቀሙ።</string>
+    <string name="cloud_done" formatted="false">የደመና ምትኬ ተከናውኗል።</string>
+    <string name="cloud_nothing" formatted="false">የሚመለስ የደመና ምትኬ የለም።</string>
+    <string name="cloud_system_restore" formatted="false">መተግበሪያውን እንደገና ሲጭኑ ወይም አዲስ መሣሪያ ሲያዘጋጁ ሥርዓቱ ይህን ምትኬ በራሱ ይመልሳል።</string>
+    <string name="settings" formatted="false">ቅንብሮች</string>
+    <string name="rules_title" formatted="false">የስሌት ደንቦች</string>
+    <string name="rule_fr" formatted="false">የፈረንሳይ የኪሎሜትር ሰንጠረዥ</string>
+    <string name="rule_generic" formatted="false">በኪሎሜትር ቋሚ ተመን</string>
+    <string name="generic_rate" formatted="false">በኪሎሜትር ተመን</string>
+    <string name="currency" formatted="false">ምንዛሬ</string>
+    <string name="home_label" formatted="false">የቤትዎ ስም</string>
+    <string name="work_label" formatted="false">የሥራ ቦታዎ ስም</string>
+    <string name="home_work_distance" formatted="false">የቤት-ሥራ ርቀት (አንድ አቅጣጫ፣ ኪ.ሜ)</string>
+    <string name="places_help" formatted="false">ለተወዳጅ ጉዞዎች እና ለታሪክ ማስመጣት ያገለግላሉ።</string>
+    <string name="pro_title" formatted="false">የPro ስሪት</string>
+    <string name="pro_subtitle" formatted="false">ለትክክለኛ ወጪዎችዎ የሚያስፈልግዎ ሁሉ፣ እና ምንም ማስታወቂያ የለም።</string>
+    <string name="pro_features_title" formatted="false">የተከፈቱ ባህሪያት፦</string>
+    <string name="pro_feature_unlimited" formatted="false">ያልተገደቡ ጉዞዎች።</string>
+    <string name="pro_feature_estimation" formatted="false">የትክክለኛ ወጪዎች ግምት እና ከቋሚ ቅናሹ ጋር ንጽጽር።</string>
+    <string name="pro_feature_export" formatted="false">ሙሉ እና የተረጋገጠ ወደ ውጭ መላክ (ንጹህ PDF፣ ለሂሳብ ባለሙያዎ ወይም ለግብር መግለጫዎ የተዘጋጀ የተመን ሉህ ቅርጸት)።</string>
+    <string name="pro_feature_import" formatted="false">የስልክዎን የጉዞ ታሪክ ማስመጣት።</string>
+    <string name="pro_feature_expenses" formatted="false">የመንገድ ክፍያ፣ ፓርኪንግ እና ነዳጅ ወደ ግምቱ ይጨመራሉ።</string>
+    <string name="pro_feature_cloud" formatted="false">ከምትኬ ፋይል መመለስ፣ እና በመሣሪያዎችዎ መካከል ማመሳሰል።</string>
+    <string name="pro_feature_widgets" formatted="false">የመነሻ ማያ ገጽ ንዑስ መተግበሪያ።</string>
+    <string name="pro_feature_watch" formatted="false">የሰዓት መተግበሪያ።</string>
+    <string name="pro_feature_no_ads" formatted="false">ምንም ማስታወቂያ የለም።</string>
+    <string name="pro_feature_gps" formatted="false">ራስ-ሰር የGPS ክትትል (የእንቅስቃሴ ማወቂያ ወይም ከመኪናው ጋር የብሉቱዝ ግንኙነት)።</string>
+    <string name="pro_feature_scan" formatted="false">የመንገድ ክፍያ፣ የፓርኪንግ እና የነዳጅ ደረሰኞችን በካሜራ ብልህ ቅኝት (OCR)።</string>
+    <string name="pro_monthly">%1$s በወር</string>
+    <string name="pro_yearly">%1$s በዓመት</string>
+    <string name="pro_yearly_hint" formatted="false">ከወርሃዊው ጋር ሲነጻጸር ሁለት ወር ነፃ</string>
+    <string name="subscribe" formatted="false">ይመዝገቡ</string>
+    <string name="restore_purchases" formatted="false">ግዢዎችን መልስ</string>
+    <string name="pro_active" formatted="false">የPro ስሪት ነቅቷል</string>
+    <string name="pro_active_since">ምዝገባ፦ %1$s</string>
+    <string name="pro_unavailable" formatted="false">በዚህ የመተግበሪያ ስሪት ውስጥ ግዢዎች አይገኙም።</string>
+    <string name="pro_legal" formatted="false">ራስ-ሰር የሚታደስ ምዝገባ፣ ከመደብር መለያዎ ይከፈላል። በመደብሩ ቅንብሮች ውስጥ በማንኛውም ጊዜ መሰረዝ ይቻላል፤ ከማብቃቱ ቢያንስ 24 ሰዓት በፊት ካልተሰረዘ ለቀጣዩ ጊዜ ዋጋው ይከፈላል።</string>
+    <string name="purchase_pending" formatted="false">ግዢ በሂደት ላይ…</string>
+    <string name="purchase_failed" formatted="false">ግዢው አልተጠናቀቀም።</string>
+    <string name="purchase_restored" formatted="false">ግዢዎች ተመልሰዋል።</string>
+    <string name="purchase_nothing" formatted="false">የሚመለስ ነገር የለም።</string>
+    <string name="rewarded_title" formatted="false">በማስታወቂያ ይሞክሩት</string>
+    <string name="rewarded_explain" formatted="false">ይህን ለተወሰነ ጊዜ ለመክፈት አጭር ማስታወቂያ ይመልከቱ። Pro ማስታወቂያዎችን ያስወግዳል እና ሁሉንም ይከፍታል።</string>
+    <string name="rewarded_estimation" formatted="false">ግምቱን ለ24 ሰዓታት ይመልከቱ</string>
+    <string name="rewarded_export" formatted="false">አንድ ወደ ውጭ መላክ፣ በአንድ ሰዓት ውስጥ</string>
+    <string name="rewarded_trips" formatted="false">በዚህ ወር 5 ተጨማሪ ጉዞዎች</string>
+    <string name="rewarded_watch" formatted="false">ማስታወቂያ ይመልከቱ</string>
+    <string name="rewarded_unavailable" formatted="false">አሁን ማስታወቂያ የለም። ከጥቂት ጊዜ በኋላ እንደገና ይሞክሩ።</string>
+    <string name="rewarded_granted" formatted="false">ተከፍቷል። መልካም ጉዞ!</string>
+    <string name="expenses" formatted="false">ወጪዎች</string>
+    <string name="add_expense" formatted="false">አዲስ ወጪ</string>
+    <string name="edit_expense" formatted="false">ወጪ አርትዕ</string>
+    <string name="expense_kind" formatted="false">ዓይነት</string>
+    <string name="kind_toll" formatted="false">የመንገድ ክፍያ</string>
+    <string name="kind_parking" formatted="false">ፓርኪንግ</string>
+    <string name="kind_fuel" formatted="false">ነዳጅ</string>
+    <string name="kind_other" formatted="false">ሌላ</string>
+    <string name="amount" formatted="false">መጠን</string>
+    <string name="place" formatted="false">ቦታ</string>
+    <string name="litres" formatted="false">ሊትር</string>
+    <string name="odometer" formatted="false">የኪሎሜትር ቆጣሪ ንባብ</string>
+    <string name="no_expenses" formatted="false">ወጪ የለም። የመንገድ ክፍያ እና ፓርኪንግ ወደ ግምቱ ይጨመራሉ።</string>
+    <string name="invalid_amount" formatted="false">ከ0 የሚበልጥ መጠን ያስገቡ።</string>
+    <string name="legal_title" formatted="false">ሕጋዊ መረጃ እና ግላዊነት</string>
+    <string name="privacy_text" formatted="false">ሁሉም ውሂብዎ በመሣሪያዎ ላይ ይቆያል። መተግበሪያው መለያ አይጠይቅም እና ወደ አገልጋይ ምንም አይልክም። ከውጭ ጋር ያሉት ብቸኛ ልውውጦች እርስዎ የሚጀምሯቸው ናቸው፦ ወደ ውጭ መላክ፣ ምትኬ ወይም ግዢ፣ እንዲሁም የPro ስሪት የሚያስወግዳቸው የነፃው ስሪት ማስታወቂያዎች።</string>
+    <string name="about" formatted="false">ስለ</string>
+    <string name="version">ስሪት %1$s</string>
+    <string name="error_generic" formatted="false">የሆነ ችግር ተፈጥሯል።</string>
+    <string name="today" formatted="false">ዛሬ</string>
+    <string name="yesterday" formatted="false">ትናንት</string>
+    <string name="ads_privacy_options" formatted="false">የማስታወቂያ ግላዊነት አማራጮች</string>
+    <string name="ads_disabled_title" formatted="false">ማስታወቂያዎች ተሰናክለዋል</string>
+    <string name="ads_disabled_text" formatted="false">ሥርዓቱ ይህ መለያ የወጣት ተጠቃሚ መሆኑን ያመለክታል። ስለዚህ መተግበሪያው ማስታወቂያ አያሳይም እና ፈቃድ አይጠይቅም። ምንም የማስታወቂያ መለያ አይነበብም እንዲሁም ምንም ውሂብ አይሰበሰብም ወይም አይላክም።</string>
+    <string name="watch_quick_add" formatted="false">ፈጣን ጉዞ</string>
+    <string name="watch_no_favorites" formatted="false">በስልክዎ ላይ ተወዳጅ ጉዞዎችን ይጨምሩ።</string>
+    <string name="watch_added" formatted="false">ተጨምሯል</string>
+    <string name="watch_open_phone" formatted="false">የስልክ መተግበሪያውን ክፈት</string>
+    <string name="widget_today" formatted="false">ዛሬ</string>
+    <string name="widget_month" formatted="false">በዚህ ወር</string>
+    <string name="widget_pro_needed" formatted="false">ንዑስ መተግበሪያው በPro ይገኛል</string>
+</resources>

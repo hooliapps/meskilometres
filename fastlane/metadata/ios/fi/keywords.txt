@@ -1,0 +1,1 @@
+ajopäiväkirja,matkat,km,kulut,vero,työmatka,tiemaksu,pysäköinti,ajoneuvo,korvaus,polttoaine

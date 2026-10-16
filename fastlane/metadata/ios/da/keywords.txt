@@ -1,0 +1,1 @@
+kørebog,ture,km,kilometer,udgifter,skat,pendling,vejafgift,parkering,køretøj,godtgørelse,brændstof

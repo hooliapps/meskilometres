@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Sauvegarde cloud sans compte : conteneur iCloud Documents de l'app.
+	     A activer sur le portail developpeur pour l'identifiant, sinon la
+	     fonction se declare indisponible sans planter. -->
+	<key>com.apple.developer.icloud-container-identifiers</key>
+	<array><string>iCloud.com.consultali.kilometres</string></array>
+	<key>com.apple.developer.icloud-services</key>
+	<array><string>CloudDocuments</string></array>
+	<key>com.apple.developer.ubiquity-container-identifiers</key>
+	<array><string>iCloud.com.consultali.kilometres</string></array>
+	<!-- Groupe partage avec le widget : un petit fichier JSON, rien de plus. -->
+	<key>com.apple.security.application-groups</key>
+	<array><string>group.com.consultali.kilometres</string></array>
+</dict>
+</plist>

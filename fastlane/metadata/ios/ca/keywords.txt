@@ -1,0 +1,1 @@
+quilometratge,carnet,trajectes,km,despeses,impostos,barem,peatge,aparcament,vehicle,combustible

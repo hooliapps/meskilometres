@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometer</string>
+    <string name="watch_quick_add" formatted="false">Perjalanan cepat</string>
+    <string name="watch_no_favorites" formatted="false">Tambahkan perjalanan favorit di ponsel Anda.</string>
+    <string name="watch_added" formatted="false">Ditambahkan</string>
+    <string name="watch_open_phone" formatted="false">Buka aplikasi ponsel</string>
+    <string name="km_value">%1$s km</string>
+    <string name="this_month" formatted="false">Bulan ini</string>
+    <string name="today" formatted="false">Hari ini</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">Widget tersedia dengan Pro</string>
+</resources>

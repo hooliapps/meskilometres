@@ -1,0 +1,8 @@
+Prima versione di Kilomètres.
+
+• Viaggi in un tocco, percorsi preferiti
+• Stima delle spese reali con la tabella ufficiale (Pro)
+• Esportazioni PDF e foglio di calcolo (Pro)
+• Importazione della cronologia dei viaggi (Pro)
+• Backup cloud per tutti; widget e app per l'orologio (Pro)
+• 71 lingue

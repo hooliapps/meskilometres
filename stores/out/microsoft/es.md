@@ -1,0 +1,49 @@
+# Kilomètres: registro de viajes
+
+## Sous-titre / phrase courte
+Viajes, gastos, estimación
+
+Tu registro de viajes en un toque. Viajes, peajes, parking y gastos reales.
+
+## Description
+Kilomètres lleva tu registro de kilometraje sin complicarte la vida: un toque por viaje, sin cuenta, nada que configurar. Tus viajes se quedan en tu teléfono, y una copia en el espacio en la nube de tu dispositivo garantiza que nunca se pierdan.
+
+UN TOQUE POR VIAJE
+Guarda tus rutas habituales como favoritas y registra un viaje con un solo toque, desde la aplicación, el widget de la pantalla de inicio o tu reloj. Fecha, salida, llegada, distancia, ida y vuelta o solo ida, motivo: eso es todo.
+
+LO QUE HACE LA VERSIÓN GRATUITA
+• Hasta 5 viajes al mes, introducidos a mano
+• Rutas favoritas para registrar en un toque
+• Vehículos y potencia fiscal
+• Archivo de copia de seguridad y copia en la nube: nada se pierde nunca
+
+LO QUE AÑADE PRO
+• Viajes ilimitados
+• Estimación de tus gastos reales con el baremo kilométrico oficial, y comparación con la deducción a tanto alzado del 10 %
+• Peajes, aparcamientos y combustible añadidos a la estimación
+• Importación del historial de viajes que tu teléfono ya ha registrado
+• Exportación completa y certificada: informe PDF limpio y hoja de cálculo lista para el contable o la declaración
+• Restauración desde un archivo de copia de seguridad y sincronización entre tus dispositivos
+• Widget de pantalla de inicio y aplicación para el reloj
+• Sin anuncios, nunca
+
+UNA ESTIMACIÓN, NO UNA GARANTÍA
+La estimación de gastos reales es orientativa y no está garantizada. No es asesoramiento fiscal y no sustituye los textos oficiales, la administración tributaria ni a un profesional. Comprueba las normas aplicables a tu situación antes de declarar.
+
+PRIVADO POR DISEÑO
+Sin cuenta, sin servidor. La aplicación no envía nada a ningún sitio: los únicos datos que salen de tu teléfono son los que tú mismo exportas, guardas o compras. Los justificantes se conservan como referencias (fecha, importe, lugar), nunca como imágenes.
+
+Pro es una suscripción: 4,99 € al mes o 49,99 € al año, cancelable en cualquier momento desde tu cuenta de la tienda.
+
+## Mots-cles
+kilometraje,registro,viajes,km,gastos reales,impuestos,baremo,peaje,parking,vehículo,combustible
+
+## Nouveautes
+Primera versión de Kilomètres.
+
+• Viajes en un toque, rutas favoritas
+• Estimación de gastos reales con el baremo oficial (Pro)
+• Exportaciones PDF y hoja de cálculo (Pro)
+• Importación del historial de viajes (Pro)
+• Copia en la nube para todos; widget y aplicación para el reloj (Pro)
+• 71 idiomas

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilômét</string>
+    <string name="watch_quick_add" formatted="false">Hành trình nhanh</string>
+    <string name="watch_no_favorites" formatted="false">Thêm hành trình yêu thích trên điện thoại của bạn.</string>
+    <string name="watch_added" formatted="false">Đã thêm</string>
+    <string name="watch_open_phone" formatted="false">Mở ứng dụng trên điện thoại</string>
+    <string name="km_value">%1$s km</string>
+    <string name="this_month" formatted="false">Tháng này</string>
+    <string name="today" formatted="false">Hôm nay</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">Tiện ích khả dụng với Pro</string>
+</resources>

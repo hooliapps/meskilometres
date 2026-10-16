@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilomètres</string>
+    <string name="widget_name" formatted="false">Trajets</string>
+    <string name="widget_description" formatted="false">Les kilomètres du jour et vos trajets favoris en un geste.</string>
+    <string name="tab_trips" formatted="false">Trajets</string>
+    <string name="tab_estimate" formatted="false">Estimation</string>
+    <string name="tab_more" formatted="false">Plus</string>
+    <string name="this_month" formatted="false">Ce mois-ci</string>
+    <string name="this_year" formatted="false">Cette année</string>
+    <string name="trips_count">Trajets : %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Nouveau trajet</string>
+    <string name="free_remaining">Trajets gratuits restants ce mois-ci : %1$d</string>
+    <string name="free_limit_reached" formatted="false">Limite gratuite atteinte ce mois-ci</string>
+    <string name="free_quota_reached" formatted="false">La version gratuite permet 5 trajets par mois. Passez en Pro pour des trajets illimités, ou regardez une annonce pour 5 de plus.</string>
+    <string name="go_pro" formatted="false">Passer en Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Aucun trajet pour l\'instant.\nAppuyez sur + pour saisir le premier.</string>
+    <string name="trip_new" formatted="false">Nouveau trajet</string>
+    <string name="trip_edit" formatted="false">Modifier le trajet</string>
+    <string name="field_date" formatted="false">Date</string>
+    <string name="field_from" formatted="false">Départ</string>
+    <string name="field_to" formatted="false">Arrivée</string>
+    <string name="field_distance" formatted="false">Distance d\'un aller (km)</string>
+    <string name="field_round_trip" formatted="false">Aller-retour</string>
+    <string name="field_purpose" formatted="false">Motif</string>
+    <string name="field_vehicle" formatted="false">Véhicule</string>
+    <string name="field_note" formatted="false">Note</string>
+    <string name="field_justified" formatted="false">Motif particulier</string>
+    <string name="field_justified_help" formatted="false">À cocher si la distance domicile-travail dépasse 40 km pour une raison particulière, ou pour un aller-retour supplémentaire justifié dans la journée.</string>
+    <string name="purpose_commute" formatted="false">Domicile-travail</string>
+    <string name="purpose_business" formatted="false">Professionnel</string>
+    <string name="purpose_personal" formatted="false">Personnel</string>
+    <string name="save" formatted="false">Enregistrer</string>
+    <string name="cancel" formatted="false">Annuler</string>
+    <string name="delete" formatted="false">Supprimer</string>
+    <string name="edit" formatted="false">Modifier</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Fermer</string>
+    <string name="back" formatted="false">Retour</string>
+    <string name="confirm_delete" formatted="false">Supprimer définitivement ?</string>
+    <string name="invalid_distance" formatted="false">Indiquez une distance supérieure à 0.</string>
+    <string name="favorites" formatted="false">Favoris</string>
+    <string name="save_as_favorite" formatted="false">Enregistrer aussi comme favori</string>
+    <string name="favorite_label" formatted="false">Nom du favori</string>
+    <string name="no_favorites" formatted="false">Enregistrez un trajet comme favori pour le saisir en un geste.</string>
+    <string name="use_favorite" formatted="false">Trajets favoris</string>
+    <string name="swap" formatted="false">Inverser</string>
+    <string name="quick_add_hint" formatted="false">Appuyez sur un favori pour l\'ajouter à la date d\'aujourd\'hui.</string>
+    <string name="added" formatted="false">Trajet ajouté.</string>
+    <string name="undo" formatted="false">Annuler</string>
+    <string name="vehicles" formatted="false">Véhicules</string>
+    <string name="add_vehicle" formatted="false">Ajouter un véhicule</string>
+    <string name="edit_vehicle" formatted="false">Modifier le véhicule</string>
+    <string name="vehicle_name" formatted="false">Nom</string>
+    <string name="vehicle_kind" formatted="false">Type</string>
+    <string name="kind_car" formatted="false">Voiture</string>
+    <string name="kind_motorcycle" formatted="false">Moto</string>
+    <string name="kind_moped" formatted="false">Cyclomoteur</string>
+    <string name="fiscal_power" formatted="false">Puissance fiscale</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV et plus</string>
+    <string name="cv_or_less">%1$d CV et moins</string>
+    <string name="cv_range_3_5" formatted="false">3 à 5 CV</string>
+    <string name="electric" formatted="false">Véhicule électrique</string>
+    <string name="no_vehicle" formatted="false">Aucun véhicule. Ajoutez-en un : l\'estimation en a besoin.</string>
+    <string name="default_vehicle" formatted="false">Véhicule par défaut</string>
+    <string name="vehicle_needed" formatted="false">Ajoutez d\'abord un véhicule dans Plus &gt; Véhicules.</string>
+    <string name="estimation" formatted="false">Estimation des frais réels</string>
+    <string name="income_year">Année des revenus %1$d</string>
+    <string name="estimation_locked" formatted="false">L\'estimation des frais réels, les exports, l\'import de l\'historique et la restauration d\'une sauvegarde sont réservés à la version Pro.</string>
+    <string name="disclaimer_short" formatted="false">Estimation indicative, non garantie.</string>
+    <string name="disclaimer_long" formatted="false">Cette estimation est indicative et non garantie. Elle ne tient pas lieu de conseil fiscal et ne remplace ni les textes officiels ni l\'avis de l\'administration ou d\'un professionnel. Vérifiez les règles applicables à votre situation avant toute déclaration.</string>
+    <string name="commute_km_raw" formatted="false">Km domicile-travail saisis</string>
+    <string name="commute_km_retained" formatted="false">Km domicile-travail retenus</string>
+    <string name="business_km" formatted="false">Km professionnels</string>
+    <string name="retained_km" formatted="false">Km retenus</string>
+    <string name="allowance" formatted="false">Indemnité kilométrique</string>
+    <string name="tolls_parking" formatted="false">Péages et parkings</string>
+    <string name="total" formatted="false">Total estimé</string>
+    <string name="flat_deduction" formatted="false">Déduction forfaitaire de 10 %</string>
+    <string name="real_better" formatted="false">Les frais réels semblent plus avantageux que la déduction forfaitaire.</string>
+    <string name="flat_better" formatted="false">La déduction forfaitaire semble plus avantageuse que les frais réels.</string>
+    <string name="enter_salary" formatted="false">Renseignez votre salaire net imposable annuel pour comparer avec la déduction forfaitaire.</string>
+    <string name="net_taxable_salary" formatted="false">Salaire net imposable annuel</string>
+    <string name="per_vehicle" formatted="false">Par véhicule</string>
+    <string name="note_scale_unconfirmed" formatted="false">Le barème de cette année n\'est pas encore publié : le dernier barème connu est appliqué.</string>
+    <string name="note_cap_applied" formatted="false">Un ou plusieurs allers domicile-travail ont été ramenés à 40 km, faute de motif particulier.</string>
+    <string name="note_extra_legs" formatted="false">Au-delà d\'un aller-retour domicile-travail par jour, les trajets sans motif particulier ont été écartés.</string>
+    <string name="note_no_vehicle" formatted="false">Des trajets sans véhicule ont été ignorés : choisissez un véhicule par défaut.</string>
+    <string name="note_fuel">Le carburant saisi (%1$s) n\'est pas ajouté : le barème kilométrique le comprend déjà.</string>
+    <string name="note_no_salary" formatted="false">Salaire non renseigné : pas de comparaison avec la déduction forfaitaire.</string>
+    <string name="documents_title" formatted="false">Justificatifs à conserver</string>
+    <string name="documents_list" formatted="false">Carte grise du véhicule\nContrat de travail ou attestation de l\'employeur\nRelevé des jours travaillés\nTickets de péage et de parking\nTout élément justifiant un motif particulier</string>
+    <string name="export" formatted="false">Exporter</string>
+    <string name="export_title" formatted="false">Export</string>
+    <string name="export_pdf" formatted="false">Rapport PDF</string>
+    <string name="export_xlsx" formatted="false">Classeur tableur</string>
+    <string name="export_csv" formatted="false">Fichier CSV</string>
+    <string name="export_period" formatted="false">Période</string>
+    <string name="year" formatted="false">Année</string>
+    <string name="export_from" formatted="false">Du</string>
+    <string name="export_to" formatted="false">Au</string>
+    <string name="export_include_estimation" formatted="false">Inclure l\'estimation de l\'année</string>
+    <string name="export_share" formatted="false">Le fichier s\'ouvre dans la feuille de partage : enregistrez-le ou envoyez-le.</string>
+    <string name="export_failed" formatted="false">L\'export a échoué.</string>
+    <string name="report_title" formatted="false">Rapport kilométrique</string>
+    <string name="generated_on">Généré le %1$s</string>
+    <string name="yes" formatted="false">oui</string>
+    <string name="no" formatted="false">non</string>
+    <string name="import_title" formatted="false">Importer un historique</string>
+    <string name="import_help" formatted="false">Si votre téléphone conserve un historique de vos positions, vous pouvez l\'exporter en fichier JSON depuis l\'application qui le gère, puis l\'ouvrir ici. Seuls les déplacements en véhicule sont lus. Le fichier n\'est pas conservé : seules la date, la distance et, s\'ils sont connus, le départ et l\'arrivée sont enregistrés.</string>
+    <string name="import_pick" formatted="false">Choisir le fichier</string>
+    <string name="import_reading" formatted="false">Lecture…</string>
+    <string name="import_found">Déplacements en véhicule trouvés : %1$d</string>
+    <string name="import_skipped">Autres déplacements ignorés (à pied, vélo, transports) : %1$d</string>
+    <string name="import_default_purpose" formatted="false">Motif des trajets non reconnus comme domicile-travail</string>
+    <string name="import_period">Du %1$s au %2$s</string>
+    <string name="import_confirm">Importer %1$d trajets</string>
+    <string name="import_done">Trajets importés : %1$d</string>
+    <string name="import_nothing_new" formatted="false">Aucun nouveau trajet : ils étaient déjà importés.</string>
+    <string name="import_unreadable" formatted="false">Ce fichier n\'est pas un historique de positions lisible.</string>
+    <string name="import_commute_hint" formatted="false">Les déplacements entre votre domicile et votre travail sont reconnus quand le fichier les désigne ; ils prennent le motif domicile-travail.</string>
+    <string name="backup_title" formatted="false">Sauvegarde</string>
+    <string name="backup_explain" formatted="false">Vos données ne quittent votre appareil que si vous le décidez. Une sauvegarde est un fichier que vous pouvez déposer où vous voulez, et restaurer sur n\'importe quel appareil.</string>
+    <string name="backup_export" formatted="false">Exporter une sauvegarde</string>
+    <string name="backup_restore" formatted="false">Restaurer une sauvegarde</string>
+    <string name="backup_restore_help" formatted="false">La restauration fusionne : rien de ce que vous avez saisi depuis n\'est perdu.</string>
+    <string name="backup_restored">Sauvegarde restaurée : %1$d trajets au total.</string>
+    <string name="backup_invalid" formatted="false">Ce fichier n\'est pas une sauvegarde de cette application.</string>
+    <string name="cloud_title" formatted="false">Sauvegarde cloud</string>
+    <string name="cloud_explain" formatted="false">Copie automatique de vos données dans l\'espace cloud de votre appareil, sans compte supplémentaire. Elle se refait à chaque modification.</string>
+    <string name="cloud_now" formatted="false">Sauvegarder maintenant</string>
+    <string name="cloud_restore" formatted="false">Restaurer depuis le cloud</string>
+    <string name="cloud_last">Dernière sauvegarde cloud : %1$s</string>
+    <string name="cloud_never" formatted="false">Aucune sauvegarde cloud pour l\'instant.</string>
+    <string name="cloud_unavailable" formatted="false">La sauvegarde cloud n\'est pas disponible sur cet appareil. Utilisez l\'export de sauvegarde.</string>
+    <string name="cloud_done" formatted="false">Sauvegarde cloud effectuée.</string>
+    <string name="cloud_nothing" formatted="false">Aucune sauvegarde cloud à restaurer.</string>
+    <string name="cloud_system_restore" formatted="false">Le système restaure cette sauvegarde de lui-même à la réinstallation de l\'application ou sur un nouvel appareil.</string>
+    <string name="settings" formatted="false">Réglages</string>
+    <string name="rules_title" formatted="false">Règles de calcul</string>
+    <string name="rule_fr" formatted="false">Barème kilométrique français</string>
+    <string name="rule_generic" formatted="false">Taux fixe par kilomètre</string>
+    <string name="generic_rate" formatted="false">Taux par kilomètre</string>
+    <string name="currency" formatted="false">Devise</string>
+    <string name="home_label" formatted="false">Nom de votre domicile</string>
+    <string name="work_label" formatted="false">Nom de votre lieu de travail</string>
+    <string name="home_work_distance" formatted="false">Distance domicile-travail (un aller, km)</string>
+    <string name="places_help" formatted="false">Servent aux trajets favoris et à l\'import d\'historique.</string>
+    <string name="pro_title" formatted="false">Version Pro</string>
+    <string name="pro_subtitle" formatted="false">Tout ce qu\'il faut pour vos frais réels, et aucune publicité.</string>
+    <string name="pro_features_title" formatted="false">Fonctionnalités débloquées :</string>
+    <string name="pro_feature_unlimited" formatted="false">Trajets illimités.</string>
+    <string name="pro_feature_estimation" formatted="false">Estimation des frais réels et comparaison avec la déduction forfaitaire.</string>
+    <string name="pro_feature_export" formatted="false">Export complet et certifié (PDF propre, format tableur prêt pour le comptable ou les impôts).</string>
+    <string name="pro_feature_import" formatted="false">Import de l\'historique de trajets de votre téléphone.</string>
+    <string name="pro_feature_expenses" formatted="false">Péages, parkings et carburant ajoutés à l\'estimation.</string>
+    <string name="pro_feature_cloud" formatted="false">Restauration d\'une sauvegarde et synchronisation multi-appareils.</string>
+    <string name="pro_feature_widgets" formatted="false">Widget d\'écran d\'accueil.</string>
+    <string name="pro_feature_watch" formatted="false">Application pour la montre.</string>
+    <string name="pro_feature_no_ads" formatted="false">Aucune publicité.</string>
+    <string name="pro_feature_gps" formatted="false">Tracking GPS automatique (détection de mouvement ou connexion Bluetooth à la voiture).</string>
+    <string name="pro_feature_scan" formatted="false">Scan intelligent (OCR) des tickets de péage, parking et carburant avec l\'appareil photo.</string>
+    <string name="pro_monthly">%1$s par mois</string>
+    <string name="pro_yearly">%1$s par an</string>
+    <string name="pro_yearly_hint" formatted="false">Deux mois offerts par rapport au mensuel</string>
+    <string name="subscribe" formatted="false">S\'abonner</string>
+    <string name="restore_purchases" formatted="false">Restaurer mes achats</string>
+    <string name="pro_active" formatted="false">Version Pro active</string>
+    <string name="pro_active_since">Abonnement : %1$s</string>
+    <string name="pro_unavailable" formatted="false">Les achats ne sont pas disponibles sur cette version de l\'application.</string>
+    <string name="pro_legal" formatted="false">Abonnement à renouvellement automatique, débité sur votre compte de la boutique. Résiliable à tout moment depuis les réglages de la boutique ; le prix est débité pour la période suivante sauf résiliation au moins 24 h avant son terme.</string>
+    <string name="purchase_pending" formatted="false">Achat en cours…</string>
+    <string name="purchase_failed" formatted="false">L\'achat n\'a pas abouti.</string>
+    <string name="purchase_restored" formatted="false">Achats restaurés.</string>
+    <string name="purchase_nothing" formatted="false">Aucun achat à restaurer.</string>
+    <string name="rewarded_title" formatted="false">Essayer avec une annonce</string>
+    <string name="rewarded_explain" formatted="false">Regardez une courte annonce pour débloquer cette fonction un moment. La version Pro supprime la publicité et débloque tout.</string>
+    <string name="rewarded_estimation" formatted="false">Voir l\'estimation pendant 24 h</string>
+    <string name="rewarded_export" formatted="false">Un export, dans l\'heure</string>
+    <string name="rewarded_trips" formatted="false">5 trajets de plus ce mois-ci</string>
+    <string name="rewarded_watch" formatted="false">Regarder une annonce</string>
+    <string name="rewarded_unavailable" formatted="false">Aucune annonce disponible pour l\'instant. Réessayez dans un moment.</string>
+    <string name="rewarded_granted" formatted="false">Débloqué. Bonne route !</string>
+    <string name="expenses" formatted="false">Dépenses</string>
+    <string name="add_expense" formatted="false">Nouvelle dépense</string>
+    <string name="edit_expense" formatted="false">Modifier la dépense</string>
+    <string name="expense_kind" formatted="false">Type</string>
+    <string name="kind_toll" formatted="false">Péage</string>
+    <string name="kind_parking" formatted="false">Parking</string>
+    <string name="kind_fuel" formatted="false">Carburant</string>
+    <string name="kind_other" formatted="false">Autre</string>
+    <string name="amount" formatted="false">Montant</string>
+    <string name="place" formatted="false">Lieu</string>
+    <string name="litres" formatted="false">Litres</string>
+    <string name="odometer" formatted="false">Kilométrage compteur</string>
+    <string name="no_expenses" formatted="false">Aucune dépense. Les péages et parkings s\'ajoutent à l\'estimation.</string>
+    <string name="invalid_amount" formatted="false">Indiquez un montant supérieur à 0.</string>
+    <string name="legal_title" formatted="false">Mentions et confidentialité</string>
+    <string name="privacy_text" formatted="false">Toutes vos données restent sur votre appareil. L\'application ne demande aucun compte et n\'envoie rien à un serveur. Les seuls échanges avec l\'extérieur sont ceux que vous déclenchez, un export, une sauvegarde ou un achat, et les annonces de la version gratuite, que la version Pro supprime.</string>
+    <string name="about" formatted="false">À propos</string>
+    <string name="version">Version %1$s</string>
+    <string name="error_generic" formatted="false">Une erreur est survenue.</string>
+    <string name="today" formatted="false">Aujourd\'hui</string>
+    <string name="yesterday" formatted="false">Hier</string>
+    <string name="ads_privacy_options" formatted="false">Options de confidentialité des annonces</string>
+    <string name="ads_disabled_title" formatted="false">Les annonces sont désactivées</string>
+    <string name="ads_disabled_text" formatted="false">Le système indique que ce compte est celui d\'un jeune utilisateur. L\'application n\'affiche donc aucune annonce et ne demande aucun consentement. Aucun identifiant publicitaire n\'est lu, aucune donnée n\'est collectée ni envoyée.</string>
+    <string name="watch_quick_add" formatted="false">Trajet rapide</string>
+    <string name="watch_no_favorites" formatted="false">Ajoutez des trajets favoris sur votre téléphone.</string>
+    <string name="watch_added" formatted="false">Ajouté</string>
+    <string name="watch_open_phone" formatted="false">Ouvrir l\'app du téléphone</string>
+    <string name="widget_today" formatted="false">Aujourd\'hui</string>
+    <string name="widget_month" formatted="false">Ce mois-ci</string>
+    <string name="widget_pro_needed" formatted="false">Widget disponible avec Pro</string>
+</resources>

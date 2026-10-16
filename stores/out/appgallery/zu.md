@@ -1,0 +1,49 @@
+# Kilomètres: ilogi yohambo
+
+## Sous-titre / phrase courte
+Uhambo, izindleko, intela
+
+Ilogi yakho yamakhilomitha ngokuthepha kanye. Uhambo, izimali zomgwaqo, ukupaka.
+
+## Description
+Kilomètres igcina ilogi yakho yamakhilomitha ngaphandle kwenkinga: ukuthepha kanye ngohambo ngalunye, ayikho i-akhawunti, akukho okumele usethwe. Uhambo lwakho luhlala efonini yakho, futhi ikhophi yokulondoloza esikhaleni sefu sedivayisi yakho iqinisekisa ukuthi alulahleki.
+
+UKUTHEPHA KANYE NGOHAMBO NGALUNYE
+Londoloza imizila yakho ejwayelekile njengezintandokazi bese ubhala uhambo ngokuthepha kanye nje, kusuka ku-app, kuwijethi yesikrini sasekhaya noma kuwashi lakho. Usuku, indawo yokusuka, indawo yokuya, ibanga, ukuya nokubuya noma uhambo olulodwa, inhloso: yilokho kuphela.
+
+OKWENZIWA YINGUQULO YAMAHHALA
+• Bhala uhambo olufika ku-5 ngenyanga, ngesandla
+• Imizila eyintandokazi yokubhala ngokuthepha kanye
+• Izimoto namandla ehhashi entela
+• Ifayela lekhophi yokulondoloza nekhophi yefu, ukuze kungalahleki lutho
+
+OKWENGEZWA YI-PRO
+• Uhambo olungenamkhawulo
+• Isilinganiso sezindleko zakho zangempela ngethebula lamakhilomitha elisemthethweni, nokuqhathanisa nokudonswa okujwayelekile kuka-10%
+• Izimali zomgwaqo, ukupaka nophethiloli kwengezwa esilinganisweni
+• Ukungenisa umlando wohambo ifoni yakho esivele iwurekhodile
+• Ukuthumela ngaphandle okuphelele futhi okuqinisekisiwe: umbiko we-PDF ohlanzekile nespredishithi esilungele umbalimali wakho noma isitatimende sakho sentela
+• Ukubuyisela kusuka efayeleni lekhophi yokulondoloza nokuvumelanisa phakathi kwamadivayisi akho
+• Iwijethi yesikrini sasekhaya ne-app yewashi
+• Azikho izikhangiso, nanini
+
+ISILINGANISO, HHAYI ISIQINISEKISO
+Isilinganiso sezindleko zangempela siyisiqondiso nje futhi asiqinisekisiwe. Asiyona iseluleko sentela futhi asithathi indawo yemibhalo esemthethweni, yehhovisi lentela noma yochwepheshe. Hlola imithetho esebenza kuwe ngaphambi kokufaka isitatimende.
+
+KWAKHELWE UBUMFIHLO
+Ayikho i-akhawunti, ayikho iseva. I-app ayithumeli lutho ndawo: idatha kuphela ephuma efonini yakho yilena oyithumela ngaphandle, oyilondolozayo noma oyithengayo wena. Amarisidi agcinwa njengezinkomba (usuku, inani, indawo), hhayi njengezithombe.
+
+I-Pro iwukubhalisa: 4,99 € ngenyanga noma 49,99 € ngonyaka, khansela noma nini kusuka ku-akhawunti yakho yesitolo.
+
+## Mots-cles
+amakhilomitha,ilogi,uhambo,km,izindleko,intela,umgwaqo,ukupaka,imoto,isabelo,uphethiloli
+
+## Nouveautes
+Ukukhishwa kokuqala kwe-Kilomètres.
+
+• Uhambo ngokuthepha kanye, imizila eyintandokazi
+• Isilinganiso sezindleko zangempela ngethebula elisemthethweni (Pro)
+• Ukuthumela ngaphandle kwe-PDF nespredishithi (Pro)
+• Ukungenisa umlando wohambo (Pro)
+• Ikhophi yefu kuwo wonke umuntu; iwijethi ne-app yewashi (Pro)
+• Izilimi ezingu-71

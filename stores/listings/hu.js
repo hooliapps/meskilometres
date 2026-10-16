@@ -1,0 +1,43 @@
+'use strict';
+module.exports = {
+	title: '{app}: útnyilvántartás',
+	subtitle: 'Utak, kiadások, adóbecslés',
+	short: 'Útnyilvántartás egyetlen koppintással. Utak, útdíjak, parkolás, költségbecslés.',
+	full: `A {app} felesleges macera nélkül vezeti az útnyilvántartását: utanként egy koppintás, nincs fiók, nincs mit beállítani. Az útjai a telefonján maradnak, a készüléke saját felhőtárhelyére készülő mentés pedig gondoskodik róla, hogy soha ne vesszenek el.
+
+UTANKÉNT EGY KOPPINTÁS
+Mentse el a szokásos útvonalait kedvencként, és rögzítsen egy utat egyetlen koppintással az alkalmazásból, a kezdőképernyő-widgetből vagy az órájáról. Dátum, honnan, hová, távolság, oda-vissza vagy csak oda, cél: ennyi az egész.
+
+MIT TUD AZ INGYENES VERZIÓ
+• Havi legfeljebb 5 út, kézzel rögzítve
+• Kedvenc útvonalak az egykoppintásos rögzítéshez
+• Járművek és adóteljesítmény
+• Mentésfájl és felhőmentés: semmi sem vész el soha
+
+MIT AD HOZZÁ A PRO
+• Korlátlan számú út
+• A tényleges költségek becslése a hivatalos kilométerdíj-táblázattal, és összehasonlítás a 10%-os átalánylevonással
+• Útdíjak, parkolás és üzemanyag hozzáadva a becsléshez
+• A telefonja által már rögzített útelőzmények importálása
+• Teljes, hitelesített exportálás: tiszta PDF-jelentés és táblázat a könyvelőnek vagy az adóbevalláshoz
+• Visszaállítás mentésfájlból és szinkronizálás a készülékei között
+• Kezdőképernyő-widget és óraalkalmazás
+• Hirdetések soha
+
+BECSLÉS, NEM GARANCIA
+A tényleges költségek becslése kizárólag tájékoztató jellegű és nem garantált. Nem minősül adótanácsadásnak, és nem helyettesíti a hivatalos jogszabályokat, az adóhatóságot vagy egy szakembert. Bevallás előtt ellenőrizze az Önre vonatkozó szabályokat.
+
+ALAPJAITÓL PRIVÁT
+Nincs fiók, nincs szerver. Az alkalmazás semmit sem küld sehová: csak azok az adatok hagyják el a telefonját, amelyeket Ön maga exportál, ment vagy vásárol. A nyugtákat hivatkozásként (dátum, összeg, hely) őrizzük, soha nem képként.
+
+A Pro előfizetés: {monthly} havonta vagy {yearly} évente, bármikor lemondható az áruházi fiókjából.`,
+	keywords: 'útnyilvántartás,kilométer,utak,km,kiadások,adó,munkába járás,útdíj,parkolás,jármű,térítés,üzemanyag',
+	whatsNew: `A {app} első kiadása.
+
+• Utak egyetlen koppintással, kedvenc útvonalak
+• Tényleges költségek becslése a hivatalos díjtáblázattal (Pro)
+• PDF- és táblázatexport (Pro)
+• Útelőzmények importálása (Pro)
+• Felhőmentés mindenkinek; widget és óraalkalmazás (Pro)
+• 71 nyelv`
+};

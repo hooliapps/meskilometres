@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Quilómetros</string>
+    <string name="watch_quick_add" formatted="false">Viagem rápida</string>
+    <string name="watch_no_favorites" formatted="false">Adicione viagens favoritas no seu telemóvel.</string>
+    <string name="watch_added" formatted="false">Adicionada</string>
+    <string name="watch_open_phone" formatted="false">Abrir a aplicação do telemóvel</string>
+    <string name="km_value">%1$s km</string>
+    <string name="this_month" formatted="false">Este mês</string>
+    <string name="today" formatted="false">Hoje</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">Widget disponível com o Pro</string>
+</resources>

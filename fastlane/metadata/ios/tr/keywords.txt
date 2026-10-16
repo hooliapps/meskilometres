@@ -1,0 +1,1 @@
+kilometre,defter,yolculuk,km,gider,vergi,ev-iş,otoyol,otopark,araç,tazminat,yakıt,iş,seyahat

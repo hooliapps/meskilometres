@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Шақырым</string>
+    <string name="watch_quick_add" formatted="false">Жылдам сапар</string>
+    <string name="watch_no_favorites" formatted="false">Телефоныңызда таңдаулы сапарларды қосыңыз.</string>
+    <string name="watch_added" formatted="false">Қосылды</string>
+    <string name="watch_open_phone" formatted="false">Телефон қолданбасын ашу</string>
+    <string name="km_value">%1$s км</string>
+    <string name="this_month" formatted="false">Осы ай</string>
+    <string name="today" formatted="false">Бүгін</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">Виджет Pro нұсқасында қолжетімді</string>
+</resources>

@@ -1,0 +1,8 @@
+First release of Kilomètres.
+
+• Trips in one tap, favourite routes
+• Real-expense estimate with the official scale (Pro)
+• PDF and spreadsheet exports (Pro)
+• Trip history import (Pro)
+• Cloud backup for everyone; widget and watch app (Pro)
+• 71 languages

@@ -1,0 +1,8 @@
+Primeira versión de Kilomètres.
+
+• Traxectos cun toque, rutas favoritas
+• Estimación de gastos reais co baremo oficial (Pro)
+• Exportacións PDF e folla de cálculo (Pro)
+• Importación do historial de traxectos (Pro)
+• Copia na nube para todos; widget e aplicación para o reloxo (Pro)
+• 71 idiomas

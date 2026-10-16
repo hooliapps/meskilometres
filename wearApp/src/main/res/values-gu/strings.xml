@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">કિલોમીટર</string>
+    <string name="watch_quick_add" formatted="false">ઝડપી મુસાફરી</string>
+    <string name="watch_no_favorites" formatted="false">તમારા ફોન પર મનપસંદ મુસાફરીઓ ઉમેરો.</string>
+    <string name="watch_added" formatted="false">ઉમેરાઈ</string>
+    <string name="watch_open_phone" formatted="false">ફોન ઍપ ખોલો</string>
+    <string name="km_value">%1$s કિમી</string>
+    <string name="this_month" formatted="false">આ મહિને</string>
+    <string name="today" formatted="false">આજે</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">વિજેટ Pro સાથે ઉપલબ્ધ</string>
+</resources>

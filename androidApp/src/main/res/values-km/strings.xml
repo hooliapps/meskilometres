@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">គីឡូម៉ែត្រ</string>
+    <string name="widget_name" formatted="false">ដំណើរ</string>
+    <string name="widget_description" formatted="false">គីឡូម៉ែត្រថ្ងៃនេះ និងដំណើរចំណូលចិត្តរបស់អ្នក ដោយចុចតែម្តង។</string>
+    <string name="tab_trips" formatted="false">ដំណើរ</string>
+    <string name="tab_estimate" formatted="false">ប៉ាន់ស្មាន</string>
+    <string name="tab_more" formatted="false">ច្រើនទៀត</string>
+    <string name="this_month" formatted="false">ខែនេះ</string>
+    <string name="this_year" formatted="false">ឆ្នាំនេះ</string>
+    <string name="trips_count">ដំណើរ៖ %1$d</string>
+    <string name="km_value">%1$s គម</string>
+    <string name="add_trip" formatted="false">ដំណើរថ្មី</string>
+    <string name="free_remaining">ដំណើរឥតគិតថ្លៃនៅសល់ក្នុងខែនេះ៖ %1$d</string>
+    <string name="free_limit_reached" formatted="false">បានដល់ដែនកំណត់ឥតគិតថ្លៃសម្រាប់ខែនេះ</string>
+    <string name="free_quota_reached" formatted="false">កំណែឥតគិតថ្លៃអនុញ្ញាត 5 ដំណើរក្នុងមួយខែ។ ប្រើ Pro ដើម្បីកត់ត្រាដំណើរគ្មានដែនកំណត់ ឬមើលការផ្សាយពាណិជ្ជកម្មមួយដើម្បីទទួលបាន 5 ដំណើរបន្ថែម។</string>
+    <string name="go_pro" formatted="false">ប្រើ Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">មិនទាន់មានដំណើរនៅឡើយទេ។\nចុច + ដើម្បីកត់ត្រាដំណើរដំបូង។</string>
+    <string name="trip_new" formatted="false">ដំណើរថ្មី</string>
+    <string name="trip_edit" formatted="false">កែដំណើរ</string>
+    <string name="field_date" formatted="false">កាលបរិច្ឆេទ</string>
+    <string name="field_from" formatted="false">ចេញពី</string>
+    <string name="field_to" formatted="false">ទៅ</string>
+    <string name="field_distance" formatted="false">ចម្ងាយទៅតែមួយជើង (គម)</string>
+    <string name="field_round_trip" formatted="false">ទៅមក</string>
+    <string name="field_purpose" formatted="false">គោលបំណង</string>
+    <string name="field_vehicle" formatted="false">យានជំនិះ</string>
+    <string name="field_note" formatted="false">កំណត់ចំណាំ</string>
+    <string name="field_justified" formatted="false">មូលហេតុពិសេស</string>
+    <string name="field_justified_help" formatted="false">ធីកប្រសិនបើចម្ងាយពីផ្ទះទៅកន្លែងធ្វើការលើសពី 40 គម ដោយមូលហេតុជាក់លាក់ ឬសម្រាប់ដំណើរទៅមកបន្ថែមដែលមានមូលហេតុសមស្របក្នុងថ្ងៃតែមួយ។</string>
+    <string name="purpose_commute" formatted="false">ទៅធ្វើការ</string>
+    <string name="purpose_business" formatted="false">អាជីវកម្ម</string>
+    <string name="purpose_personal" formatted="false">ផ្ទាល់ខ្លួន</string>
+    <string name="save" formatted="false">រក្សាទុក</string>
+    <string name="cancel" formatted="false">បោះបង់</string>
+    <string name="delete" formatted="false">លុប</string>
+    <string name="edit" formatted="false">កែ</string>
+    <string name="ok" formatted="false">យល់ព្រម</string>
+    <string name="close" formatted="false">បិទ</string>
+    <string name="back" formatted="false">ត្រឡប់</string>
+    <string name="confirm_delete" formatted="false">លុបជាអចិន្ត្រៃយ៍?</string>
+    <string name="invalid_distance" formatted="false">បញ្ចូលចម្ងាយធំជាង 0។</string>
+    <string name="favorites" formatted="false">ចំណូលចិត្ត</string>
+    <string name="save_as_favorite" formatted="false">រក្សាទុកជាចំណូលចិត្តផងដែរ</string>
+    <string name="favorite_label" formatted="false">ឈ្មោះចំណូលចិត្ត</string>
+    <string name="no_favorites" formatted="false">រក្សាទុកដំណើរមួយជាចំណូលចិត្ត ដើម្បីកត់ត្រាវាដោយចុចតែម្តង។</string>
+    <string name="use_favorite" formatted="false">ដំណើរចំណូលចិត្ត</string>
+    <string name="swap" formatted="false">ប្តូរ</string>
+    <string name="quick_add_hint" formatted="false">ចុចចំណូលចិត្តមួយ ដើម្បីបន្ថែមសម្រាប់ថ្ងៃនេះ។</string>
+    <string name="added" formatted="false">បានបន្ថែមដំណើរ។</string>
+    <string name="undo" formatted="false">មិនធ្វើវិញ</string>
+    <string name="vehicles" formatted="false">យានជំនិះ</string>
+    <string name="add_vehicle" formatted="false">បន្ថែមយានជំនិះ</string>
+    <string name="edit_vehicle" formatted="false">កែយានជំនិះ</string>
+    <string name="vehicle_name" formatted="false">ឈ្មោះ</string>
+    <string name="vehicle_kind" formatted="false">ប្រភេទ</string>
+    <string name="kind_car" formatted="false">រថយន្ត</string>
+    <string name="kind_motorcycle" formatted="false">ម៉ូតូ</string>
+    <string name="kind_moped" formatted="false">ម៉ូតូតូច</string>
+    <string name="fiscal_power" formatted="false">កម្លាំងសេះពន្ធ (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV ឡើងទៅ</string>
+    <string name="cv_or_less">%1$d CV ចុះក្រោម</string>
+    <string name="cv_range_3_5" formatted="false">3 ទៅ 5 CV</string>
+    <string name="electric" formatted="false">យានជំនិះអគ្គិសនី</string>
+    <string name="no_vehicle" formatted="false">គ្មានយានជំនិះទេ។ បន្ថែមមួយ៖ ការប៉ាន់ស្មានត្រូវការវា។</string>
+    <string name="default_vehicle" formatted="false">យានជំនិះលំនាំដើម</string>
+    <string name="vehicle_needed" formatted="false">បន្ថែមយានជំនិះជាមុនសិន នៅក្នុង ច្រើនទៀត &gt; យានជំនិះ។</string>
+    <string name="estimation" formatted="false">ការប៉ាន់ស្មានចំណាយពិត</string>
+    <string name="income_year">ឆ្នាំចំណូល %1$d</string>
+    <string name="estimation_locked" formatted="false">ការប៉ាន់ស្មានចំណាយពិត ការនាំចេញ ការនាំចូលប្រវត្តិ និងការស្តារឯកសារបម្រុងទុក ជាផ្នែកនៃកំណែ Pro។</string>
+    <string name="disclaimer_short" formatted="false">ការប៉ាន់ស្មានសម្រាប់ជាយោបល់ប៉ុណ្ណោះ មិនធានាទេ។</string>
+    <string name="disclaimer_long" formatted="false">ការប៉ាន់ស្មាននេះគ្រាន់តែជាយោបល់ និងមិនត្រូវបានធានាទេ។ វាមិនមែនជាដំបូន្មានពន្ធ ហើយមិនជំនួសឯកសារផ្លូវការ រដ្ឋបាលពន្ធ ឬអ្នកជំនាញឡើយ។ សូមពិនិត្យច្បាប់ដែលអនុវត្តចំពោះស្ថានភាពរបស់អ្នក មុនពេលប្រកាសពន្ធ។</string>
+    <string name="commute_km_raw" formatted="false">គម ទៅធ្វើការដែលបានបញ្ចូល</string>
+    <string name="commute_km_retained" formatted="false">គម ទៅធ្វើការដែលបានរាប់</string>
+    <string name="business_km" formatted="false">គម អាជីវកម្ម</string>
+    <string name="retained_km" formatted="false">គម ដែលបានរាប់</string>
+    <string name="allowance" formatted="false">ប្រាក់ឧបត្ថម្ភចម្ងាយ</string>
+    <string name="tolls_parking" formatted="false">ថ្លៃផ្លូវ និងចំណត</string>
+    <string name="total" formatted="false">សរុបប៉ាន់ស្មាន</string>
+    <string name="flat_deduction" formatted="false">ការកាត់កងស្តង់ដារ 10%</string>
+    <string name="real_better" formatted="false">ចំណាយពិតហាក់ដូចជាមានប្រយោជន៍ជាងការកាត់កងស្តង់ដារ។</string>
+    <string name="flat_better" formatted="false">ការកាត់កងស្តង់ដារហាក់ដូចជាមានប្រយោជន៍ជាងចំណាយពិត។</string>
+    <string name="enter_salary" formatted="false">បញ្ចូលប្រាក់ខែសុទ្ធជាប់ពន្ធប្រចាំឆ្នាំរបស់អ្នក ដើម្បីប្រៀបធៀបជាមួយការកាត់កងស្តង់ដារ។</string>
+    <string name="net_taxable_salary" formatted="false">ប្រាក់ខែសុទ្ធជាប់ពន្ធប្រចាំឆ្នាំ</string>
+    <string name="per_vehicle" formatted="false">តាមយានជំនិះ</string>
+    <string name="note_scale_unconfirmed" formatted="false">តារាងអត្រាឆ្នាំនេះមិនទាន់ចេញផ្សាយទេ៖ តារាងអត្រាចុងក្រោយដែលស្គាល់ត្រូវបានអនុវត្ត។</string>
+    <string name="note_cap_applied" formatted="false">ជើងដំណើរទៅធ្វើការមួយ ឬច្រើនត្រូវបានកំណត់ត្រឹម 40 គម ដោយគ្មានការប្រកាសមូលហេតុពិសេស។</string>
+    <string name="note_extra_legs" formatted="false">លើសពីដំណើរទៅមកធ្វើការមួយដងក្នុងមួយថ្ងៃ ដំណើរដែលគ្មានមូលហេតុពិសេសត្រូវបានដកចេញ។</string>
+    <string name="note_no_vehicle" formatted="false">ដំណើរដែលគ្មានយានជំនិះត្រូវបានមិនអើពើ៖ ជ្រើសរើសយានជំនិះលំនាំដើម។</string>
+    <string name="note_fuel">ប្រេងដែលបានបញ្ចូល (%1$s) មិនត្រូវបានបូកបន្ថែមទេ៖ តារាងអត្រាចម្ងាយបានរាប់បញ្ចូលរួចហើយ។</string>
+    <string name="note_no_salary" formatted="false">មិនបានបញ្ចូលប្រាក់ខែ៖ គ្មានការប្រៀបធៀបជាមួយការកាត់កងស្តង់ដារទេ។</string>
+    <string name="documents_title" formatted="false">ឯកសារដែលត្រូវរក្សាទុក</string>
+    <string name="documents_list" formatted="false">ប័ណ្ណចុះបញ្ជីយានជំនិះ\nកិច្ចសន្យាការងារ ឬលិខិតបញ្ជាក់ពីនិយោជក\nកំណត់ត្រាថ្ងៃធ្វើការ\nបង្កាន់ដៃថ្លៃផ្លូវ និងចំណត\nអ្វីក៏ដោយដែលគាំទ្រមូលហេតុពិសេស</string>
+    <string name="export" formatted="false">នាំចេញ</string>
+    <string name="export_title" formatted="false">នាំចេញ</string>
+    <string name="export_pdf" formatted="false">របាយការណ៍ PDF</string>
+    <string name="export_xlsx" formatted="false">សៀវភៅតារាងគណនា</string>
+    <string name="export_csv" formatted="false">ឯកសារ CSV</string>
+    <string name="export_period" formatted="false">រយៈពេល</string>
+    <string name="year" formatted="false">ឆ្នាំ</string>
+    <string name="export_from" formatted="false">ពី</string>
+    <string name="export_to" formatted="false">ដល់</string>
+    <string name="export_include_estimation" formatted="false">រួមបញ្ចូលការប៉ាន់ស្មានឆ្នាំនេះ</string>
+    <string name="export_share" formatted="false">ឯកសារបើកក្នុងផ្ទាំងចែករំលែក៖ រក្សាទុក ឬផ្ញើវា។</string>
+    <string name="export_failed" formatted="false">ការនាំចេញបរាជ័យ។</string>
+    <string name="report_title" formatted="false">របាយការណ៍ចម្ងាយ</string>
+    <string name="generated_on">បង្កើតនៅ %1$s</string>
+    <string name="yes" formatted="false">បាទ/ចាស</string>
+    <string name="no" formatted="false">ទេ</string>
+    <string name="import_title" formatted="false">នាំចូលប្រវត្តិ</string>
+    <string name="import_help" formatted="false">ប្រសិនបើទូរស័ព្ទរបស់អ្នករក្សាទុកប្រវត្តិទីតាំងរបស់អ្នក អ្នកអាចនាំចេញវាជាឯកសារ JSON ពីកម្មវិធីដែលគ្រប់គ្រងវា រួចបើកវានៅទីនេះ។ មានតែដំណើរដោយយានជំនិះប៉ុណ្ណោះដែលត្រូវបានអាន។ ឯកសារមិនត្រូវបានរក្សាទុកទេ៖ មានតែកាលបរិច្ឆេទ ចម្ងាយ និងទីចេញដំណើរ និងគោលដៅប្រសិនបើដឹង ប៉ុណ្ណោះដែលត្រូវបានរក្សាទុក។</string>
+    <string name="import_pick" formatted="false">ជ្រើសរើសឯកសារ</string>
+    <string name="import_reading" formatted="false">កំពុងអាន…</string>
+    <string name="import_found">ដំណើរដោយយានជំនិះដែលរកឃើញ៖ %1$d</string>
+    <string name="import_skipped">ដំណើរផ្សេងទៀតដែលមិនអើពើ (ដើរ ជិះកង់ ដឹកជញ្ជូនសាធារណៈ)៖ %1$d</string>
+    <string name="import_default_purpose" formatted="false">គោលបំណងសម្រាប់ដំណើរដែលមិនស្គាល់ថាជាការទៅធ្វើការ</string>
+    <string name="import_period">ពី %1$s ដល់ %2$s</string>
+    <string name="import_confirm">នាំចូល %1$d ដំណើរ</string>
+    <string name="import_done">ដំណើរដែលបាននាំចូល៖ %1$d</string>
+    <string name="import_nothing_new" formatted="false">គ្មានដំណើរថ្មីទេ៖ ពួកវាត្រូវបាននាំចូលរួចហើយ។</string>
+    <string name="import_unreadable" formatted="false">ឯកសារនេះមិនមែនជាប្រវត្តិទីតាំងដែលអាចអានបានទេ។</string>
+    <string name="import_commute_hint" formatted="false">ដំណើររវាងផ្ទះ និងកន្លែងធ្វើការរបស់អ្នកត្រូវបានស្គាល់ នៅពេលឯកសារដាក់ស្លាកពួកវា ហើយពួកវាទទួលបានគោលបំណងទៅធ្វើការ។</string>
+    <string name="backup_title" formatted="false">បម្រុងទុក</string>
+    <string name="backup_explain" formatted="false">ទិន្នន័យរបស់អ្នកចេញពីឧបករណ៍តែនៅពេលអ្នកសម្រេចចិត្តប៉ុណ្ណោះ។ ឯកសារបម្រុងទុកគឺជាឯកសារដែលអ្នកអាចរក្សាទុកនៅកន្លែងណាក៏បាន និងស្តារនៅលើឧបករណ៍ណាក៏បាន។</string>
+    <string name="backup_export" formatted="false">នាំចេញឯកសារបម្រុងទុក</string>
+    <string name="backup_restore" formatted="false">ស្តារឯកសារបម្រុងទុក</string>
+    <string name="backup_restore_help" formatted="false">ការស្តារធ្វើការបញ្ចូលគ្នា៖ អ្វីដែលអ្នកបានបញ្ចូលតាំងពីពេលនោះមកមិនបាត់បង់ទេ។</string>
+    <string name="backup_restored">បានស្តារឯកសារបម្រុងទុក៖ សរុប %1$d ដំណើរ។</string>
+    <string name="backup_invalid" formatted="false">ឯកសារនេះមិនមែនជាឯកសារបម្រុងទុកពីកម្មវិធីនេះទេ។</string>
+    <string name="cloud_title" formatted="false">បម្រុងទុកលើក្លោដ</string>
+    <string name="cloud_explain" formatted="false">ចម្លងទិន្នន័យរបស់អ្នកដោយស្វ័យប្រវត្តិទៅទំហំក្លោដរបស់ឧបករណ៍អ្នក ដោយមិនត្រូវការគណនីបន្ថែម។ វាត្រូវបានធ្វើបច្ចុប្បន្នភាពបន្ទាប់ពីរាល់ការផ្លាស់ប្តូរ។</string>
+    <string name="cloud_now" formatted="false">បម្រុងទុកឥឡូវនេះ</string>
+    <string name="cloud_restore" formatted="false">ស្តារពីក្លោដ</string>
+    <string name="cloud_last">ការបម្រុងទុកលើក្លោដចុងក្រោយ៖ %1$s</string>
+    <string name="cloud_never" formatted="false">មិនទាន់មានការបម្រុងទុកលើក្លោដនៅឡើយទេ។</string>
+    <string name="cloud_unavailable" formatted="false">ការបម្រុងទុកលើក្លោដមិនអាចប្រើបាននៅលើឧបករណ៍នេះទេ។ ប្រើការនាំចេញឯកសារបម្រុងទុក។</string>
+    <string name="cloud_done" formatted="false">បានបម្រុងទុកលើក្លោដរួចរាល់។</string>
+    <string name="cloud_nothing" formatted="false">គ្មានការបម្រុងទុកលើក្លោដដើម្បីស្តារទេ។</string>
+    <string name="cloud_system_restore" formatted="false">ប្រព័ន្ធស្តារឯកសារបម្រុងទុកនេះដោយខ្លួនឯង នៅពេលអ្នកដំឡើងកម្មវិធីឡើងវិញ ឬរៀបចំឧបករណ៍ថ្មី។</string>
+    <string name="settings" formatted="false">ការកំណត់</string>
+    <string name="rules_title" formatted="false">ច្បាប់គណនា</string>
+    <string name="rule_fr" formatted="false">តារាងអត្រាចម្ងាយបារាំង</string>
+    <string name="rule_generic" formatted="false">អត្រាថេរក្នុងមួយគីឡូម៉ែត្រ</string>
+    <string name="generic_rate" formatted="false">អត្រាក្នុងមួយគីឡូម៉ែត្រ</string>
+    <string name="currency" formatted="false">រូបិយប័ណ្ណ</string>
+    <string name="home_label" formatted="false">ឈ្មោះផ្ទះរបស់អ្នក</string>
+    <string name="work_label" formatted="false">ឈ្មោះកន្លែងធ្វើការរបស់អ្នក</string>
+    <string name="home_work_distance" formatted="false">ចម្ងាយពីផ្ទះទៅកន្លែងធ្វើការ (មួយជើង គម)</string>
+    <string name="places_help" formatted="false">ប្រើសម្រាប់ដំណើរចំណូលចិត្ត និងការនាំចូលប្រវត្តិ។</string>
+    <string name="pro_title" formatted="false">កំណែ Pro</string>
+    <string name="pro_subtitle" formatted="false">អ្វីគ្រប់យ៉ាងដែលអ្នកត្រូវការសម្រាប់ចំណាយពិត ដោយគ្មានការផ្សាយពាណិជ្ជកម្ម។</string>
+    <string name="pro_features_title" formatted="false">មុខងារដែលបានដោះសោ៖</string>
+    <string name="pro_feature_unlimited" formatted="false">ដំណើរគ្មានដែនកំណត់។</string>
+    <string name="pro_feature_estimation" formatted="false">ការប៉ាន់ស្មានចំណាយពិត និងការប្រៀបធៀបជាមួយការកាត់កងស្តង់ដារ។</string>
+    <string name="pro_feature_export" formatted="false">ការនាំចេញពេញលេញ និងអាចបញ្ជាក់បាន (PDF ស្អាត ទម្រង់តារាងគណនារួចរាល់សម្រាប់គណនេយ្យករ ឬការប្រកាសពន្ធរបស់អ្នក)។</string>
+    <string name="pro_feature_import" formatted="false">ការនាំចូលប្រវត្តិដំណើរពីទូរស័ព្ទរបស់អ្នក។</string>
+    <string name="pro_feature_expenses" formatted="false">ថ្លៃផ្លូវ ចំណត និងប្រេងបូកបញ្ចូលក្នុងការប៉ាន់ស្មាន។</string>
+    <string name="pro_feature_cloud" formatted="false">ស្តារពីឯកសារបម្រុងទុក និងធ្វើសមកាលកម្មឆ្លងឧបករណ៍របស់អ្នក។</string>
+    <string name="pro_feature_widgets" formatted="false">ធាតុក្រាហ្វិកអេក្រង់ដើម។</string>
+    <string name="pro_feature_watch" formatted="false">កម្មវិធីនាឡិកា។</string>
+    <string name="pro_feature_no_ads" formatted="false">គ្មានការផ្សាយពាណិជ្ជកម្មទាល់តែសោះ។</string>
+    <string name="pro_feature_gps" formatted="false">ការតាមដាន GPS ស្វ័យប្រវត្តិ (ការរកឃើញចលនា ឬការភ្ជាប់ប៊្លូធូសទៅរថយន្ត)។</string>
+    <string name="pro_feature_scan" formatted="false">ការស្កេនឆ្លាតវៃ (OCR) បង្កាន់ដៃថ្លៃផ្លូវ ចំណត និងប្រេង ដោយប្រើកាមេរ៉ា។</string>
+    <string name="pro_monthly">%1$s ក្នុងមួយខែ</string>
+    <string name="pro_yearly">%1$s ក្នុងមួយឆ្នាំ</string>
+    <string name="pro_yearly_hint" formatted="false">ឥតគិតថ្លៃពីរខែ បើធៀបនឹងប្រចាំខែ</string>
+    <string name="subscribe" formatted="false">ជាវ</string>
+    <string name="restore_purchases" formatted="false">ស្តារការទិញ</string>
+    <string name="pro_active" formatted="false">កំណែ Pro កំពុងដំណើរការ</string>
+    <string name="pro_active_since">ការជាវ៖ %1$s</string>
+    <string name="pro_unavailable" formatted="false">ការទិញមិនអាចប្រើបាននៅក្នុងកំណែនេះនៃកម្មវិធីទេ។</string>
+    <string name="pro_legal" formatted="false">ការជាវបន្តដោយស្វ័យប្រវត្តិ គិតថ្លៃទៅគណនីហាងរបស់អ្នក។ បោះបង់បានគ្រប់ពេលនៅក្នុងការកំណត់ហាង។ តម្លៃត្រូវបានគិតសម្រាប់រយៈពេលបន្ទាប់ លុះត្រាតែបោះបង់យ៉ាងហោចណាស់ 24 ម៉ោងមុនពេលវាផុតកំណត់។</string>
+    <string name="purchase_pending" formatted="false">កំពុងទិញ…</string>
+    <string name="purchase_failed" formatted="false">ការទិញមិនបានបញ្ចប់ទេ។</string>
+    <string name="purchase_restored" formatted="false">បានស្តារការទិញ។</string>
+    <string name="purchase_nothing" formatted="false">គ្មានអ្វីត្រូវស្តារទេ។</string>
+    <string name="rewarded_title" formatted="false">សាកល្បងដោយមើលការផ្សាយពាណិជ្ជកម្ម</string>
+    <string name="rewarded_explain" formatted="false">មើលការផ្សាយពាណិជ្ជកម្មខ្លីមួយ ដើម្បីដោះសោមុខងារនេះមួយរយៈ។ Pro លុបការផ្សាយពាណិជ្ជកម្ម និងដោះសោអ្វីគ្រប់យ៉ាង។</string>
+    <string name="rewarded_estimation" formatted="false">មើលការប៉ាន់ស្មានរយៈពេល 24 ម៉ោង</string>
+    <string name="rewarded_export" formatted="false">នាំចេញមួយដង ក្នុងរយៈពេលមួយម៉ោង</string>
+    <string name="rewarded_trips" formatted="false">ដំណើរ 5 បន្ថែមទៀតក្នុងខែនេះ</string>
+    <string name="rewarded_watch" formatted="false">មើលការផ្សាយពាណិជ្ជកម្ម</string>
+    <string name="rewarded_unavailable" formatted="false">គ្មានការផ្សាយពាណិជ្ជកម្មនៅពេលនេះទេ។ សូមព្យាយាមម្តងទៀតបន្តិចទៀត។</string>
+    <string name="rewarded_granted" formatted="false">បានដោះសោ។ សូមធ្វើដំណើរដោយសុវត្ថិភាព!</string>
+    <string name="expenses" formatted="false">ចំណាយ</string>
+    <string name="add_expense" formatted="false">ចំណាយថ្មី</string>
+    <string name="edit_expense" formatted="false">កែចំណាយ</string>
+    <string name="expense_kind" formatted="false">ប្រភេទ</string>
+    <string name="kind_toll" formatted="false">ថ្លៃផ្លូវ</string>
+    <string name="kind_parking" formatted="false">ចំណត</string>
+    <string name="kind_fuel" formatted="false">ប្រេង</string>
+    <string name="kind_other" formatted="false">ផ្សេងទៀត</string>
+    <string name="amount" formatted="false">ចំនួនទឹកប្រាក់</string>
+    <string name="place" formatted="false">ទីកន្លែង</string>
+    <string name="litres" formatted="false">លីត្រ</string>
+    <string name="odometer" formatted="false">លេខម៉ែត្រចម្ងាយ</string>
+    <string name="no_expenses" formatted="false">គ្មានចំណាយទេ។ ថ្លៃផ្លូវ និងចំណតត្រូវបានបូកបញ្ចូលក្នុងការប៉ាន់ស្មាន។</string>
+    <string name="invalid_amount" formatted="false">បញ្ចូលចំនួនទឹកប្រាក់ធំជាង 0។</string>
+    <string name="legal_title" formatted="false">ផ្លូវច្បាប់ និងឯកជនភាព</string>
+    <string name="privacy_text" formatted="false">ទិន្នន័យទាំងអស់របស់អ្នកនៅលើឧបករណ៍របស់អ្នក។ កម្មវិធីមិនត្រូវការគណនី និងមិនផ្ញើអ្វីទៅម៉ាស៊ីនមេទេ។ ការផ្លាស់ប្តូរជាមួយខាងក្រៅមានតែអ្វីដែលអ្នកធ្វើដោយខ្លួនឯង ដូចជាការនាំចេញ ការបម្រុងទុក ឬការទិញ និងការផ្សាយពាណិជ្ជកម្មនៃកំណែឥតគិតថ្លៃ ដែលកំណែ Pro លុបចោល។</string>
+    <string name="about" formatted="false">អំពី</string>
+    <string name="version">កំណែ %1$s</string>
+    <string name="error_generic" formatted="false">មានបញ្ហាកើតឡើង។</string>
+    <string name="today" formatted="false">ថ្ងៃនេះ</string>
+    <string name="yesterday" formatted="false">ម្សិលមិញ</string>
+    <string name="ads_privacy_options" formatted="false">ជម្រើសឯកជនភាពនៃការផ្សាយពាណិជ្ជកម្ម</string>
+    <string name="ads_disabled_title" formatted="false">ការផ្សាយពាណិជ្ជកម្មត្រូវបានបិទ</string>
+    <string name="ads_disabled_text" formatted="false">ប្រព័ន្ធបង្ហាញថាគណនីនេះជារបស់អ្នកប្រើវ័យក្មេង។ ដូច្នេះកម្មវិធីមិនបង្ហាញការផ្សាយពាណិជ្ជកម្ម និងមិនស្នើសុំការយល់ព្រមណាមួយទេ។ គ្មានអត្តសញ្ញាណផ្សាយពាណិជ្ជកម្មត្រូវបានអាន ហើយគ្មានទិន្នន័យត្រូវបានប្រមូល ឬផ្ញើទេ។</string>
+    <string name="watch_quick_add" formatted="false">ដំណើររហ័ស</string>
+    <string name="watch_no_favorites" formatted="false">បន្ថែមដំណើរចំណូលចិត្តនៅលើទូរស័ព្ទរបស់អ្នក។</string>
+    <string name="watch_added" formatted="false">បានបន្ថែម</string>
+    <string name="watch_open_phone" formatted="false">បើកកម្មវិធីទូរស័ព្ទ</string>
+    <string name="widget_today" formatted="false">ថ្ងៃនេះ</string>
+    <string name="widget_month" formatted="false">ខែនេះ</string>
+    <string name="widget_pro_needed" formatted="false">ធាតុក្រាហ្វិកអាចប្រើបានជាមួយ Pro</string>
+</resources>

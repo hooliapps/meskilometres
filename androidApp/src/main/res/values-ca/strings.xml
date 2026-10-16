@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Quilòmetres</string>
+    <string name="widget_name" formatted="false">Trajectes</string>
+    <string name="widget_description" formatted="false">Els quilòmetres d\'avui i els teus trajectes preferits amb un toc.</string>
+    <string name="tab_trips" formatted="false">Trajectes</string>
+    <string name="tab_estimate" formatted="false">Estimació</string>
+    <string name="tab_more" formatted="false">Més</string>
+    <string name="this_month" formatted="false">Aquest mes</string>
+    <string name="this_year" formatted="false">Aquest any</string>
+    <string name="trips_count">Trajectes: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Nou trajecte</string>
+    <string name="free_remaining">Trajectes gratuïts restants aquest mes: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Límit gratuït assolit aquest mes</string>
+    <string name="free_quota_reached" formatted="false">La versió gratuïta permet 5 trajectes al mes. Passa a Pro per a trajectes il·limitats, o mira un anunci per obtenir-ne 5 més.</string>
+    <string name="go_pro" formatted="false">Passar a Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Encara no hi ha trajectes.\nToca + per registrar el primer.</string>
+    <string name="trip_new" formatted="false">Nou trajecte</string>
+    <string name="trip_edit" formatted="false">Editar el trajecte</string>
+    <string name="field_date" formatted="false">Data</string>
+    <string name="field_from" formatted="false">Origen</string>
+    <string name="field_to" formatted="false">Destinació</string>
+    <string name="field_distance" formatted="false">Distància d\'anada (km)</string>
+    <string name="field_round_trip" formatted="false">Anada i tornada</string>
+    <string name="field_purpose" formatted="false">Motiu</string>
+    <string name="field_vehicle" formatted="false">Vehicle</string>
+    <string name="field_note" formatted="false">Nota</string>
+    <string name="field_justified" formatted="false">Circumstàncies especials</string>
+    <string name="field_justified_help" formatted="false">Marca-ho si la distància entre casa i la feina supera els 40 km per una raó concreta, o per a una anada i tornada addicional justificada el mateix dia.</string>
+    <string name="purpose_commute" formatted="false">Casa-feina</string>
+    <string name="purpose_business" formatted="false">Professional</string>
+    <string name="purpose_personal" formatted="false">Personal</string>
+    <string name="save" formatted="false">Desar</string>
+    <string name="cancel" formatted="false">Cancel·lar</string>
+    <string name="delete" formatted="false">Suprimir</string>
+    <string name="edit" formatted="false">Editar</string>
+    <string name="ok" formatted="false">D\'acord</string>
+    <string name="close" formatted="false">Tancar</string>
+    <string name="back" formatted="false">Enrere</string>
+    <string name="confirm_delete" formatted="false">Vols suprimir-ho definitivament?</string>
+    <string name="invalid_distance" formatted="false">Indica una distància superior a 0.</string>
+    <string name="favorites" formatted="false">Preferits</string>
+    <string name="save_as_favorite" formatted="false">Desar també com a preferit</string>
+    <string name="favorite_label" formatted="false">Nom del preferit</string>
+    <string name="no_favorites" formatted="false">Desa un trajecte com a preferit per registrar-lo amb un toc.</string>
+    <string name="use_favorite" formatted="false">Trajectes preferits</string>
+    <string name="swap" formatted="false">Invertir</string>
+    <string name="quick_add_hint" formatted="false">Toca un preferit per afegir-lo avui.</string>
+    <string name="added" formatted="false">Trajecte afegit.</string>
+    <string name="undo" formatted="false">Desfer</string>
+    <string name="vehicles" formatted="false">Vehicles</string>
+    <string name="add_vehicle" formatted="false">Afegir un vehicle</string>
+    <string name="edit_vehicle" formatted="false">Editar el vehicle</string>
+    <string name="vehicle_name" formatted="false">Nom</string>
+    <string name="vehicle_kind" formatted="false">Tipus</string>
+    <string name="kind_car" formatted="false">Cotxe</string>
+    <string name="kind_motorcycle" formatted="false">Moto</string>
+    <string name="kind_moped" formatted="false">Ciclomotor</string>
+    <string name="fiscal_power" formatted="false">Potència fiscal</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV o més</string>
+    <string name="cv_or_less">%1$d CV o menys</string>
+    <string name="cv_range_3_5" formatted="false">De 3 a 5 CV</string>
+    <string name="electric" formatted="false">Vehicle elèctric</string>
+    <string name="no_vehicle" formatted="false">Cap vehicle. Afegeix-ne un: l\'estimació el necessita.</string>
+    <string name="default_vehicle" formatted="false">Vehicle per defecte</string>
+    <string name="vehicle_needed" formatted="false">Primer afegeix un vehicle a Més &gt; Vehicles.</string>
+    <string name="estimation" formatted="false">Estimació de despeses reals</string>
+    <string name="income_year">Any dels ingressos %1$d</string>
+    <string name="estimation_locked" formatted="false">L\'estimació de despeses reals, les exportacions, la importació de l\'historial i la restauració d\'una còpia de seguretat formen part de la versió Pro.</string>
+    <string name="disclaimer_short" formatted="false">Estimació orientativa, no garantida.</string>
+    <string name="disclaimer_long" formatted="false">Aquesta estimació és orientativa i no està garantida. No és assessorament fiscal i no substitueix els textos oficials, l\'administració tributària ni un professional. Comprova les normes aplicables a la teva situació abans de declarar.</string>
+    <string name="commute_km_raw" formatted="false">Km casa-feina introduïts</string>
+    <string name="commute_km_retained" formatted="false">Km casa-feina computats</string>
+    <string name="business_km" formatted="false">Km professionals</string>
+    <string name="retained_km" formatted="false">Km computats</string>
+    <string name="allowance" formatted="false">Indemnització per quilometratge</string>
+    <string name="tolls_parking" formatted="false">Peatges i aparcament</string>
+    <string name="total" formatted="false">Total estimat</string>
+    <string name="flat_deduction" formatted="false">Deducció fixa del 10 %</string>
+    <string name="real_better" formatted="false">Les despeses reals semblen més avantatjoses que la deducció fixa.</string>
+    <string name="flat_better" formatted="false">La deducció fixa sembla més avantatjosa que les despeses reals.</string>
+    <string name="enter_salary" formatted="false">Introdueix el teu salari net imposable anual per comparar-lo amb la deducció fixa.</string>
+    <string name="net_taxable_salary" formatted="false">Salari net imposable anual</string>
+    <string name="per_vehicle" formatted="false">Per vehicle</string>
+    <string name="note_scale_unconfirmed" formatted="false">El barem d\'aquest any encara no s\'ha publicat: s\'aplica l\'últim barem conegut.</string>
+    <string name="note_cap_applied" formatted="false">Un o més trajectes casa-feina s\'han limitat a 40 km, sense circumstàncies especials declarades.</string>
+    <string name="note_extra_legs" formatted="false">Més enllà d\'una anada i tornada casa-feina al dia, els trajectes sense circumstàncies especials s\'han descartat.</string>
+    <string name="note_no_vehicle" formatted="false">S\'han ignorat trajectes sense vehicle: tria un vehicle per defecte.</string>
+    <string name="note_fuel">El combustible introduït (%1$s) no s\'afegeix: el barem quilomètric ja l\'inclou.</string>
+    <string name="note_no_salary" formatted="false">Salari no introduït: no hi ha comparació amb la deducció fixa.</string>
+    <string name="documents_title" formatted="false">Documents que cal conservar</string>
+    <string name="documents_list" formatted="false">Permís de circulació del vehicle\nContracte de treball o certificat de l\'empresa\nRegistre dels dies treballats\nTiquets de peatge i d\'aparcament\nQualsevol justificant de circumstàncies especials</string>
+    <string name="export" formatted="false">Exportar</string>
+    <string name="export_title" formatted="false">Exportació</string>
+    <string name="export_pdf" formatted="false">Informe PDF</string>
+    <string name="export_xlsx" formatted="false">Llibre de full de càlcul</string>
+    <string name="export_csv" formatted="false">Fitxer CSV</string>
+    <string name="export_period" formatted="false">Període</string>
+    <string name="year" formatted="false">Any</string>
+    <string name="export_from" formatted="false">Des de</string>
+    <string name="export_to" formatted="false">Fins a</string>
+    <string name="export_include_estimation" formatted="false">Incloure l\'estimació de l\'any</string>
+    <string name="export_share" formatted="false">El fitxer s\'obre al full de compartir: desa\'l o envia\'l.</string>
+    <string name="export_failed" formatted="false">L\'exportació ha fallat.</string>
+    <string name="report_title" formatted="false">Informe de quilometratge</string>
+    <string name="generated_on">Generat el %1$s</string>
+    <string name="yes" formatted="false">sí</string>
+    <string name="no" formatted="false">no</string>
+    <string name="import_title" formatted="false">Importar un historial</string>
+    <string name="import_help" formatted="false">Si el teu telèfon conserva un historial de les teves ubicacions, pots exportar-lo com a fitxer JSON des de l\'aplicació que el gestiona i obrir-lo aquí. Només es llegeixen els desplaçaments en vehicle. El fitxer no es conserva: només es desen la data, la distància i, quan es coneixen, l\'origen i la destinació.</string>
+    <string name="import_pick" formatted="false">Triar el fitxer</string>
+    <string name="import_reading" formatted="false">Llegint…</string>
+    <string name="import_found">Desplaçaments en vehicle trobats: %1$d</string>
+    <string name="import_skipped">Altres desplaçaments ignorats (a peu, bicicleta, transport públic): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Motiu dels trajectes no reconeguts com a casa-feina</string>
+    <string name="import_period">Del %1$s al %2$s</string>
+    <string name="import_confirm">Importar %1$d trajectes</string>
+    <string name="import_done">Trajectes importats: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Cap trajecte nou: ja s\'havien importat.</string>
+    <string name="import_unreadable" formatted="false">Aquest fitxer no és un historial d\'ubicacions llegible.</string>
+    <string name="import_commute_hint" formatted="false">Els desplaçaments entre casa teva i la feina es reconeixen quan el fitxer els identifica; reben el motiu casa-feina.</string>
+    <string name="backup_title" formatted="false">Còpia de seguretat</string>
+    <string name="backup_explain" formatted="false">Les teves dades només surten del dispositiu quan tu ho decideixes. Una còpia de seguretat és un fitxer que pots desar on vulguis i restaurar en qualsevol dispositiu.</string>
+    <string name="backup_export" formatted="false">Exportar una còpia</string>
+    <string name="backup_restore" formatted="false">Restaurar una còpia</string>
+    <string name="backup_restore_help" formatted="false">La restauració fusiona: no es perd res del que has introduït des de llavors.</string>
+    <string name="backup_restored">Còpia restaurada: %1$d trajectes en total.</string>
+    <string name="backup_invalid" formatted="false">Aquest fitxer no és una còpia de seguretat d\'aquesta aplicació.</string>
+    <string name="cloud_title" formatted="false">Còpia al núvol</string>
+    <string name="cloud_explain" formatted="false">Còpia automàtica de les teves dades a l\'espai al núvol del teu dispositiu, sense cap compte addicional. S\'actualitza després de cada canvi.</string>
+    <string name="cloud_now" formatted="false">Desar ara</string>
+    <string name="cloud_restore" formatted="false">Restaurar des del núvol</string>
+    <string name="cloud_last">Última còpia al núvol: %1$s</string>
+    <string name="cloud_never" formatted="false">Encara no hi ha cap còpia al núvol.</string>
+    <string name="cloud_unavailable" formatted="false">La còpia al núvol no està disponible en aquest dispositiu. Fes servir l\'exportació de la còpia.</string>
+    <string name="cloud_done" formatted="false">Còpia al núvol feta.</string>
+    <string name="cloud_nothing" formatted="false">No hi ha cap còpia al núvol per restaurar.</string>
+    <string name="cloud_system_restore" formatted="false">El sistema restaura aquesta còpia per si sol quan reinstal·les l\'aplicació o configures un dispositiu nou.</string>
+    <string name="settings" formatted="false">Configuració</string>
+    <string name="rules_title" formatted="false">Regles de càlcul</string>
+    <string name="rule_fr" formatted="false">Barem quilomètric francès</string>
+    <string name="rule_generic" formatted="false">Tarifa fixa per quilòmetre</string>
+    <string name="generic_rate" formatted="false">Tarifa per quilòmetre</string>
+    <string name="currency" formatted="false">Moneda</string>
+    <string name="home_label" formatted="false">Nom de casa teva</string>
+    <string name="work_label" formatted="false">Nom del teu lloc de treball</string>
+    <string name="home_work_distance" formatted="false">Distància casa-feina (anada, km)</string>
+    <string name="places_help" formatted="false">S\'utilitzen per als trajectes preferits i la importació de l\'historial.</string>
+    <string name="pro_title" formatted="false">Versió Pro</string>
+    <string name="pro_subtitle" formatted="false">Tot el que et cal per a les despeses reals, i sense anuncis.</string>
+    <string name="pro_features_title" formatted="false">Funcions desbloquejades:</string>
+    <string name="pro_feature_unlimited" formatted="false">Trajectes il·limitats.</string>
+    <string name="pro_feature_estimation" formatted="false">Estimació de despeses reals i comparació amb la deducció fixa.</string>
+    <string name="pro_feature_export" formatted="false">Exportació completa i certificada (PDF net, format de full de càlcul a punt per al gestor o la declaració).</string>
+    <string name="pro_feature_import" formatted="false">Importació de l\'historial de trajectes del teu telèfon.</string>
+    <string name="pro_feature_expenses" formatted="false">Peatges, aparcament i combustible afegits a l\'estimació.</string>
+    <string name="pro_feature_cloud" formatted="false">Restauració d\'una còpia de seguretat i sincronització entre dispositius.</string>
+    <string name="pro_feature_widgets" formatted="false">Widget de pantalla d\'inici.</string>
+    <string name="pro_feature_watch" formatted="false">Aplicació per al rellotge.</string>
+    <string name="pro_feature_no_ads" formatted="false">Cap anunci.</string>
+    <string name="pro_feature_gps" formatted="false">Seguiment GPS automàtic (detecció de moviment o connexió Bluetooth al cotxe).</string>
+    <string name="pro_feature_scan" formatted="false">Escaneig intel·ligent (OCR) dels tiquets de peatge, aparcament i combustible amb la càmera.</string>
+    <string name="pro_monthly">%1$s al mes</string>
+    <string name="pro_yearly">%1$s a l\'any</string>
+    <string name="pro_yearly_hint" formatted="false">Dos mesos gratis respecte al mensual</string>
+    <string name="subscribe" formatted="false">Subscriure\'s</string>
+    <string name="restore_purchases" formatted="false">Restaurar les compres</string>
+    <string name="pro_active" formatted="false">Versió Pro activa</string>
+    <string name="pro_active_since">Subscripció: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Les compres no estan disponibles en aquesta versió de l\'aplicació.</string>
+    <string name="pro_legal" formatted="false">Subscripció amb renovació automàtica, carregada al teu compte de la botiga. Es pot cancel·lar en qualsevol moment des de la configuració de la botiga; el preu es carrega per al període següent tret que es cancel·li almenys 24 h abans que acabi.</string>
+    <string name="purchase_pending" formatted="false">Compra en curs…</string>
+    <string name="purchase_failed" formatted="false">La compra no s\'ha completat.</string>
+    <string name="purchase_restored" formatted="false">Compres restaurades.</string>
+    <string name="purchase_nothing" formatted="false">No hi ha res per restaurar.</string>
+    <string name="rewarded_title" formatted="false">Prova-ho amb un anunci</string>
+    <string name="rewarded_explain" formatted="false">Mira un anunci curt per desbloquejar aquesta funció durant una estona. Pro elimina els anuncis i ho desbloqueja tot.</string>
+    <string name="rewarded_estimation" formatted="false">Veure l\'estimació durant 24 h</string>
+    <string name="rewarded_export" formatted="false">Una exportació, en l\'hora següent</string>
+    <string name="rewarded_trips" formatted="false">5 trajectes més aquest mes</string>
+    <string name="rewarded_watch" formatted="false">Mirar un anunci</string>
+    <string name="rewarded_unavailable" formatted="false">Ara mateix no hi ha cap anunci disponible. Torna-ho a provar d\'aquí a una estona.</string>
+    <string name="rewarded_granted" formatted="false">Desbloquejat. Bon viatge!</string>
+    <string name="expenses" formatted="false">Despeses</string>
+    <string name="add_expense" formatted="false">Nova despesa</string>
+    <string name="edit_expense" formatted="false">Editar la despesa</string>
+    <string name="expense_kind" formatted="false">Tipus</string>
+    <string name="kind_toll" formatted="false">Peatge</string>
+    <string name="kind_parking" formatted="false">Aparcament</string>
+    <string name="kind_fuel" formatted="false">Combustible</string>
+    <string name="kind_other" formatted="false">Altres</string>
+    <string name="amount" formatted="false">Import</string>
+    <string name="place" formatted="false">Lloc</string>
+    <string name="litres" formatted="false">Litres</string>
+    <string name="odometer" formatted="false">Quilometratge del comptador</string>
+    <string name="no_expenses" formatted="false">Cap despesa. Els peatges i l\'aparcament s\'afegeixen a l\'estimació.</string>
+    <string name="invalid_amount" formatted="false">Indica un import superior a 0.</string>
+    <string name="legal_title" formatted="false">Avís legal i privadesa</string>
+    <string name="privacy_text" formatted="false">Totes les teves dades es queden al teu dispositiu. L\'aplicació no demana cap compte i no envia res a cap servidor. Els únics intercanvis amb l\'exterior són els que tu activis, una exportació, una còpia de seguretat o una compra, i els anuncis de la versió gratuïta, que la versió Pro elimina.</string>
+    <string name="about" formatted="false">Quant a</string>
+    <string name="version">Versió %1$s</string>
+    <string name="error_generic" formatted="false">S\'ha produït un error.</string>
+    <string name="today" formatted="false">Avui</string>
+    <string name="yesterday" formatted="false">Ahir</string>
+    <string name="ads_privacy_options" formatted="false">Opcions de privadesa dels anuncis</string>
+    <string name="ads_disabled_title" formatted="false">Els anuncis estan desactivats</string>
+    <string name="ads_disabled_text" formatted="false">El sistema indica que aquest compte pertany a un usuari jove. Per tant, l\'aplicació no mostra cap anunci ni demana cap consentiment. No es llegeix cap identificador publicitari i no es recull ni s\'envia cap dada.</string>
+    <string name="watch_quick_add" formatted="false">Trajecte ràpid</string>
+    <string name="watch_no_favorites" formatted="false">Afegeix trajectes preferits al teu telèfon.</string>
+    <string name="watch_added" formatted="false">Afegit</string>
+    <string name="watch_open_phone" formatted="false">Obrir l\'app del telèfon</string>
+    <string name="widget_today" formatted="false">Avui</string>
+    <string name="widget_month" formatted="false">Aquest mes</string>
+    <string name="widget_pro_needed" formatted="false">Widget disponible amb Pro</string>
+</resources>

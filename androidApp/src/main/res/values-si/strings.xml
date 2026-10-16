@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">කිලෝමීටර</string>
+    <string name="widget_name" formatted="false">ගමන්</string>
+    <string name="widget_description" formatted="false">අද කිලෝමීටර සහ ඔබේ ප්‍රියතම ගමන් එක් තට්ටුවකින්.</string>
+    <string name="tab_trips" formatted="false">ගමන්</string>
+    <string name="tab_estimate" formatted="false">ඇස්තමේන්තුව</string>
+    <string name="tab_more" formatted="false">තවත්</string>
+    <string name="this_month" formatted="false">මේ මාසය</string>
+    <string name="this_year" formatted="false">මේ වසර</string>
+    <string name="trips_count">ගමන්: %1$d</string>
+    <string name="km_value">%1$s කි.මී.</string>
+    <string name="add_trip" formatted="false">නව ගමන</string>
+    <string name="free_remaining">මේ මාසයේ ඉතිරි නොමිලේ ගමන්: %1$d</string>
+    <string name="free_limit_reached" formatted="false">මේ මාසයේ නොමිලේ සීමාව ඉක්මවා ඇත</string>
+    <string name="free_quota_reached" formatted="false">නොමිලේ අනුවාදයෙන් මසකට ගමන් 5ක් සටහන් කළ හැක. අසීමිත ගමන් සඳහා Pro වෙත යන්න, නැතහොත් තවත් 5ක් සඳහා දැන්වීමක් නරඹන්න.</string>
+    <string name="go_pro" formatted="false">Pro වෙත යන්න</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">තවම ගමන් නැත.\nපළමු ගමන සටහන් කිරීමට + තට්ටු කරන්න.</string>
+    <string name="trip_new" formatted="false">නව ගමන</string>
+    <string name="trip_edit" formatted="false">ගමන සංස්කරණය</string>
+    <string name="field_date" formatted="false">දිනය</string>
+    <string name="field_from" formatted="false">සිට</string>
+    <string name="field_to" formatted="false">දක්වා</string>
+    <string name="field_distance" formatted="false">එක් පැත්තක දුර (කි.මී.)</string>
+    <string name="field_round_trip" formatted="false">යන එන ගමන</string>
+    <string name="field_purpose" formatted="false">අරමුණ</string>
+    <string name="field_vehicle" formatted="false">වාහනය</string>
+    <string name="field_note" formatted="false">සටහන</string>
+    <string name="field_justified" formatted="false">විශේෂ තත්ත්වය</string>
+    <string name="field_justified_help" formatted="false">නිවස-රැකියා ස්ථානය අතර දුර විශේෂ හේතුවක් නිසා කි.මී. 40 ඉක්මවන්නේ නම්, හෝ එකම දිනයේ සාධාරණ හේතුවක් සහිත අමතර යන එන ගමනක් සඳහා සලකුණු කරන්න.</string>
+    <string name="purpose_commute" formatted="false">නිවස-රැකියාව</string>
+    <string name="purpose_business" formatted="false">ව්‍යාපාරික</string>
+    <string name="purpose_personal" formatted="false">පෞද්ගලික</string>
+    <string name="save" formatted="false">සුරකින්න</string>
+    <string name="cancel" formatted="false">අවලංගු</string>
+    <string name="delete" formatted="false">මකන්න</string>
+    <string name="edit" formatted="false">සංස්කරණය</string>
+    <string name="ok" formatted="false">හරි</string>
+    <string name="close" formatted="false">වසන්න</string>
+    <string name="back" formatted="false">ආපසු</string>
+    <string name="confirm_delete" formatted="false">සදහටම මකන්නද?</string>
+    <string name="invalid_distance" formatted="false">0ට වඩා වැඩි දුරක් ඇතුළත් කරන්න.</string>
+    <string name="favorites" formatted="false">ප්‍රියතම</string>
+    <string name="save_as_favorite" formatted="false">ප්‍රියතම ලෙසද සුරකින්න</string>
+    <string name="favorite_label" formatted="false">ප්‍රියතම නම</string>
+    <string name="no_favorites" formatted="false">එක් තට්ටුවකින් සටහන් කිරීමට ගමනක් ප්‍රියතම ලෙස සුරකින්න.</string>
+    <string name="use_favorite" formatted="false">ප්‍රියතම ගමන්</string>
+    <string name="swap" formatted="false">මාරු කරන්න</string>
+    <string name="quick_add_hint" formatted="false">අද දිනට එක් කිරීමට ප්‍රියතම ගමනක් තට්ටු කරන්න.</string>
+    <string name="added" formatted="false">ගමන එක් කළා.</string>
+    <string name="undo" formatted="false">අහෝසි කරන්න</string>
+    <string name="vehicles" formatted="false">වාහන</string>
+    <string name="add_vehicle" formatted="false">වාහනයක් එක් කරන්න</string>
+    <string name="edit_vehicle" formatted="false">වාහනය සංස්කරණය</string>
+    <string name="vehicle_name" formatted="false">නම</string>
+    <string name="vehicle_kind" formatted="false">වර්ගය</string>
+    <string name="kind_car" formatted="false">මෝටර් රථය</string>
+    <string name="kind_motorcycle" formatted="false">මෝටර් සයිකලය</string>
+    <string name="kind_moped" formatted="false">මොපෙඩ්</string>
+    <string name="fiscal_power" formatted="false">බදු අශ්වබලය (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV හෝ වැඩි</string>
+    <string name="cv_or_less">%1$d CV හෝ අඩු</string>
+    <string name="cv_range_3_5" formatted="false">3 සිට 5 CV</string>
+    <string name="electric" formatted="false">විදුලි වාහනය</string>
+    <string name="no_vehicle" formatted="false">වාහනයක් නැත. එකක් එක් කරන්න: ඇස්තමේන්තුවට එය අවශ්‍යයි.</string>
+    <string name="default_vehicle" formatted="false">පෙරනිමි වාහනය</string>
+    <string name="vehicle_needed" formatted="false">පළමුව තවත් &gt; වාහන තුළ වාහනයක් එක් කරන්න.</string>
+    <string name="estimation" formatted="false">සැබෑ වියදම් ඇස්තමේන්තුව</string>
+    <string name="income_year">ආදායම් වර්ෂය %1$d</string>
+    <string name="estimation_locked" formatted="false">සැබෑ වියදම් ඇස්තමේන්තුව, නිර්යාත, ඉතිහාස ආයාත කිරීම සහ උපස්ථයක් ප්‍රතිස්ථාපනය Pro අනුවාදයට අයත් වේ.</string>
+    <string name="disclaimer_short" formatted="false">දළ ඇස්තමේන්තුවක් පමණි, සහතික නොවේ.</string>
+    <string name="disclaimer_long" formatted="false">මෙම ඇස්තමේන්තුව දළ වශයෙන් වන අතර සහතික නොවේ. එය බදු උපදෙසක් නොවන අතර නිල ලේඛන, බදු පරිපාලනය හෝ වෘත්තිකයෙකු වෙනුවට නොයෙදේ. ප්‍රකාශය ඉදිරිපත් කිරීමට පෙර ඔබේ තත්ත්වයට අදාළ නීති පරීක්ෂා කරන්න.</string>
+    <string name="commute_km_raw" formatted="false">ඇතුළත් කළ නිවස-රැකියා කි.මී.</string>
+    <string name="commute_km_retained" formatted="false">ගණනට ගත් නිවස-රැකියා කි.මී.</string>
+    <string name="business_km" formatted="false">ව්‍යාපාරික කි.මී.</string>
+    <string name="retained_km" formatted="false">ගණනට ගත් කි.මී.</string>
+    <string name="allowance" formatted="false">කිලෝමීටර දීමනාව</string>
+    <string name="tolls_parking" formatted="false">මාර්ග ගාස්තු සහ වාහන නැවැත්වීම</string>
+    <string name="total" formatted="false">ඇස්තමේන්තු එකතුව</string>
+    <string name="flat_deduction" formatted="false">සම්මත 10% අඩු කිරීම</string>
+    <string name="real_better" formatted="false">සම්මත අඩු කිරීමට වඩා සැබෑ වියදම් වාසිදායක ලෙස පෙනේ.</string>
+    <string name="flat_better" formatted="false">සැබෑ වියදම්වලට වඩා සම්මත අඩු කිරීම වාසිදායක ලෙස පෙනේ.</string>
+    <string name="enter_salary" formatted="false">සම්මත අඩු කිරීම සමඟ සංසන්දනය කිරීමට ඔබේ වාර්ෂික ශුද්ධ බදු අයකළ හැකි වැටුප ඇතුළත් කරන්න.</string>
+    <string name="net_taxable_salary" formatted="false">වාර්ෂික ශුද්ධ බදු අයකළ හැකි වැටුප</string>
+    <string name="per_vehicle" formatted="false">වාහනයකට</string>
+    <string name="note_scale_unconfirmed" formatted="false">මේ වසරේ අනුපාත වගුව තවම ප්‍රකාශයට පත් කර නැත: දන්නා නවතම වගුව යොදා ඇත.</string>
+    <string name="note_cap_applied" formatted="false">විශේෂ තත්ත්වයක් සඳහන් නොකළ නිසා නිවස-රැකියා ගමන් එකක් හෝ කිහිපයක් කි.මී. 40ට සීමා කරන ලදී.</string>
+    <string name="note_extra_legs" formatted="false">දිනකට එක් නිවස-රැකියා යන එන ගමනකට වඩා, විශේෂ තත්ත්වයක් නැති ගමන් ඉවත් කරන ලදී.</string>
+    <string name="note_no_vehicle" formatted="false">වාහනයක් නැති ගමන් නොසලකා හරින ලදී: පෙරනිමි වාහනයක් තෝරන්න.</string>
+    <string name="note_fuel">ඇතුළත් කළ ඉන්ධන (%1$s) එකතු නොකෙරේ: කිලෝමීටර අනුපාත වගුවේ එය දැනටමත් ඇතුළත්ය.</string>
+    <string name="note_no_salary" formatted="false">වැටුප ඇතුළත් කර නැත: සම්මත අඩු කිරීම සමඟ සංසන්දනයක් නැත.</string>
+    <string name="documents_title" formatted="false">තබා ගත යුතු ලේඛන</string>
+    <string name="documents_list" formatted="false">වාහන ලියාපදිංචි සහතිකය\nරැකියා ගිවිසුම හෝ සේවායෝජක සහතිකය\nවැඩ කළ දින වාර්තාව\nමාර්ග ගාස්තු සහ වාහන නැවැත්වීමේ රිසිට්පත්\nවිශේෂ තත්ත්වයක් සනාථ කරන ඕනෑම දෙයක්</string>
+    <string name="export" formatted="false">නිර්යාත</string>
+    <string name="export_title" formatted="false">නිර්යාත</string>
+    <string name="export_pdf" formatted="false">PDF වාර්තාව</string>
+    <string name="export_xlsx" formatted="false">පැතුරුම්පත් ගොනුව</string>
+    <string name="export_csv" formatted="false">CSV ගොනුව</string>
+    <string name="export_period" formatted="false">කාල සීමාව</string>
+    <string name="year" formatted="false">වසර</string>
+    <string name="export_from" formatted="false">සිට</string>
+    <string name="export_to" formatted="false">දක්වා</string>
+    <string name="export_include_estimation" formatted="false">වසරේ ඇස්තමේන්තුව ඇතුළත් කරන්න</string>
+    <string name="export_share" formatted="false">ගොනුව බෙදාගැනීමේ පත්‍රයේ විවෘත වේ: එය සුරකින්න හෝ යවන්න.</string>
+    <string name="export_failed" formatted="false">නිර්යාත අසාර්ථක විය.</string>
+    <string name="report_title" formatted="false">කිලෝමීටර වාර්තාව</string>
+    <string name="generated_on">%1$s දින සකස් කළා</string>
+    <string name="yes" formatted="false">ඔව්</string>
+    <string name="no" formatted="false">නැත</string>
+    <string name="import_title" formatted="false">ඉතිහාසයක් ආයාත කරන්න</string>
+    <string name="import_help" formatted="false">ඔබේ දුරකථනය ඔබේ ස්ථාන ඉතිහාසය තබා ගන්නේ නම්, එය කළමනාකරණය කරන යෙදුමෙන් JSON ගොනුවක් ලෙස නිර්යාත කර මෙහි විවෘත කළ හැක. වාහන ගමන් පමණක් කියවනු ලැබේ. ගොනුව තබා නොගනී: දිනය, දුර සහ දන්නේ නම් ආරම්භය හා ගමනාන්තය පමණක් සුරකිනු ලැබේ.</string>
+    <string name="import_pick" formatted="false">ගොනුව තෝරන්න</string>
+    <string name="import_reading" formatted="false">කියවමින්…</string>
+    <string name="import_found">හමු වූ වාහන ගමන්: %1$d</string>
+    <string name="import_skipped">නොසලකා හැරි වෙනත් ගමන් (පයින්, බයිසිකල්, පොදු ප්‍රවාහන): %1$d</string>
+    <string name="import_default_purpose" formatted="false">නිවස-රැකියා ලෙස හඳුනා නොගත් ගමන් සඳහා අරමුණ</string>
+    <string name="import_period">%1$s සිට %2$s දක්වා</string>
+    <string name="import_confirm">ගමන් %1$d ආයාත කරන්න</string>
+    <string name="import_done">ආයාත කළ ගමන්: %1$d</string>
+    <string name="import_nothing_new" formatted="false">නව ගමන් නැත: ඒවා දැනටමත් ආයාත කර ඇත.</string>
+    <string name="import_unreadable" formatted="false">මෙම ගොනුව කියවිය හැකි ස්ථාන ඉතිහාසයක් නොවේ.</string>
+    <string name="import_commute_hint" formatted="false">ගොනුව ඒවා එලෙස ලේබල් කර ඇත්නම් ඔබේ නිවස සහ රැකියා ස්ථානය අතර ගමන් හඳුනා ගැනේ; ඒවාට නිවස-රැකියා අරමුණ ලැබේ.</string>
+    <string name="backup_title" formatted="false">උපස්ථය</string>
+    <string name="backup_explain" formatted="false">ඔබ තීරණය කළ විට පමණක් ඔබේ දත්ත ඔබේ උපාංගයෙන් පිටතට යයි. උපස්ථයක් යනු ඔබට ඕනෑම තැනක ගබඩා කර ඕනෑම උපාංගයක ප්‍රතිස්ථාපනය කළ හැකි ගොනුවකි.</string>
+    <string name="backup_export" formatted="false">උපස්ථයක් නිර්යාත කරන්න</string>
+    <string name="backup_restore" formatted="false">උපස්ථයක් ප්‍රතිස්ථාපනය කරන්න</string>
+    <string name="backup_restore_help" formatted="false">ප්‍රතිස්ථාපනය ඒකාබද්ධ කරයි: ඉන්පසු ඔබ ඇතුළත් කළ කිසිවක් අහිමි නොවේ.</string>
+    <string name="backup_restored">උපස්ථය ප්‍රතිස්ථාපනය කළා: මුළු ගමන් %1$d.</string>
+    <string name="backup_invalid" formatted="false">මෙම ගොනුව මෙම යෙදුමේ උපස්ථයක් නොවේ.</string>
+    <string name="cloud_title" formatted="false">ක්ලවුඩ් උපස්ථය</string>
+    <string name="cloud_explain" formatted="false">අමතර ගිණුමක් නොමැතිව ඔබේ උපාංගයේ ක්ලවුඩ් ඉඩෙහි ඔබේ දත්තවල ස්වයංක්‍රීය පිටපතක්. සෑම වෙනසකින්ම පසු එය යාවත්කාලීන වේ.</string>
+    <string name="cloud_now" formatted="false">දැන් උපස්ථ කරන්න</string>
+    <string name="cloud_restore" formatted="false">ක්ලවුඩ් වෙතින් ප්‍රතිස්ථාපනය</string>
+    <string name="cloud_last">අවසන් ක්ලවුඩ් උපස්ථය: %1$s</string>
+    <string name="cloud_never" formatted="false">තවම ක්ලවුඩ් උපස්ථයක් නැත.</string>
+    <string name="cloud_unavailable" formatted="false">මෙම උපාංගයේ ක්ලවුඩ් උපස්ථය නොමැත. උපස්ථ නිර්යාතය භාවිත කරන්න.</string>
+    <string name="cloud_done" formatted="false">ක්ලවුඩ් උපස්ථය සම්පූර්ණයි.</string>
+    <string name="cloud_nothing" formatted="false">ප්‍රතිස්ථාපනය කිරීමට ක්ලවුඩ් උපස්ථයක් නැත.</string>
+    <string name="cloud_system_restore" formatted="false">යෙදුම නැවත ස්ථාපනය කරන විට හෝ නව උපාංගයක් සකසන විට පද්ධතිය මෙම උපස්ථය ස්වයංක්‍රීයව ප්‍රතිස්ථාපනය කරයි.</string>
+    <string name="settings" formatted="false">සැකසුම්</string>
+    <string name="rules_title" formatted="false">ගණනය කිරීමේ නීති</string>
+    <string name="rule_fr" formatted="false">ප්‍රංශ කිලෝමීටර අනුපාත වගුව</string>
+    <string name="rule_generic" formatted="false">කිලෝමීටරයකට ස්ථාවර අනුපාතය</string>
+    <string name="generic_rate" formatted="false">කිලෝමීටරයකට අනුපාතය</string>
+    <string name="currency" formatted="false">මුදල් ඒකකය</string>
+    <string name="home_label" formatted="false">ඔබේ නිවසේ නම</string>
+    <string name="work_label" formatted="false">ඔබේ රැකියා ස්ථානයේ නම</string>
+    <string name="home_work_distance" formatted="false">නිවස-රැකියා දුර (එක් පැත්තක්, කි.මී.)</string>
+    <string name="places_help" formatted="false">ප්‍රියතම ගමන් සහ ඉතිහාස ආයාත කිරීමට භාවිත වේ.</string>
+    <string name="pro_title" formatted="false">Pro අනුවාදය</string>
+    <string name="pro_subtitle" formatted="false">ඔබේ සැබෑ වියදම් සඳහා අවශ්‍ය සියල්ල, දැන්වීම් නැතිව.</string>
+    <string name="pro_features_title" formatted="false">අගුළු ඇරෙන විශේෂාංග:</string>
+    <string name="pro_feature_unlimited" formatted="false">අසීමිත ගමන්.</string>
+    <string name="pro_feature_estimation" formatted="false">සැබෑ වියදම් ඇස්තමේන්තුව සහ සම්මත අඩු කිරීම සමඟ සංසන්දනය.</string>
+    <string name="pro_feature_export" formatted="false">සම්පූර්ණ, සහතික කළ නිර්යාතය (පිරිසිදු PDF, ඔබේ ගණකාධිකාරී හෝ බදු ප්‍රකාශය සඳහා සූදානම් පැතුරුම්පත් ආකෘතිය).</string>
+    <string name="pro_feature_import" formatted="false">ඔබේ දුරකථනයේ ගමන් ඉතිහාසය ආයාත කිරීම.</string>
+    <string name="pro_feature_expenses" formatted="false">ඇස්තමේන්තුවට එකතු කරන මාර්ග ගාස්තු, වාහන නැවැත්වීම සහ ඉන්ධන.</string>
+    <string name="pro_feature_cloud" formatted="false">උපස්ථ ගොනුවකින් ප්‍රතිස්ථාපනය සහ ඔබේ උපාංග අතර සමමුහුර්ත කිරීම.</string>
+    <string name="pro_feature_widgets" formatted="false">මුල් තිර විජට්.</string>
+    <string name="pro_feature_watch" formatted="false">ඔරලෝසු යෙදුම.</string>
+    <string name="pro_feature_no_ads" formatted="false">කිසිම දැන්වීමක් නැත.</string>
+    <string name="pro_feature_gps" formatted="false">ස්වයංක්‍රීය GPS ලුහුබැඳීම (චලන හඳුනාගැනීම හෝ මෝටර් රථයට Bluetooth සම්බන්ධතාව).</string>
+    <string name="pro_feature_scan" formatted="false">කැමරාවෙන් මාර්ග ගාස්තු, වාහන නැවැත්වීම් සහ ඉන්ධන රිසිට්පත් ස්මාට් ස්කෑන් කිරීම (OCR).</string>
+    <string name="pro_monthly">මසකට %1$s</string>
+    <string name="pro_yearly">වසරකට %1$s</string>
+    <string name="pro_yearly_hint" formatted="false">මාසිකට සාපේක්ෂව මාස දෙකක් නොමිලේ</string>
+    <string name="subscribe" formatted="false">දායක වන්න</string>
+    <string name="restore_purchases" formatted="false">මිලදී ගැනීම් ප්‍රතිස්ථාපනය</string>
+    <string name="pro_active" formatted="false">Pro අනුවාදය සක්‍රීයයි</string>
+    <string name="pro_active_since">දායකත්වය: %1$s</string>
+    <string name="pro_unavailable" formatted="false">යෙදුමේ මෙම අනුවාදයේ මිලදී ගැනීම් නොමැත.</string>
+    <string name="pro_legal" formatted="false">ස්වයංක්‍රීයව අලුත් වන දායකත්වය, ඔබේ වෙළඳසැල් ගිණුමෙන් අය කෙරේ. වෙළඳසැල් සැකසුම් තුළින් ඕනෑම වේලාවක අවලංගු කළ හැක; කාල සීමාව අවසන් වීමට අවම වශයෙන් පැය 24කට පෙර අවලංගු නොකළහොත් ඊළඟ කාල සීමාව සඳහා මිල අය කෙරේ.</string>
+    <string name="purchase_pending" formatted="false">මිලදී ගැනීම සිදු වෙමින්…</string>
+    <string name="purchase_failed" formatted="false">මිලදී ගැනීම සම්පූර්ණ වූයේ නැත.</string>
+    <string name="purchase_restored" formatted="false">මිලදී ගැනීම් ප්‍රතිස්ථාපනය කළා.</string>
+    <string name="purchase_nothing" formatted="false">ප්‍රතිස්ථාපනය කිරීමට කිසිවක් නැත.</string>
+    <string name="rewarded_title" formatted="false">දැන්වීමකින් උත්සාහ කරන්න</string>
+    <string name="rewarded_explain" formatted="false">මෙය ටික වේලාවකට අගුළු ඇරීමට කෙටි දැන්වීමක් නරඹන්න. Pro දැන්වීම් ඉවත් කර සියල්ල අගුළු අරියි.</string>
+    <string name="rewarded_estimation" formatted="false">පැය 24ක් ඇස්තමේන්තුව බලන්න</string>
+    <string name="rewarded_export" formatted="false">පැයක් ඇතුළත එක් නිර්යාතයක්</string>
+    <string name="rewarded_trips" formatted="false">මේ මාසයේ තවත් ගමන් 5ක්</string>
+    <string name="rewarded_watch" formatted="false">දැන්වීමක් නරඹන්න</string>
+    <string name="rewarded_unavailable" formatted="false">දැනට දැන්වීමක් නැත. මොහොතකින් නැවත උත්සාහ කරන්න.</string>
+    <string name="rewarded_granted" formatted="false">අගුළු ඇරුණා. සුබ ගමන්!</string>
+    <string name="expenses" formatted="false">වියදම්</string>
+    <string name="add_expense" formatted="false">නව වියදම</string>
+    <string name="edit_expense" formatted="false">වියදම සංස්කරණය</string>
+    <string name="expense_kind" formatted="false">වර්ගය</string>
+    <string name="kind_toll" formatted="false">මාර්ග ගාස්තු</string>
+    <string name="kind_parking" formatted="false">වාහන නැවැත්වීම</string>
+    <string name="kind_fuel" formatted="false">ඉන්ධන</string>
+    <string name="kind_other" formatted="false">වෙනත්</string>
+    <string name="amount" formatted="false">මුදල</string>
+    <string name="place" formatted="false">ස්ථානය</string>
+    <string name="litres" formatted="false">ලීටර</string>
+    <string name="odometer" formatted="false">ඔඩෝමීටර කියවීම</string>
+    <string name="no_expenses" formatted="false">වියදම් නැත. මාර්ග ගාස්තු සහ වාහන නැවැත්වීම ඇස්තමේන්තුවට එකතු වේ.</string>
+    <string name="invalid_amount" formatted="false">0ට වඩා වැඩි මුදලක් ඇතුළත් කරන්න.</string>
+    <string name="legal_title" formatted="false">නීතිමය තොරතුරු සහ පෞද්ගලිකත්වය</string>
+    <string name="privacy_text" formatted="false">ඔබේ සියලු දත්ත ඔබේ උපාංගයේම රැඳේ. යෙදුමට ගිණුමක් අවශ්‍ය නැති අතර සේවාදායකයකට කිසිවක් නොයවයි. බාහිර සමඟ සිදු වන එකම හුවමාරු ඔබ ආරම්භ කරන නිර්යාතයක්, උපස්ථයක් හෝ මිලදී ගැනීමක් සහ Pro අනුවාදය ඉවත් කරන නොමිලේ අනුවාදයේ දැන්වීම් පමණි.</string>
+    <string name="about" formatted="false">පිළිබඳව</string>
+    <string name="version">අනුවාදය %1$s</string>
+    <string name="error_generic" formatted="false">යමක් වැරදුණා.</string>
+    <string name="today" formatted="false">අද</string>
+    <string name="yesterday" formatted="false">ඊයේ</string>
+    <string name="ads_privacy_options" formatted="false">දැන්වීම් පෞද්ගලිකත්ව විකල්ප</string>
+    <string name="ads_disabled_title" formatted="false">දැන්වීම් අක්‍රීයයි</string>
+    <string name="ads_disabled_text" formatted="false">මෙම ගිණුම තරුණ පරිශීලකයෙකුට අයත් බව පද්ධතිය දක්වයි. එබැවින් යෙදුම දැන්වීම් නොපෙන්වන අතර කැමැත්ත නොඉල්ලයි. දැන්වීම් හඳුනාගැනීමේ අංකයක් නොකියවන අතර කිසිදු දත්තයක් එකතු හෝ යවනු නොලැබේ.</string>
+    <string name="watch_quick_add" formatted="false">ඉක්මන් ගමන</string>
+    <string name="watch_no_favorites" formatted="false">ඔබේ දුරකථනයේ ප්‍රියතම ගමන් එක් කරන්න.</string>
+    <string name="watch_added" formatted="false">එක් කළා</string>
+    <string name="watch_open_phone" formatted="false">දුරකථන යෙදුම විවෘත කරන්න</string>
+    <string name="widget_today" formatted="false">අද</string>
+    <string name="widget_month" formatted="false">මේ මාසය</string>
+    <string name="widget_pro_needed" formatted="false">විජට් Pro සමඟ ලබා ගත හැක</string>
+</resources>

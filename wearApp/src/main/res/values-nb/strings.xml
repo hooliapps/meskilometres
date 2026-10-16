@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometer</string>
+    <string name="watch_quick_add" formatted="false">Rask tur</string>
+    <string name="watch_no_favorites" formatted="false">Legg til favoritturer på telefonen din.</string>
+    <string name="watch_added" formatted="false">Lagt til</string>
+    <string name="watch_open_phone" formatted="false">Åpne appen på telefonen</string>
+    <string name="km_value">%1$s km</string>
+    <string name="this_month" formatted="false">Denne måneden</string>
+    <string name="today" formatted="false">I dag</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">Widget tilgjengelig med Pro</string>
+</resources>

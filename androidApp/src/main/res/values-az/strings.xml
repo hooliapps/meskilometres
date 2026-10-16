@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometrlər</string>
+    <string name="widget_name" formatted="false">Səfərlər</string>
+    <string name="widget_description" formatted="false">Bugünkü kilometrlər və sevimli səfərləriniz bir toxunuşla.</string>
+    <string name="tab_trips" formatted="false">Səfərlər</string>
+    <string name="tab_estimate" formatted="false">Hesablama</string>
+    <string name="tab_more" formatted="false">Daha çox</string>
+    <string name="this_month" formatted="false">Bu ay</string>
+    <string name="this_year" formatted="false">Bu il</string>
+    <string name="trips_count">Səfərlər: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Yeni səfər</string>
+    <string name="free_remaining">Bu ay qalan pulsuz səfərlər: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Bu ayın pulsuz limitinə çatılıb</string>
+    <string name="free_quota_reached" formatted="false">Pulsuz versiya ayda 5 səfərə imkan verir. Limitsiz səfərlər üçün Pro-ya keçin və ya daha 5 səfər üçün reklama baxın.</string>
+    <string name="go_pro" formatted="false">Pro-ya keç</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Hələ səfər yoxdur.\nİlkini qeyd etmək üçün + düyməsinə toxunun.</string>
+    <string name="trip_new" formatted="false">Yeni səfər</string>
+    <string name="trip_edit" formatted="false">Səfəri redaktə et</string>
+    <string name="field_date" formatted="false">Tarix</string>
+    <string name="field_from" formatted="false">Haradan</string>
+    <string name="field_to" formatted="false">Haraya</string>
+    <string name="field_distance" formatted="false">Bir istiqamətdə məsafə (km)</string>
+    <string name="field_round_trip" formatted="false">Gediş-gəliş</string>
+    <string name="field_purpose" formatted="false">Məqsəd</string>
+    <string name="field_vehicle" formatted="false">Nəqliyyat vasitəsi</string>
+    <string name="field_note" formatted="false">Qeyd</string>
+    <string name="field_justified" formatted="false">Xüsusi hal</string>
+    <string name="field_justified_help" formatted="false">Ev-iş məsafəsi müəyyən səbəbdən 40 km-i keçirsə və ya eyni gündə əsaslandırılmış əlavə gediş-gəliş varsa işarələyin.</string>
+    <string name="purpose_commute" formatted="false">Ev-iş</string>
+    <string name="purpose_business" formatted="false">İş</string>
+    <string name="purpose_personal" formatted="false">Şəxsi</string>
+    <string name="save" formatted="false">Yadda saxla</string>
+    <string name="cancel" formatted="false">Ləğv et</string>
+    <string name="delete" formatted="false">Sil</string>
+    <string name="edit" formatted="false">Redaktə et</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Bağla</string>
+    <string name="back" formatted="false">Geri</string>
+    <string name="confirm_delete" formatted="false">Həmişəlik silinsin?</string>
+    <string name="invalid_distance" formatted="false">0-dan böyük məsafə daxil edin.</string>
+    <string name="favorites" formatted="false">Sevimlilər</string>
+    <string name="save_as_favorite" formatted="false">Həm də sevimli kimi saxla</string>
+    <string name="favorite_label" formatted="false">Sevimlinin adı</string>
+    <string name="no_favorites" formatted="false">Bir toxunuşla qeyd etmək üçün səfəri sevimli kimi yadda saxlayın.</string>
+    <string name="use_favorite" formatted="false">Sevimli səfərlər</string>
+    <string name="swap" formatted="false">Dəyiş</string>
+    <string name="quick_add_hint" formatted="false">Bu günə əlavə etmək üçün sevimliyə toxunun.</string>
+    <string name="added" formatted="false">Səfər əlavə edildi.</string>
+    <string name="undo" formatted="false">Geri qaytar</string>
+    <string name="vehicles" formatted="false">Nəqliyyat vasitələri</string>
+    <string name="add_vehicle" formatted="false">Nəqliyyat vasitəsi əlavə et</string>
+    <string name="edit_vehicle" formatted="false">Nəqliyyat vasitəsini redaktə et</string>
+    <string name="vehicle_name" formatted="false">Ad</string>
+    <string name="vehicle_kind" formatted="false">Növ</string>
+    <string name="kind_car" formatted="false">Avtomobil</string>
+    <string name="kind_motorcycle" formatted="false">Motosiklet</string>
+    <string name="kind_moped" formatted="false">Moped</string>
+    <string name="fiscal_power" formatted="false">Vergi at gücü (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV və daha çox</string>
+    <string name="cv_or_less">%1$d CV və daha az</string>
+    <string name="cv_range_3_5" formatted="false">3-dən 5 CV-yə qədər</string>
+    <string name="electric" formatted="false">Elektrik nəqliyyat vasitəsi</string>
+    <string name="no_vehicle" formatted="false">Nəqliyyat vasitəsi yoxdur. Birini əlavə edin: hesablama üçün lazımdır.</string>
+    <string name="default_vehicle" formatted="false">Standart nəqliyyat vasitəsi</string>
+    <string name="vehicle_needed" formatted="false">Əvvəlcə Daha çox &gt; Nəqliyyat vasitələri bölməsindən nəqliyyat vasitəsi əlavə edin.</string>
+    <string name="estimation" formatted="false">Faktiki xərclərin hesablanması</string>
+    <string name="income_year">Gəlir ili %1$d</string>
+    <string name="estimation_locked" formatted="false">Faktiki xərclərin hesablanması, ixraclar, tarixçənin idxalı və ehtiyat nüsxənin bərpası Pro versiyasına aiddir.</string>
+    <string name="disclaimer_short" formatted="false">Təxmini hesablama, zəmanət verilmir.</string>
+    <string name="disclaimer_long" formatted="false">Bu hesablama təxminidir və zəmanət verilmir. Vergi məsləhəti deyil və rəsmi sənədləri, vergi orqanını və ya mütəxəssisi əvəz etmir. Bəyannamə verməzdən əvvəl vəziyyətinizə tətbiq olunan qaydaları yoxlayın.</string>
+    <string name="commute_km_raw" formatted="false">Daxil edilən ev-iş km</string>
+    <string name="commute_km_retained" formatted="false">Nəzərə alınan ev-iş km</string>
+    <string name="business_km" formatted="false">İş km</string>
+    <string name="retained_km" formatted="false">Nəzərə alınan km</string>
+    <string name="allowance" formatted="false">Kilometr kompensasiyası</string>
+    <string name="tolls_parking" formatted="false">Yol ödənişləri və parklanma</string>
+    <string name="total" formatted="false">Təxmini cəm</string>
+    <string name="flat_deduction" formatted="false">10 faiz sabit çıxılma</string>
+    <string name="real_better" formatted="false">Faktiki xərclər sabit çıxılmadan daha sərfəli görünür.</string>
+    <string name="flat_better" formatted="false">Sabit çıxılma faktiki xərclərdən daha sərfəli görünür.</string>
+    <string name="enter_salary" formatted="false">Sabit çıxılma ilə müqayisə üçün illik xalis vergiyə cəlb olunan maaşınızı daxil edin.</string>
+    <string name="net_taxable_salary" formatted="false">İllik xalis vergiyə cəlb olunan maaş</string>
+    <string name="per_vehicle" formatted="false">Hər nəqliyyat vasitəsi üzrə</string>
+    <string name="note_scale_unconfirmed" formatted="false">Bu ilin cədvəli hələ dərc olunmayıb: məlum olan sonuncu cədvəl tətbiq edilir.</string>
+    <string name="note_cap_applied" formatted="false">Xüsusi hal göstərilmədiyi üçün bir və ya bir neçə ev-iş səfəri 40 km ilə məhdudlaşdırılıb.</string>
+    <string name="note_extra_legs" formatted="false">Gündə bir ev-iş gediş-gəlişindən artıq, xüsusi halı olmayan səfərlər nəzərə alınmayıb.</string>
+    <string name="note_no_vehicle" formatted="false">Nəqliyyat vasitəsi olmayan səfərlər nəzərə alınmadı: standart nəqliyyat vasitəsi seçin.</string>
+    <string name="note_fuel">Daxil edilən yanacaq (%1$s) əlavə olunmur: kilometr cədvəli onu artıq əhatə edir.</string>
+    <string name="note_no_salary" formatted="false">Maaş daxil edilməyib: sabit çıxılma ilə müqayisə yoxdur.</string>
+    <string name="documents_title" formatted="false">Saxlanılmalı sənədlər</string>
+    <string name="documents_list" formatted="false">Nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsi\nƏmək müqaviləsi və ya işəgötürənin arayışı\nİş günlərinin qeydi\nYol ödənişi və parklanma qəbzləri\nXüsusi halı təsdiq edən hər şey</string>
+    <string name="export" formatted="false">İxrac et</string>
+    <string name="export_title" formatted="false">İxrac</string>
+    <string name="export_pdf" formatted="false">PDF hesabat</string>
+    <string name="export_xlsx" formatted="false">Elektron cədvəl</string>
+    <string name="export_csv" formatted="false">CSV faylı</string>
+    <string name="export_period" formatted="false">Dövr</string>
+    <string name="year" formatted="false">İl</string>
+    <string name="export_from" formatted="false">Başlanğıc</string>
+    <string name="export_to" formatted="false">Son</string>
+    <string name="export_include_estimation" formatted="false">İlin hesablamasını daxil et</string>
+    <string name="export_share" formatted="false">Fayl paylaşma pəncərəsində açılır: yadda saxlayın və ya göndərin.</string>
+    <string name="export_failed" formatted="false">İxrac alınmadı.</string>
+    <string name="report_title" formatted="false">Kilometr hesabatı</string>
+    <string name="generated_on">%1$s tarixində yaradılıb</string>
+    <string name="yes" formatted="false">bəli</string>
+    <string name="no" formatted="false">xeyr</string>
+    <string name="import_title" formatted="false">Tarixçəni idxal et</string>
+    <string name="import_help" formatted="false">Telefonunuz məkan tarixçənizi saxlayırsa, onu idarə edən tətbiqdən JSON faylı kimi ixrac edib burada aça bilərsiniz. Yalnız nəqliyyat vasitəsi ilə edilən səfərlər oxunur. Fayl saxlanılmır: yalnız tarix, məsafə və məlum olduqda başlanğıc və son nöqtə qeyd olunur.</string>
+    <string name="import_pick" formatted="false">Fayl seç</string>
+    <string name="import_reading" formatted="false">Oxunur…</string>
+    <string name="import_found">Tapılan nəqliyyat səfərləri: %1$d</string>
+    <string name="import_skipped">Nəzərə alınmayan digər səfərlər (piyada, velosiped, ictimai nəqliyyat): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Ev-iş kimi tanınmayan səfərlərin məqsədi</string>
+    <string name="import_period">%1$s - %2$s</string>
+    <string name="import_confirm">%1$d səfəri idxal et</string>
+    <string name="import_done">İdxal edilən səfərlər: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Yeni səfər yoxdur: onlar artıq idxal edilmişdi.</string>
+    <string name="import_unreadable" formatted="false">Bu fayl oxuna bilən məkan tarixçəsi deyil.</string>
+    <string name="import_commute_hint" formatted="false">Evinizlə iş yeriniz arasındakı səfərlər fayl onları belə işarələdikdə tanınır və ev-iş məqsədini alır.</string>
+    <string name="backup_title" formatted="false">Ehtiyat nüsxə</string>
+    <string name="backup_explain" formatted="false">Məlumatlarınız cihazınızı yalnız siz qərar verdikdə tərk edir. Ehtiyat nüsxə istədiyiniz yerdə saxlaya və istənilən cihazda bərpa edə biləcəyiniz fayldır.</string>
+    <string name="backup_export" formatted="false">Ehtiyat nüsxəni ixrac et</string>
+    <string name="backup_restore" formatted="false">Ehtiyat nüsxəni bərpa et</string>
+    <string name="backup_restore_help" formatted="false">Bərpa birləşdirir: o vaxtdan daxil etdiyiniz heç nə itmir.</string>
+    <string name="backup_restored">Ehtiyat nüsxə bərpa edildi: cəmi %1$d səfər.</string>
+    <string name="backup_invalid" formatted="false">Bu fayl bu tətbiqin ehtiyat nüsxəsi deyil.</string>
+    <string name="cloud_title" formatted="false">Bulud ehtiyat nüsxəsi</string>
+    <string name="cloud_explain" formatted="false">Məlumatlarınızın cihazınızın bulud sahəsinə avtomatik surəti, əlavə hesab tələb olunmur. Hər dəyişiklikdən sonra yenilənir.</string>
+    <string name="cloud_now" formatted="false">İndi ehtiyat nüsxə yarat</string>
+    <string name="cloud_restore" formatted="false">Buluddan bərpa et</string>
+    <string name="cloud_last">Son bulud ehtiyat nüsxəsi: %1$s</string>
+    <string name="cloud_never" formatted="false">Hələ bulud ehtiyat nüsxəsi yoxdur.</string>
+    <string name="cloud_unavailable" formatted="false">Bulud ehtiyat nüsxəsi bu cihazda mövcud deyil. Ehtiyat nüsxənin ixracından istifadə edin.</string>
+    <string name="cloud_done" formatted="false">Bulud ehtiyat nüsxəsi yaradıldı.</string>
+    <string name="cloud_nothing" formatted="false">Bərpa ediləcək bulud ehtiyat nüsxəsi yoxdur.</string>
+    <string name="cloud_system_restore" formatted="false">Tətbiqi yenidən quraşdırdıqda və ya yeni cihaz qurduqda sistem bu ehtiyat nüsxəni özü bərpa edir.</string>
+    <string name="settings" formatted="false">Ayarlar</string>
+    <string name="rules_title" formatted="false">Hesablama qaydaları</string>
+    <string name="rule_fr" formatted="false">Fransız kilometr cədvəli</string>
+    <string name="rule_generic" formatted="false">Hər kilometr üçün sabit dərəcə</string>
+    <string name="generic_rate" formatted="false">Kilometr üçün dərəcə</string>
+    <string name="currency" formatted="false">Valyuta</string>
+    <string name="home_label" formatted="false">Evinizin adı</string>
+    <string name="work_label" formatted="false">İş yerinizin adı</string>
+    <string name="home_work_distance" formatted="false">Ev-iş məsafəsi (bir istiqamət, km)</string>
+    <string name="places_help" formatted="false">Sevimli səfərlərdə və tarixçənin idxalında istifadə olunur.</string>
+    <string name="pro_title" formatted="false">Pro versiya</string>
+    <string name="pro_subtitle" formatted="false">Faktiki xərcləriniz üçün lazım olan hər şey, reklamsız.</string>
+    <string name="pro_features_title" formatted="false">Açılan funksiyalar:</string>
+    <string name="pro_feature_unlimited" formatted="false">Limitsiz səfərlər.</string>
+    <string name="pro_feature_estimation" formatted="false">Faktiki xərclərin hesablanması və sabit çıxılma ilə müqayisə.</string>
+    <string name="pro_feature_export" formatted="false">Tam, təsdiqlənmiş ixrac (səliqəli PDF, mühasibiniz və ya vergi bəyannaməniz üçün hazır elektron cədvəl).</string>
+    <string name="pro_feature_import" formatted="false">Telefonunuzun səfər tarixçəsinin idxalı.</string>
+    <string name="pro_feature_expenses" formatted="false">Hesablamaya əlavə edilən yol ödənişləri, parklanma və yanacaq.</string>
+    <string name="pro_feature_cloud" formatted="false">Ehtiyat nüsxə faylından bərpa və cihazlar arası sinxronizasiya.</string>
+    <string name="pro_feature_widgets" formatted="false">Əsas ekran vidceti.</string>
+    <string name="pro_feature_watch" formatted="false">Saat tətbiqi.</string>
+    <string name="pro_feature_no_ads" formatted="false">Heç bir reklam yoxdur.</string>
+    <string name="pro_feature_gps" formatted="false">Avtomatik GPS izləmə (hərəkət aşkarlama və ya avtomobillə Bluetooth bağlantısı).</string>
+    <string name="pro_feature_scan" formatted="false">Kamera ilə yol ödənişi, parklanma və yanacaq qəbzlərinin ağıllı skanı (OCR).</string>
+    <string name="pro_monthly">Aylıq %1$s</string>
+    <string name="pro_yearly">İllik %1$s</string>
+    <string name="pro_yearly_hint" formatted="false">Aylıqla müqayisədə iki ay pulsuz</string>
+    <string name="subscribe" formatted="false">Abunə ol</string>
+    <string name="restore_purchases" formatted="false">Alışları bərpa et</string>
+    <string name="pro_active" formatted="false">Pro versiya aktivdir</string>
+    <string name="pro_active_since">Abunəlik: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Tətbiqin bu versiyasında alışlar mövcud deyil.</string>
+    <string name="pro_legal" formatted="false">Avtomatik yenilənən abunəlik, mağaza hesabınızdan tutulur. Mağaza ayarlarından istənilən vaxt ləğv edə bilərsiniz; dövrün bitməsinə ən azı 24 saat qalmış ləğv edilməzsə, növbəti dövrün qiyməti tutulur.</string>
+    <string name="purchase_pending" formatted="false">Alış davam edir…</string>
+    <string name="purchase_failed" formatted="false">Alış tamamlanmadı.</string>
+    <string name="purchase_restored" formatted="false">Alışlar bərpa edildi.</string>
+    <string name="purchase_nothing" formatted="false">Bərpa ediləcək heç nə yoxdur.</string>
+    <string name="rewarded_title" formatted="false">Reklamla sına</string>
+    <string name="rewarded_explain" formatted="false">Bu funksiyanı bir müddətlik açmaq üçün qısa reklama baxın. Pro reklamları aradan qaldırır və hər şeyi açır.</string>
+    <string name="rewarded_estimation" formatted="false">Hesablamanı 24 saat gör</string>
+    <string name="rewarded_export" formatted="false">Bir saat ərzində bir ixrac</string>
+    <string name="rewarded_trips" formatted="false">Bu ay daha 5 səfər</string>
+    <string name="rewarded_watch" formatted="false">Reklama bax</string>
+    <string name="rewarded_unavailable" formatted="false">Hazırda reklam yoxdur. Bir azdan yenidən cəhd edin.</string>
+    <string name="rewarded_granted" formatted="false">Açıldı. Yolunuz açıq olsun!</string>
+    <string name="expenses" formatted="false">Xərclər</string>
+    <string name="add_expense" formatted="false">Yeni xərc</string>
+    <string name="edit_expense" formatted="false">Xərci redaktə et</string>
+    <string name="expense_kind" formatted="false">Növ</string>
+    <string name="kind_toll" formatted="false">Yol ödənişi</string>
+    <string name="kind_parking" formatted="false">Parklanma</string>
+    <string name="kind_fuel" formatted="false">Yanacaq</string>
+    <string name="kind_other" formatted="false">Digər</string>
+    <string name="amount" formatted="false">Məbləğ</string>
+    <string name="place" formatted="false">Yer</string>
+    <string name="litres" formatted="false">Litr</string>
+    <string name="odometer" formatted="false">Spidometr göstəricisi</string>
+    <string name="no_expenses" formatted="false">Xərc yoxdur. Yol ödənişləri və parklanma hesablamaya əlavə edilir.</string>
+    <string name="invalid_amount" formatted="false">0-dan böyük məbləğ daxil edin.</string>
+    <string name="legal_title" formatted="false">Hüquqi məlumat və məxfilik</string>
+    <string name="privacy_text" formatted="false">Bütün məlumatlarınız cihazınızda qalır. Tətbiq hesab tələb etmir və serverə heç nə göndərmir. Kənarla yeganə mübadilə sizin başlatdıqlarınızdır: ixrac, ehtiyat nüsxə və ya alış, bir də Pro versiyasının aradan qaldırdığı pulsuz versiya reklamları.</string>
+    <string name="about" formatted="false">Haqqında</string>
+    <string name="version">Versiya %1$s</string>
+    <string name="error_generic" formatted="false">Xəta baş verdi.</string>
+    <string name="today" formatted="false">Bu gün</string>
+    <string name="yesterday" formatted="false">Dünən</string>
+    <string name="ads_privacy_options" formatted="false">Reklam məxfilik seçimləri</string>
+    <string name="ads_disabled_title" formatted="false">Reklamlar söndürülüb</string>
+    <string name="ads_disabled_text" formatted="false">Sistem bu hesabın gənc istifadəçiyə aid olduğunu bildirir. Buna görə tətbiq reklam göstərmir və razılıq istəmir. Reklam identifikatoru oxunmur, heç bir məlumat toplanmır və göndərilmir.</string>
+    <string name="watch_quick_add" formatted="false">Sürətli səfər</string>
+    <string name="watch_no_favorites" formatted="false">Telefonunuzda sevimli səfərlər əlavə edin.</string>
+    <string name="watch_added" formatted="false">Əlavə edildi</string>
+    <string name="watch_open_phone" formatted="false">Telefon tətbiqini aç</string>
+    <string name="widget_today" formatted="false">Bu gün</string>
+    <string name="widget_month" formatted="false">Bu ay</string>
+    <string name="widget_pro_needed" formatted="false">Vidcet Pro ilə mövcuddur</string>
+</resources>

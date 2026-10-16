@@ -1,0 +1,1 @@
+quilómetros,registo,viagens,km,despesas,impostos,tabela,portagem,estacionamento,veículo,combustível

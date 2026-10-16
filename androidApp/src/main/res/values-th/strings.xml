@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">กิโลเมตร</string>
+    <string name="widget_name" formatted="false">การเดินทาง</string>
+    <string name="widget_description" formatted="false">กิโลเมตรของวันนี้และการเดินทางโปรดของคุณในแตะเดียว</string>
+    <string name="tab_trips" formatted="false">การเดินทาง</string>
+    <string name="tab_estimate" formatted="false">ประมาณการ</string>
+    <string name="tab_more" formatted="false">เพิ่มเติม</string>
+    <string name="this_month" formatted="false">เดือนนี้</string>
+    <string name="this_year" formatted="false">ปีนี้</string>
+    <string name="trips_count">การเดินทาง: %1$d</string>
+    <string name="km_value">%1$s กม.</string>
+    <string name="add_trip" formatted="false">การเดินทางใหม่</string>
+    <string name="free_remaining">การเดินทางฟรีที่เหลือในเดือนนี้: %1$d</string>
+    <string name="free_limit_reached" formatted="false">ครบจำนวนฟรีของเดือนนี้แล้ว</string>
+    <string name="free_quota_reached" formatted="false">เวอร์ชันฟรีบันทึกได้ 5 การเดินทางต่อเดือน อัปเกรดเป็น Pro เพื่อบันทึกได้ไม่จำกัด หรือดูโฆษณาเพื่อรับเพิ่มอีก 5 ครั้ง</string>
+    <string name="go_pro" formatted="false">อัปเกรดเป็น Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">ยังไม่มีการเดินทาง\nแตะ + เพื่อบันทึกครั้งแรก</string>
+    <string name="trip_new" formatted="false">การเดินทางใหม่</string>
+    <string name="trip_edit" formatted="false">แก้ไขการเดินทาง</string>
+    <string name="field_date" formatted="false">วันที่</string>
+    <string name="field_from" formatted="false">ต้นทาง</string>
+    <string name="field_to" formatted="false">ปลายทาง</string>
+    <string name="field_distance" formatted="false">ระยะทางเที่ยวเดียว (กม.)</string>
+    <string name="field_round_trip" formatted="false">ไป-กลับ</string>
+    <string name="field_purpose" formatted="false">วัตถุประสงค์</string>
+    <string name="field_vehicle" formatted="false">ยานพาหนะ</string>
+    <string name="field_note" formatted="false">หมายเหตุ</string>
+    <string name="field_justified" formatted="false">เหตุผลพิเศษ</string>
+    <string name="field_justified_help" formatted="false">ทำเครื่องหมายหากระยะทางบ้าน-ที่ทำงานเกิน 40 กม. ด้วยเหตุผลเฉพาะ หรือมีการเดินทางไป-กลับเพิ่มเติมในวันเดียวกันโดยมีเหตุผลอันสมควร</string>
+    <string name="purpose_commute" formatted="false">ไปทำงาน</string>
+    <string name="purpose_business" formatted="false">ธุรกิจ</string>
+    <string name="purpose_personal" formatted="false">ส่วนตัว</string>
+    <string name="save" formatted="false">บันทึก</string>
+    <string name="cancel" formatted="false">ยกเลิก</string>
+    <string name="delete" formatted="false">ลบ</string>
+    <string name="edit" formatted="false">แก้ไข</string>
+    <string name="ok" formatted="false">ตกลง</string>
+    <string name="close" formatted="false">ปิด</string>
+    <string name="back" formatted="false">กลับ</string>
+    <string name="confirm_delete" formatted="false">ลบอย่างถาวรหรือไม่</string>
+    <string name="invalid_distance" formatted="false">กรอกระยะทางที่มากกว่า 0</string>
+    <string name="favorites" formatted="false">รายการโปรด</string>
+    <string name="save_as_favorite" formatted="false">บันทึกเป็นรายการโปรดด้วย</string>
+    <string name="favorite_label" formatted="false">ชื่อรายการโปรด</string>
+    <string name="no_favorites" formatted="false">บันทึกการเดินทางเป็นรายการโปรดเพื่อบันทึกซ้ำได้ในแตะเดียว</string>
+    <string name="use_favorite" formatted="false">การเดินทางโปรด</string>
+    <string name="swap" formatted="false">สลับ</string>
+    <string name="quick_add_hint" formatted="false">แตะรายการโปรดเพื่อเพิ่มสำหรับวันนี้</string>
+    <string name="added" formatted="false">เพิ่มการเดินทางแล้ว</string>
+    <string name="undo" formatted="false">เลิกทำ</string>
+    <string name="vehicles" formatted="false">ยานพาหนะ</string>
+    <string name="add_vehicle" formatted="false">เพิ่มยานพาหนะ</string>
+    <string name="edit_vehicle" formatted="false">แก้ไขยานพาหนะ</string>
+    <string name="vehicle_name" formatted="false">ชื่อ</string>
+    <string name="vehicle_kind" formatted="false">ประเภท</string>
+    <string name="kind_car" formatted="false">รถยนต์</string>
+    <string name="kind_motorcycle" formatted="false">มอเตอร์ไซค์</string>
+    <string name="kind_moped" formatted="false">โมเพด</string>
+    <string name="fiscal_power" formatted="false">แรงม้าภาษี (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV ขึ้นไป</string>
+    <string name="cv_or_less">%1$d CV ลงมา</string>
+    <string name="cv_range_3_5" formatted="false">3 ถึง 5 CV</string>
+    <string name="electric" formatted="false">ยานพาหนะไฟฟ้า</string>
+    <string name="no_vehicle" formatted="false">ไม่มียานพาหนะ เพิ่มหนึ่งคัน: การประมาณการต้องใช้</string>
+    <string name="default_vehicle" formatted="false">ยานพาหนะเริ่มต้น</string>
+    <string name="vehicle_needed" formatted="false">เพิ่มยานพาหนะก่อนใน เพิ่มเติม &gt; ยานพาหนะ</string>
+    <string name="estimation" formatted="false">ประมาณการค่าใช้จ่ายจริง</string>
+    <string name="income_year">ปีรายได้ %1$d</string>
+    <string name="estimation_locked" formatted="false">การประมาณการค่าใช้จ่ายจริง การส่งออก การนำเข้าประวัติ และการกู้คืนข้อมูลสำรองเป็นส่วนหนึ่งของเวอร์ชัน Pro</string>
+    <string name="disclaimer_short" formatted="false">ประมาณการเพื่อเป็นแนวทางเท่านั้น ไม่รับประกัน</string>
+    <string name="disclaimer_long" formatted="false">การประมาณการนี้เป็นเพียงแนวทางและไม่รับประกัน ไม่ใช่คำแนะนำด้านภาษี และไม่สามารถใช้แทนเอกสารทางการ หน่วยงานสรรพากร หรือผู้เชี่ยวชาญได้ โปรดตรวจสอบกฎที่ใช้กับสถานการณ์ของคุณก่อนยื่นแบบ</string>
+    <string name="commute_km_raw" formatted="false">กม. ไปทำงานที่กรอก</string>
+    <string name="commute_km_retained" formatted="false">กม. ไปทำงานที่นับ</string>
+    <string name="business_km" formatted="false">กม. ธุรกิจ</string>
+    <string name="retained_km" formatted="false">กม. ที่นับ</string>
+    <string name="allowance" formatted="false">ค่าชดเชยระยะทาง</string>
+    <string name="tolls_parking" formatted="false">ค่าทางด่วนและค่าจอดรถ</string>
+    <string name="total" formatted="false">รวมโดยประมาณ</string>
+    <string name="flat_deduction" formatted="false">หักเหมา 10%</string>
+    <string name="real_better" formatted="false">ค่าใช้จ่ายจริงดูคุ้มกว่าการหักเหมา</string>
+    <string name="flat_better" formatted="false">การหักเหมาดูคุ้มกว่าค่าใช้จ่ายจริง</string>
+    <string name="enter_salary" formatted="false">กรอกเงินเดือนสุทธิที่ต้องเสียภาษีต่อปีเพื่อเปรียบเทียบกับการหักเหมา</string>
+    <string name="net_taxable_salary" formatted="false">เงินเดือนสุทธิที่ต้องเสียภาษีต่อปี</string>
+    <string name="per_vehicle" formatted="false">ต่อยานพาหนะ</string>
+    <string name="note_scale_unconfirmed" formatted="false">อัตราของปีนี้ยังไม่ประกาศ: ใช้อัตราล่าสุดที่ทราบแทน</string>
+    <string name="note_cap_applied" formatted="false">เที่ยวไปทำงานหนึ่งเที่ยวหรือมากกว่าถูกจำกัดไว้ที่ 40 กม. เนื่องจากไม่ได้ระบุเหตุผลพิเศษ</string>
+    <string name="note_extra_legs" formatted="false">การเดินทางที่เกินกว่าไป-กลับที่ทำงานวันละหนึ่งครั้งและไม่มีเหตุผลพิเศษถูกตัดออก</string>
+    <string name="note_no_vehicle" formatted="false">การเดินทางที่ไม่มียานพาหนะถูกข้ามไป: เลือกยานพาหนะเริ่มต้น</string>
+    <string name="note_fuel">ค่าน้ำมันที่กรอก (%1$s) ไม่ถูกบวกเพิ่ม: อัตราระยะทางรวมไว้แล้ว</string>
+    <string name="note_no_salary" formatted="false">ไม่ได้กรอกเงินเดือน: ไม่มีการเปรียบเทียบกับการหักเหมา</string>
+    <string name="documents_title" formatted="false">เอกสารที่ควรเก็บไว้</string>
+    <string name="documents_list" formatted="false">ทะเบียนรถ\nสัญญาจ้างงานหรือหนังสือรับรองจากนายจ้าง\nบันทึกวันทำงาน\nใบเสร็จค่าทางด่วนและค่าจอดรถ\nหลักฐานใดๆ ที่สนับสนุนเหตุผลพิเศษ</string>
+    <string name="export" formatted="false">ส่งออก</string>
+    <string name="export_title" formatted="false">ส่งออก</string>
+    <string name="export_pdf" formatted="false">รายงาน PDF</string>
+    <string name="export_xlsx" formatted="false">สมุดงานสเปรดชีต</string>
+    <string name="export_csv" formatted="false">ไฟล์ CSV</string>
+    <string name="export_period" formatted="false">ช่วงเวลา</string>
+    <string name="year" formatted="false">ปี</string>
+    <string name="export_from" formatted="false">ตั้งแต่</string>
+    <string name="export_to" formatted="false">ถึง</string>
+    <string name="export_include_estimation" formatted="false">รวมประมาณการของปี</string>
+    <string name="export_share" formatted="false">ไฟล์จะเปิดในหน้าต่างแชร์: บันทึกหรือส่งต่อได้</string>
+    <string name="export_failed" formatted="false">ส่งออกไม่สำเร็จ</string>
+    <string name="report_title" formatted="false">รายงานระยะทาง</string>
+    <string name="generated_on">สร้างเมื่อ %1$s</string>
+    <string name="yes" formatted="false">ใช่</string>
+    <string name="no" formatted="false">ไม่</string>
+    <string name="import_title" formatted="false">นำเข้าประวัติ</string>
+    <string name="import_help" formatted="false">หากโทรศัพท์ของคุณเก็บประวัติตำแหน่งไว้ คุณสามารถส่งออกเป็นไฟล์ JSON จากแอปที่จัดการประวัตินั้น แล้วเปิดที่นี่ จะอ่านเฉพาะการเดินทางด้วยยานพาหนะเท่านั้น ไฟล์จะไม่ถูกเก็บไว้: บันทึกเพียงวันที่ ระยะทาง และต้นทางกับปลายทางหากทราบ</string>
+    <string name="import_pick" formatted="false">เลือกไฟล์</string>
+    <string name="import_reading" formatted="false">กำลังอ่าน…</string>
+    <string name="import_found">พบการเดินทางด้วยยานพาหนะ: %1$d</string>
+    <string name="import_skipped">การเดินทางอื่นที่ข้ามไป (เดิน จักรยาน ขนส่งสาธารณะ): %1$d</string>
+    <string name="import_default_purpose" formatted="false">วัตถุประสงค์สำหรับการเดินทางที่ไม่ถูกจดจำว่าเป็นการไปทำงาน</string>
+    <string name="import_period">ตั้งแต่ %1$s ถึง %2$s</string>
+    <string name="import_confirm">นำเข้า %1$d การเดินทาง</string>
+    <string name="import_done">นำเข้าการเดินทางแล้ว: %1$d</string>
+    <string name="import_nothing_new" formatted="false">ไม่มีการเดินทางใหม่: นำเข้าไปแล้วก่อนหน้านี้</string>
+    <string name="import_unreadable" formatted="false">ไฟล์นี้ไม่ใช่ประวัติตำแหน่งที่อ่านได้</string>
+    <string name="import_commute_hint" formatted="false">การเดินทางระหว่างบ้านกับที่ทำงานจะถูกจดจำเมื่อไฟล์ระบุไว้ และจะได้วัตถุประสงค์ไปทำงาน</string>
+    <string name="backup_title" formatted="false">สำรองข้อมูล</string>
+    <string name="backup_explain" formatted="false">ข้อมูลของคุณจะออกจากอุปกรณ์เมื่อคุณตัดสินใจเท่านั้น ข้อมูลสำรองคือไฟล์ที่คุณเก็บไว้ที่ไหนก็ได้และกู้คืนบนอุปกรณ์ใดก็ได้</string>
+    <string name="backup_export" formatted="false">ส่งออกข้อมูลสำรอง</string>
+    <string name="backup_restore" formatted="false">กู้คืนข้อมูลสำรอง</string>
+    <string name="backup_restore_help" formatted="false">การกู้คืนจะรวมข้อมูล: สิ่งที่คุณกรอกหลังจากนั้นจะไม่หายไป</string>
+    <string name="backup_restored">กู้คืนข้อมูลสำรองแล้ว: รวม %1$d การเดินทาง</string>
+    <string name="backup_invalid" formatted="false">ไฟล์นี้ไม่ใช่ข้อมูลสำรองจากแอปนี้</string>
+    <string name="cloud_title" formatted="false">สำรองข้อมูลบนคลาวด์</string>
+    <string name="cloud_explain" formatted="false">คัดลอกข้อมูลของคุณไปยังพื้นที่คลาวด์ของอุปกรณ์โดยอัตโนมัติ ไม่ต้องมีบัญชีเพิ่ม อัปเดตหลังทุกการเปลี่ยนแปลง</string>
+    <string name="cloud_now" formatted="false">สำรองข้อมูลตอนนี้</string>
+    <string name="cloud_restore" formatted="false">กู้คืนจากคลาวด์</string>
+    <string name="cloud_last">สำรองข้อมูลบนคลาวด์ล่าสุด: %1$s</string>
+    <string name="cloud_never" formatted="false">ยังไม่มีข้อมูลสำรองบนคลาวด์</string>
+    <string name="cloud_unavailable" formatted="false">อุปกรณ์นี้ไม่รองรับการสำรองข้อมูลบนคลาวด์ ใช้การส่งออกข้อมูลสำรองแทน</string>
+    <string name="cloud_done" formatted="false">สำรองข้อมูลบนคลาวด์เรียบร้อย</string>
+    <string name="cloud_nothing" formatted="false">ไม่มีข้อมูลสำรองบนคลาวด์ให้กู้คืน</string>
+    <string name="cloud_system_restore" formatted="false">ระบบจะกู้คืนข้อมูลสำรองนี้เองเมื่อคุณติดตั้งแอปใหม่หรือตั้งค่าอุปกรณ์เครื่องใหม่</string>
+    <string name="settings" formatted="false">การตั้งค่า</string>
+    <string name="rules_title" formatted="false">กฎการคำนวณ</string>
+    <string name="rule_fr" formatted="false">อัตราระยะทางของฝรั่งเศส</string>
+    <string name="rule_generic" formatted="false">อัตราคงที่ต่อกิโลเมตร</string>
+    <string name="generic_rate" formatted="false">อัตราต่อกิโลเมตร</string>
+    <string name="currency" formatted="false">สกุลเงิน</string>
+    <string name="home_label" formatted="false">ชื่อบ้านของคุณ</string>
+    <string name="work_label" formatted="false">ชื่อที่ทำงานของคุณ</string>
+    <string name="home_work_distance" formatted="false">ระยะทางบ้าน-ที่ทำงาน (เที่ยวเดียว กม.)</string>
+    <string name="places_help" formatted="false">ใช้สำหรับการเดินทางโปรดและการนำเข้าประวัติ</string>
+    <string name="pro_title" formatted="false">เวอร์ชัน Pro</string>
+    <string name="pro_subtitle" formatted="false">ทุกอย่างที่คุณต้องการสำหรับค่าใช้จ่ายจริง และไม่มีโฆษณา</string>
+    <string name="pro_features_title" formatted="false">ฟีเจอร์ที่ปลดล็อก:</string>
+    <string name="pro_feature_unlimited" formatted="false">บันทึกการเดินทางได้ไม่จำกัด</string>
+    <string name="pro_feature_estimation" formatted="false">ประมาณการค่าใช้จ่ายจริงและเปรียบเทียบกับการหักเหมา</string>
+    <string name="pro_feature_export" formatted="false">ส่งออกแบบครบถ้วนและรับรองได้ (PDF สะอาดตา รูปแบบสเปรดชีตพร้อมส่งให้นักบัญชีหรือใช้ยื่นภาษี)</string>
+    <string name="pro_feature_import" formatted="false">นำเข้าประวัติการเดินทางจากโทรศัพท์ของคุณ</string>
+    <string name="pro_feature_expenses" formatted="false">ค่าทางด่วน ค่าจอดรถ และค่าน้ำมันรวมในประมาณการ</string>
+    <string name="pro_feature_cloud" formatted="false">กู้คืนจากไฟล์สำรอง และซิงค์ข้ามอุปกรณ์</string>
+    <string name="pro_feature_widgets" formatted="false">วิดเจ็ตหน้าจอหลัก</string>
+    <string name="pro_feature_watch" formatted="false">แอปบนนาฬิกา</string>
+    <string name="pro_feature_no_ads" formatted="false">ไม่มีโฆษณาเลย</string>
+    <string name="pro_feature_gps" formatted="false">ติดตามด้วย GPS อัตโนมัติ (ตรวจจับการเคลื่อนไหวหรือเชื่อมต่อบลูทูธกับรถ)</string>
+    <string name="pro_feature_scan" formatted="false">สแกนอัจฉริยะ (OCR) ใบเสร็จค่าทางด่วน ค่าจอดรถ และค่าน้ำมันด้วยกล้อง</string>
+    <string name="pro_monthly">%1$s ต่อเดือน</string>
+    <string name="pro_yearly">%1$s ต่อปี</string>
+    <string name="pro_yearly_hint" formatted="false">ฟรีสองเดือนเมื่อเทียบกับรายเดือน</string>
+    <string name="subscribe" formatted="false">สมัครสมาชิก</string>
+    <string name="restore_purchases" formatted="false">กู้คืนการซื้อ</string>
+    <string name="pro_active" formatted="false">เวอร์ชัน Pro ใช้งานอยู่</string>
+    <string name="pro_active_since">สมาชิก: %1$s</string>
+    <string name="pro_unavailable" formatted="false">ไม่สามารถซื้อได้ในแอปเวอร์ชันนี้</string>
+    <string name="pro_legal" formatted="false">สมาชิกแบบต่ออายุอัตโนมัติ เรียกเก็บผ่านบัญชีร้านค้าของคุณ ยกเลิกได้ทุกเมื่อในการตั้งค่าร้านค้า ระบบจะเรียกเก็บค่าบริการรอบถัดไปเว้นแต่จะยกเลิกอย่างน้อย 24 ชั่วโมงก่อนสิ้นสุดรอบ</string>
+    <string name="purchase_pending" formatted="false">กำลังซื้อ…</string>
+    <string name="purchase_failed" formatted="false">การซื้อไม่สำเร็จ</string>
+    <string name="purchase_restored" formatted="false">กู้คืนการซื้อแล้ว</string>
+    <string name="purchase_nothing" formatted="false">ไม่มีอะไรให้กู้คืน</string>
+    <string name="rewarded_title" formatted="false">ลองใช้ด้วยการดูโฆษณา</string>
+    <string name="rewarded_explain" formatted="false">ดูโฆษณาสั้นๆ เพื่อปลดล็อกฟีเจอร์นี้ชั่วคราว Pro จะลบโฆษณาและปลดล็อกทุกอย่าง</string>
+    <string name="rewarded_estimation" formatted="false">ดูประมาณการได้ 24 ชั่วโมง</string>
+    <string name="rewarded_export" formatted="false">ส่งออกหนึ่งครั้งภายในหนึ่งชั่วโมง</string>
+    <string name="rewarded_trips" formatted="false">เพิ่มอีก 5 การเดินทางในเดือนนี้</string>
+    <string name="rewarded_watch" formatted="false">ดูโฆษณา</string>
+    <string name="rewarded_unavailable" formatted="false">ขณะนี้ไม่มีโฆษณา ลองใหม่อีกสักครู่</string>
+    <string name="rewarded_granted" formatted="false">ปลดล็อกแล้ว ขับขี่ปลอดภัย!</string>
+    <string name="expenses" formatted="false">ค่าใช้จ่าย</string>
+    <string name="add_expense" formatted="false">ค่าใช้จ่ายใหม่</string>
+    <string name="edit_expense" formatted="false">แก้ไขค่าใช้จ่าย</string>
+    <string name="expense_kind" formatted="false">ประเภท</string>
+    <string name="kind_toll" formatted="false">ค่าทางด่วน</string>
+    <string name="kind_parking" formatted="false">ค่าจอดรถ</string>
+    <string name="kind_fuel" formatted="false">น้ำมัน</string>
+    <string name="kind_other" formatted="false">อื่นๆ</string>
+    <string name="amount" formatted="false">จำนวนเงิน</string>
+    <string name="place" formatted="false">สถานที่</string>
+    <string name="litres" formatted="false">ลิตร</string>
+    <string name="odometer" formatted="false">เลขไมล์</string>
+    <string name="no_expenses" formatted="false">ไม่มีค่าใช้จ่าย ค่าทางด่วนและค่าจอดรถจะรวมในประมาณการ</string>
+    <string name="invalid_amount" formatted="false">กรอกจำนวนเงินที่มากกว่า 0</string>
+    <string name="legal_title" formatted="false">ข้อกฎหมายและความเป็นส่วนตัว</string>
+    <string name="privacy_text" formatted="false">ข้อมูลทั้งหมดของคุณอยู่บนอุปกรณ์ของคุณ แอปไม่ต้องใช้บัญชีและไม่ส่งอะไรไปยังเซิร์ฟเวอร์ การติดต่อกับภายนอกมีเพียงสิ่งที่คุณสั่งเอง เช่น การส่งออก การสำรองข้อมูล หรือการซื้อ และโฆษณาของเวอร์ชันฟรี ซึ่งเวอร์ชัน Pro จะลบออก</string>
+    <string name="about" formatted="false">เกี่ยวกับ</string>
+    <string name="version">เวอร์ชัน %1$s</string>
+    <string name="error_generic" formatted="false">เกิดข้อผิดพลาด</string>
+    <string name="today" formatted="false">วันนี้</string>
+    <string name="yesterday" formatted="false">เมื่อวาน</string>
+    <string name="ads_privacy_options" formatted="false">ตัวเลือกความเป็นส่วนตัวของโฆษณา</string>
+    <string name="ads_disabled_title" formatted="false">ปิดโฆษณาแล้ว</string>
+    <string name="ads_disabled_text" formatted="false">ระบบระบุว่าบัญชีนี้เป็นของผู้ใช้เยาวชน แอปจึงไม่แสดงโฆษณาและไม่ขอความยินยอมใดๆ ไม่อ่านตัวระบุโฆษณา และไม่เก็บหรือส่งข้อมูลใดๆ</string>
+    <string name="watch_quick_add" formatted="false">การเดินทางด่วน</string>
+    <string name="watch_no_favorites" formatted="false">เพิ่มการเดินทางโปรดบนโทรศัพท์ของคุณ</string>
+    <string name="watch_added" formatted="false">เพิ่มแล้ว</string>
+    <string name="watch_open_phone" formatted="false">เปิดแอปบนโทรศัพท์</string>
+    <string name="widget_today" formatted="false">วันนี้</string>
+    <string name="widget_month" formatted="false">เดือนนี้</string>
+    <string name="widget_pro_needed" formatted="false">วิดเจ็ตใช้ได้กับ Pro</string>
+</resources>

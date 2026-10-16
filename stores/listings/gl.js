@@ -1,0 +1,43 @@
+'use strict';
+module.exports = {
+	title: '{app}: libro de traxectos',
+	subtitle: 'Traxectos, gastos, estimación',
+	short: 'Rexistro de quilometraxe cun toque. Traxectos, peaxes, aparcadoiro, impostos.',
+	full: `{app} leva o teu rexistro de quilometraxe sen complicacións: un toque por traxecto, sen conta, sen nada que configurar. Os teus traxectos quedan no teléfono, e unha copia no espazo na nube do teu dispositivo garante que nunca se perdan.
+
+UN TOQUE POR TRAXECTO
+Garda as túas rutas habituais como favoritas e rexistra un traxecto cun só toque, desde a aplicación, o widget da pantalla de inicio ou o reloxo. Data, orixe, destino, distancia, ida e volta ou só ida, motivo: non fai falta máis nada.
+
+QUE FAI A VERSIÓN GRATUÍTA
+• Ata 5 traxectos ao mes, introducidos a man
+• Rutas favoritas para rexistralas cun toque
+• Vehículos e potencia fiscal
+• Copia de seguranza en ficheiro e na nube: nunca se perde nada
+
+QUE ENGADE PRO
+• Traxectos ilimitados
+• Estimación dos gastos reais co baremo quilométrico oficial, e comparación coa dedución fixa do 10 %
+• Peaxes, aparcadoiro e combustible engadidos á estimación
+• Importación do historial de traxectos que o teu teléfono xa rexistrou
+• Exportación completa e certificada: informe PDF limpo e folla de cálculo lista para o xestor ou a declaración
+• Restauración dunha copia de seguranza e sincronización entre os teus dispositivos
+• Widget da pantalla de inicio e aplicación para o reloxo
+• Sen publicidade, nunca
+
+UNHA ESTIMACIÓN, NON UNHA GARANTÍA
+A estimación de gastos reais é orientativa e non está garantida. Non é asesoramento fiscal e non substitúe os textos oficiais, a administración tributaria nin un profesional. Comproba as normas que se aplican á túa situación antes de declarar.
+
+PRIVADO POR DESEÑO
+Sen conta, sen servidor. A aplicación non envía nada a ningures: os únicos datos que saen do teu teléfono son os que ti mesmo exportas, gardas ou compras. Os xustificantes consérvanse como referencias (data, importe, lugar), nunca como imaxes.
+
+Pro é unha subscrición: {monthly} ao mes ou {yearly} ao ano, cancelable en calquera momento desde a túa conta da tenda.`,
+	keywords: 'quilometraxe,rexistro,traxectos,km,gastos,impostos,baremo,peaxe,aparcadoiro,vehículo,combustible',
+	whatsNew: `Primeira versión de {app}.
+
+• Traxectos cun toque, rutas favoritas
+• Estimación de gastos reais co baremo oficial (Pro)
+• Exportacións PDF e folla de cálculo (Pro)
+• Importación do historial de traxectos (Pro)
+• Copia na nube para todos; widget e aplicación para o reloxo (Pro)
+• 71 idiomas`
+};

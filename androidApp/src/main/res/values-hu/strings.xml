@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilométerek</string>
+    <string name="widget_name" formatted="false">Utak</string>
+    <string name="widget_description" formatted="false">A mai kilométerek és a kedvenc útjai egyetlen koppintással.</string>
+    <string name="tab_trips" formatted="false">Utak</string>
+    <string name="tab_estimate" formatted="false">Becslés</string>
+    <string name="tab_more" formatted="false">Több</string>
+    <string name="this_month" formatted="false">Ebben a hónapban</string>
+    <string name="this_year" formatted="false">Idén</string>
+    <string name="trips_count">Utak: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Új út</string>
+    <string name="free_remaining">Hátralévő ingyenes utak ebben a hónapban: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Az ingyenes keret erre a hónapra betelt</string>
+    <string name="free_quota_reached" formatted="false">Az ingyenes verzió havi 5 utat enged. Váltson Próra a korlátlan utakért, vagy nézzen meg egy hirdetést 5 további útért.</string>
+    <string name="go_pro" formatted="false">Váltás Próra</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Még nincs rögzített út.\nKoppintson a + gombra az első rögzítéséhez.</string>
+    <string name="trip_new" formatted="false">Új út</string>
+    <string name="trip_edit" formatted="false">Út szerkesztése</string>
+    <string name="field_date" formatted="false">Dátum</string>
+    <string name="field_from" formatted="false">Honnan</string>
+    <string name="field_to" formatted="false">Hová</string>
+    <string name="field_distance" formatted="false">Távolság egy irányban (km)</string>
+    <string name="field_round_trip" formatted="false">Oda-vissza</string>
+    <string name="field_purpose" formatted="false">Cél</string>
+    <string name="field_vehicle" formatted="false">Jármű</string>
+    <string name="field_note" formatted="false">Megjegyzés</string>
+    <string name="field_justified" formatted="false">Különleges körülmény</string>
+    <string name="field_justified_help" formatted="false">Jelölje be, ha az otthon és a munkahely közötti távolság konkrét okból meghaladja a 40 km-t, vagy ha aznap indokoltan tett egy további oda-vissza utat.</string>
+    <string name="purpose_commute" formatted="false">Munkába járás</string>
+    <string name="purpose_business" formatted="false">Üzleti</string>
+    <string name="purpose_personal" formatted="false">Magán</string>
+    <string name="save" formatted="false">Mentés</string>
+    <string name="cancel" formatted="false">Mégse</string>
+    <string name="delete" formatted="false">Törlés</string>
+    <string name="edit" formatted="false">Szerkesztés</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Bezárás</string>
+    <string name="back" formatted="false">Vissza</string>
+    <string name="confirm_delete" formatted="false">Végleg törli?</string>
+    <string name="invalid_distance" formatted="false">Adjon meg 0-nál nagyobb távolságot.</string>
+    <string name="favorites" formatted="false">Kedvencek</string>
+    <string name="save_as_favorite" formatted="false">Mentés kedvencként is</string>
+    <string name="favorite_label" formatted="false">A kedvenc neve</string>
+    <string name="no_favorites" formatted="false">Mentsen el egy utat kedvencként, és egyetlen koppintással rögzítheti.</string>
+    <string name="use_favorite" formatted="false">Kedvenc utak</string>
+    <string name="swap" formatted="false">Felcserélés</string>
+    <string name="quick_add_hint" formatted="false">Koppintson egy kedvencre, hogy a mai napra rögzítse.</string>
+    <string name="added" formatted="false">Út rögzítve.</string>
+    <string name="undo" formatted="false">Visszavonás</string>
+    <string name="vehicles" formatted="false">Járművek</string>
+    <string name="add_vehicle" formatted="false">Jármű hozzáadása</string>
+    <string name="edit_vehicle" formatted="false">Jármű szerkesztése</string>
+    <string name="vehicle_name" formatted="false">Név</string>
+    <string name="vehicle_kind" formatted="false">Típus</string>
+    <string name="kind_car" formatted="false">Autó</string>
+    <string name="kind_motorcycle" formatted="false">Motorkerékpár</string>
+    <string name="kind_moped" formatted="false">Segédmotor</string>
+    <string name="fiscal_power" formatted="false">Adóteljesítmény (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV és felette</string>
+    <string name="cv_or_less">%1$d CV és alatta</string>
+    <string name="cv_range_3_5" formatted="false">3–5 CV</string>
+    <string name="electric" formatted="false">Elektromos jármű</string>
+    <string name="no_vehicle" formatted="false">Nincs jármű. Adjon hozzá egyet: a becsléshez szükséges.</string>
+    <string name="default_vehicle" formatted="false">Alapértelmezett jármű</string>
+    <string name="vehicle_needed" formatted="false">Előbb adjon hozzá egy járművet a Több &gt; Járművek menüben.</string>
+    <string name="estimation" formatted="false">Tényleges költségek becslése</string>
+    <string name="income_year">Jövedelmi év: %1$d</string>
+    <string name="estimation_locked" formatted="false">A tényleges költségek becslése, az exportálás, az előzmények importálása és a mentés visszaállítása a Pro verzió része.</string>
+    <string name="disclaimer_short" formatted="false">Tájékoztató becslés, nem garantált.</string>
+    <string name="disclaimer_long" formatted="false">Ez a becslés tájékoztató jellegű és nem garantált. Nem minősül adótanácsadásnak, és nem helyettesíti a hivatalos jogszabályokat, az adóhatóságot vagy egy szakembert. Bevallás előtt ellenőrizze a helyzetére vonatkozó szabályokat.</string>
+    <string name="commute_km_raw" formatted="false">Megadott munkába járási km</string>
+    <string name="commute_km_retained" formatted="false">Figyelembe vett munkába járási km</string>
+    <string name="business_km" formatted="false">Üzleti km</string>
+    <string name="retained_km" formatted="false">Figyelembe vett km</string>
+    <string name="allowance" formatted="false">Kilométertérítés</string>
+    <string name="tolls_parking" formatted="false">Útdíjak és parkolás</string>
+    <string name="total" formatted="false">Becsült összeg</string>
+    <string name="flat_deduction" formatted="false">10%-os átalánylevonás</string>
+    <string name="real_better" formatted="false">A tényleges költségek kedvezőbbnek tűnnek az átalánylevonásnál.</string>
+    <string name="flat_better" formatted="false">Az átalánylevonás kedvezőbbnek tűnik a tényleges költségeknél.</string>
+    <string name="enter_salary" formatted="false">Adja meg az éves nettó adóköteles bérét az átalánylevonással való összehasonlításhoz.</string>
+    <string name="net_taxable_salary" formatted="false">Éves nettó adóköteles bér</string>
+    <string name="per_vehicle" formatted="false">Járművenként</string>
+    <string name="note_scale_unconfirmed" formatted="false">Az idei díjtáblázat még nem jelent meg: a legutóbbi ismert táblázatot alkalmazzuk.</string>
+    <string name="note_cap_applied" formatted="false">Egy vagy több munkába járási utat 40 km-re korlátoztunk, mert nem jelölt meg különleges körülményt.</string>
+    <string name="note_extra_legs" formatted="false">Napi egy munkába járási oda-vissza úton felül a különleges körülmény nélküli utakat kihagytuk.</string>
+    <string name="note_no_vehicle" formatted="false">A jármű nélküli utakat figyelmen kívül hagytuk: válasszon alapértelmezett járművet.</string>
+    <string name="note_fuel">A megadott üzemanyagot (%1$s) nem adjuk hozzá: a kilométerdíj már tartalmazza.</string>
+    <string name="note_no_salary" formatted="false">Nincs megadva bér: nincs összehasonlítás az átalánylevonással.</string>
+    <string name="documents_title" formatted="false">Megőrzendő dokumentumok</string>
+    <string name="documents_list" formatted="false">A jármű forgalmi engedélye\nMunkaszerződés vagy munkáltatói igazolás\nA ledolgozott napok kimutatása\nÚtdíj- és parkolási nyugták\nMinden, ami a különleges körülményt igazolja</string>
+    <string name="export" formatted="false">Exportálás</string>
+    <string name="export_title" formatted="false">Exportálás</string>
+    <string name="export_pdf" formatted="false">PDF-jelentés</string>
+    <string name="export_xlsx" formatted="false">Táblázatfájl</string>
+    <string name="export_csv" formatted="false">CSV-fájl</string>
+    <string name="export_period" formatted="false">Időszak</string>
+    <string name="year" formatted="false">Év</string>
+    <string name="export_from" formatted="false">Ettől</string>
+    <string name="export_to" formatted="false">Eddig</string>
+    <string name="export_include_estimation" formatted="false">Az év becslésének csatolása</string>
+    <string name="export_share" formatted="false">A fájl a megosztási panelen nyílik meg: mentse el vagy küldje el.</string>
+    <string name="export_failed" formatted="false">Az exportálás nem sikerült.</string>
+    <string name="report_title" formatted="false">Kilométer-jelentés</string>
+    <string name="generated_on">Készült: %1$s</string>
+    <string name="yes" formatted="false">igen</string>
+    <string name="no" formatted="false">nem</string>
+    <string name="import_title" formatted="false">Előzmények importálása</string>
+    <string name="import_help" formatted="false">Ha a telefonja tárolja a helyelőzményeit, az azokat kezelő alkalmazásból JSON-fájlként exportálhatja, majd itt megnyithatja. Csak a járművel megtett utakat olvassuk be. A fájlt nem őrizzük meg: csak a dátumot, a távolságot és, ha ismert, az indulási és érkezési helyet tároljuk.</string>
+    <string name="import_pick" formatted="false">Fájl kiválasztása</string>
+    <string name="import_reading" formatted="false">Beolvasás…</string>
+    <string name="import_found">Talált járműves utak: %1$d</string>
+    <string name="import_skipped">Egyéb, kihagyott utak (gyalog, kerékpár, tömegközlekedés): %1$d</string>
+    <string name="import_default_purpose" formatted="false">A munkába járásként fel nem ismert utak célja</string>
+    <string name="import_period">%1$s – %2$s</string>
+    <string name="import_confirm">%1$d út importálása</string>
+    <string name="import_done">Importált utak: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Nincs új út: ezeket már korábban importálta.</string>
+    <string name="import_unreadable" formatted="false">Ez a fájl nem olvasható helyelőzmény.</string>
+    <string name="import_commute_hint" formatted="false">Az otthona és a munkahelye közötti utakat akkor ismerjük fel, ha a fájl így jelöli őket; ezek a munkába járás célt kapják.</string>
+    <string name="backup_title" formatted="false">Biztonsági mentés</string>
+    <string name="backup_explain" formatted="false">Az adatai csak akkor hagyják el a készüléket, ha Ön úgy dönt. A biztonsági mentés egy fájl, amelyet bárhol tárolhat, és bármely készüléken visszaállíthat.</string>
+    <string name="backup_export" formatted="false">Mentés exportálása</string>
+    <string name="backup_restore" formatted="false">Mentés visszaállítása</string>
+    <string name="backup_restore_help" formatted="false">A visszaállítás egyesít: semmi sem vész el, amit azóta rögzített.</string>
+    <string name="backup_restored">Mentés visszaállítva: összesen %1$d út.</string>
+    <string name="backup_invalid" formatted="false">Ez a fájl nem ennek az alkalmazásnak a mentése.</string>
+    <string name="cloud_title" formatted="false">Felhőmentés</string>
+    <string name="cloud_explain" formatted="false">Az adatai automatikus másolata a készüléke felhőtárhelyén, külön fiók nélkül. Minden módosítás után frissül.</string>
+    <string name="cloud_now" formatted="false">Mentés most</string>
+    <string name="cloud_restore" formatted="false">Visszaállítás a felhőből</string>
+    <string name="cloud_last">Utolsó felhőmentés: %1$s</string>
+    <string name="cloud_never" formatted="false">Még nincs felhőmentés.</string>
+    <string name="cloud_unavailable" formatted="false">A felhőmentés ezen a készüléken nem érhető el. Használja a mentés exportálását.</string>
+    <string name="cloud_done" formatted="false">Felhőmentés kész.</string>
+    <string name="cloud_nothing" formatted="false">Nincs visszaállítható felhőmentés.</string>
+    <string name="cloud_system_restore" formatted="false">A rendszer magától visszaállítja ezt a mentést az alkalmazás újratelepítésekor vagy új készülék beállításakor.</string>
+    <string name="settings" formatted="false">Beállítások</string>
+    <string name="rules_title" formatted="false">Számítási szabályok</string>
+    <string name="rule_fr" formatted="false">Francia kilométerdíj-táblázat</string>
+    <string name="rule_generic" formatted="false">Fix kilométerdíj</string>
+    <string name="generic_rate" formatted="false">Díj kilométerenként</string>
+    <string name="currency" formatted="false">Pénznem</string>
+    <string name="home_label" formatted="false">Az otthona neve</string>
+    <string name="work_label" formatted="false">A munkahelye neve</string>
+    <string name="home_work_distance" formatted="false">Otthon–munkahely távolság (egy irányban, km)</string>
+    <string name="places_help" formatted="false">A kedvenc utakhoz és az előzmények importálásához használjuk.</string>
+    <string name="pro_title" formatted="false">Pro verzió</string>
+    <string name="pro_subtitle" formatted="false">Minden, ami a tényleges költségekhez kell, hirdetések nélkül.</string>
+    <string name="pro_features_title" formatted="false">Feloldott funkciók:</string>
+    <string name="pro_feature_unlimited" formatted="false">Korlátlan számú út.</string>
+    <string name="pro_feature_estimation" formatted="false">Tényleges költségek becslése és összehasonlítás az átalánylevonással.</string>
+    <string name="pro_feature_export" formatted="false">Teljes, hitelesített exportálás (tiszta PDF, táblázatos formátum a könyvelőnek vagy az adóbevalláshoz).</string>
+    <string name="pro_feature_import" formatted="false">A telefonja útelőzményeinek importálása.</string>
+    <string name="pro_feature_expenses" formatted="false">Útdíjak, parkolás és üzemanyag hozzáadva a becsléshez.</string>
+    <string name="pro_feature_cloud" formatted="false">Visszaállítás mentésfájlból és szinkronizálás több készülék között.</string>
+    <string name="pro_feature_widgets" formatted="false">Kezdőképernyő-widget.</string>
+    <string name="pro_feature_watch" formatted="false">Óraalkalmazás.</string>
+    <string name="pro_feature_no_ads" formatted="false">Semmilyen hirdetés.</string>
+    <string name="pro_feature_gps" formatted="false">Automatikus GPS-követés (mozgásérzékelés vagy Bluetooth-kapcsolat az autóval).</string>
+    <string name="pro_feature_scan" formatted="false">Útdíj-, parkolási és üzemanyag-nyugták okos beolvasása (OCR) a kamerával.</string>
+    <string name="pro_monthly">%1$s havonta</string>
+    <string name="pro_yearly">%1$s évente</string>
+    <string name="pro_yearly_hint" formatted="false">Két hónap ingyen a havi előfizetéshez képest</string>
+    <string name="subscribe" formatted="false">Előfizetés</string>
+    <string name="restore_purchases" formatted="false">Vásárlások visszaállítása</string>
+    <string name="pro_active" formatted="false">A Pro verzió aktív</string>
+    <string name="pro_active_since">Előfizetés: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Az alkalmazás ezen verziójában nem érhető el vásárlás.</string>
+    <string name="pro_legal" formatted="false">Automatikusan megújuló előfizetés, amelyet az áruházi fiókjára terhelünk. Bármikor lemondható az áruház beállításaiban; a következő időszak díját levonjuk, hacsak legalább 24 órával a lejárat előtt le nem mondja.</string>
+    <string name="purchase_pending" formatted="false">Vásárlás folyamatban…</string>
+    <string name="purchase_failed" formatted="false">A vásárlás nem fejeződött be.</string>
+    <string name="purchase_restored" formatted="false">Vásárlások visszaállítva.</string>
+    <string name="purchase_nothing" formatted="false">Nincs mit visszaállítani.</string>
+    <string name="rewarded_title" formatted="false">Kipróbálás egy hirdetéssel</string>
+    <string name="rewarded_explain" formatted="false">Nézzen meg egy rövid hirdetést, és egy időre feloldjuk ezt a funkciót. A Pro eltávolítja a hirdetéseket és mindent felold.</string>
+    <string name="rewarded_estimation" formatted="false">A becslés megtekintése 24 órán át</string>
+    <string name="rewarded_export" formatted="false">Egy exportálás egy órán belül</string>
+    <string name="rewarded_trips" formatted="false">5 további út ebben a hónapban</string>
+    <string name="rewarded_watch" formatted="false">Hirdetés megtekintése</string>
+    <string name="rewarded_unavailable" formatted="false">Jelenleg nincs elérhető hirdetés. Próbálja újra kicsit később.</string>
+    <string name="rewarded_granted" formatted="false">Feloldva. Jó utat!</string>
+    <string name="expenses" formatted="false">Kiadások</string>
+    <string name="add_expense" formatted="false">Új kiadás</string>
+    <string name="edit_expense" formatted="false">Kiadás szerkesztése</string>
+    <string name="expense_kind" formatted="false">Típus</string>
+    <string name="kind_toll" formatted="false">Útdíj</string>
+    <string name="kind_parking" formatted="false">Parkolás</string>
+    <string name="kind_fuel" formatted="false">Üzemanyag</string>
+    <string name="kind_other" formatted="false">Egyéb</string>
+    <string name="amount" formatted="false">Összeg</string>
+    <string name="place" formatted="false">Hely</string>
+    <string name="litres" formatted="false">Liter</string>
+    <string name="odometer" formatted="false">Kilométeróra-állás</string>
+    <string name="no_expenses" formatted="false">Nincs kiadás. Az útdíjakat és a parkolást hozzáadjuk a becsléshez.</string>
+    <string name="invalid_amount" formatted="false">Adjon meg 0-nál nagyobb összeget.</string>
+    <string name="legal_title" formatted="false">Jogi tudnivalók és adatvédelem</string>
+    <string name="privacy_text" formatted="false">Minden adata a készülékén marad. Az alkalmazás nem kér fiókot, és semmit sem küld szerverre. A külvilággal csak az Ön által indított műveletek kommunikálnak, az exportálás, a mentés vagy a vásárlás, valamint az ingyenes verzió hirdetései, amelyeket a Pro verzió eltávolít.</string>
+    <string name="about" formatted="false">Névjegy</string>
+    <string name="version">Verzió: %1$s</string>
+    <string name="error_generic" formatted="false">Hiba történt.</string>
+    <string name="today" formatted="false">Ma</string>
+    <string name="yesterday" formatted="false">Tegnap</string>
+    <string name="ads_privacy_options" formatted="false">Hirdetési adatvédelmi beállítások</string>
+    <string name="ads_disabled_title" formatted="false">A hirdetések ki vannak kapcsolva</string>
+    <string name="ads_disabled_text" formatted="false">A rendszer jelzése szerint ez a fiók fiatal felhasználóé. Az alkalmazás ezért nem jelenít meg hirdetést, és nem kér hozzájárulást. Nem olvas ki hirdetési azonosítót, és nem gyűjt vagy küld semmilyen adatot.</string>
+    <string name="watch_quick_add" formatted="false">Gyors út</string>
+    <string name="watch_no_favorites" formatted="false">Adjon hozzá kedvenc utakat a telefonján.</string>
+    <string name="watch_added" formatted="false">Rögzítve</string>
+    <string name="watch_open_phone" formatted="false">Telefonos alkalmazás megnyitása</string>
+    <string name="widget_today" formatted="false">Ma</string>
+    <string name="widget_month" formatted="false">Ebben a hónapban</string>
+    <string name="widget_pro_needed" formatted="false">A widget a Pro verzióval érhető el</string>
+</resources>

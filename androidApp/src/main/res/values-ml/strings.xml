@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">കിലോമീറ്റർ</string>
+    <string name="widget_name" formatted="false">യാത്രകൾ</string>
+    <string name="widget_description" formatted="false">ഇന്നത്തെ കിലോമീറ്ററും നിങ്ങളുടെ പ്രിയ യാത്രകളും, ഒറ്റ ടാപ്പിൽ.</string>
+    <string name="tab_trips" formatted="false">യാത്രകൾ</string>
+    <string name="tab_estimate" formatted="false">എസ്റ്റിമേറ്റ്</string>
+    <string name="tab_more" formatted="false">കൂടുതൽ</string>
+    <string name="this_month" formatted="false">ഈ മാസം</string>
+    <string name="this_year" formatted="false">ഈ വർഷം</string>
+    <string name="trips_count">യാത്രകൾ: %1$d</string>
+    <string name="km_value">%1$s കി.മീ</string>
+    <string name="add_trip" formatted="false">പുതിയ യാത്ര</string>
+    <string name="free_remaining">ഈ മാസം ബാക്കിയുള്ള സൗജന്യ യാത്രകൾ: %1$d</string>
+    <string name="free_limit_reached" formatted="false">ഈ മാസത്തെ സൗജന്യ പരിധി കഴിഞ്ഞു</string>
+    <string name="free_quota_reached" formatted="false">സൗജന്യ പതിപ്പിൽ മാസം 5 യാത്രകൾ രേഖപ്പെടുത്താം. പരിധിയില്ലാത്ത യാത്രകൾക്ക് Pro എടുക്കുക, അല്ലെങ്കിൽ 5 യാത്രകൾ കൂടി ലഭിക്കാൻ ഒരു പരസ്യം കാണുക.</string>
+    <string name="go_pro" formatted="false">Pro എടുക്കുക</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">ഇതുവരെ യാത്രകളില്ല.\nആദ്യത്തേത് രേഖപ്പെടുത്താൻ + ടാപ്പ് ചെയ്യുക.</string>
+    <string name="trip_new" formatted="false">പുതിയ യാത്ര</string>
+    <string name="trip_edit" formatted="false">യാത്ര തിരുത്തുക</string>
+    <string name="field_date" formatted="false">തീയതി</string>
+    <string name="field_from" formatted="false">എവിടെ നിന്ന്</string>
+    <string name="field_to" formatted="false">എവിടേക്ക്</string>
+    <string name="field_distance" formatted="false">ഒരു വശത്തേക്കുള്ള ദൂരം (കി.മീ)</string>
+    <string name="field_round_trip" formatted="false">പോയി വരവ്</string>
+    <string name="field_purpose" formatted="false">ഉദ്ദേശ്യം</string>
+    <string name="field_vehicle" formatted="false">വാഹനം</string>
+    <string name="field_note" formatted="false">കുറിപ്പ്</string>
+    <string name="field_justified" formatted="false">പ്രത്യേക സാഹചര്യങ്ങൾ</string>
+    <string name="field_justified_help" formatted="false">പ്രത്യേക കാരണത്താൽ വീട്ടിൽ നിന്ന് ജോലിസ്ഥലത്തേക്കുള്ള ദൂരം 40 കി.മീ കവിയുന്നെങ്കിലോ, അതേ ദിവസം ന്യായമായ ഒരു അധിക പോയി വരവിനോ ഇത് തിരഞ്ഞെടുക്കുക.</string>
+    <string name="purpose_commute" formatted="false">വീട്-ജോലി</string>
+    <string name="purpose_business" formatted="false">ബിസിനസ്</string>
+    <string name="purpose_personal" formatted="false">വ്യക്തിപരം</string>
+    <string name="save" formatted="false">സേവ് ചെയ്യുക</string>
+    <string name="cancel" formatted="false">റദ്ദാക്കുക</string>
+    <string name="delete" formatted="false">ഇല്ലാതാക്കുക</string>
+    <string name="edit" formatted="false">തിരുത്തുക</string>
+    <string name="ok" formatted="false">ശരി</string>
+    <string name="close" formatted="false">അടയ്ക്കുക</string>
+    <string name="back" formatted="false">പിന്നോട്ട്</string>
+    <string name="confirm_delete" formatted="false">എന്നെന്നേക്കുമായി ഇല്ലാതാക്കണോ?</string>
+    <string name="invalid_distance" formatted="false">0-ൽ കൂടുതലുള്ള ദൂരം നൽകുക.</string>
+    <string name="favorites" formatted="false">പ്രിയപ്പെട്ടവ</string>
+    <string name="save_as_favorite" formatted="false">പ്രിയപ്പെട്ടതായും സേവ് ചെയ്യുക</string>
+    <string name="favorite_label" formatted="false">പ്രിയപ്പെട്ടതിന്റെ പേര്</string>
+    <string name="no_favorites" formatted="false">ഒറ്റ ടാപ്പിൽ രേഖപ്പെടുത്താൻ ഒരു യാത്ര പ്രിയപ്പെട്ടതായി സേവ് ചെയ്യുക.</string>
+    <string name="use_favorite" formatted="false">പ്രിയ യാത്രകൾ</string>
+    <string name="swap" formatted="false">പരസ്പരം മാറ്റുക</string>
+    <string name="quick_add_hint" formatted="false">ഇന്നത്തേക്ക് ചേർക്കാൻ ഒരു പ്രിയപ്പെട്ടതിൽ ടാപ്പ് ചെയ്യുക.</string>
+    <string name="added" formatted="false">യാത്ര ചേർത്തു.</string>
+    <string name="undo" formatted="false">പഴയപടിയാക്കുക</string>
+    <string name="vehicles" formatted="false">വാഹനങ്ങൾ</string>
+    <string name="add_vehicle" formatted="false">വാഹനം ചേർക്കുക</string>
+    <string name="edit_vehicle" formatted="false">വാഹനം തിരുത്തുക</string>
+    <string name="vehicle_name" formatted="false">പേര്</string>
+    <string name="vehicle_kind" formatted="false">തരം</string>
+    <string name="kind_car" formatted="false">കാർ</string>
+    <string name="kind_motorcycle" formatted="false">മോട്ടോർസൈക്കിൾ</string>
+    <string name="kind_moped" formatted="false">മോപ്പഡ്</string>
+    <string name="fiscal_power" formatted="false">നികുതി കുതിരശക്തി (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV-യോ അതിലധികമോ</string>
+    <string name="cv_or_less">%1$d CV-യോ അതിൽ കുറവോ</string>
+    <string name="cv_range_3_5" formatted="false">3 മുതൽ 5 CV വരെ</string>
+    <string name="electric" formatted="false">ഇലക്ട്രിക് വാഹനം</string>
+    <string name="no_vehicle" formatted="false">വാഹനമില്ല. ഒന്ന് ചേർക്കുക: എസ്റ്റിമേറ്റിന് അത് ആവശ്യമാണ്.</string>
+    <string name="default_vehicle" formatted="false">ഡിഫോൾട്ട് വാഹനം</string>
+    <string name="vehicle_needed" formatted="false">ആദ്യം കൂടുതൽ &gt; വാഹനങ്ങൾ എന്നതിൽ ഒരു വാഹനം ചേർക്കുക.</string>
+    <string name="estimation" formatted="false">യഥാർത്ഥ ചെലവുകളുടെ എസ്റ്റിമേറ്റ്</string>
+    <string name="income_year">വരുമാന വർഷം %1$d</string>
+    <string name="estimation_locked" formatted="false">യഥാർത്ഥ ചെലവുകളുടെ എസ്റ്റിമേറ്റ്, എക്സ്പോർട്ടുകൾ, ഹിസ്റ്ററി ഇംപോർട്ട്, ബാക്കപ്പ് പുനഃസ്ഥാപനം എന്നിവ Pro പതിപ്പിന്റെ ഭാഗമാണ്.</string>
+    <string name="disclaimer_short" formatted="false">സൂചനാപരമായ എസ്റ്റിമേറ്റ്, ഉറപ്പില്ല.</string>
+    <string name="disclaimer_long" formatted="false">ഈ എസ്റ്റിമേറ്റ് സൂചനാപരം മാത്രമാണ്, ഉറപ്പുള്ളതല്ല. ഇത് നികുതി ഉപദേശമല്ല; ഔദ്യോഗിക രേഖകൾക്കോ നികുതി വകുപ്പിനോ ഒരു വിദഗ്ധനോ പകരമാകുന്നില്ല. റിട്ടേൺ സമർപ്പിക്കും മുമ്പ് നിങ്ങളുടെ സാഹചര്യത്തിന് ബാധകമായ നിയമങ്ങൾ പരിശോധിക്കുക.</string>
+    <string name="commute_km_raw" formatted="false">നൽകിയ വീട്-ജോലി കി.മീ</string>
+    <string name="commute_km_retained" formatted="false">പരിഗണിച്ച വീട്-ജോലി കി.മീ</string>
+    <string name="business_km" formatted="false">ബിസിനസ് കി.മീ</string>
+    <string name="retained_km" formatted="false">പരിഗണിച്ച കി.മീ</string>
+    <string name="allowance" formatted="false">കിലോമീറ്റർ അലവൻസ്</string>
+    <string name="tolls_parking" formatted="false">ടോളും പാർക്കിംഗും</string>
+    <string name="total" formatted="false">കണക്കാക്കിയ ആകെ</string>
+    <string name="flat_deduction" formatted="false">സ്റ്റാൻഡേർഡ് 10% കിഴിവ്</string>
+    <string name="real_better" formatted="false">സ്റ്റാൻഡേർഡ് കിഴിവിനേക്കാൾ യഥാർത്ഥ ചെലവുകൾ കൂടുതൽ അനുകൂലമായി തോന്നുന്നു.</string>
+    <string name="flat_better" formatted="false">യഥാർത്ഥ ചെലവുകളേക്കാൾ സ്റ്റാൻഡേർഡ് കിഴിവ് കൂടുതൽ അനുകൂലമായി തോന്നുന്നു.</string>
+    <string name="enter_salary" formatted="false">സ്റ്റാൻഡേർഡ് കിഴിവുമായി താരതമ്യം ചെയ്യാൻ നിങ്ങളുടെ വാർഷിക അറ്റ നികുതിവിധേയ ശമ്പളം നൽകുക.</string>
+    <string name="net_taxable_salary" formatted="false">വാർഷിക അറ്റ നികുതിവിധേയ ശമ്പളം</string>
+    <string name="per_vehicle" formatted="false">ഓരോ വാഹനത്തിനും</string>
+    <string name="note_scale_unconfirmed" formatted="false">ഈ വർഷത്തെ നിരക്ക് പട്ടിക ഇതുവരെ പ്രസിദ്ധീകരിച്ചിട്ടില്ല: അവസാനം അറിയാവുന്ന പട്ടിക പ്രയോഗിച്ചിരിക്കുന്നു.</string>
+    <string name="note_cap_applied" formatted="false">പ്രത്യേക സാഹചര്യങ്ങൾ പ്രഖ്യാപിക്കാത്തതിനാൽ ഒന്നോ അതിലധികമോ വീട്-ജോലി യാത്രകൾ 40 കി.മീ ആയി പരിമിതപ്പെടുത്തി.</string>
+    <string name="note_extra_legs" formatted="false">ദിവസം ഒരു വീട്-ജോലി പോയി വരവിന് അപ്പുറം, പ്രത്യേക സാഹചര്യങ്ങളില്ലാത്ത യാത്രകൾ ഒഴിവാക്കി.</string>
+    <string name="note_no_vehicle" formatted="false">വാഹനമില്ലാത്ത യാത്രകൾ അവഗണിച്ചു: ഒരു ഡിഫോൾട്ട് വാഹനം തിരഞ്ഞെടുക്കുക.</string>
+    <string name="note_fuel">നൽകിയ ഇന്ധനം (%1$s) ചേർത്തിട്ടില്ല: കിലോമീറ്റർ നിരക്ക് പട്ടികയിൽ അത് ഇതിനകം ഉൾപ്പെട്ടിട്ടുണ്ട്.</string>
+    <string name="note_no_salary" formatted="false">ശമ്പളം നൽകിയിട്ടില്ല: സ്റ്റാൻഡേർഡ് കിഴിവുമായി താരതമ്യമില്ല.</string>
+    <string name="documents_title" formatted="false">സൂക്ഷിക്കേണ്ട രേഖകൾ</string>
+    <string name="documents_list" formatted="false">വാഹന രജിസ്ട്രേഷൻ രേഖ\nതൊഴിൽ കരാർ അല്ലെങ്കിൽ തൊഴിലുടമയുടെ സാക്ഷ്യപത്രം\nജോലി ചെയ്ത ദിവസങ്ങളുടെ രേഖ\nടോൾ, പാർക്കിംഗ് രസീതുകൾ\nപ്രത്യേക സാഹചര്യങ്ങൾ തെളിയിക്കുന്ന എന്തും</string>
+    <string name="export" formatted="false">എക്സ്പോർട്ട്</string>
+    <string name="export_title" formatted="false">എക്സ്പോർട്ട്</string>
+    <string name="export_pdf" formatted="false">PDF റിപ്പോർട്ട്</string>
+    <string name="export_xlsx" formatted="false">സ്പ്രെഡ്ഷീറ്റ് വർക്ക്ബുക്ക്</string>
+    <string name="export_csv" formatted="false">CSV ഫയൽ</string>
+    <string name="export_period" formatted="false">കാലയളവ്</string>
+    <string name="year" formatted="false">വർഷം</string>
+    <string name="export_from" formatted="false">മുതൽ</string>
+    <string name="export_to" formatted="false">വരെ</string>
+    <string name="export_include_estimation" formatted="false">വർഷത്തെ എസ്റ്റിമേറ്റ് ഉൾപ്പെടുത്തുക</string>
+    <string name="export_share" formatted="false">ഫയൽ ഷെയർ ഷീറ്റിൽ തുറക്കും: അത് സേവ് ചെയ്യുകയോ അയയ്ക്കുകയോ ചെയ്യുക.</string>
+    <string name="export_failed" formatted="false">എക്സ്പോർട്ട് പരാജയപ്പെട്ടു.</string>
+    <string name="report_title" formatted="false">കിലോമീറ്റർ റിപ്പോർട്ട്</string>
+    <string name="generated_on">%1$s-ന് തയ്യാറാക്കിയത്</string>
+    <string name="yes" formatted="false">അതെ</string>
+    <string name="no" formatted="false">അല്ല</string>
+    <string name="import_title" formatted="false">ഹിസ്റ്ററി ഇംപോർട്ട് ചെയ്യുക</string>
+    <string name="import_help" formatted="false">നിങ്ങളുടെ ഫോൺ നിങ്ങളുടെ ലൊക്കേഷനുകളുടെ ഹിസ്റ്ററി സൂക്ഷിക്കുന്നുണ്ടെങ്കിൽ, അത് കൈകാര്യം ചെയ്യുന്ന ആപ്പിൽ നിന്ന് JSON ഫയലായി എക്സ്പോർട്ട് ചെയ്ത് ഇവിടെ തുറക്കാം. വാഹന യാത്രകൾ മാത്രമേ വായിക്കൂ. ഫയൽ സൂക്ഷിക്കില്ല: തീയതി, ദൂരം, അറിയാമെങ്കിൽ പുറപ്പെടൽ സ്ഥലവും ലക്ഷ്യസ്ഥാനവും മാത്രം സേവ് ചെയ്യും.</string>
+    <string name="import_pick" formatted="false">ഫയൽ തിരഞ്ഞെടുക്കുക</string>
+    <string name="import_reading" formatted="false">വായിക്കുന്നു…</string>
+    <string name="import_found">കണ്ടെത്തിയ വാഹന യാത്രകൾ: %1$d</string>
+    <string name="import_skipped">അവഗണിച്ച മറ്റ് യാത്രകൾ (നടത്തം, സൈക്കിൾ, പൊതുഗതാഗതം): %1$d</string>
+    <string name="import_default_purpose" formatted="false">വീട്-ജോലി എന്ന് തിരിച്ചറിയാത്ത യാത്രകളുടെ ഉദ്ദേശ്യം</string>
+    <string name="import_period">%1$s മുതൽ %2$s വരെ</string>
+    <string name="import_confirm">%1$d യാത്രകൾ ഇംപോർട്ട് ചെയ്യുക</string>
+    <string name="import_done">ഇംപോർട്ട് ചെയ്ത യാത്രകൾ: %1$d</string>
+    <string name="import_nothing_new" formatted="false">പുതിയ യാത്രകളില്ല: അവ ഇതിനകം ഇംപോർട്ട് ചെയ്തിരുന്നു.</string>
+    <string name="import_unreadable" formatted="false">ഈ ഫയൽ വായിക്കാവുന്ന ലൊക്കേഷൻ ഹിസ്റ്ററിയല്ല.</string>
+    <string name="import_commute_hint" formatted="false">ഫയൽ അടയാളപ്പെടുത്തുമ്പോൾ നിങ്ങളുടെ വീടിനും ജോലിസ്ഥലത്തിനും ഇടയിലുള്ള യാത്രകൾ തിരിച്ചറിയും; അവയ്ക്ക് വീട്-ജോലി ഉദ്ദേശ്യം ലഭിക്കും.</string>
+    <string name="backup_title" formatted="false">ബാക്കപ്പ്</string>
+    <string name="backup_explain" formatted="false">നിങ്ങൾ തീരുമാനിക്കുമ്പോൾ മാത്രമേ നിങ്ങളുടെ ഡാറ്റ ഉപകരണം വിട്ടുപോകൂ. ബാക്കപ്പ് എന്നത് എവിടെ വേണമെങ്കിലും സൂക്ഷിക്കാവുന്നതും ഏത് ഉപകരണത്തിലും പുനഃസ്ഥാപിക്കാവുന്നതുമായ ഒരു ഫയലാണ്.</string>
+    <string name="backup_export" formatted="false">ബാക്കപ്പ് എക്സ്പോർട്ട് ചെയ്യുക</string>
+    <string name="backup_restore" formatted="false">ബാക്കപ്പ് പുനഃസ്ഥാപിക്കുക</string>
+    <string name="backup_restore_help" formatted="false">പുനഃസ്ഥാപനം ലയിപ്പിക്കുന്നു: അതിനുശേഷം നൽകിയതൊന്നും നഷ്ടപ്പെടില്ല.</string>
+    <string name="backup_restored">ബാക്കപ്പ് പുനഃസ്ഥാപിച്ചു: ആകെ %1$d യാത്രകൾ.</string>
+    <string name="backup_invalid" formatted="false">ഈ ഫയൽ ഈ ആപ്പിന്റെ ബാക്കപ്പല്ല.</string>
+    <string name="cloud_title" formatted="false">ക്ലൗഡ് ബാക്കപ്പ്</string>
+    <string name="cloud_explain" formatted="false">അധിക അക്കൗണ്ടില്ലാതെ, നിങ്ങളുടെ ഉപകരണത്തിന്റെ ക്ലൗഡ് സ്പേസിൽ ഡാറ്റയുടെ സ്വയമേവയുള്ള പകർപ്പ്. ഓരോ മാറ്റത്തിനു ശേഷവും അത് പുതുക്കപ്പെടുന്നു.</string>
+    <string name="cloud_now" formatted="false">ഇപ്പോൾ ബാക്കപ്പ് ചെയ്യുക</string>
+    <string name="cloud_restore" formatted="false">ക്ലൗഡിൽ നിന്ന് പുനഃസ്ഥാപിക്കുക</string>
+    <string name="cloud_last">അവസാന ക്ലൗഡ് ബാക്കപ്പ്: %1$s</string>
+    <string name="cloud_never" formatted="false">ഇതുവരെ ക്ലൗഡ് ബാക്കപ്പില്ല.</string>
+    <string name="cloud_unavailable" formatted="false">ഈ ഉപകരണത്തിൽ ക്ലൗഡ് ബാക്കപ്പ് ലഭ്യമല്ല. ബാക്കപ്പ് എക്സ്പോർട്ട് ഉപയോഗിക്കുക.</string>
+    <string name="cloud_done" formatted="false">ക്ലൗഡ് ബാക്കപ്പ് പൂർത്തിയായി.</string>
+    <string name="cloud_nothing" formatted="false">പുനഃസ്ഥാപിക്കാൻ ക്ലൗഡ് ബാക്കപ്പില്ല.</string>
+    <string name="cloud_system_restore" formatted="false">ആപ്പ് വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്യുമ്പോഴോ പുതിയ ഉപകരണം സജ്ജമാക്കുമ്പോഴോ സിസ്റ്റം ഈ ബാക്കപ്പ് സ്വയം പുനഃസ്ഥാപിക്കും.</string>
+    <string name="settings" formatted="false">ക്രമീകരണങ്ങൾ</string>
+    <string name="rules_title" formatted="false">കണക്കുകൂട്ടൽ നിയമങ്ങൾ</string>
+    <string name="rule_fr" formatted="false">ഫ്രഞ്ച് കിലോമീറ്റർ നിരക്ക് പട്ടിക</string>
+    <string name="rule_generic" formatted="false">കിലോമീറ്ററിന് നിശ്ചിത നിരക്ക്</string>
+    <string name="generic_rate" formatted="false">കിലോമീറ്ററിന് നിരക്ക്</string>
+    <string name="currency" formatted="false">കറൻസി</string>
+    <string name="home_label" formatted="false">നിങ്ങളുടെ വീടിന്റെ പേര്</string>
+    <string name="work_label" formatted="false">നിങ്ങളുടെ ജോലിസ്ഥലത്തിന്റെ പേര്</string>
+    <string name="home_work_distance" formatted="false">വീട്-ജോലി ദൂരം (ഒരു വശം, കി.മീ)</string>
+    <string name="places_help" formatted="false">പ്രിയ യാത്രകൾക്കും ഹിസ്റ്ററി ഇംപോർട്ടിനും ഉപയോഗിക്കുന്നു.</string>
+    <string name="pro_title" formatted="false">Pro പതിപ്പ്</string>
+    <string name="pro_subtitle" formatted="false">നിങ്ങളുടെ യഥാർത്ഥ ചെലവുകൾക്ക് വേണ്ടതെല്ലാം, പരസ്യങ്ങളില്ലാതെ.</string>
+    <string name="pro_features_title" formatted="false">അൺലോക്ക് ചെയ്ത സവിശേഷതകൾ:</string>
+    <string name="pro_feature_unlimited" formatted="false">പരിധിയില്ലാത്ത യാത്രകൾ.</string>
+    <string name="pro_feature_estimation" formatted="false">യഥാർത്ഥ ചെലവുകളുടെ എസ്റ്റിമേറ്റും സ്റ്റാൻഡേർഡ് കിഴിവുമായുള്ള താരതമ്യവും.</string>
+    <string name="pro_feature_export" formatted="false">പൂർണ്ണവും സാക്ഷ്യപ്പെടുത്തിയതുമായ എക്സ്പോർട്ട് (വൃത്തിയുള്ള PDF, അക്കൗണ്ടന്റിനോ നികുതി റിട്ടേണിനോ തയ്യാറായ സ്പ്രെഡ്ഷീറ്റ് ഫോർമാറ്റ്).</string>
+    <string name="pro_feature_import" formatted="false">നിങ്ങളുടെ ഫോണിലെ യാത്രാ ഹിസ്റ്ററിയുടെ ഇംപോർട്ട്.</string>
+    <string name="pro_feature_expenses" formatted="false">ടോൾ, പാർക്കിംഗ്, ഇന്ധനം എന്നിവ എസ്റ്റിമേറ്റിൽ ചേർക്കുന്നു.</string>
+    <string name="pro_feature_cloud" formatted="false">ബാക്കപ്പ് ഫയലിൽ നിന്നുള്ള പുനഃസ്ഥാപനവും മൾട്ടി-ഡിവൈസ് സിങ്കും.</string>
+    <string name="pro_feature_widgets" formatted="false">ഹോം സ്ക്രീൻ വിജറ്റ്.</string>
+    <string name="pro_feature_watch" formatted="false">വാച്ച് ആപ്പ്.</string>
+    <string name="pro_feature_no_ads" formatted="false">പരസ്യങ്ങൾ ഒട്ടുമില്ല.</string>
+    <string name="pro_feature_gps" formatted="false">സ്വയമേവയുള്ള GPS ട്രാക്കിംഗ് (ചലനം തിരിച്ചറിയൽ അല്ലെങ്കിൽ കാറുമായി ബ്ലൂടൂത്ത് കണക്ഷൻ).</string>
+    <string name="pro_feature_scan" formatted="false">ക്യാമറ ഉപയോഗിച്ച് ടോൾ, പാർക്കിംഗ്, ഇന്ധന രസീതുകളുടെ സ്മാർട്ട് സ്കാൻ (OCR).</string>
+    <string name="pro_monthly">മാസം %1$s</string>
+    <string name="pro_yearly">വർഷം %1$s</string>
+    <string name="pro_yearly_hint" formatted="false">മാസവരിയെ അപേക്ഷിച്ച് രണ്ട് മാസം സൗജന്യം</string>
+    <string name="subscribe" formatted="false">സബ്സ്ക്രൈബ് ചെയ്യുക</string>
+    <string name="restore_purchases" formatted="false">വാങ്ങലുകൾ പുനഃസ്ഥാപിക്കുക</string>
+    <string name="pro_active" formatted="false">Pro പതിപ്പ് സജീവം</string>
+    <string name="pro_active_since">സബ്സ്ക്രിപ്ഷൻ: %1$s</string>
+    <string name="pro_unavailable" formatted="false">ആപ്പിന്റെ ഈ പതിപ്പിൽ വാങ്ങലുകൾ ലഭ്യമല്ല.</string>
+    <string name="pro_legal" formatted="false">സ്വയം പുതുക്കുന്ന സബ്സ്ക്രിപ്ഷൻ, നിങ്ങളുടെ സ്റ്റോർ അക്കൗണ്ടിൽ നിന്ന് ഈടാക്കും. സ്റ്റോർ ക്രമീകരണങ്ങളിൽ നിന്ന് എപ്പോൾ വേണമെങ്കിലും റദ്ദാക്കാം; കാലാവധി തീരുന്നതിന് കുറഞ്ഞത് 24 മണിക്കൂർ മുമ്പ് റദ്ദാക്കിയില്ലെങ്കിൽ അടുത്ത കാലയളവിന്റെ തുക ഈടാക്കും.</string>
+    <string name="purchase_pending" formatted="false">വാങ്ങൽ പുരോഗമിക്കുന്നു…</string>
+    <string name="purchase_failed" formatted="false">വാങ്ങൽ പൂർത്തിയായില്ല.</string>
+    <string name="purchase_restored" formatted="false">വാങ്ങലുകൾ പുനഃസ്ഥാപിച്ചു.</string>
+    <string name="purchase_nothing" formatted="false">പുനഃസ്ഥാപിക്കാൻ ഒന്നുമില്ല.</string>
+    <string name="rewarded_title" formatted="false">പരസ്യം കണ്ട് പരീക്ഷിക്കുക</string>
+    <string name="rewarded_explain" formatted="false">ഇത് കുറച്ച് സമയത്തേക്ക് അൺലോക്ക് ചെയ്യാൻ ഒരു ചെറിയ പരസ്യം കാണുക. Pro പരസ്യങ്ങൾ നീക്കം ചെയ്യുകയും എല്ലാം അൺലോക്ക് ചെയ്യുകയും ചെയ്യുന്നു.</string>
+    <string name="rewarded_estimation" formatted="false">24 മണിക്കൂർ എസ്റ്റിമേറ്റ് കാണുക</string>
+    <string name="rewarded_export" formatted="false">ഒരു എക്സ്പോർട്ട്, ഒരു മണിക്കൂറിനുള്ളിൽ</string>
+    <string name="rewarded_trips" formatted="false">ഈ മാസം 5 യാത്രകൾ കൂടി</string>
+    <string name="rewarded_watch" formatted="false">പരസ്യം കാണുക</string>
+    <string name="rewarded_unavailable" formatted="false">ഇപ്പോൾ പരസ്യം ലഭ്യമല്ല. അൽപ്പസമയത്തിനു ശേഷം വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="rewarded_granted" formatted="false">അൺലോക്ക് ചെയ്തു. ശുഭയാത്ര!</string>
+    <string name="expenses" formatted="false">ചെലവുകൾ</string>
+    <string name="add_expense" formatted="false">പുതിയ ചെലവ്</string>
+    <string name="edit_expense" formatted="false">ചെലവ് തിരുത്തുക</string>
+    <string name="expense_kind" formatted="false">തരം</string>
+    <string name="kind_toll" formatted="false">ടോൾ</string>
+    <string name="kind_parking" formatted="false">പാർക്കിംഗ്</string>
+    <string name="kind_fuel" formatted="false">ഇന്ധനം</string>
+    <string name="kind_other" formatted="false">മറ്റുള്ളവ</string>
+    <string name="amount" formatted="false">തുക</string>
+    <string name="place" formatted="false">സ്ഥലം</string>
+    <string name="litres" formatted="false">ലിറ്റർ</string>
+    <string name="odometer" formatted="false">ഓഡോമീറ്റർ റീഡിംഗ്</string>
+    <string name="no_expenses" formatted="false">ചെലവുകളില്ല. ടോളും പാർക്കിംഗും എസ്റ്റിമേറ്റിൽ ചേർക്കുന്നു.</string>
+    <string name="invalid_amount" formatted="false">0-ൽ കൂടുതലുള്ള തുക നൽകുക.</string>
+    <string name="legal_title" formatted="false">നിയമപരവും സ്വകാര്യതയും</string>
+    <string name="privacy_text" formatted="false">നിങ്ങളുടെ എല്ലാ ഡാറ്റയും നിങ്ങളുടെ ഉപകരണത്തിൽ തന്നെ നിലനിൽക്കുന്നു. ആപ്പിന് അക്കൗണ്ട് ആവശ്യമില്ല, ഒരു സെർവറിലേക്കും ഒന്നും അയയ്ക്കുന്നില്ല. പുറത്തേക്കുള്ള ഏക കൈമാറ്റങ്ങൾ നിങ്ങൾ തന്നെ തുടങ്ങുന്ന എക്സ്പോർട്ട്, ബാക്കപ്പ്, വാങ്ങൽ എന്നിവയും സൗജന്യ പതിപ്പിലെ പരസ്യങ്ങളുമാണ്; പരസ്യങ്ങൾ Pro പതിപ്പ് നീക്കം ചെയ്യുന്നു.</string>
+    <string name="about" formatted="false">ആപ്പിനെക്കുറിച്ച്</string>
+    <string name="version">പതിപ്പ് %1$s</string>
+    <string name="error_generic" formatted="false">എന്തോ തകരാറ് സംഭവിച്ചു.</string>
+    <string name="today" formatted="false">ഇന്ന്</string>
+    <string name="yesterday" formatted="false">ഇന്നലെ</string>
+    <string name="ads_privacy_options" formatted="false">പരസ്യ സ്വകാര്യതാ ഓപ്ഷനുകൾ</string>
+    <string name="ads_disabled_title" formatted="false">പരസ്യങ്ങൾ പ്രവർത്തനരഹിതമാണ്</string>
+    <string name="ads_disabled_text" formatted="false">ഈ അക്കൗണ്ട് ഒരു ചെറുപ്പക്കാരനായ ഉപയോക്താവിന്റേതാണെന്ന് സിസ്റ്റം സൂചിപ്പിക്കുന്നു. അതിനാൽ ആപ്പ് പരസ്യങ്ങൾ കാണിക്കുന്നില്ല, സമ്മതവും ചോദിക്കുന്നില്ല. പരസ്യ ഐഡന്റിഫയർ വായിക്കുന്നില്ല, ഡാറ്റ ശേഖരിക്കുകയോ അയയ്ക്കുകയോ ചെയ്യുന്നില്ല.</string>
+    <string name="watch_quick_add" formatted="false">ദ്രുത യാത്ര</string>
+    <string name="watch_no_favorites" formatted="false">നിങ്ങളുടെ ഫോണിൽ പ്രിയ യാത്രകൾ ചേർക്കുക.</string>
+    <string name="watch_added" formatted="false">ചേർത്തു</string>
+    <string name="watch_open_phone" formatted="false">ഫോൺ ആപ്പ് തുറക്കുക</string>
+    <string name="widget_today" formatted="false">ഇന്ന്</string>
+    <string name="widget_month" formatted="false">ഈ മാസം</string>
+    <string name="widget_pro_needed" formatted="false">വിജറ്റ് Pro-യിൽ ലഭ്യം</string>
+</resources>

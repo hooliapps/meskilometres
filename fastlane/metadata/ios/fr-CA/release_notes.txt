@@ -1,0 +1,8 @@
+Première version de Kilomètres.
+
+• Trajets en un geste, itinéraires favoris
+• Estimation des frais réels avec le barème officiel (Pro)
+• Exports PDF et tableur (Pro)
+• Import de l'historique des trajets (Pro)
+• Sauvegarde cloud pour tous ; widget et application montre (Pro)
+• 71 langues

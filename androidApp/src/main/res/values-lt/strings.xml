@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometrai</string>
+    <string name="widget_name" formatted="false">Kelionės</string>
+    <string name="widget_description" formatted="false">Šiandienos kilometrai ir jūsų mėgstamiausios kelionės vienu palietimu.</string>
+    <string name="tab_trips" formatted="false">Kelionės</string>
+    <string name="tab_estimate" formatted="false">Įvertinimas</string>
+    <string name="tab_more" formatted="false">Daugiau</string>
+    <string name="this_month" formatted="false">Šį mėnesį</string>
+    <string name="this_year" formatted="false">Šiais metais</string>
+    <string name="trips_count">Kelionės: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Nauja kelionė</string>
+    <string name="free_remaining">Likusios nemokamos kelionės šį mėnesį: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Šio mėnesio nemokamas limitas išnaudotas</string>
+    <string name="free_quota_reached" formatted="false">Nemokama versija leidžia 5 keliones per mėnesį. Įsigykite Pro ir keliaukite be apribojimų arba peržiūrėkite reklamą ir gaukite dar 5.</string>
+    <string name="go_pro" formatted="false">Įsigyti Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Kelionių dar nėra.\nPalieskite +, kad įrašytumėte pirmąją.</string>
+    <string name="trip_new" formatted="false">Nauja kelionė</string>
+    <string name="trip_edit" formatted="false">Redaguoti kelionę</string>
+    <string name="field_date" formatted="false">Data</string>
+    <string name="field_from" formatted="false">Iš</string>
+    <string name="field_to" formatted="false">Į</string>
+    <string name="field_distance" formatted="false">Atstumas į vieną pusę (km)</string>
+    <string name="field_round_trip" formatted="false">Pirmyn ir atgal</string>
+    <string name="field_purpose" formatted="false">Tikslas</string>
+    <string name="field_vehicle" formatted="false">Transporto priemonė</string>
+    <string name="field_note" formatted="false">Pastaba</string>
+    <string name="field_justified" formatted="false">Ypatingos aplinkybės</string>
+    <string name="field_justified_help" formatted="false">Pažymėkite, jei atstumas nuo namų iki darbo dėl konkrečios priežasties viršija 40 km arba jei tą pačią dieną pagrįstai važiavote papildomą kartą pirmyn ir atgal.</string>
+    <string name="purpose_commute" formatted="false">Į darbą</string>
+    <string name="purpose_business" formatted="false">Tarnybinė</string>
+    <string name="purpose_personal" formatted="false">Asmeninė</string>
+    <string name="save" formatted="false">Išsaugoti</string>
+    <string name="cancel" formatted="false">Atšaukti</string>
+    <string name="delete" formatted="false">Ištrinti</string>
+    <string name="edit" formatted="false">Redaguoti</string>
+    <string name="ok" formatted="false">Gerai</string>
+    <string name="close" formatted="false">Uždaryti</string>
+    <string name="back" formatted="false">Atgal</string>
+    <string name="confirm_delete" formatted="false">Ištrinti visam laikui?</string>
+    <string name="invalid_distance" formatted="false">Įveskite didesnį nei 0 atstumą.</string>
+    <string name="favorites" formatted="false">Mėgstamiausi</string>
+    <string name="save_as_favorite" formatted="false">Taip pat išsaugoti kaip mėgstamą</string>
+    <string name="favorite_label" formatted="false">Mėgstamos kelionės pavadinimas</string>
+    <string name="no_favorites" formatted="false">Išsaugokite kelionę kaip mėgstamą ir įrašykite ją vienu palietimu.</string>
+    <string name="use_favorite" formatted="false">Mėgstamos kelionės</string>
+    <string name="swap" formatted="false">Sukeisti</string>
+    <string name="quick_add_hint" formatted="false">Palieskite mėgstamą kelionę, kad pridėtumėte ją šiandienai.</string>
+    <string name="added" formatted="false">Kelionė pridėta.</string>
+    <string name="undo" formatted="false">Anuliuoti</string>
+    <string name="vehicles" formatted="false">Transporto priemonės</string>
+    <string name="add_vehicle" formatted="false">Pridėti transporto priemonę</string>
+    <string name="edit_vehicle" formatted="false">Redaguoti transporto priemonę</string>
+    <string name="vehicle_name" formatted="false">Pavadinimas</string>
+    <string name="vehicle_kind" formatted="false">Tipas</string>
+    <string name="kind_car" formatted="false">Automobilis</string>
+    <string name="kind_motorcycle" formatted="false">Motociklas</string>
+    <string name="kind_moped" formatted="false">Mopedas</string>
+    <string name="fiscal_power" formatted="false">Mokestinė galia (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV ir daugiau</string>
+    <string name="cv_or_less">%1$d CV ir mažiau</string>
+    <string name="cv_range_3_5" formatted="false">Nuo 3 iki 5 CV</string>
+    <string name="electric" formatted="false">Elektrinė transporto priemonė</string>
+    <string name="no_vehicle" formatted="false">Nėra transporto priemonės. Pridėkite ją: įvertinimui jos reikia.</string>
+    <string name="default_vehicle" formatted="false">Numatytoji transporto priemonė</string>
+    <string name="vehicle_needed" formatted="false">Pirmiausia pridėkite transporto priemonę skiltyje Daugiau &gt; Transporto priemonės.</string>
+    <string name="estimation" formatted="false">Faktinių išlaidų įvertinimas</string>
+    <string name="income_year">Pajamų metai: %1$d</string>
+    <string name="estimation_locked" formatted="false">Faktinių išlaidų įvertinimas, eksportas, istorijos importas ir atsarginės kopijos atkūrimas priklauso Pro versijai.</string>
+    <string name="disclaimer_short" formatted="false">Orientacinis įvertinimas, negarantuojamas.</string>
+    <string name="disclaimer_long" formatted="false">Šis įvertinimas yra orientacinis ir negarantuojamas. Tai nėra mokesčių konsultacija ir jis nepakeičia oficialių teisės aktų, mokesčių administratoriaus ar specialisto. Prieš deklaruodami pasitikrinkite jūsų situacijai taikomas taisykles.</string>
+    <string name="commute_km_raw" formatted="false">Įvesti kelionių į darbą km</string>
+    <string name="commute_km_retained" formatted="false">Įskaityti kelionių į darbą km</string>
+    <string name="business_km" formatted="false">Tarnybiniai km</string>
+    <string name="retained_km" formatted="false">Įskaityti km</string>
+    <string name="allowance" formatted="false">Kilometrinė kompensacija</string>
+    <string name="tolls_parking" formatted="false">Kelių rinkliavos ir parkavimas</string>
+    <string name="total" formatted="false">Numatoma suma</string>
+    <string name="flat_deduction" formatted="false">Fiksuota 10 % atskaita</string>
+    <string name="real_better" formatted="false">Faktinės išlaidos atrodo palankesnės nei fiksuota atskaita.</string>
+    <string name="flat_better" formatted="false">Fiksuota atskaita atrodo palankesnė nei faktinės išlaidos.</string>
+    <string name="enter_salary" formatted="false">Įveskite metinį grynąjį apmokestinamąjį atlyginimą, kad palygintumėte su fiksuota atskaita.</string>
+    <string name="net_taxable_salary" formatted="false">Metinis grynasis apmokestinamasis atlyginimas</string>
+    <string name="per_vehicle" formatted="false">Pagal transporto priemonę</string>
+    <string name="note_scale_unconfirmed" formatted="false">Šių metų lentelė dar nepaskelbta: taikoma paskutinė žinoma lentelė.</string>
+    <string name="note_cap_applied" formatted="false">Viena ar daugiau kelionių į darbą apribotos iki 40 km, nes nenurodytos ypatingos aplinkybės.</string>
+    <string name="note_extra_legs" formatted="false">Be vienos kelionės į darbą pirmyn ir atgal per dieną, kelionės be ypatingų aplinkybių buvo praleistos.</string>
+    <string name="note_no_vehicle" formatted="false">Kelionės be transporto priemonės buvo ignoruotos: pasirinkite numatytąją transporto priemonę.</string>
+    <string name="note_fuel">Įvesti degalai (%1$s) nepridedami: kilometrinė lentelė juos jau apima.</string>
+    <string name="note_no_salary" formatted="false">Atlyginimas neįvestas: palyginimo su fiksuota atskaita nėra.</string>
+    <string name="documents_title" formatted="false">Saugotini dokumentai</string>
+    <string name="documents_list" formatted="false">Transporto priemonės registracijos liudijimas\nDarbo sutartis arba darbdavio pažyma\nDirbtų dienų apskaita\nKelių rinkliavų ir parkavimo kvitai\nViskas, kas pagrindžia ypatingas aplinkybes</string>
+    <string name="export" formatted="false">Eksportuoti</string>
+    <string name="export_title" formatted="false">Eksportas</string>
+    <string name="export_pdf" formatted="false">PDF ataskaita</string>
+    <string name="export_xlsx" formatted="false">Skaičiuoklės darbaknygė</string>
+    <string name="export_csv" formatted="false">CSV failas</string>
+    <string name="export_period" formatted="false">Laikotarpis</string>
+    <string name="year" formatted="false">Metai</string>
+    <string name="export_from" formatted="false">Nuo</string>
+    <string name="export_to" formatted="false">Iki</string>
+    <string name="export_include_estimation" formatted="false">Įtraukti metų įvertinimą</string>
+    <string name="export_share" formatted="false">Failas atidaromas bendrinimo lange: išsaugokite jį arba išsiųskite.</string>
+    <string name="export_failed" formatted="false">Eksportuoti nepavyko.</string>
+    <string name="report_title" formatted="false">Ridos ataskaita</string>
+    <string name="generated_on">Sukurta %1$s</string>
+    <string name="yes" formatted="false">taip</string>
+    <string name="no" formatted="false">ne</string>
+    <string name="import_title" formatted="false">Importuoti istoriją</string>
+    <string name="import_help" formatted="false">Jei jūsų telefonas saugo jūsų buvimo vietų istoriją, galite ją eksportuoti kaip JSON failą iš ją tvarkančios programos ir atidaryti čia. Nuskaitomos tik kelionės transporto priemone. Failas nesaugomas: įrašoma tik data, atstumas ir, jei žinoma, išvykimo bei atvykimo vieta.</string>
+    <string name="import_pick" formatted="false">Pasirinkti failą</string>
+    <string name="import_reading" formatted="false">Skaitoma…</string>
+    <string name="import_found">Rasta kelionių transporto priemone: %1$d</string>
+    <string name="import_skipped">Kitų ignoruotų kelionių (pėsčiomis, dviračiu, viešuoju transportu): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Kelionių, neatpažintų kaip kelionės į darbą, tikslas</string>
+    <string name="import_period">Nuo %1$s iki %2$s</string>
+    <string name="import_confirm">Importuoti keliones: %1$d</string>
+    <string name="import_done">Importuota kelionių: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Naujų kelionių nėra: jos jau buvo importuotos.</string>
+    <string name="import_unreadable" formatted="false">Šis failas nėra nuskaitoma buvimo vietų istorija.</string>
+    <string name="import_commute_hint" formatted="false">Kelionės tarp jūsų namų ir darbovietės atpažįstamos, kai failas jas taip pažymi; joms priskiriamas tikslas „į darbą“.</string>
+    <string name="backup_title" formatted="false">Atsarginė kopija</string>
+    <string name="backup_explain" formatted="false">Jūsų duomenys palieka įrenginį tik tada, kai jūs taip nusprendžiate. Atsarginė kopija yra failas, kurį galite laikyti bet kur ir atkurti bet kuriame įrenginyje.</string>
+    <string name="backup_export" formatted="false">Eksportuoti atsarginę kopiją</string>
+    <string name="backup_restore" formatted="false">Atkurti atsarginę kopiją</string>
+    <string name="backup_restore_help" formatted="false">Atkūrimas sujungia duomenis: niekas, ką įvedėte nuo to laiko, neprarandama.</string>
+    <string name="backup_restored">Atsarginė kopija atkurta: iš viso %1$d kelionių.</string>
+    <string name="backup_invalid" formatted="false">Šis failas nėra šios programos atsarginė kopija.</string>
+    <string name="cloud_title" formatted="false">Atsarginė kopija debesyje</string>
+    <string name="cloud_explain" formatted="false">Automatinė jūsų duomenų kopija jūsų įrenginio debesies saugykloje, be papildomos paskyros. Ji atnaujinama po kiekvieno pakeitimo.</string>
+    <string name="cloud_now" formatted="false">Kurti kopiją dabar</string>
+    <string name="cloud_restore" formatted="false">Atkurti iš debesies</string>
+    <string name="cloud_last">Paskutinė kopija debesyje: %1$s</string>
+    <string name="cloud_never" formatted="false">Kopijos debesyje dar nėra.</string>
+    <string name="cloud_unavailable" formatted="false">Atsarginė kopija debesyje šiame įrenginyje negalima. Naudokite atsarginės kopijos eksportą.</string>
+    <string name="cloud_done" formatted="false">Kopija debesyje sukurta.</string>
+    <string name="cloud_nothing" formatted="false">Nėra kopijos debesyje, kurią būtų galima atkurti.</string>
+    <string name="cloud_system_restore" formatted="false">Sistema pati atkuria šią kopiją, kai iš naujo įdiegiate programą arba nustatote naują įrenginį.</string>
+    <string name="settings" formatted="false">Nustatymai</string>
+    <string name="rules_title" formatted="false">Skaičiavimo taisyklės</string>
+    <string name="rule_fr" formatted="false">Prancūzijos kilometrinė lentelė</string>
+    <string name="rule_generic" formatted="false">Fiksuotas tarifas už kilometrą</string>
+    <string name="generic_rate" formatted="false">Tarifas už kilometrą</string>
+    <string name="currency" formatted="false">Valiuta</string>
+    <string name="home_label" formatted="false">Jūsų namų pavadinimas</string>
+    <string name="work_label" formatted="false">Jūsų darbovietės pavadinimas</string>
+    <string name="home_work_distance" formatted="false">Atstumas namai–darbas (į vieną pusę, km)</string>
+    <string name="places_help" formatted="false">Naudojama mėgstamoms kelionėms ir istorijos importui.</string>
+    <string name="pro_title" formatted="false">Pro versija</string>
+    <string name="pro_subtitle" formatted="false">Viskas, ko reikia faktinėms išlaidoms, ir jokių reklamų.</string>
+    <string name="pro_features_title" formatted="false">Atrakintos funkcijos:</string>
+    <string name="pro_feature_unlimited" formatted="false">Neribotas kelionių skaičius.</string>
+    <string name="pro_feature_estimation" formatted="false">Faktinių išlaidų įvertinimas ir palyginimas su fiksuota atskaita.</string>
+    <string name="pro_feature_export" formatted="false">Išsamus, patvirtintas eksportas (tvarkingas PDF, skaičiuoklės formatas, paruoštas buhalteriui arba mokesčių deklaracijai).</string>
+    <string name="pro_feature_import" formatted="false">Jūsų telefono kelionių istorijos importas.</string>
+    <string name="pro_feature_expenses" formatted="false">Kelių rinkliavos, parkavimas ir degalai, pridėti prie įvertinimo.</string>
+    <string name="pro_feature_cloud" formatted="false">Atkūrimas iš atsarginės kopijos failo ir sinchronizavimas tarp jūsų įrenginių.</string>
+    <string name="pro_feature_widgets" formatted="false">Pagrindinio ekrano valdiklis.</string>
+    <string name="pro_feature_watch" formatted="false">Laikrodžio programa.</string>
+    <string name="pro_feature_no_ads" formatted="false">Visiškai jokių reklamų.</string>
+    <string name="pro_feature_gps" formatted="false">Automatinis GPS sekimas (judėjimo aptikimas arba Bluetooth ryšys su automobiliu).</string>
+    <string name="pro_feature_scan" formatted="false">Išmanusis kelių rinkliavų, parkavimo ir degalų kvitų nuskaitymas (OCR) kamera.</string>
+    <string name="pro_monthly">%1$s per mėnesį</string>
+    <string name="pro_yearly">%1$s per metus</string>
+    <string name="pro_yearly_hint" formatted="false">Du mėnesiai nemokamai, palyginti su mėnesiniu planu</string>
+    <string name="subscribe" formatted="false">Prenumeruoti</string>
+    <string name="restore_purchases" formatted="false">Atkurti pirkinius</string>
+    <string name="pro_active" formatted="false">Pro versija aktyvi</string>
+    <string name="pro_active_since">Prenumerata: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Pirkiniai šioje programos versijoje negalimi.</string>
+    <string name="pro_legal" formatted="false">Automatiškai atsinaujinanti prenumerata, nuskaitoma iš jūsų parduotuvės paskyros. Galite atšaukti bet kada parduotuvės nustatymuose; kaina už kitą laikotarpį nuskaitoma, jei neatšaukiate bent 24 valandas iki jo pabaigos.</string>
+    <string name="purchase_pending" formatted="false">Vykdomas pirkimas…</string>
+    <string name="purchase_failed" formatted="false">Pirkimas nebuvo užbaigtas.</string>
+    <string name="purchase_restored" formatted="false">Pirkiniai atkurti.</string>
+    <string name="purchase_nothing" formatted="false">Nėra ko atkurti.</string>
+    <string name="rewarded_title" formatted="false">Išbandykite peržiūrėję reklamą</string>
+    <string name="rewarded_explain" formatted="false">Peržiūrėkite trumpą reklamą ir kuriam laikui atrakinkite šią funkciją. Pro pašalina reklamas ir atrakina viską.</string>
+    <string name="rewarded_estimation" formatted="false">Matyti įvertinimą 24 valandas</string>
+    <string name="rewarded_export" formatted="false">Vienas eksportas per valandą</string>
+    <string name="rewarded_trips" formatted="false">Dar 5 kelionės šį mėnesį</string>
+    <string name="rewarded_watch" formatted="false">Peržiūrėti reklamą</string>
+    <string name="rewarded_unavailable" formatted="false">Šiuo metu nėra reklamų. Bandykite dar kartą po akimirkos.</string>
+    <string name="rewarded_granted" formatted="false">Atrakinta. Gero kelio!</string>
+    <string name="expenses" formatted="false">Išlaidos</string>
+    <string name="add_expense" formatted="false">Naujos išlaidos</string>
+    <string name="edit_expense" formatted="false">Redaguoti išlaidas</string>
+    <string name="expense_kind" formatted="false">Tipas</string>
+    <string name="kind_toll" formatted="false">Kelio rinkliava</string>
+    <string name="kind_parking" formatted="false">Parkavimas</string>
+    <string name="kind_fuel" formatted="false">Degalai</string>
+    <string name="kind_other" formatted="false">Kita</string>
+    <string name="amount" formatted="false">Suma</string>
+    <string name="place" formatted="false">Vieta</string>
+    <string name="litres" formatted="false">Litrai</string>
+    <string name="odometer" formatted="false">Odometro rodmuo</string>
+    <string name="no_expenses" formatted="false">Išlaidų nėra. Kelių rinkliavos ir parkavimas pridedami prie įvertinimo.</string>
+    <string name="invalid_amount" formatted="false">Įveskite didesnę nei 0 sumą.</string>
+    <string name="legal_title" formatted="false">Teisinė informacija ir privatumas</string>
+    <string name="privacy_text" formatted="false">Visi jūsų duomenys lieka jūsų įrenginyje. Programai nereikia paskyros ir ji nieko nesiunčia į serverį. Vieninteliai mainai su išore yra tie, kuriuos inicijuojate patys, eksportas, atsarginė kopija ar pirkimas, ir nemokamos versijos reklamos, kurias Pro versija pašalina.</string>
+    <string name="about" formatted="false">Apie</string>
+    <string name="version">Versija %1$s</string>
+    <string name="error_generic" formatted="false">Kažkas nepavyko.</string>
+    <string name="today" formatted="false">Šiandien</string>
+    <string name="yesterday" formatted="false">Vakar</string>
+    <string name="ads_privacy_options" formatted="false">Reklamų privatumo parinktys</string>
+    <string name="ads_disabled_title" formatted="false">Reklamos išjungtos</string>
+    <string name="ads_disabled_text" formatted="false">Sistema nurodo, kad ši paskyra priklauso jaunam naudotojui. Todėl programa nerodo jokių reklamų ir neprašo sutikimo. Joks reklamos identifikatorius nenuskaitomas, jokie duomenys nerenkami ir nesiunčiami.</string>
+    <string name="watch_quick_add" formatted="false">Greita kelionė</string>
+    <string name="watch_no_favorites" formatted="false">Pridėkite mėgstamų kelionių telefone.</string>
+    <string name="watch_added" formatted="false">Pridėta</string>
+    <string name="watch_open_phone" formatted="false">Atidaryti telefono programą</string>
+    <string name="widget_today" formatted="false">Šiandien</string>
+    <string name="widget_month" formatted="false">Šį mėnesį</string>
+    <string name="widget_pro_needed" formatted="false">Valdiklis galimas su Pro</string>
+</resources>

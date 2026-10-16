@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">કિલોમીટર</string>
+    <string name="widget_name" formatted="false">મુસાફરીઓ</string>
+    <string name="widget_description" formatted="false">આજના કિલોમીટર અને તમારી મનપસંદ મુસાફરીઓ, એક ટૅપમાં.</string>
+    <string name="tab_trips" formatted="false">મુસાફરીઓ</string>
+    <string name="tab_estimate" formatted="false">અંદાજ</string>
+    <string name="tab_more" formatted="false">વધુ</string>
+    <string name="this_month" formatted="false">આ મહિને</string>
+    <string name="this_year" formatted="false">આ વર્ષે</string>
+    <string name="trips_count">મુસાફરીઓ: %1$d</string>
+    <string name="km_value">%1$s કિમી</string>
+    <string name="add_trip" formatted="false">નવી મુસાફરી</string>
+    <string name="free_remaining">આ મહિને બાકી મફત મુસાફરીઓ: %1$d</string>
+    <string name="free_limit_reached" formatted="false">આ મહિનાની મફત મર્યાદા પૂરી થઈ</string>
+    <string name="free_quota_reached" formatted="false">મફત આવૃત્તિમાં દર મહિને 5 મુસાફરીઓ નોંધી શકાય છે. અમર્યાદિત મુસાફરીઓ માટે Pro લો, અથવા વધુ 5 માટે એક જાહેરાત જુઓ.</string>
+    <string name="go_pro" formatted="false">Pro લો</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">હજી કોઈ મુસાફરી નથી.\nપહેલી નોંધવા + ટૅપ કરો.</string>
+    <string name="trip_new" formatted="false">નવી મુસાફરી</string>
+    <string name="trip_edit" formatted="false">મુસાફરી સંપાદિત કરો</string>
+    <string name="field_date" formatted="false">તારીખ</string>
+    <string name="field_from" formatted="false">ક્યાંથી</string>
+    <string name="field_to" formatted="false">ક્યાં સુધી</string>
+    <string name="field_distance" formatted="false">એક તરફનું અંતર (કિમી)</string>
+    <string name="field_round_trip" formatted="false">આવ-જા</string>
+    <string name="field_purpose" formatted="false">હેતુ</string>
+    <string name="field_vehicle" formatted="false">વાહન</string>
+    <string name="field_note" formatted="false">નોંધ</string>
+    <string name="field_justified" formatted="false">ખાસ સંજોગો</string>
+    <string name="field_justified_help" formatted="false">જો કોઈ ખાસ કારણસર ઘરથી કામના સ્થળનું અંતર 40 કિમીથી વધુ હોય, અથવા એક જ દિવસે વાજબી વધારાની આવ-જા માટે આ પસંદ કરો.</string>
+    <string name="purpose_commute" formatted="false">ઘર-કામ</string>
+    <string name="purpose_business" formatted="false">વ્યવસાયિક</string>
+    <string name="purpose_personal" formatted="false">અંગત</string>
+    <string name="save" formatted="false">સાચવો</string>
+    <string name="cancel" formatted="false">રદ કરો</string>
+    <string name="delete" formatted="false">કાઢી નાખો</string>
+    <string name="edit" formatted="false">સંપાદિત કરો</string>
+    <string name="ok" formatted="false">બરાબર</string>
+    <string name="close" formatted="false">બંધ કરો</string>
+    <string name="back" formatted="false">પાછળ</string>
+    <string name="confirm_delete" formatted="false">કાયમ માટે કાઢી નાખવું?</string>
+    <string name="invalid_distance" formatted="false">0થી વધુ અંતર દાખલ કરો.</string>
+    <string name="favorites" formatted="false">મનપસંદ</string>
+    <string name="save_as_favorite" formatted="false">મનપસંદ તરીકે પણ સાચવો</string>
+    <string name="favorite_label" formatted="false">મનપસંદનું નામ</string>
+    <string name="no_favorites" formatted="false">એક ટૅપમાં નોંધવા માટે મુસાફરીને મનપસંદ તરીકે સાચવો.</string>
+    <string name="use_favorite" formatted="false">મનપસંદ મુસાફરીઓ</string>
+    <string name="swap" formatted="false">અદલાબદલી</string>
+    <string name="quick_add_hint" formatted="false">આજ માટે ઉમેરવા મનપસંદ પર ટૅપ કરો.</string>
+    <string name="added" formatted="false">મુસાફરી ઉમેરાઈ.</string>
+    <string name="undo" formatted="false">પાછું વાળો</string>
+    <string name="vehicles" formatted="false">વાહનો</string>
+    <string name="add_vehicle" formatted="false">વાહન ઉમેરો</string>
+    <string name="edit_vehicle" formatted="false">વાહન સંપાદિત કરો</string>
+    <string name="vehicle_name" formatted="false">નામ</string>
+    <string name="vehicle_kind" formatted="false">પ્રકાર</string>
+    <string name="kind_car" formatted="false">કાર</string>
+    <string name="kind_motorcycle" formatted="false">મોટરસાઇકલ</string>
+    <string name="kind_moped" formatted="false">મોપેડ</string>
+    <string name="fiscal_power" formatted="false">કરપાત્ર અશ્વશક્તિ (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV કે વધુ</string>
+    <string name="cv_or_less">%1$d CV કે ઓછા</string>
+    <string name="cv_range_3_5" formatted="false">3થી 5 CV</string>
+    <string name="electric" formatted="false">ઇલેક્ટ્રિક વાહન</string>
+    <string name="no_vehicle" formatted="false">કોઈ વાહન નથી. એક ઉમેરો: અંદાજ માટે જરૂરી છે.</string>
+    <string name="default_vehicle" formatted="false">ડિફૉલ્ટ વાહન</string>
+    <string name="vehicle_needed" formatted="false">પહેલા વધુ &gt; વાહનોમાં એક વાહન ઉમેરો.</string>
+    <string name="estimation" formatted="false">વાસ્તવિક ખર્ચનો અંદાજ</string>
+    <string name="income_year">આવક વર્ષ %1$d</string>
+    <string name="estimation_locked" formatted="false">વાસ્તવિક ખર્ચનો અંદાજ, નિકાસ, ઇતિહાસ આયાત અને બૅકઅપની પુનઃસ્થાપના Pro આવૃત્તિનો ભાગ છે.</string>
+    <string name="disclaimer_short" formatted="false">સૂચક અંદાજ, ગૅરંટી નહીં.</string>
+    <string name="disclaimer_long" formatted="false">આ અંદાજ માત્ર સૂચક છે અને તેની કોઈ ગૅરંટી નથી. તે કર સલાહ નથી અને સત્તાવાર દસ્તાવેજો, કર વહીવટ કે વ્યાવસાયિકનું સ્થાન લેતો નથી. રિટર્ન ભરતાં પહેલાં તમારી પરિસ્થિતિને લાગુ નિયમો તપાસો.</string>
+    <string name="commute_km_raw" formatted="false">નોંધેલા ઘર-કામ કિમી</string>
+    <string name="commute_km_retained" formatted="false">માન્ય ઘર-કામ કિમી</string>
+    <string name="business_km" formatted="false">વ્યવસાયિક કિમી</string>
+    <string name="retained_km" formatted="false">માન્ય કિમી</string>
+    <string name="allowance" formatted="false">કિલોમીટર ભથ્થું</string>
+    <string name="tolls_parking" formatted="false">ટોલ અને પાર્કિંગ</string>
+    <string name="total" formatted="false">અંદાજિત કુલ</string>
+    <string name="flat_deduction" formatted="false">પ્રમાણભૂત 10% કપાત</string>
+    <string name="real_better" formatted="false">વાસ્તવિક ખર્ચ પ્રમાણભૂત કપાત કરતાં વધુ ફાયદાકારક લાગે છે.</string>
+    <string name="flat_better" formatted="false">પ્રમાણભૂત કપાત વાસ્તવિક ખર્ચ કરતાં વધુ ફાયદાકારક લાગે છે.</string>
+    <string name="enter_salary" formatted="false">પ્રમાણભૂત કપાત સાથે સરખામણી કરવા તમારો વાર્ષિક ચોખ્ખો કરપાત્ર પગાર દાખલ કરો.</string>
+    <string name="net_taxable_salary" formatted="false">વાર્ષિક ચોખ્ખો કરપાત્ર પગાર</string>
+    <string name="per_vehicle" formatted="false">વાહન દીઠ</string>
+    <string name="note_scale_unconfirmed" formatted="false">આ વર્ષનું દર-કોષ્ટક હજી પ્રકાશિત થયું નથી: છેલ્લું જાણીતું કોષ્ટક લાગુ કર્યું છે.</string>
+    <string name="note_cap_applied" formatted="false">ખાસ સંજોગો જાહેર ન થયા હોવાથી ઘર-કામની એક કે વધુ મુસાફરીઓ 40 કિમી સુધી મર્યાદિત કરાઈ.</string>
+    <string name="note_extra_legs" formatted="false">દિવસમાં એક ઘર-કામ આવ-જા ઉપરાંત, ખાસ સંજોગો વગરની મુસાફરીઓ બાકાત રખાઈ.</string>
+    <string name="note_no_vehicle" formatted="false">વાહન વગરની મુસાફરીઓ અવગણાઈ: ડિફૉલ્ટ વાહન પસંદ કરો.</string>
+    <string name="note_fuel">નોંધેલું ઇંધણ (%1$s) ઉમેરાયું નથી: કિલોમીટર દર-કોષ્ટકમાં તે પહેલેથી સામેલ છે.</string>
+    <string name="note_no_salary" formatted="false">પગાર દાખલ કર્યો નથી: પ્રમાણભૂત કપાત સાથે કોઈ સરખામણી નથી.</string>
+    <string name="documents_title" formatted="false">સાચવવાના દસ્તાવેજો</string>
+    <string name="documents_list" formatted="false">વાહન નોંધણી પ્રમાણપત્ર\nનોકરીનો કરાર કે નોકરીદાતાનું પ્રમાણપત્ર\nકામના દિવસોનો રેકોર્ડ\nટોલ અને પાર્કિંગની રસીદો\nખાસ સંજોગોના સમર્થનમાં કોઈપણ દસ્તાવેજ</string>
+    <string name="export" formatted="false">નિકાસ કરો</string>
+    <string name="export_title" formatted="false">નિકાસ</string>
+    <string name="export_pdf" formatted="false">PDF અહેવાલ</string>
+    <string name="export_xlsx" formatted="false">સ્પ્રેડશીટ વર્કબુક</string>
+    <string name="export_csv" formatted="false">CSV ફાઇલ</string>
+    <string name="export_period" formatted="false">સમયગાળો</string>
+    <string name="year" formatted="false">વર્ષ</string>
+    <string name="export_from" formatted="false">થી</string>
+    <string name="export_to" formatted="false">સુધી</string>
+    <string name="export_include_estimation" formatted="false">વર્ષનો અંદાજ સામેલ કરો</string>
+    <string name="export_share" formatted="false">ફાઇલ શેર શીટમાં ખૂલશે: તેને સાચવો અથવા મોકલો.</string>
+    <string name="export_failed" formatted="false">નિકાસ નિષ્ફળ ગઈ.</string>
+    <string name="report_title" formatted="false">કિલોમીટર અહેવાલ</string>
+    <string name="generated_on">%1$s ના રોજ બનાવેલ</string>
+    <string name="yes" formatted="false">હા</string>
+    <string name="no" formatted="false">ના</string>
+    <string name="import_title" formatted="false">ઇતિહાસ આયાત કરો</string>
+    <string name="import_help" formatted="false">જો તમારો ફોન તમારાં સ્થાનોનો ઇતિહાસ રાખતો હોય, તો તેનું સંચાલન કરતી ઍપમાંથી તેને JSON ફાઇલ તરીકે નિકાસ કરી અહીં ખોલી શકો છો. માત્ર વાહનથી કરેલી મુસાફરીઓ વંચાય છે. ફાઇલ રખાતી નથી: માત્ર તારીખ, અંતર અને, જાણીતાં હોય તો, પ્રસ્થાન અને ગંતવ્ય સચવાય છે.</string>
+    <string name="import_pick" formatted="false">ફાઇલ પસંદ કરો</string>
+    <string name="import_reading" formatted="false">વાંચી રહ્યું છે…</string>
+    <string name="import_found">મળેલી વાહન મુસાફરીઓ: %1$d</string>
+    <string name="import_skipped">અવગણેલી અન્ય મુસાફરીઓ (ચાલીને, સાઇકલ, જાહેર પરિવહન): %1$d</string>
+    <string name="import_default_purpose" formatted="false">ઘર-કામ તરીકે ન ઓળખાયેલી મુસાફરીઓનો હેતુ</string>
+    <string name="import_period">%1$s થી %2$s સુધી</string>
+    <string name="import_confirm">%1$d મુસાફરીઓ આયાત કરો</string>
+    <string name="import_done">આયાત કરેલી મુસાફરીઓ: %1$d</string>
+    <string name="import_nothing_new" formatted="false">કોઈ નવી મુસાફરી નથી: તે પહેલેથી આયાત થયેલી હતી.</string>
+    <string name="import_unreadable" formatted="false">આ ફાઇલ વાંચી શકાય તેવો સ્થાન ઇતિહાસ નથી.</string>
+    <string name="import_commute_hint" formatted="false">ફાઇલમાં ચિહ્નિત હોય ત્યારે તમારા ઘર અને કામના સ્થળ વચ્ચેની મુસાફરીઓ ઓળખાય છે; તેમને ઘર-કામ હેતુ મળે છે.</string>
+    <string name="backup_title" formatted="false">બૅકઅપ</string>
+    <string name="backup_explain" formatted="false">તમારો ડેટા તમે નક્કી કરો ત્યારે જ તમારા ઉપકરણમાંથી બહાર જાય છે. બૅકઅપ એક ફાઇલ છે જેને તમે ગમે ત્યાં રાખી શકો અને કોઈપણ ઉપકરણ પર પુનઃસ્થાપિત કરી શકો.</string>
+    <string name="backup_export" formatted="false">બૅકઅપ નિકાસ કરો</string>
+    <string name="backup_restore" formatted="false">બૅકઅપ પુનઃસ્થાપિત કરો</string>
+    <string name="backup_restore_help" formatted="false">પુનઃસ્થાપન ડેટા ભેગો કરે છે: ત્યારપછી નોંધેલું કંઈ ખોવાતું નથી.</string>
+    <string name="backup_restored">બૅકઅપ પુનઃસ્થાપિત થયું: કુલ %1$d મુસાફરીઓ.</string>
+    <string name="backup_invalid" formatted="false">આ ફાઇલ આ ઍપનું બૅકઅપ નથી.</string>
+    <string name="cloud_title" formatted="false">ક્લાઉડ બૅકઅપ</string>
+    <string name="cloud_explain" formatted="false">તમારા ઉપકરણની ક્લાઉડ જગ્યામાં તમારા ડેટાની આપમેળે નકલ, કોઈ વધારાના ખાતા વગર. દરેક ફેરફાર પછી તે તાજી થાય છે.</string>
+    <string name="cloud_now" formatted="false">હમણાં બૅકઅપ લો</string>
+    <string name="cloud_restore" formatted="false">ક્લાઉડમાંથી પુનઃસ્થાપિત કરો</string>
+    <string name="cloud_last">છેલ્લું ક્લાઉડ બૅકઅપ: %1$s</string>
+    <string name="cloud_never" formatted="false">હજી કોઈ ક્લાઉડ બૅકઅપ નથી.</string>
+    <string name="cloud_unavailable" formatted="false">આ ઉપકરણ પર ક્લાઉડ બૅકઅપ ઉપલબ્ધ નથી. બૅકઅપ નિકાસ વાપરો.</string>
+    <string name="cloud_done" formatted="false">ક્લાઉડ બૅકઅપ થઈ ગયું.</string>
+    <string name="cloud_nothing" formatted="false">પુનઃસ્થાપિત કરવા કોઈ ક્લાઉડ બૅકઅપ નથી.</string>
+    <string name="cloud_system_restore" formatted="false">ઍપ ફરી ઇન્સ્ટૉલ કરો કે નવું ઉપકરણ સેટ કરો ત્યારે સિસ્ટમ આ બૅકઅપ જાતે પુનઃસ્થાપિત કરે છે.</string>
+    <string name="settings" formatted="false">સેટિંગ્સ</string>
+    <string name="rules_title" formatted="false">ગણતરીના નિયમો</string>
+    <string name="rule_fr" formatted="false">ફ્રેન્ચ કિલોમીટર દર-કોષ્ટક</string>
+    <string name="rule_generic" formatted="false">કિલોમીટર દીઠ નિશ્ચિત દર</string>
+    <string name="generic_rate" formatted="false">કિલોમીટર દીઠ દર</string>
+    <string name="currency" formatted="false">ચલણ</string>
+    <string name="home_label" formatted="false">તમારા ઘરનું નામ</string>
+    <string name="work_label" formatted="false">તમારા કામના સ્થળનું નામ</string>
+    <string name="home_work_distance" formatted="false">ઘર-કામ અંતર (એક તરફ, કિમી)</string>
+    <string name="places_help" formatted="false">મનપસંદ મુસાફરીઓ અને ઇતિહાસ આયાતમાં વપરાય છે.</string>
+    <string name="pro_title" formatted="false">Pro આવૃત્તિ</string>
+    <string name="pro_subtitle" formatted="false">તમારા વાસ્તવિક ખર્ચ માટે જે જોઈએ તે બધું, અને કોઈ જાહેરાત નહીં.</string>
+    <string name="pro_features_title" formatted="false">અનલૉક થયેલી સુવિધાઓ:</string>
+    <string name="pro_feature_unlimited" formatted="false">અમર્યાદિત મુસાફરીઓ.</string>
+    <string name="pro_feature_estimation" formatted="false">વાસ્તવિક ખર્ચનો અંદાજ અને પ્રમાણભૂત કપાત સાથે સરખામણી.</string>
+    <string name="pro_feature_export" formatted="false">સંપૂર્ણ, પ્રમાણિત નિકાસ (સ્વચ્છ PDF, તમારા હિસાબનીશ કે કર રિટર્ન માટે તૈયાર સ્પ્રેડશીટ ફૉર્મેટ).</string>
+    <string name="pro_feature_import" formatted="false">તમારા ફોનના મુસાફરી ઇતિહાસની આયાત.</string>
+    <string name="pro_feature_expenses" formatted="false">ટોલ, પાર્કિંગ અને ઇંધણ અંદાજમાં ઉમેરાય.</string>
+    <string name="pro_feature_cloud" formatted="false">બૅકઅપ ફાઇલમાંથી પુનઃસ્થાપના, અને અનેક ઉપકરણો પર સિંક.</string>
+    <string name="pro_feature_widgets" formatted="false">હોમ સ્ક્રીન વિજેટ.</string>
+    <string name="pro_feature_watch" formatted="false">ઘડિયાળ ઍપ.</string>
+    <string name="pro_feature_no_ads" formatted="false">બિલકુલ કોઈ જાહેરાત નહીં.</string>
+    <string name="pro_feature_gps" formatted="false">આપમેળે GPS ટ્રૅકિંગ (ગતિ શોધ અથવા કાર સાથે બ્લૂટૂથ જોડાણ).</string>
+    <string name="pro_feature_scan" formatted="false">કૅમેરાથી ટોલ, પાર્કિંગ અને ઇંધણની રસીદોનું સ્માર્ટ સ્કૅન (OCR).</string>
+    <string name="pro_monthly">%1$s દર મહિને</string>
+    <string name="pro_yearly">%1$s દર વર્ષે</string>
+    <string name="pro_yearly_hint" formatted="false">માસિકની સરખામણીએ બે મહિના મફત</string>
+    <string name="subscribe" formatted="false">સબ્સ્ક્રાઇબ કરો</string>
+    <string name="restore_purchases" formatted="false">ખરીદીઓ પુનઃસ્થાપિત કરો</string>
+    <string name="pro_active" formatted="false">Pro આવૃત્તિ સક્રિય</string>
+    <string name="pro_active_since">સબ્સ્ક્રિપ્શન: %1$s</string>
+    <string name="pro_unavailable" formatted="false">ઍપની આ આવૃત્તિમાં ખરીદી ઉપલબ્ધ નથી.</string>
+    <string name="pro_legal" formatted="false">આપમેળે નવીકરણ થતું સબ્સ્ક્રિપ્શન, તમારા સ્ટોર ખાતામાંથી ચાર્જ થાય છે. સ્ટોર સેટિંગ્સમાંથી ગમે ત્યારે રદ કરો; મુદત પૂરી થવાના ઓછામાં ઓછા 24 કલાક પહેલાં રદ ન કરો તો આગલા સમયગાળાનો ચાર્જ લેવાશે.</string>
+    <string name="purchase_pending" formatted="false">ખરીદી ચાલુ છે…</string>
+    <string name="purchase_failed" formatted="false">ખરીદી પૂરી થઈ નહીં.</string>
+    <string name="purchase_restored" formatted="false">ખરીદીઓ પુનઃસ્થાપિત થઈ.</string>
+    <string name="purchase_nothing" formatted="false">પુનઃસ્થાપિત કરવા કંઈ નથી.</string>
+    <string name="rewarded_title" formatted="false">જાહેરાત જોઈને અજમાવો</string>
+    <string name="rewarded_explain" formatted="false">થોડા સમય માટે આ અનલૉક કરવા ટૂંકી જાહેરાત જુઓ. Pro જાહેરાતો હટાવે છે અને બધું અનલૉક કરે છે.</string>
+    <string name="rewarded_estimation" formatted="false">24 કલાક માટે અંદાજ જુઓ</string>
+    <string name="rewarded_export" formatted="false">એક નિકાસ, એક કલાકની અંદર</string>
+    <string name="rewarded_trips" formatted="false">આ મહિને વધુ 5 મુસાફરીઓ</string>
+    <string name="rewarded_watch" formatted="false">જાહેરાત જુઓ</string>
+    <string name="rewarded_unavailable" formatted="false">હમણાં કોઈ જાહેરાત ઉપલબ્ધ નથી. થોડી વારમાં ફરી પ્રયાસ કરો.</string>
+    <string name="rewarded_granted" formatted="false">અનલૉક થયું. શુભ મુસાફરી!</string>
+    <string name="expenses" formatted="false">ખર્ચ</string>
+    <string name="add_expense" formatted="false">નવો ખર્ચ</string>
+    <string name="edit_expense" formatted="false">ખર્ચ સંપાદિત કરો</string>
+    <string name="expense_kind" formatted="false">પ્રકાર</string>
+    <string name="kind_toll" formatted="false">ટોલ</string>
+    <string name="kind_parking" formatted="false">પાર્કિંગ</string>
+    <string name="kind_fuel" formatted="false">ઇંધણ</string>
+    <string name="kind_other" formatted="false">અન્ય</string>
+    <string name="amount" formatted="false">રકમ</string>
+    <string name="place" formatted="false">સ્થળ</string>
+    <string name="litres" formatted="false">લિટર</string>
+    <string name="odometer" formatted="false">ઓડોમીટર રીડિંગ</string>
+    <string name="no_expenses" formatted="false">કોઈ ખર્ચ નથી. ટોલ અને પાર્કિંગ અંદાજમાં ઉમેરાય છે.</string>
+    <string name="invalid_amount" formatted="false">0થી વધુ રકમ દાખલ કરો.</string>
+    <string name="legal_title" formatted="false">કાનૂની માહિતી અને ગોપનીયતા</string>
+    <string name="privacy_text" formatted="false">તમારો બધો ડેટા તમારા ઉપકરણ પર જ રહે છે. ઍપને કોઈ ખાતાની જરૂર નથી અને તે કોઈ સર્વરને કંઈ મોકલતી નથી. બહાર સાથેની એકમાત્ર આપ-લે તે છે જે તમે જાતે શરૂ કરો, જેમ કે નિકાસ, બૅકઅપ કે ખરીદી, અને મફત આવૃત્તિની જાહેરાતો, જે Pro આવૃત્તિ હટાવે છે.</string>
+    <string name="about" formatted="false">ઍપ વિશે</string>
+    <string name="version">આવૃત્તિ %1$s</string>
+    <string name="error_generic" formatted="false">કંઈક ખોટું થયું.</string>
+    <string name="today" formatted="false">આજે</string>
+    <string name="yesterday" formatted="false">ગઈકાલે</string>
+    <string name="ads_privacy_options" formatted="false">જાહેરાત ગોપનીયતા વિકલ્પો</string>
+    <string name="ads_disabled_title" formatted="false">જાહેરાતો બંધ છે</string>
+    <string name="ads_disabled_text" formatted="false">સિસ્ટમ જણાવે છે કે આ ખાતું એક યુવા વપરાશકર્તાનું છે. તેથી ઍપ કોઈ જાહેરાત બતાવતી નથી અને કોઈ સંમતિ માગતી નથી. કોઈ જાહેરાત ઓળખકર્તા વંચાતો નથી અને કોઈ ડેટા એકત્ર કે મોકલાતો નથી.</string>
+    <string name="watch_quick_add" formatted="false">ઝડપી મુસાફરી</string>
+    <string name="watch_no_favorites" formatted="false">તમારા ફોન પર મનપસંદ મુસાફરીઓ ઉમેરો.</string>
+    <string name="watch_added" formatted="false">ઉમેરાઈ</string>
+    <string name="watch_open_phone" formatted="false">ફોન ઍપ ખોલો</string>
+    <string name="widget_today" formatted="false">આજે</string>
+    <string name="widget_month" formatted="false">આ મહિને</string>
+    <string name="widget_pro_needed" formatted="false">વિજેટ Pro સાથે ઉપલબ્ધ</string>
+</resources>

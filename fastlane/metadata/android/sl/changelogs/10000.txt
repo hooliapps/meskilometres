@@ -1,0 +1,8 @@
+Prva izdaja aplikacije Kilomètres.
+
+• Vožnje z enim dotikom, priljubljene poti
+• Ocena dejanskih stroškov po uradni lestvici (Pro)
+• Izvoz v PDF in preglednico (Pro)
+• Uvoz zgodovine voženj (Pro)
+• Kopija v oblaku za vse; pripomoček in aplikacija za uro (Pro)
+• 71 jezikov

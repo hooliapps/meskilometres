@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">キロメートル</string>
+    <string name="widget_name" formatted="false">走行記録</string>
+    <string name="widget_description" formatted="false">今日の走行距離と、よく使う走行をワンタップで。</string>
+    <string name="tab_trips" formatted="false">走行</string>
+    <string name="tab_estimate" formatted="false">試算</string>
+    <string name="tab_more" formatted="false">その他</string>
+    <string name="this_month" formatted="false">今月</string>
+    <string name="this_year" formatted="false">今年</string>
+    <string name="trips_count">走行回数：%1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">新しい走行</string>
+    <string name="free_remaining">今月の無料で記録できる残り回数：%1$d</string>
+    <string name="free_limit_reached" formatted="false">今月の無料枠に達しました</string>
+    <string name="free_quota_reached" formatted="false">無料版では月に 5 回まで走行を記録できます。Pro にすると無制限になります。広告を見ると、さらに 5 回記録できます。</string>
+    <string name="go_pro" formatted="false">Pro にする</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">まだ走行はありません。\n+ をタップして最初の走行を記録しましょう。</string>
+    <string name="trip_new" formatted="false">新しい走行</string>
+    <string name="trip_edit" formatted="false">走行を編集</string>
+    <string name="field_date" formatted="false">日付</string>
+    <string name="field_from" formatted="false">出発地</string>
+    <string name="field_to" formatted="false">目的地</string>
+    <string name="field_distance" formatted="false">片道の距離（km）</string>
+    <string name="field_round_trip" formatted="false">往復</string>
+    <string name="field_purpose" formatted="false">目的</string>
+    <string name="field_vehicle" formatted="false">車両</string>
+    <string name="field_note" formatted="false">メモ</string>
+    <string name="field_justified" formatted="false">特別な事情</string>
+    <string name="field_justified_help" formatted="false">特定の理由で自宅と勤務先の距離が 40 km を超える場合、または同じ日に正当な理由で追加の往復をした場合はチェックしてください。</string>
+    <string name="purpose_commute" formatted="false">通勤</string>
+    <string name="purpose_business" formatted="false">業務</string>
+    <string name="purpose_personal" formatted="false">私用</string>
+    <string name="save" formatted="false">保存</string>
+    <string name="cancel" formatted="false">キャンセル</string>
+    <string name="delete" formatted="false">削除</string>
+    <string name="edit" formatted="false">編集</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">閉じる</string>
+    <string name="back" formatted="false">戻る</string>
+    <string name="confirm_delete" formatted="false">完全に削除しますか？</string>
+    <string name="invalid_distance" formatted="false">0 より大きい距離を入力してください。</string>
+    <string name="favorites" formatted="false">お気に入り</string>
+    <string name="save_as_favorite" formatted="false">お気に入りにも保存</string>
+    <string name="favorite_label" formatted="false">お気に入りの名前</string>
+    <string name="no_favorites" formatted="false">走行をお気に入りに保存すると、ワンタップで記録できます。</string>
+    <string name="use_favorite" formatted="false">お気に入りの走行</string>
+    <string name="swap" formatted="false">入れ替え</string>
+    <string name="quick_add_hint" formatted="false">お気に入りをタップすると、今日の日付で追加されます。</string>
+    <string name="added" formatted="false">走行を追加しました。</string>
+    <string name="undo" formatted="false">元に戻す</string>
+    <string name="vehicles" formatted="false">車両</string>
+    <string name="add_vehicle" formatted="false">車両を追加</string>
+    <string name="edit_vehicle" formatted="false">車両を編集</string>
+    <string name="vehicle_name" formatted="false">名前</string>
+    <string name="vehicle_kind" formatted="false">種類</string>
+    <string name="kind_car" formatted="false">自動車</string>
+    <string name="kind_motorcycle" formatted="false">バイク</string>
+    <string name="kind_moped" formatted="false">原付</string>
+    <string name="fiscal_power" formatted="false">課税馬力（CV）</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV 以上</string>
+    <string name="cv_or_less">%1$d CV 以下</string>
+    <string name="cv_range_3_5" formatted="false">3〜5 CV</string>
+    <string name="electric" formatted="false">電気自動車</string>
+    <string name="no_vehicle" formatted="false">車両がありません。試算には車両が必要です。追加してください。</string>
+    <string name="default_vehicle" formatted="false">既定の車両</string>
+    <string name="vehicle_needed" formatted="false">まず「その他 &gt; 車両」で車両を追加してください。</string>
+    <string name="estimation" formatted="false">実費の試算</string>
+    <string name="income_year">%1$d 年分の所得</string>
+    <string name="estimation_locked" formatted="false">実費の試算、エクスポート、履歴のインポート、バックアップの復元は Pro 版の機能です。</string>
+    <string name="disclaimer_short" formatted="false">この試算は目安であり、保証されるものではありません。</string>
+    <string name="disclaimer_long" formatted="false">この試算は目安であり、保証されるものではありません。税務上の助言ではなく、公式文書や税務当局、専門家に代わるものでもありません。申告前に、ご自身の状況に適用される規則をご確認ください。</string>
+    <string name="commute_km_raw" formatted="false">入力した通勤 km</string>
+    <string name="commute_km_retained" formatted="false">算入した通勤 km</string>
+    <string name="business_km" formatted="false">業務 km</string>
+    <string name="retained_km" formatted="false">算入 km</string>
+    <string name="allowance" formatted="false">走行距離手当</string>
+    <string name="tolls_parking" formatted="false">通行料と駐車料金</string>
+    <string name="total" formatted="false">試算合計</string>
+    <string name="flat_deduction" formatted="false">10% の概算控除</string>
+    <string name="real_better" formatted="false">実費の方が概算控除より有利なようです。</string>
+    <string name="flat_better" formatted="false">概算控除の方が実費より有利なようです。</string>
+    <string name="enter_salary" formatted="false">概算控除と比較するには、年間の課税対象となる手取り給与を入力してください。</string>
+    <string name="net_taxable_salary" formatted="false">年間の課税対象手取り給与</string>
+    <string name="per_vehicle" formatted="false">車両ごと</string>
+    <string name="note_scale_unconfirmed" formatted="false">今年の料率表はまだ公表されていません。最新の既知の料率表を適用しています。</string>
+    <string name="note_cap_applied" formatted="false">特別な事情の申告がないため、1 つ以上の通勤区間が 40 km に制限されました。</string>
+    <string name="note_extra_legs" formatted="false">1 日 1 往復の通勤を超える走行のうち、特別な事情のないものは除外されました。</string>
+    <string name="note_no_vehicle" formatted="false">車両のない走行は無視されました。既定の車両を選択してください。</string>
+    <string name="note_fuel">入力した燃料（%1$s）は加算されません。走行距離の料率表にすでに含まれています。</string>
+    <string name="note_no_salary" formatted="false">給与が未入力のため、概算控除との比較はありません。</string>
+    <string name="documents_title" formatted="false">保管すべき書類</string>
+    <string name="documents_list" formatted="false">車検証\n雇用契約書または勤務先の証明書\n出勤日の記録\n通行料と駐車料金の領収書\n特別な事情を裏付ける資料</string>
+    <string name="export" formatted="false">エクスポート</string>
+    <string name="export_title" formatted="false">エクスポート</string>
+    <string name="export_pdf" formatted="false">PDF レポート</string>
+    <string name="export_xlsx" formatted="false">表計算ブック</string>
+    <string name="export_csv" formatted="false">CSV ファイル</string>
+    <string name="export_period" formatted="false">期間</string>
+    <string name="year" formatted="false">年</string>
+    <string name="export_from" formatted="false">開始</string>
+    <string name="export_to" formatted="false">終了</string>
+    <string name="export_include_estimation" formatted="false">その年の試算を含める</string>
+    <string name="export_share" formatted="false">ファイルは共有シートで開きます。保存するか送信してください。</string>
+    <string name="export_failed" formatted="false">エクスポートに失敗しました。</string>
+    <string name="report_title" formatted="false">走行距離レポート</string>
+    <string name="generated_on">%1$s 作成</string>
+    <string name="yes" formatted="false">はい</string>
+    <string name="no" formatted="false">いいえ</string>
+    <string name="import_title" formatted="false">履歴をインポート</string>
+    <string name="import_help" formatted="false">スマートフォンに位置情報の履歴が保存されている場合、それを管理しているアプリから JSON ファイルとしてエクスポートし、ここで開くことができます。読み込まれるのは車での移動のみです。ファイルは保持されません。保存されるのは日付、距離、および分かる場合は出発地と目的地だけです。</string>
+    <string name="import_pick" formatted="false">ファイルを選択</string>
+    <string name="import_reading" formatted="false">読み込み中…</string>
+    <string name="import_found">見つかった車での移動：%1$d</string>
+    <string name="import_skipped">無視したその他の移動（徒歩、自転車、公共交通）：%1$d</string>
+    <string name="import_default_purpose" formatted="false">通勤と認識されなかった移動の目的</string>
+    <string name="import_period">%1$s から %2$s まで</string>
+    <string name="import_confirm">%1$d 件の走行をインポート</string>
+    <string name="import_done">インポートした走行：%1$d</string>
+    <string name="import_nothing_new" formatted="false">新しい走行はありません。すでにインポート済みです。</string>
+    <string name="import_unreadable" formatted="false">このファイルは読み取れる位置情報の履歴ではありません。</string>
+    <string name="import_commute_hint" formatted="false">自宅と勤務先の間の移動は、ファイル内でそのように示されている場合に認識され、通勤の目的が設定されます。</string>
+    <string name="backup_title" formatted="false">バックアップ</string>
+    <string name="backup_explain" formatted="false">データは、あなたが決めたときにしかデバイスの外に出ません。バックアップはファイルなので、好きな場所に保存し、どのデバイスでも復元できます。</string>
+    <string name="backup_export" formatted="false">バックアップをエクスポート</string>
+    <string name="backup_restore" formatted="false">バックアップを復元</string>
+    <string name="backup_restore_help" formatted="false">復元はデータを統合します。その後に入力した内容は失われません。</string>
+    <string name="backup_restored">バックアップを復元しました。走行は合計 %1$d 件です。</string>
+    <string name="backup_invalid" formatted="false">このファイルはこのアプリのバックアップではありません。</string>
+    <string name="cloud_title" formatted="false">クラウドバックアップ</string>
+    <string name="cloud_explain" formatted="false">追加のアカウントなしで、デバイスのクラウド領域にデータを自動的にコピーします。変更のたびに更新されます。</string>
+    <string name="cloud_now" formatted="false">今すぐバックアップ</string>
+    <string name="cloud_restore" formatted="false">クラウドから復元</string>
+    <string name="cloud_last">最後のクラウドバックアップ：%1$s</string>
+    <string name="cloud_never" formatted="false">クラウドバックアップはまだありません。</string>
+    <string name="cloud_unavailable" formatted="false">このデバイスではクラウドバックアップを利用できません。バックアップのエクスポートをご利用ください。</string>
+    <string name="cloud_done" formatted="false">クラウドバックアップが完了しました。</string>
+    <string name="cloud_nothing" formatted="false">復元できるクラウドバックアップはありません。</string>
+    <string name="cloud_system_restore" formatted="false">アプリを再インストールしたときや新しいデバイスを設定したときに、システムがこのバックアップを自動的に復元します。</string>
+    <string name="settings" formatted="false">設定</string>
+    <string name="rules_title" formatted="false">計算ルール</string>
+    <string name="rule_fr" formatted="false">フランスの走行距離料率表</string>
+    <string name="rule_generic" formatted="false">1 km あたりの定額</string>
+    <string name="generic_rate" formatted="false">1 km あたりの料率</string>
+    <string name="currency" formatted="false">通貨</string>
+    <string name="home_label" formatted="false">自宅の名前</string>
+    <string name="work_label" formatted="false">勤務先の名前</string>
+    <string name="home_work_distance" formatted="false">自宅から勤務先までの距離（片道、km）</string>
+    <string name="places_help" formatted="false">お気に入りの走行と履歴のインポートに使われます。</string>
+    <string name="pro_title" formatted="false">Pro 版</string>
+    <string name="pro_subtitle" formatted="false">実費の計算に必要なすべてを、広告なしで。</string>
+    <string name="pro_features_title" formatted="false">解放される機能：</string>
+    <string name="pro_feature_unlimited" formatted="false">走行の記録が無制限。</string>
+    <string name="pro_feature_estimation" formatted="false">実費の試算と、概算控除との比較。</string>
+    <string name="pro_feature_export" formatted="false">完全で証明可能なエクスポート（きれいな PDF、会計士や税務申告にそのまま使える表計算形式）。</string>
+    <string name="pro_feature_import" formatted="false">スマートフォンの走行履歴のインポート。</string>
+    <string name="pro_feature_expenses" formatted="false">通行料、駐車料金、燃料を試算に加算。</string>
+    <string name="pro_feature_cloud" formatted="false">バックアップファイルからの復元と、複数デバイス間の同期。</string>
+    <string name="pro_feature_widgets" formatted="false">ホーム画面ウィジェット。</string>
+    <string name="pro_feature_watch" formatted="false">ウォッチアプリ。</string>
+    <string name="pro_feature_no_ads" formatted="false">広告は一切なし。</string>
+    <string name="pro_feature_gps" formatted="false">自動 GPS 記録（モーション検出または車との Bluetooth 接続）。</string>
+    <string name="pro_feature_scan" formatted="false">カメラで通行料、駐車料金、燃料の領収書をスマートスキャン（OCR）。</string>
+    <string name="pro_monthly">月額 %1$s</string>
+    <string name="pro_yearly">年額 %1$s</string>
+    <string name="pro_yearly_hint" formatted="false">月額より 2 か月分お得</string>
+    <string name="subscribe" formatted="false">登録する</string>
+    <string name="restore_purchases" formatted="false">購入を復元</string>
+    <string name="pro_active" formatted="false">Pro 版は有効です</string>
+    <string name="pro_active_since">サブスクリプション：%1$s</string>
+    <string name="pro_unavailable" formatted="false">このバージョンのアプリでは購入できません。</string>
+    <string name="pro_legal" formatted="false">自動更新のサブスクリプションで、ストアアカウントに請求されます。ストアの設定からいつでも解約できます。期間終了の 24 時間前までに解約しない場合、次の期間の料金が請求されます。</string>
+    <string name="purchase_pending" formatted="false">購入処理中…</string>
+    <string name="purchase_failed" formatted="false">購入は完了しませんでした。</string>
+    <string name="purchase_restored" formatted="false">購入を復元しました。</string>
+    <string name="purchase_nothing" formatted="false">復元するものはありません。</string>
+    <string name="rewarded_title" formatted="false">広告を見て試す</string>
+    <string name="rewarded_explain" formatted="false">短い広告を見ると、この機能をしばらく使えます。Pro なら広告がなくなり、すべての機能が使えます。</string>
+    <string name="rewarded_estimation" formatted="false">試算を 24 時間見る</string>
+    <string name="rewarded_export" formatted="false">1 時間以内に 1 回エクスポート</string>
+    <string name="rewarded_trips" formatted="false">今月あと 5 回の走行</string>
+    <string name="rewarded_watch" formatted="false">広告を見る</string>
+    <string name="rewarded_unavailable" formatted="false">今は表示できる広告がありません。しばらくしてからもう一度お試しください。</string>
+    <string name="rewarded_granted" formatted="false">解放されました。よい旅を！</string>
+    <string name="expenses" formatted="false">経費</string>
+    <string name="add_expense" formatted="false">新しい経費</string>
+    <string name="edit_expense" formatted="false">経費を編集</string>
+    <string name="expense_kind" formatted="false">種類</string>
+    <string name="kind_toll" formatted="false">通行料</string>
+    <string name="kind_parking" formatted="false">駐車料金</string>
+    <string name="kind_fuel" formatted="false">燃料</string>
+    <string name="kind_other" formatted="false">その他</string>
+    <string name="amount" formatted="false">金額</string>
+    <string name="place" formatted="false">場所</string>
+    <string name="litres" formatted="false">リットル</string>
+    <string name="odometer" formatted="false">走行距離計の値</string>
+    <string name="no_expenses" formatted="false">経費はありません。通行料と駐車料金は試算に加算されます。</string>
+    <string name="invalid_amount" formatted="false">0 より大きい金額を入力してください。</string>
+    <string name="legal_title" formatted="false">法的事項とプライバシー</string>
+    <string name="privacy_text" formatted="false">すべてのデータはデバイス内に保存されます。アプリはアカウントを必要とせず、サーバーには何も送信しません。外部とのやり取りは、あなたが行うエクスポート、バックアップ、購入と、無料版の広告だけです。広告は Pro 版でなくなります。</string>
+    <string name="about" formatted="false">このアプリについて</string>
+    <string name="version">バージョン %1$s</string>
+    <string name="error_generic" formatted="false">問題が発生しました。</string>
+    <string name="today" formatted="false">今日</string>
+    <string name="yesterday" formatted="false">昨日</string>
+    <string name="ads_privacy_options" formatted="false">広告のプライバシー設定</string>
+    <string name="ads_disabled_title" formatted="false">広告は無効です</string>
+    <string name="ads_disabled_text" formatted="false">このアカウントは若年ユーザーのものであるとシステムから通知されています。そのため、アプリは広告を表示せず、同意も求めません。広告識別子は読み取らず、データの収集や送信も行いません。</string>
+    <string name="watch_quick_add" formatted="false">クイック走行</string>
+    <string name="watch_no_favorites" formatted="false">スマートフォンでお気に入りの走行を追加してください。</string>
+    <string name="watch_added" formatted="false">追加しました</string>
+    <string name="watch_open_phone" formatted="false">スマートフォンのアプリを開く</string>
+    <string name="widget_today" formatted="false">今日</string>
+    <string name="widget_month" formatted="false">今月</string>
+    <string name="widget_pro_needed" formatted="false">ウィジェットは Pro で利用可能</string>
+</resources>

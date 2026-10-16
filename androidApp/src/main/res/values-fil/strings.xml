@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometro</string>
+    <string name="widget_name" formatted="false">Mga biyahe</string>
+    <string name="widget_description" formatted="false">Ang kilometro ngayong araw at ang mga paborito mong biyahe sa isang tap.</string>
+    <string name="tab_trips" formatted="false">Mga biyahe</string>
+    <string name="tab_estimate" formatted="false">Tantiya</string>
+    <string name="tab_more" formatted="false">Iba pa</string>
+    <string name="this_month" formatted="false">Ngayong buwan</string>
+    <string name="this_year" formatted="false">Ngayong taon</string>
+    <string name="trips_count">Mga biyahe: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Bagong biyahe</string>
+    <string name="free_remaining">Natitirang libreng biyahe ngayong buwan: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Naabot na ang libreng limitasyon ngayong buwan</string>
+    <string name="free_quota_reached" formatted="false">Ang libreng bersyon ay may 5 biyahe bawat buwan. Mag-Pro para sa walang limitasyong biyahe, o manood ng ad para sa 5 pa.</string>
+    <string name="go_pro" formatted="false">Mag-Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Wala pang biyahe.\nI-tap ang + para itala ang una.</string>
+    <string name="trip_new" formatted="false">Bagong biyahe</string>
+    <string name="trip_edit" formatted="false">I-edit ang biyahe</string>
+    <string name="field_date" formatted="false">Petsa</string>
+    <string name="field_from" formatted="false">Mula sa</string>
+    <string name="field_to" formatted="false">Papunta sa</string>
+    <string name="field_distance" formatted="false">Distansya ng isang daan (km)</string>
+    <string name="field_round_trip" formatted="false">Balikan</string>
+    <string name="field_purpose" formatted="false">Layunin</string>
+    <string name="field_vehicle" formatted="false">Sasakyan</string>
+    <string name="field_note" formatted="false">Tala</string>
+    <string name="field_justified" formatted="false">Espesyal na kalagayan</string>
+    <string name="field_justified_help" formatted="false">Lagyan ng tsek kung lumalampas sa 40 km ang distansya ng bahay papunta sa trabaho dahil sa isang partikular na dahilan, o para sa isang makatwirang dagdag na balikang biyahe sa parehong araw.</string>
+    <string name="purpose_commute" formatted="false">Bahay-trabaho</string>
+    <string name="purpose_business" formatted="false">Negosyo</string>
+    <string name="purpose_personal" formatted="false">Personal</string>
+    <string name="save" formatted="false">I-save</string>
+    <string name="cancel" formatted="false">Kanselahin</string>
+    <string name="delete" formatted="false">Burahin</string>
+    <string name="edit" formatted="false">I-edit</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Isara</string>
+    <string name="back" formatted="false">Bumalik</string>
+    <string name="confirm_delete" formatted="false">Burahin nang tuluyan?</string>
+    <string name="invalid_distance" formatted="false">Maglagay ng distansyang higit sa 0.</string>
+    <string name="favorites" formatted="false">Mga paborito</string>
+    <string name="save_as_favorite" formatted="false">I-save din bilang paborito</string>
+    <string name="favorite_label" formatted="false">Pangalan ng paborito</string>
+    <string name="no_favorites" formatted="false">I-save ang isang biyahe bilang paborito para maitala ito sa isang tap.</string>
+    <string name="use_favorite" formatted="false">Mga paboritong biyahe</string>
+    <string name="swap" formatted="false">Baliktarin</string>
+    <string name="quick_add_hint" formatted="false">I-tap ang isang paborito para idagdag ito ngayong araw.</string>
+    <string name="added" formatted="false">Naidagdag ang biyahe.</string>
+    <string name="undo" formatted="false">I-undo</string>
+    <string name="vehicles" formatted="false">Mga sasakyan</string>
+    <string name="add_vehicle" formatted="false">Magdagdag ng sasakyan</string>
+    <string name="edit_vehicle" formatted="false">I-edit ang sasakyan</string>
+    <string name="vehicle_name" formatted="false">Pangalan</string>
+    <string name="vehicle_kind" formatted="false">Uri</string>
+    <string name="kind_car" formatted="false">Kotse</string>
+    <string name="kind_motorcycle" formatted="false">Motorsiklo</string>
+    <string name="kind_moped" formatted="false">Moped</string>
+    <string name="fiscal_power" formatted="false">Piskal na lakas (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV pataas</string>
+    <string name="cv_or_less">%1$d CV pababa</string>
+    <string name="cv_range_3_5" formatted="false">3 hanggang 5 CV</string>
+    <string name="electric" formatted="false">De-kuryenteng sasakyan</string>
+    <string name="no_vehicle" formatted="false">Walang sasakyan. Magdagdag ng isa: kailangan ito ng tantiya.</string>
+    <string name="default_vehicle" formatted="false">Default na sasakyan</string>
+    <string name="vehicle_needed" formatted="false">Magdagdag muna ng sasakyan sa Iba pa &gt; Mga sasakyan.</string>
+    <string name="estimation" formatted="false">Tantiya ng aktuwal na gastos</string>
+    <string name="income_year">Taon ng kita %1$d</string>
+    <string name="estimation_locked" formatted="false">Ang tantiya ng aktuwal na gastos, ang mga export, ang pag-import ng history at ang pag-restore ng backup ay bahagi ng bersyong Pro.</string>
+    <string name="disclaimer_short" formatted="false">Pahiwatig lang na tantiya, hindi garantisado.</string>
+    <string name="disclaimer_long" formatted="false">Ang tantiyang ito ay pahiwatig lamang at hindi garantisado. Hindi ito payo sa buwis at hindi pumapalit sa mga opisyal na teksto, sa tanggapan ng buwis o sa isang propesyonal. Suriin ang mga patakarang naaangkop sa sitwasyon mo bago maghain.</string>
+    <string name="commute_km_raw" formatted="false">Km bahay-trabaho na inilagay</string>
+    <string name="commute_km_retained" formatted="false">Km bahay-trabaho na binilang</string>
+    <string name="business_km" formatted="false">Km pangnegosyo</string>
+    <string name="retained_km" formatted="false">Km na binilang</string>
+    <string name="allowance" formatted="false">Allowance sa kilometro</string>
+    <string name="tolls_parking" formatted="false">Toll at parking</string>
+    <string name="total" formatted="false">Tinatayang kabuuan</string>
+    <string name="flat_deduction" formatted="false">Karaniwang 10% na bawas</string>
+    <string name="real_better" formatted="false">Mukhang mas kapaki-pakinabang ang aktuwal na gastos kaysa sa karaniwang bawas.</string>
+    <string name="flat_better" formatted="false">Mukhang mas kapaki-pakinabang ang karaniwang bawas kaysa sa aktuwal na gastos.</string>
+    <string name="enter_salary" formatted="false">Ilagay ang taunang net na sahod mong may buwis para maikumpara sa karaniwang bawas.</string>
+    <string name="net_taxable_salary" formatted="false">Taunang net na sahod na may buwis</string>
+    <string name="per_vehicle" formatted="false">Bawat sasakyan</string>
+    <string name="note_scale_unconfirmed" formatted="false">Hindi pa nailalathala ang talaan ng rate ngayong taon: ginagamit ang huling kilalang talaan.</string>
+    <string name="note_cap_applied" formatted="false">Isa o higit pang biyaheng bahay-trabaho ang nilimitahan sa 40 km, dahil walang idineklarang espesyal na kalagayan.</string>
+    <string name="note_extra_legs" formatted="false">Lampas sa isang balikang biyaheng bahay-trabaho bawat araw, hindi ibinilang ang mga biyaheng walang espesyal na kalagayan.</string>
+    <string name="note_no_vehicle" formatted="false">Hindi ibinilang ang mga biyaheng walang sasakyan: pumili ng default na sasakyan.</string>
+    <string name="note_fuel">Hindi idinagdag ang inilagay na gasolina (%1$s): saklaw na ito ng talaan ng rate bawat kilometro.</string>
+    <string name="note_no_salary" formatted="false">Hindi inilagay ang sahod: walang paghahambing sa karaniwang bawas.</string>
+    <string name="documents_title" formatted="false">Mga dokumentong dapat itago</string>
+    <string name="documents_list" formatted="false">Rehistro ng sasakyan\nKontrata sa trabaho o sertipiko mula sa employer\nTalaan ng mga araw na nagtrabaho\nMga resibo ng toll at parking\nAnumang nagpapatunay ng espesyal na kalagayan</string>
+    <string name="export" formatted="false">I-export</string>
+    <string name="export_title" formatted="false">Export</string>
+    <string name="export_pdf" formatted="false">Ulat na PDF</string>
+    <string name="export_xlsx" formatted="false">Workbook na spreadsheet</string>
+    <string name="export_csv" formatted="false">CSV file</string>
+    <string name="export_period" formatted="false">Panahon</string>
+    <string name="year" formatted="false">Taon</string>
+    <string name="export_from" formatted="false">Mula</string>
+    <string name="export_to" formatted="false">Hanggang</string>
+    <string name="export_include_estimation" formatted="false">Isama ang tantiya ng taon</string>
+    <string name="export_share" formatted="false">Bubukas ang file sa share sheet: i-save o ipasa ito.</string>
+    <string name="export_failed" formatted="false">Hindi nagtagumpay ang export.</string>
+    <string name="report_title" formatted="false">Ulat ng kilometro</string>
+    <string name="generated_on">Ginawa noong %1$s</string>
+    <string name="yes" formatted="false">oo</string>
+    <string name="no" formatted="false">hindi</string>
+    <string name="import_title" formatted="false">Mag-import ng history</string>
+    <string name="import_help" formatted="false">Kung nagtatago ang telepono mo ng history ng mga lokasyon mo, puwede mo itong i-export bilang JSON file mula sa app na namamahala nito, at buksan dito. Tanging mga biyaheng sakay ng sasakyan ang binabasa. Hindi itinatago ang file: tanging petsa, distansya at, kung alam, ang pinagmulan at destinasyon ang iniimbak.</string>
+    <string name="import_pick" formatted="false">Piliin ang file</string>
+    <string name="import_reading" formatted="false">Binabasa…</string>
+    <string name="import_found">Nahanap na biyahe sa sasakyan: %1$d</string>
+    <string name="import_skipped">Iba pang biyaheng hindi isinama (lakad, bisikleta, pampublikong sasakyan): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Layunin para sa mga biyaheng hindi nakilala bilang bahay-trabaho</string>
+    <string name="import_period">Mula %1$s hanggang %2$s</string>
+    <string name="import_confirm">I-import ang %1$d biyahe</string>
+    <string name="import_done">Na-import na biyahe: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Walang bagong biyahe: na-import na ang mga ito.</string>
+    <string name="import_unreadable" formatted="false">Hindi mababasang history ng lokasyon ang file na ito.</string>
+    <string name="import_commute_hint" formatted="false">Nakikilala ang mga biyahe sa pagitan ng bahay at trabaho mo kapag may ganoong label sa file; nakukuha ng mga ito ang layuning bahay-trabaho.</string>
+    <string name="backup_title" formatted="false">Backup</string>
+    <string name="backup_explain" formatted="false">Lumalabas lang sa device mo ang data mo kapag ikaw ang nagpasya. Ang backup ay isang file na puwede mong itago kahit saan at i-restore sa anumang device.</string>
+    <string name="backup_export" formatted="false">Mag-export ng backup</string>
+    <string name="backup_restore" formatted="false">Mag-restore ng backup</string>
+    <string name="backup_restore_help" formatted="false">Pinagsasama ng pag-restore: walang mawawala sa mga inilagay mo mula noon.</string>
+    <string name="backup_restored">Na-restore ang backup: %1$d biyahe sa kabuuan.</string>
+    <string name="backup_invalid" formatted="false">Hindi backup mula sa app na ito ang file na ito.</string>
+    <string name="cloud_title" formatted="false">Cloud backup</string>
+    <string name="cloud_explain" formatted="false">Awtomatikong kopya ng data mo sa cloud space ng device mo, nang walang dagdag na account. Nire-refresh ito pagkatapos ng bawat pagbabago.</string>
+    <string name="cloud_now" formatted="false">Mag-backup ngayon</string>
+    <string name="cloud_restore" formatted="false">I-restore mula sa cloud</string>
+    <string name="cloud_last">Huling cloud backup: %1$s</string>
+    <string name="cloud_never" formatted="false">Wala pang cloud backup.</string>
+    <string name="cloud_unavailable" formatted="false">Hindi available ang cloud backup sa device na ito. Gamitin ang pag-export ng backup.</string>
+    <string name="cloud_done" formatted="false">Tapos na ang cloud backup.</string>
+    <string name="cloud_nothing" formatted="false">Walang cloud backup na ire-restore.</string>
+    <string name="cloud_system_restore" formatted="false">Kusang nire-restore ng system ang backup na ito kapag muli mong na-install ang app o nag-set up ka ng bagong device.</string>
+    <string name="settings" formatted="false">Mga setting</string>
+    <string name="rules_title" formatted="false">Mga patakaran sa pagkalkula</string>
+    <string name="rule_fr" formatted="false">Talaan ng rate bawat kilometro ng France</string>
+    <string name="rule_generic" formatted="false">Fixed na rate bawat kilometro</string>
+    <string name="generic_rate" formatted="false">Rate bawat kilometro</string>
+    <string name="currency" formatted="false">Currency</string>
+    <string name="home_label" formatted="false">Pangalan ng bahay mo</string>
+    <string name="work_label" formatted="false">Pangalan ng lugar ng trabaho mo</string>
+    <string name="home_work_distance" formatted="false">Distansya ng bahay-trabaho (isang daan, km)</string>
+    <string name="places_help" formatted="false">Ginagamit ng mga paboritong biyahe at ng pag-import ng history.</string>
+    <string name="pro_title" formatted="false">Bersyong Pro</string>
+    <string name="pro_subtitle" formatted="false">Lahat ng kailangan mo para sa aktuwal na gastos, at walang ad.</string>
+    <string name="pro_features_title" formatted="false">Mga na-unlock na feature:</string>
+    <string name="pro_feature_unlimited" formatted="false">Walang limitasyong biyahe.</string>
+    <string name="pro_feature_estimation" formatted="false">Tantiya ng aktuwal na gastos at paghahambing sa karaniwang bawas.</string>
+    <string name="pro_feature_export" formatted="false">Kumpleto at sertipikadong export (malinis na PDF, spreadsheet na handa para sa accountant o sa tax return mo).</string>
+    <string name="pro_feature_import" formatted="false">Pag-import ng history ng biyahe ng telepono mo.</string>
+    <string name="pro_feature_expenses" formatted="false">Toll, parking at gasolina na idinagdag sa tantiya.</string>
+    <string name="pro_feature_cloud" formatted="false">Pag-restore mula sa backup file, at pag-sync sa lahat ng device mo.</string>
+    <string name="pro_feature_widgets" formatted="false">Widget sa home screen.</string>
+    <string name="pro_feature_watch" formatted="false">App para sa relo.</string>
+    <string name="pro_feature_no_ads" formatted="false">Walang kahit anong ad.</string>
+    <string name="pro_feature_gps" formatted="false">Awtomatikong GPS tracking (motion detection o koneksyong Bluetooth sa kotse).</string>
+    <string name="pro_feature_scan" formatted="false">Smart scan (OCR) ng mga resibo ng toll, parking at gasolina gamit ang camera.</string>
+    <string name="pro_monthly">%1$s bawat buwan</string>
+    <string name="pro_yearly">%1$s bawat taon</string>
+    <string name="pro_yearly_hint" formatted="false">Dalawang buwang libre kumpara sa buwanan</string>
+    <string name="subscribe" formatted="false">Mag-subscribe</string>
+    <string name="restore_purchases" formatted="false">I-restore ang mga pagbili</string>
+    <string name="pro_active" formatted="false">Aktibo ang bersyong Pro</string>
+    <string name="pro_active_since">Subskripsyon: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Hindi available ang pagbili sa bersyong ito ng app.</string>
+    <string name="pro_legal" formatted="false">Subscription na awtomatikong nagre-renew, sinisingil sa store account mo. Puwedeng kanselahin anumang oras sa mga setting ng store; sisingilin ang presyo para sa susunod na panahon maliban kung kinansela nang hindi bababa sa 24 oras bago ito matapos.</string>
+    <string name="purchase_pending" formatted="false">Isinasagawa ang pagbili…</string>
+    <string name="purchase_failed" formatted="false">Hindi natapos ang pagbili.</string>
+    <string name="purchase_restored" formatted="false">Na-restore ang mga pagbili.</string>
+    <string name="purchase_nothing" formatted="false">Walang ire-restore.</string>
+    <string name="rewarded_title" formatted="false">Subukan gamit ang ad</string>
+    <string name="rewarded_explain" formatted="false">Manood ng maikling ad para ma-unlock ito nang ilang sandali. Inaalis ng Pro ang mga ad at ina-unlock ang lahat.</string>
+    <string name="rewarded_estimation" formatted="false">Tingnan ang tantiya sa loob ng 24 oras</string>
+    <string name="rewarded_export" formatted="false">Isang export, sa loob ng isang oras</string>
+    <string name="rewarded_trips" formatted="false">5 pang biyahe ngayong buwan</string>
+    <string name="rewarded_watch" formatted="false">Manood ng ad</string>
+    <string name="rewarded_unavailable" formatted="false">Walang available na ad sa ngayon. Subukan ulit mamaya.</string>
+    <string name="rewarded_granted" formatted="false">Na-unlock. Ingat sa biyahe!</string>
+    <string name="expenses" formatted="false">Mga gastos</string>
+    <string name="add_expense" formatted="false">Bagong gastos</string>
+    <string name="edit_expense" formatted="false">I-edit ang gastos</string>
+    <string name="expense_kind" formatted="false">Uri</string>
+    <string name="kind_toll" formatted="false">Toll</string>
+    <string name="kind_parking" formatted="false">Parking</string>
+    <string name="kind_fuel" formatted="false">Gasolina</string>
+    <string name="kind_other" formatted="false">Iba pa</string>
+    <string name="amount" formatted="false">Halaga</string>
+    <string name="place" formatted="false">Lugar</string>
+    <string name="litres" formatted="false">Litro</string>
+    <string name="odometer" formatted="false">Basa ng odometer</string>
+    <string name="no_expenses" formatted="false">Walang gastos. Idinaragdag sa tantiya ang toll at parking.</string>
+    <string name="invalid_amount" formatted="false">Maglagay ng halagang higit sa 0.</string>
+    <string name="legal_title" formatted="false">Legal at privacy</string>
+    <string name="privacy_text" formatted="false">Nananatili sa device mo ang lahat ng data mo. Hindi nangangailangan ng account ang app at walang ipinapadala sa server. Ang tanging palitan sa labas ay ang mga pinasimulan mo, isang export, backup o pagbili, at ang mga ad ng libreng bersyon, na inaalis ng bersyong Pro.</string>
+    <string name="about" formatted="false">Tungkol dito</string>
+    <string name="version">Bersyon %1$s</string>
+    <string name="error_generic" formatted="false">May nangyaring mali.</string>
+    <string name="today" formatted="false">Ngayon</string>
+    <string name="yesterday" formatted="false">Kahapon</string>
+    <string name="ads_privacy_options" formatted="false">Mga opsyon sa privacy ng ad</string>
+    <string name="ads_disabled_title" formatted="false">Naka-disable ang mga ad</string>
+    <string name="ads_disabled_text" formatted="false">Ipinapakita ng system na pag-aari ng isang batang user ang account na ito. Kaya hindi nagpapakita ng ad ang app at hindi humihingi ng pahintulot. Walang binabasang advertising identifier at walang kinokolekta o ipinapadalang data.</string>
+    <string name="watch_quick_add" formatted="false">Mabilis na biyahe</string>
+    <string name="watch_no_favorites" formatted="false">Magdagdag ng mga paboritong biyahe sa telepono mo.</string>
+    <string name="watch_added" formatted="false">Naidagdag</string>
+    <string name="watch_open_phone" formatted="false">Buksan ang app sa telepono</string>
+    <string name="widget_today" formatted="false">Ngayon</string>
+    <string name="widget_month" formatted="false">Ngayong buwan</string>
+    <string name="widget_pro_needed" formatted="false">Available ang widget sa Pro</string>
+</resources>

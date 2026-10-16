@@ -1,0 +1,8 @@
+Första versionen av Kilomètres.
+
+• Resor med ett tryck, favoritsträckor
+• Uppskattning av faktiska kostnader med den officiella tabellen (Pro)
+• PDF- och kalkylbladsexport (Pro)
+• Import av resehistorik (Pro)
+• Molnsäkerhetskopia för alla; widget och klock-app (Pro)
+• 71 språk

@@ -1,0 +1,8 @@
+Prvo izdanje aplikacije Kilomètres.
+
+• Vožnje jednim dodirom, omiljene rute
+• Procjena stvarnih troškova prema službenoj tarifi (Pro)
+• Izvoz u PDF i tablicu (Pro)
+• Uvoz povijesti vožnji (Pro)
+• Kopija u oblaku za sve; widget i aplikacija za sat (Pro)
+• 71 jezik

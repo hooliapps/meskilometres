@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">קילומטרים</string>
+    <string name="widget_name" formatted="false">נסיעות</string>
+    <string name="widget_description" formatted="false">הקילומטרים של היום והנסיעות המועדפות שלך בהקשה אחת.</string>
+    <string name="tab_trips" formatted="false">נסיעות</string>
+    <string name="tab_estimate" formatted="false">אומדן</string>
+    <string name="tab_more" formatted="false">עוד</string>
+    <string name="this_month" formatted="false">החודש</string>
+    <string name="this_year" formatted="false">השנה</string>
+    <string name="trips_count">נסיעות: %1$d</string>
+    <string name="km_value">%1$s ק\"מ</string>
+    <string name="add_trip" formatted="false">נסיעה חדשה</string>
+    <string name="free_remaining">נסיעות חינם שנותרו החודש: %1$d</string>
+    <string name="free_limit_reached" formatted="false">הגעת למכסת החינם של החודש</string>
+    <string name="free_quota_reached" formatted="false">הגרסה החינמית מאפשרת 5 נסיעות בחודש. עברו ל-Pro לנסיעות ללא הגבלה, או צפו בפרסומת לקבלת 5 נסיעות נוספות.</string>
+    <string name="go_pro" formatted="false">מעבר ל-Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">עדיין אין נסיעות.\nהקישו על + כדי לרשום את הראשונה.</string>
+    <string name="trip_new" formatted="false">נסיעה חדשה</string>
+    <string name="trip_edit" formatted="false">עריכת נסיעה</string>
+    <string name="field_date" formatted="false">תאריך</string>
+    <string name="field_from" formatted="false">מוצא</string>
+    <string name="field_to" formatted="false">יעד</string>
+    <string name="field_distance" formatted="false">מרחק לכיוון אחד (ק\"מ)</string>
+    <string name="field_round_trip" formatted="false">הלוך ושוב</string>
+    <string name="field_purpose" formatted="false">מטרה</string>
+    <string name="field_vehicle" formatted="false">רכב</string>
+    <string name="field_note" formatted="false">הערה</string>
+    <string name="field_justified" formatted="false">נסיבות מיוחדות</string>
+    <string name="field_justified_help" formatted="false">יש לסמן אם המרחק מהבית לעבודה עולה על 40 ק\"מ מסיבה מסוימת, או עבור נסיעת הלוך ושוב נוספת ומוצדקת באותו יום.</string>
+    <string name="purpose_commute" formatted="false">בית-עבודה</string>
+    <string name="purpose_business" formatted="false">עסקית</string>
+    <string name="purpose_personal" formatted="false">פרטית</string>
+    <string name="save" formatted="false">שמירה</string>
+    <string name="cancel" formatted="false">ביטול</string>
+    <string name="delete" formatted="false">מחיקה</string>
+    <string name="edit" formatted="false">עריכה</string>
+    <string name="ok" formatted="false">אישור</string>
+    <string name="close" formatted="false">סגירה</string>
+    <string name="back" formatted="false">חזרה</string>
+    <string name="confirm_delete" formatted="false">למחוק לצמיתות?</string>
+    <string name="invalid_distance" formatted="false">יש להזין מרחק גדול מ-0.</string>
+    <string name="favorites" formatted="false">מועדפים</string>
+    <string name="save_as_favorite" formatted="false">לשמור גם כמועדף</string>
+    <string name="favorite_label" formatted="false">שם המועדף</string>
+    <string name="no_favorites" formatted="false">שמרו נסיעה כמועדפת כדי לרשום אותה בהקשה אחת.</string>
+    <string name="use_favorite" formatted="false">נסיעות מועדפות</string>
+    <string name="swap" formatted="false">החלפה</string>
+    <string name="quick_add_hint" formatted="false">הקישו על מועדף כדי להוסיף אותו להיום.</string>
+    <string name="added" formatted="false">הנסיעה נוספה.</string>
+    <string name="undo" formatted="false">ביטול</string>
+    <string name="vehicles" formatted="false">כלי רכב</string>
+    <string name="add_vehicle" formatted="false">הוספת רכב</string>
+    <string name="edit_vehicle" formatted="false">עריכת רכב</string>
+    <string name="vehicle_name" formatted="false">שם</string>
+    <string name="vehicle_kind" formatted="false">סוג</string>
+    <string name="kind_car" formatted="false">מכונית</string>
+    <string name="kind_motorcycle" formatted="false">אופנוע</string>
+    <string name="kind_moped" formatted="false">טוסטוס</string>
+    <string name="fiscal_power" formatted="false">כוח סוס פיסקלי (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV ומעלה</string>
+    <string name="cv_or_less">%1$d CV ומטה</string>
+    <string name="cv_range_3_5" formatted="false">3 עד 5 CV</string>
+    <string name="electric" formatted="false">רכב חשמלי</string>
+    <string name="no_vehicle" formatted="false">אין רכב. הוסיפו אחד: האומדן זקוק לו.</string>
+    <string name="default_vehicle" formatted="false">רכב ברירת מחדל</string>
+    <string name="vehicle_needed" formatted="false">קודם הוסיפו רכב בעוד &gt; כלי רכב.</string>
+    <string name="estimation" formatted="false">אומדן הוצאות בפועל</string>
+    <string name="income_year">שנת הכנסה %1$d</string>
+    <string name="estimation_locked" formatted="false">אומדן ההוצאות בפועל, הייצוא, ייבוא ההיסטוריה ושחזור גיבוי הם חלק מגרסת Pro.</string>
+    <string name="disclaimer_short" formatted="false">אומדן להמחשה בלבד, ללא אחריות.</string>
+    <string name="disclaimer_long" formatted="false">אומדן זה הוא להמחשה בלבד ואינו מובטח. הוא אינו ייעוץ מס ואינו מחליף את הטקסטים הרשמיים, את רשות המסים או איש מקצוע. בדקו את הכללים החלים על מצבכם לפני הגשת הדוח.</string>
+    <string name="commute_km_raw" formatted="false">ק\"מ בית-עבודה שהוזנו</string>
+    <string name="commute_km_retained" formatted="false">ק\"מ בית-עבודה שנכללו</string>
+    <string name="business_km" formatted="false">ק\"מ עסקיים</string>
+    <string name="retained_km" formatted="false">ק\"מ שנכללו</string>
+    <string name="allowance" formatted="false">קצובת קילומטראז\'</string>
+    <string name="tolls_parking" formatted="false">אגרות וחניה</string>
+    <string name="total" formatted="false">סך הכול משוער</string>
+    <string name="flat_deduction" formatted="false">ניכוי קבוע של 10%</string>
+    <string name="real_better" formatted="false">ההוצאות בפועל נראות משתלמות יותר מהניכוי הקבוע.</string>
+    <string name="flat_better" formatted="false">הניכוי הקבוע נראה משתלם יותר מההוצאות בפועל.</string>
+    <string name="enter_salary" formatted="false">הזינו את השכר השנתי נטו החייב במס כדי להשוות לניכוי הקבוע.</string>
+    <string name="net_taxable_salary" formatted="false">שכר שנתי נטו חייב במס</string>
+    <string name="per_vehicle" formatted="false">לפי רכב</string>
+    <string name="note_scale_unconfirmed" formatted="false">התעריף של השנה עדיין לא פורסם: מוחל התעריף האחרון הידוע.</string>
+    <string name="note_cap_applied" formatted="false">נסיעת בית-עבודה אחת או יותר הוגבלה ל-40 ק\"מ, מכיוון שלא הוצהרו נסיבות מיוחדות.</string>
+    <string name="note_extra_legs" formatted="false">מעבר לנסיעת הלוך ושוב אחת בין הבית לעבודה ביום, נסיעות ללא נסיבות מיוחדות לא נכללו.</string>
+    <string name="note_no_vehicle" formatted="false">נסיעות ללא רכב לא נכללו: בחרו רכב ברירת מחדל.</string>
+    <string name="note_fuel">הדלק שהוזן (%1$s) אינו מתווסף: תעריף הקילומטראז\' כבר כולל אותו.</string>
+    <string name="note_no_salary" formatted="false">לא הוזן שכר: אין השוואה לניכוי הקבוע.</string>
+    <string name="documents_title" formatted="false">מסמכים שיש לשמור</string>
+    <string name="documents_list" formatted="false">רישיון הרכב\nחוזה עבודה או אישור מהמעסיק\nרישום ימי העבודה\nקבלות על אגרות וחניה\nכל מסמך התומך בנסיבות מיוחדות</string>
+    <string name="export" formatted="false">ייצוא</string>
+    <string name="export_title" formatted="false">ייצוא</string>
+    <string name="export_pdf" formatted="false">דוח PDF</string>
+    <string name="export_xlsx" formatted="false">חוברת גיליון אלקטרוני</string>
+    <string name="export_csv" formatted="false">קובץ CSV</string>
+    <string name="export_period" formatted="false">תקופה</string>
+    <string name="year" formatted="false">שנה</string>
+    <string name="export_from" formatted="false">מתאריך</string>
+    <string name="export_to" formatted="false">עד תאריך</string>
+    <string name="export_include_estimation" formatted="false">לכלול את אומדן השנה</string>
+    <string name="export_share" formatted="false">הקובץ נפתח בחלון השיתוף: שמרו או שלחו אותו.</string>
+    <string name="export_failed" formatted="false">הייצוא נכשל.</string>
+    <string name="report_title" formatted="false">דוח קילומטראז\'</string>
+    <string name="generated_on">הופק בתאריך %1$s</string>
+    <string name="yes" formatted="false">כן</string>
+    <string name="no" formatted="false">לא</string>
+    <string name="import_title" formatted="false">ייבוא היסטוריה</string>
+    <string name="import_help" formatted="false">אם הטלפון שלכם שומר היסטוריה של המיקומים שלכם, תוכלו לייצא אותה כקובץ JSON מהאפליקציה שמנהלת אותה, ואז לפתוח אותו כאן. נקראות רק נסיעות ברכב. הקובץ אינו נשמר: נשמרים רק התאריך, המרחק, וכשהם ידועים, המוצא והיעד.</string>
+    <string name="import_pick" formatted="false">בחירת קובץ</string>
+    <string name="import_reading" formatted="false">קורא…</string>
+    <string name="import_found">נסיעות ברכב שנמצאו: %1$d</string>
+    <string name="import_skipped">מסלולים אחרים שלא נכללו (הליכה, אופניים, תחבורה ציבורית): %1$d</string>
+    <string name="import_default_purpose" formatted="false">מטרה לנסיעות שלא זוהו כבית-עבודה</string>
+    <string name="import_period">מ-%1$s עד %2$s</string>
+    <string name="import_confirm">ייבוא %1$d נסיעות</string>
+    <string name="import_done">נסיעות שיובאו: %1$d</string>
+    <string name="import_nothing_new" formatted="false">אין נסיעה חדשה: הן כבר יובאו.</string>
+    <string name="import_unreadable" formatted="false">קובץ זה אינו היסטוריית מיקומים קריאה.</string>
+    <string name="import_commute_hint" formatted="false">מסלולים בין הבית למקום העבודה מזוהים כשהקובץ מסמן אותם; הם מקבלים את המטרה בית-עבודה.</string>
+    <string name="backup_title" formatted="false">גיבוי</string>
+    <string name="backup_explain" formatted="false">הנתונים שלכם יוצאים מהמכשיר רק כשאתם מחליטים. גיבוי הוא קובץ שאפשר לשמור בכל מקום ולשחזר בכל מכשיר.</string>
+    <string name="backup_export" formatted="false">ייצוא גיבוי</string>
+    <string name="backup_restore" formatted="false">שחזור גיבוי</string>
+    <string name="backup_restore_help" formatted="false">השחזור ממזג: שום דבר שהזנתם מאז לא הולך לאיבוד.</string>
+    <string name="backup_restored">הגיבוי שוחזר: %1$d נסיעות בסך הכול.</string>
+    <string name="backup_invalid" formatted="false">קובץ זה אינו גיבוי של אפליקציה זו.</string>
+    <string name="cloud_title" formatted="false">גיבוי בענן</string>
+    <string name="cloud_explain" formatted="false">העתק אוטומטי של הנתונים שלכם במרחב הענן של המכשיר, ללא חשבון נוסף. הוא מתעדכן אחרי כל שינוי.</string>
+    <string name="cloud_now" formatted="false">לגבות עכשיו</string>
+    <string name="cloud_restore" formatted="false">שחזור מהענן</string>
+    <string name="cloud_last">גיבוי הענן האחרון: %1$s</string>
+    <string name="cloud_never" formatted="false">עדיין אין גיבוי בענן.</string>
+    <string name="cloud_unavailable" formatted="false">גיבוי בענן אינו זמין במכשיר זה. השתמשו בייצוא גיבוי.</string>
+    <string name="cloud_done" formatted="false">גיבוי הענן הושלם.</string>
+    <string name="cloud_nothing" formatted="false">אין גיבוי בענן לשחזור.</string>
+    <string name="cloud_system_restore" formatted="false">המערכת משחזרת גיבוי זה בעצמה בעת התקנה מחדש של האפליקציה או הגדרת מכשיר חדש.</string>
+    <string name="settings" formatted="false">הגדרות</string>
+    <string name="rules_title" formatted="false">כללי חישוב</string>
+    <string name="rule_fr" formatted="false">תעריף הקילומטראז\' הצרפתי</string>
+    <string name="rule_generic" formatted="false">תעריף קבוע לקילומטר</string>
+    <string name="generic_rate" formatted="false">תעריף לקילומטר</string>
+    <string name="currency" formatted="false">מטבע</string>
+    <string name="home_label" formatted="false">שם הבית שלכם</string>
+    <string name="work_label" formatted="false">שם מקום העבודה שלכם</string>
+    <string name="home_work_distance" formatted="false">מרחק בית-עבודה (כיוון אחד, ק\"מ)</string>
+    <string name="places_help" formatted="false">משמשים לנסיעות מועדפות ולייבוא ההיסטוריה.</string>
+    <string name="pro_title" formatted="false">גרסת Pro</string>
+    <string name="pro_subtitle" formatted="false">כל מה שצריך להוצאות בפועל, ובלי פרסומות.</string>
+    <string name="pro_features_title" formatted="false">תכונות שנפתחות:</string>
+    <string name="pro_feature_unlimited" formatted="false">נסיעות ללא הגבלה.</string>
+    <string name="pro_feature_estimation" formatted="false">אומדן הוצאות בפועל והשוואה לניכוי הקבוע.</string>
+    <string name="pro_feature_export" formatted="false">ייצוא מלא ומאושר (PDF נקי, פורמט גיליון אלקטרוני מוכן לרואה החשבון או לדוח המס).</string>
+    <string name="pro_feature_import" formatted="false">ייבוא היסטוריית הנסיעות מהטלפון שלכם.</string>
+    <string name="pro_feature_expenses" formatted="false">אגרות, חניה ודלק מתווספים לאומדן.</string>
+    <string name="pro_feature_cloud" formatted="false">שחזור מקובץ גיבוי, וסנכרון בין המכשירים שלכם.</string>
+    <string name="pro_feature_widgets" formatted="false">ווידג\'ט למסך הבית.</string>
+    <string name="pro_feature_watch" formatted="false">אפליקציה לשעון.</string>
+    <string name="pro_feature_no_ads" formatted="false">בלי פרסומות בכלל.</string>
+    <string name="pro_feature_gps" formatted="false">מעקב GPS אוטומטי (זיהוי תנועה או חיבור Bluetooth לרכב).</string>
+    <string name="pro_feature_scan" formatted="false">סריקה חכמה (OCR) של קבלות אגרה, חניה ודלק באמצעות המצלמה.</string>
+    <string name="pro_monthly">%1$s לחודש</string>
+    <string name="pro_yearly">%1$s לשנה</string>
+    <string name="pro_yearly_hint" formatted="false">חודשיים חינם לעומת מנוי חודשי</string>
+    <string name="subscribe" formatted="false">הרשמה למנוי</string>
+    <string name="restore_purchases" formatted="false">שחזור רכישות</string>
+    <string name="pro_active" formatted="false">גרסת Pro פעילה</string>
+    <string name="pro_active_since">מנוי: %1$s</string>
+    <string name="pro_unavailable" formatted="false">רכישות אינן זמינות בגרסה זו של האפליקציה.</string>
+    <string name="pro_legal" formatted="false">מנוי מתחדש אוטומטית, המחויב בחשבון החנות שלכם. ניתן לבטל בכל עת בהגדרות החנות; המחיר מחויב עבור התקופה הבאה אלא אם המנוי בוטל לפחות 24 שעות לפני סיומה.</string>
+    <string name="purchase_pending" formatted="false">הרכישה מתבצעת…</string>
+    <string name="purchase_failed" formatted="false">הרכישה לא הושלמה.</string>
+    <string name="purchase_restored" formatted="false">הרכישות שוחזרו.</string>
+    <string name="purchase_nothing" formatted="false">אין מה לשחזר.</string>
+    <string name="rewarded_title" formatted="false">לנסות עם פרסומת</string>
+    <string name="rewarded_explain" formatted="false">צפו בפרסומת קצרה כדי לפתוח תכונה זו לזמן מה. Pro מסיר את הפרסומות ופותח הכול.</string>
+    <string name="rewarded_estimation" formatted="false">לראות את האומדן למשך 24 שעות</string>
+    <string name="rewarded_export" formatted="false">ייצוא אחד, בתוך שעה</string>
+    <string name="rewarded_trips" formatted="false">5 נסיעות נוספות החודש</string>
+    <string name="rewarded_watch" formatted="false">צפייה בפרסומת</string>
+    <string name="rewarded_unavailable" formatted="false">אין פרסומת זמינה כרגע. נסו שוב בעוד רגע.</string>
+    <string name="rewarded_granted" formatted="false">נפתח. נסיעה טובה!</string>
+    <string name="expenses" formatted="false">הוצאות</string>
+    <string name="add_expense" formatted="false">הוצאה חדשה</string>
+    <string name="edit_expense" formatted="false">עריכת הוצאה</string>
+    <string name="expense_kind" formatted="false">סוג</string>
+    <string name="kind_toll" formatted="false">אגרה</string>
+    <string name="kind_parking" formatted="false">חניה</string>
+    <string name="kind_fuel" formatted="false">דלק</string>
+    <string name="kind_other" formatted="false">אחר</string>
+    <string name="amount" formatted="false">סכום</string>
+    <string name="place" formatted="false">מקום</string>
+    <string name="litres" formatted="false">ליטרים</string>
+    <string name="odometer" formatted="false">קריאת מד המרחק</string>
+    <string name="no_expenses" formatted="false">אין הוצאות. אגרות וחניה מתווספות לאומדן.</string>
+    <string name="invalid_amount" formatted="false">יש להזין סכום גדול מ-0.</string>
+    <string name="legal_title" formatted="false">מידע משפטי ופרטיות</string>
+    <string name="privacy_text" formatted="false">כל הנתונים שלכם נשארים במכשיר. האפליקציה אינה דורשת חשבון ואינה שולחת דבר לשרת. החיבורים היחידים החוצה הם אלה שאתם מפעילים, ייצוא, גיבוי או רכישה, והפרסומות של הגרסה החינמית, שגרסת Pro מסירה.</string>
+    <string name="about" formatted="false">אודות</string>
+    <string name="version">גרסה %1$s</string>
+    <string name="error_generic" formatted="false">משהו השתבש.</string>
+    <string name="today" formatted="false">היום</string>
+    <string name="yesterday" formatted="false">אתמול</string>
+    <string name="ads_privacy_options" formatted="false">אפשרויות פרטיות לפרסומות</string>
+    <string name="ads_disabled_title" formatted="false">הפרסומות מושבתות</string>
+    <string name="ads_disabled_text" formatted="false">המערכת מציינת שחשבון זה שייך למשתמש צעיר. לכן האפליקציה אינה מציגה פרסומות ואינה מבקשת הסכמה. לא נקרא מזהה פרסום ולא נאספים או נשלחים נתונים.</string>
+    <string name="watch_quick_add" formatted="false">נסיעה מהירה</string>
+    <string name="watch_no_favorites" formatted="false">הוסיפו נסיעות מועדפות בטלפון.</string>
+    <string name="watch_added" formatted="false">נוסף</string>
+    <string name="watch_open_phone" formatted="false">פתיחת האפליקציה בטלפון</string>
+    <string name="widget_today" formatted="false">היום</string>
+    <string name="widget_month" formatted="false">החודש</string>
+    <string name="widget_pro_needed" formatted="false">הווידג\'ט זמין עם Pro</string>
+</resources>

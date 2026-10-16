@@ -1,0 +1,8 @@
+Pierwsze wydanie Kilomètres.
+
+• Przejazdy jednym dotknięciem, ulubione trasy
+• Szacunek kosztów rzeczywistych według oficjalnych stawek (Pro)
+• Eksport do PDF i arkusza (Pro)
+• Import historii przejazdów (Pro)
+• Kopia w chmurze dla wszystkich; widżet i aplikacja na zegarek (Pro)
+• 71 języków

@@ -1,0 +1,8 @@
+Phiên bản đầu tiên của Kilomètres.
+
+• Hành trình trong một chạm, tuyến đường yêu thích
+• Ước tính chi phí thực tế theo biểu giá chính thức (Pro)
+• Xuất PDF và bảng tính (Pro)
+• Nhập lịch sử hành trình (Pro)
+• Sao lưu đám mây cho mọi người; tiện ích và ứng dụng đồng hồ (Pro)
+• 71 ngôn ngữ

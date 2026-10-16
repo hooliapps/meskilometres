@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilomita</string>
+    <string name="widget_name" formatted="false">Safari</string>
+    <string name="widget_description" formatted="false">Kilomita za leo na safari zako unazozipenda kwa mguso mmoja.</string>
+    <string name="tab_trips" formatted="false">Safari</string>
+    <string name="tab_estimate" formatted="false">Makadirio</string>
+    <string name="tab_more" formatted="false">Zaidi</string>
+    <string name="this_month" formatted="false">Mwezi huu</string>
+    <string name="this_year" formatted="false">Mwaka huu</string>
+    <string name="trips_count">Safari: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Safari mpya</string>
+    <string name="free_remaining">Safari za bure zilizobaki mwezi huu: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Kikomo cha bure cha mwezi huu kimefikiwa</string>
+    <string name="free_quota_reached" formatted="false">Toleo la bure linaruhusu safari 5 kwa mwezi. Nenda Pro kwa safari zisizo na kikomo, au tazama tangazo upate 5 zaidi.</string>
+    <string name="go_pro" formatted="false">Nenda Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Hakuna safari bado.\nGusa + kurekodi ya kwanza.</string>
+    <string name="trip_new" formatted="false">Safari mpya</string>
+    <string name="trip_edit" formatted="false">Hariri safari</string>
+    <string name="field_date" formatted="false">Tarehe</string>
+    <string name="field_from" formatted="false">Kutoka</string>
+    <string name="field_to" formatted="false">Kwenda</string>
+    <string name="field_distance" formatted="false">Umbali wa njia moja (km)</string>
+    <string name="field_round_trip" formatted="false">Kwenda na kurudi</string>
+    <string name="field_purpose" formatted="false">Madhumuni</string>
+    <string name="field_vehicle" formatted="false">Gari</string>
+    <string name="field_note" formatted="false">Kumbuka</string>
+    <string name="field_justified" formatted="false">Hali maalum</string>
+    <string name="field_justified_help" formatted="false">Tia alama ikiwa umbali kutoka nyumbani hadi kazini unazidi km 40 kwa sababu mahususi, au kwa safari ya ziada ya kwenda na kurudi yenye sababu ya haki siku hiyo hiyo.</string>
+    <string name="purpose_commute" formatted="false">Nyumbani-kazini</string>
+    <string name="purpose_business" formatted="false">Kikazi</string>
+    <string name="purpose_personal" formatted="false">Binafsi</string>
+    <string name="save" formatted="false">Hifadhi</string>
+    <string name="cancel" formatted="false">Ghairi</string>
+    <string name="delete" formatted="false">Futa</string>
+    <string name="edit" formatted="false">Hariri</string>
+    <string name="ok" formatted="false">Sawa</string>
+    <string name="close" formatted="false">Funga</string>
+    <string name="back" formatted="false">Rudi</string>
+    <string name="confirm_delete" formatted="false">Futa kabisa?</string>
+    <string name="invalid_distance" formatted="false">Weka umbali unaozidi 0.</string>
+    <string name="favorites" formatted="false">Vipendwa</string>
+    <string name="save_as_favorite" formatted="false">Hifadhi pia kama kipendwa</string>
+    <string name="favorite_label" formatted="false">Jina la kipendwa</string>
+    <string name="no_favorites" formatted="false">Hifadhi safari kama kipendwa ili kuirekodi kwa mguso mmoja.</string>
+    <string name="use_favorite" formatted="false">Safari pendwa</string>
+    <string name="swap" formatted="false">Badilisha</string>
+    <string name="quick_add_hint" formatted="false">Gusa kipendwa kukiongeza kwa leo.</string>
+    <string name="added" formatted="false">Safari imeongezwa.</string>
+    <string name="undo" formatted="false">Tendua</string>
+    <string name="vehicles" formatted="false">Magari</string>
+    <string name="add_vehicle" formatted="false">Ongeza gari</string>
+    <string name="edit_vehicle" formatted="false">Hariri gari</string>
+    <string name="vehicle_name" formatted="false">Jina</string>
+    <string name="vehicle_kind" formatted="false">Aina</string>
+    <string name="kind_car" formatted="false">Gari</string>
+    <string name="kind_motorcycle" formatted="false">Pikipiki</string>
+    <string name="kind_moped" formatted="false">Pikipiki ndogo</string>
+    <string name="fiscal_power" formatted="false">Nguvu ya kodi (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV na zaidi</string>
+    <string name="cv_or_less">%1$d CV na chini</string>
+    <string name="cv_range_3_5" formatted="false">CV 3 hadi 5</string>
+    <string name="electric" formatted="false">Gari la umeme</string>
+    <string name="no_vehicle" formatted="false">Hakuna gari. Ongeza moja: makadirio yanalihitaji.</string>
+    <string name="default_vehicle" formatted="false">Gari chaguomsingi</string>
+    <string name="vehicle_needed" formatted="false">Ongeza gari kwanza katika Zaidi &gt; Magari.</string>
+    <string name="estimation" formatted="false">Makadirio ya gharama halisi</string>
+    <string name="income_year">Mwaka wa mapato %1$d</string>
+    <string name="estimation_locked" formatted="false">Makadirio ya gharama halisi, uhamishaji, uingizaji wa historia na kurejesha nakala rudufu ni sehemu ya toleo la Pro.</string>
+    <string name="disclaimer_short" formatted="false">Makadirio ya kukuelekeza tu, hayana dhamana.</string>
+    <string name="disclaimer_long" formatted="false">Makadirio haya ni ya kukuelekeza tu na hayana dhamana. Si ushauri wa kodi na hayachukui nafasi ya maandiko rasmi, mamlaka ya kodi au mtaalamu. Hakiki sheria zinazohusu hali yako kabla ya kuwasilisha.</string>
+    <string name="commute_km_raw" formatted="false">Km nyumbani-kazini zilizowekwa</string>
+    <string name="commute_km_retained" formatted="false">Km nyumbani-kazini zilizokubaliwa</string>
+    <string name="business_km" formatted="false">Km za kikazi</string>
+    <string name="retained_km" formatted="false">Km zilizokubaliwa</string>
+    <string name="allowance" formatted="false">Posho ya kilomita</string>
+    <string name="tolls_parking" formatted="false">Ushuru wa barabara na maegesho</string>
+    <string name="total" formatted="false">Jumla inayokadiriwa</string>
+    <string name="flat_deduction" formatted="false">Punguzo la kawaida la 10%</string>
+    <string name="real_better" formatted="false">Gharama halisi zinaonekana kuwa na faida zaidi kuliko punguzo la kawaida.</string>
+    <string name="flat_better" formatted="false">Punguzo la kawaida linaonekana kuwa na faida zaidi kuliko gharama halisi.</string>
+    <string name="enter_salary" formatted="false">Weka mshahara wako halisi wa mwaka unaotozwa kodi ili kulinganisha na punguzo la kawaida.</string>
+    <string name="net_taxable_salary" formatted="false">Mshahara halisi wa mwaka unaotozwa kodi</string>
+    <string name="per_vehicle" formatted="false">Kwa kila gari</string>
+    <string name="note_scale_unconfirmed" formatted="false">Jedwali la mwaka huu bado halijachapishwa: jedwali la mwisho linalojulikana limetumika.</string>
+    <string name="note_cap_applied" formatted="false">Safari moja au zaidi za nyumbani-kazini zilipunguzwa hadi km 40, kwa kuwa hakuna hali maalum iliyotangazwa.</string>
+    <string name="note_extra_legs" formatted="false">Zaidi ya safari moja ya kwenda na kurudi nyumbani-kazini kwa siku, safari zisizo na hali maalum ziliachwa.</string>
+    <string name="note_no_vehicle" formatted="false">Safari zisizo na gari zilipuuzwa: chagua gari chaguomsingi.</string>
+    <string name="note_fuel">Mafuta yaliyowekwa (%1$s) hayaongezwi: jedwali la kilomita tayari linayajumuisha.</string>
+    <string name="note_no_salary" formatted="false">Mshahara haujawekwa: hakuna ulinganisho na punguzo la kawaida.</string>
+    <string name="documents_title" formatted="false">Nyaraka za kuhifadhi</string>
+    <string name="documents_list" formatted="false">Hati ya usajili wa gari\nMkataba wa ajira au cheti cha mwajiri\nRekodi ya siku zilizofanyiwa kazi\nRisiti za ushuru wa barabara na maegesho\nChochote kinachothibitisha hali maalum</string>
+    <string name="export" formatted="false">Hamisha</string>
+    <string name="export_title" formatted="false">Uhamishaji</string>
+    <string name="export_pdf" formatted="false">Ripoti ya PDF</string>
+    <string name="export_xlsx" formatted="false">Kitabu cha lahajedwali</string>
+    <string name="export_csv" formatted="false">Faili ya CSV</string>
+    <string name="export_period" formatted="false">Kipindi</string>
+    <string name="year" formatted="false">Mwaka</string>
+    <string name="export_from" formatted="false">Kuanzia</string>
+    <string name="export_to" formatted="false">Hadi</string>
+    <string name="export_include_estimation" formatted="false">Jumuisha makadirio ya mwaka</string>
+    <string name="export_share" formatted="false">Faili inafunguka kwenye dirisha la kushiriki: ihifadhi au itume.</string>
+    <string name="export_failed" formatted="false">Uhamishaji umeshindikana.</string>
+    <string name="report_title" formatted="false">Ripoti ya kilomita</string>
+    <string name="generated_on">Imetengenezwa tarehe %1$s</string>
+    <string name="yes" formatted="false">ndiyo</string>
+    <string name="no" formatted="false">hapana</string>
+    <string name="import_title" formatted="false">Ingiza historia</string>
+    <string name="import_help" formatted="false">Ikiwa simu yako inahifadhi historia ya maeneo uliyokuwepo, unaweza kuihamisha kama faili ya JSON kutoka kwenye programu inayoisimamia, kisha uifungue hapa. Safari za gari pekee ndizo zinazosomwa. Faili haihifadhiwi: tarehe, umbali na, zikijulikana, sehemu ya kuanzia na mwisho pekee ndizo zinazohifadhiwa.</string>
+    <string name="import_pick" formatted="false">Chagua faili</string>
+    <string name="import_reading" formatted="false">Inasoma…</string>
+    <string name="import_found">Safari za gari zilizopatikana: %1$d</string>
+    <string name="import_skipped">Safari nyingine zilizopuuzwa (kwa miguu, baiskeli, usafiri wa umma): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Madhumuni ya safari ambazo hazijatambuliwa kama nyumbani-kazini</string>
+    <string name="import_period">Kuanzia %1$s hadi %2$s</string>
+    <string name="import_confirm">Ingiza safari %1$d</string>
+    <string name="import_done">Safari zilizoingizwa: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Hakuna safari mpya: zilikuwa tayari zimeingizwa.</string>
+    <string name="import_unreadable" formatted="false">Faili hii si historia ya maeneo inayoweza kusomeka.</string>
+    <string name="import_commute_hint" formatted="false">Safari kati ya nyumbani kwako na mahali pako pa kazi zinatambuliwa faili inapozitaja; zinapata madhumuni ya nyumbani-kazini.</string>
+    <string name="backup_title" formatted="false">Nakala rudufu</string>
+    <string name="backup_explain" formatted="false">Data yako inatoka kwenye kifaa chako tu unapoamua. Nakala rudufu ni faili unayoweza kuhifadhi popote na kuirejesha kwenye kifaa chochote.</string>
+    <string name="backup_export" formatted="false">Hamisha nakala rudufu</string>
+    <string name="backup_restore" formatted="false">Rejesha nakala rudufu</string>
+    <string name="backup_restore_help" formatted="false">Kurejesha kunaunganisha: hakuna ulichoweka tangu wakati huo kinachopotea.</string>
+    <string name="backup_restored">Nakala rudufu imerejeshwa: jumla ya safari %1$d.</string>
+    <string name="backup_invalid" formatted="false">Faili hii si nakala rudufu ya programu hii.</string>
+    <string name="cloud_title" formatted="false">Nakala rudufu ya wingu</string>
+    <string name="cloud_explain" formatted="false">Nakala ya kiotomatiki ya data yako katika nafasi ya wingu ya kifaa chako, bila akaunti ya ziada. Inasasishwa baada ya kila mabadiliko.</string>
+    <string name="cloud_now" formatted="false">Hifadhi nakala sasa</string>
+    <string name="cloud_restore" formatted="false">Rejesha kutoka kwenye wingu</string>
+    <string name="cloud_last">Nakala rudufu ya mwisho ya wingu: %1$s</string>
+    <string name="cloud_never" formatted="false">Hakuna nakala rudufu ya wingu bado.</string>
+    <string name="cloud_unavailable" formatted="false">Nakala rudufu ya wingu haipatikani kwenye kifaa hiki. Tumia uhamishaji wa nakala rudufu.</string>
+    <string name="cloud_done" formatted="false">Nakala rudufu ya wingu imekamilika.</string>
+    <string name="cloud_nothing" formatted="false">Hakuna nakala rudufu ya wingu ya kurejesha.</string>
+    <string name="cloud_system_restore" formatted="false">Mfumo hurejesha nakala rudufu hii wenyewe unaposakinisha programu upya au unapoweka kifaa kipya.</string>
+    <string name="settings" formatted="false">Mipangilio</string>
+    <string name="rules_title" formatted="false">Kanuni za hesabu</string>
+    <string name="rule_fr" formatted="false">Jedwali la kilomita la Ufaransa</string>
+    <string name="rule_generic" formatted="false">Kiwango kisichobadilika kwa kilomita</string>
+    <string name="generic_rate" formatted="false">Kiwango kwa kilomita</string>
+    <string name="currency" formatted="false">Sarafu</string>
+    <string name="home_label" formatted="false">Jina la nyumbani kwako</string>
+    <string name="work_label" formatted="false">Jina la mahali pako pa kazi</string>
+    <string name="home_work_distance" formatted="false">Umbali nyumbani-kazini (njia moja, km)</string>
+    <string name="places_help" formatted="false">Hutumiwa na safari pendwa na uingizaji wa historia.</string>
+    <string name="pro_title" formatted="false">Toleo la Pro</string>
+    <string name="pro_subtitle" formatted="false">Kila unachohitaji kwa gharama zako halisi, na bila matangazo.</string>
+    <string name="pro_features_title" formatted="false">Vipengele vilivyofunguliwa:</string>
+    <string name="pro_feature_unlimited" formatted="false">Safari zisizo na kikomo.</string>
+    <string name="pro_feature_estimation" formatted="false">Makadirio ya gharama halisi na ulinganisho na punguzo la kawaida.</string>
+    <string name="pro_feature_export" formatted="false">Uhamishaji kamili na uliothibitishwa (PDF safi, umbizo la lahajedwali tayari kwa mhasibu wako au tamko la kodi).</string>
+    <string name="pro_feature_import" formatted="false">Uingizaji wa historia ya safari za simu yako.</string>
+    <string name="pro_feature_expenses" formatted="false">Ushuru wa barabara, maegesho na mafuta vinaongezwa kwenye makadirio.</string>
+    <string name="pro_feature_cloud" formatted="false">Kurejesha kutoka kwenye faili ya nakala rudufu, na usawazishaji kati ya vifaa vyako.</string>
+    <string name="pro_feature_widgets" formatted="false">Wijeti ya skrini ya kwanza.</string>
+    <string name="pro_feature_watch" formatted="false">Programu ya saa.</string>
+    <string name="pro_feature_no_ads" formatted="false">Hakuna matangazo kabisa.</string>
+    <string name="pro_feature_gps" formatted="false">Ufuatiliaji wa GPS wa kiotomatiki (utambuzi wa mwendo au muunganisho wa Bluetooth na gari).</string>
+    <string name="pro_feature_scan" formatted="false">Uskani mahiri (OCR) wa risiti za ushuru wa barabara, maegesho na mafuta kwa kamera.</string>
+    <string name="pro_monthly">%1$s kwa mwezi</string>
+    <string name="pro_yearly">%1$s kwa mwaka</string>
+    <string name="pro_yearly_hint" formatted="false">Miezi miwili bure ikilinganishwa na ya kila mwezi</string>
+    <string name="subscribe" formatted="false">Jisajili</string>
+    <string name="restore_purchases" formatted="false">Rejesha ununuzi</string>
+    <string name="pro_active" formatted="false">Toleo la Pro limewashwa</string>
+    <string name="pro_active_since">Usajili: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Ununuzi haupatikani katika toleo hili la programu.</string>
+    <string name="pro_legal" formatted="false">Usajili unaojisasisha wenyewe, unaotozwa kwenye akaunti yako ya duka. Ghairi wakati wowote katika mipangilio ya duka; bei inatozwa kwa kipindi kinachofuata isipokuwa ukighairi angalau saa 24 kabla ya kumalizika.</string>
+    <string name="purchase_pending" formatted="false">Ununuzi unaendelea…</string>
+    <string name="purchase_failed" formatted="false">Ununuzi haukukamilika.</string>
+    <string name="purchase_restored" formatted="false">Ununuzi umerejeshwa.</string>
+    <string name="purchase_nothing" formatted="false">Hakuna cha kurejesha.</string>
+    <string name="rewarded_title" formatted="false">Jaribu kwa tangazo</string>
+    <string name="rewarded_explain" formatted="false">Tazama tangazo fupi ili kufungua kipengele hiki kwa muda. Pro huondoa matangazo na kufungua kila kitu.</string>
+    <string name="rewarded_estimation" formatted="false">Ona makadirio kwa saa 24</string>
+    <string name="rewarded_export" formatted="false">Uhamishaji mmoja, ndani ya saa moja</string>
+    <string name="rewarded_trips" formatted="false">Safari 5 zaidi mwezi huu</string>
+    <string name="rewarded_watch" formatted="false">Tazama tangazo</string>
+    <string name="rewarded_unavailable" formatted="false">Hakuna tangazo linalopatikana sasa hivi. Jaribu tena baada ya muda mfupi.</string>
+    <string name="rewarded_granted" formatted="false">Imefunguliwa. Safari njema!</string>
+    <string name="expenses" formatted="false">Gharama</string>
+    <string name="add_expense" formatted="false">Gharama mpya</string>
+    <string name="edit_expense" formatted="false">Hariri gharama</string>
+    <string name="expense_kind" formatted="false">Aina</string>
+    <string name="kind_toll" formatted="false">Ushuru wa barabara</string>
+    <string name="kind_parking" formatted="false">Maegesho</string>
+    <string name="kind_fuel" formatted="false">Mafuta</string>
+    <string name="kind_other" formatted="false">Nyingine</string>
+    <string name="amount" formatted="false">Kiasi</string>
+    <string name="place" formatted="false">Mahali</string>
+    <string name="litres" formatted="false">Lita</string>
+    <string name="odometer" formatted="false">Usomaji wa odomita</string>
+    <string name="no_expenses" formatted="false">Hakuna gharama. Ushuru wa barabara na maegesho huongezwa kwenye makadirio.</string>
+    <string name="invalid_amount" formatted="false">Weka kiasi kinachozidi 0.</string>
+    <string name="legal_title" formatted="false">Kisheria na faragha</string>
+    <string name="privacy_text" formatted="false">Data yako yote inabaki kwenye kifaa chako. Programu haihitaji akaunti na haitumi chochote kwa seva. Mawasiliano pekee na nje ni yale unayoyaanzisha, uhamishaji, nakala rudufu au ununuzi, na matangazo ya toleo la bure, ambayo toleo la Pro huyaondoa.</string>
+    <string name="about" formatted="false">Kuhusu</string>
+    <string name="version">Toleo %1$s</string>
+    <string name="error_generic" formatted="false">Hitilafu imetokea.</string>
+    <string name="today" formatted="false">Leo</string>
+    <string name="yesterday" formatted="false">Jana</string>
+    <string name="ads_privacy_options" formatted="false">Chaguo za faragha ya matangazo</string>
+    <string name="ads_disabled_title" formatted="false">Matangazo yamezimwa</string>
+    <string name="ads_disabled_text" formatted="false">Mfumo unaonyesha kuwa akaunti hii ni ya mtumiaji mdogo. Kwa hivyo programu haionyeshi matangazo na haiombi idhini yoyote. Hakuna kitambulisho cha matangazo kinachosomwa na hakuna data inayokusanywa au kutumwa.</string>
+    <string name="watch_quick_add" formatted="false">Safari ya haraka</string>
+    <string name="watch_no_favorites" formatted="false">Ongeza safari pendwa kwenye simu yako.</string>
+    <string name="watch_added" formatted="false">Imeongezwa</string>
+    <string name="watch_open_phone" formatted="false">Fungua programu ya simu</string>
+    <string name="widget_today" formatted="false">Leo</string>
+    <string name="widget_month" formatted="false">Mwezi huu</string>
+    <string name="widget_pro_needed" formatted="false">Wijeti inapatikana na Pro</string>
+</resources>

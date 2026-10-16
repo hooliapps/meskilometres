@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">公里</string>
+    <string name="widget_name" formatted="false">行程</string>
+    <string name="widget_description" formatted="false">今日公里數和常用行程，一鍵記錄。</string>
+    <string name="tab_trips" formatted="false">行程</string>
+    <string name="tab_estimate" formatted="false">估算</string>
+    <string name="tab_more" formatted="false">更多</string>
+    <string name="this_month" formatted="false">本月</string>
+    <string name="this_year" formatted="false">今年</string>
+    <string name="trips_count">行程：%1$d</string>
+    <string name="km_value">%1$s 公里</string>
+    <string name="add_trip" formatted="false">新增行程</string>
+    <string name="free_remaining">本月剩餘免費行程：%1$d</string>
+    <string name="free_limit_reached" formatted="false">本月免費額度已用完</string>
+    <string name="free_quota_reached" formatted="false">免費版每月可記錄 5 趟行程。升級 Pro 版即可不限次數，或觀看一則廣告再獲得 5 趟。</string>
+    <string name="go_pro" formatted="false">升級 Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">還沒有行程。\n點選 + 記錄第一趟行程。</string>
+    <string name="trip_new" formatted="false">新增行程</string>
+    <string name="trip_edit" formatted="false">編輯行程</string>
+    <string name="field_date" formatted="false">日期</string>
+    <string name="field_from" formatted="false">出發地</string>
+    <string name="field_to" formatted="false">目的地</string>
+    <string name="field_distance" formatted="false">單程距離（公里）</string>
+    <string name="field_round_trip" formatted="false">來回</string>
+    <string name="field_purpose" formatted="false">用途</string>
+    <string name="field_vehicle" formatted="false">車輛</string>
+    <string name="field_note" formatted="false">備註</string>
+    <string name="field_justified" formatted="false">特殊情況</string>
+    <string name="field_justified_help" formatted="false">若住家與工作地點之間的距離因特定原因超過 40 公里，或當天有正當理由的額外來回，請勾選。</string>
+    <string name="purpose_commute" formatted="false">通勤</string>
+    <string name="purpose_business" formatted="false">公務</string>
+    <string name="purpose_personal" formatted="false">私人</string>
+    <string name="save" formatted="false">儲存</string>
+    <string name="cancel" formatted="false">取消</string>
+    <string name="delete" formatted="false">刪除</string>
+    <string name="edit" formatted="false">編輯</string>
+    <string name="ok" formatted="false">好</string>
+    <string name="close" formatted="false">關閉</string>
+    <string name="back" formatted="false">返回</string>
+    <string name="confirm_delete" formatted="false">永久刪除？</string>
+    <string name="invalid_distance" formatted="false">請輸入大於 0 的距離。</string>
+    <string name="favorites" formatted="false">常用</string>
+    <string name="save_as_favorite" formatted="false">同時儲存為常用行程</string>
+    <string name="favorite_label" formatted="false">常用行程名稱</string>
+    <string name="no_favorites" formatted="false">將行程儲存為常用行程，即可一鍵記錄。</string>
+    <string name="use_favorite" formatted="false">常用行程</string>
+    <string name="swap" formatted="false">對調</string>
+    <string name="quick_add_hint" formatted="false">點選一個常用行程，即可加入今天。</string>
+    <string name="added" formatted="false">已新增行程。</string>
+    <string name="undo" formatted="false">復原</string>
+    <string name="vehicles" formatted="false">車輛</string>
+    <string name="add_vehicle" formatted="false">新增車輛</string>
+    <string name="edit_vehicle" formatted="false">編輯車輛</string>
+    <string name="vehicle_name" formatted="false">名稱</string>
+    <string name="vehicle_kind" formatted="false">類型</string>
+    <string name="kind_car" formatted="false">汽車</string>
+    <string name="kind_motorcycle" formatted="false">機車</string>
+    <string name="kind_moped" formatted="false">輕型機車</string>
+    <string name="fiscal_power" formatted="false">財政馬力（CV）</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV 以上</string>
+    <string name="cv_or_less">%1$d CV 以下</string>
+    <string name="cv_range_3_5" formatted="false">3 至 5 CV</string>
+    <string name="electric" formatted="false">電動車輛</string>
+    <string name="no_vehicle" formatted="false">沒有車輛。請新增一輛：估算需要它。</string>
+    <string name="default_vehicle" formatted="false">預設車輛</string>
+    <string name="vehicle_needed" formatted="false">請先在「更多 &gt; 車輛」中新增車輛。</string>
+    <string name="estimation" formatted="false">實際費用估算</string>
+    <string name="income_year">%1$d 年所得</string>
+    <string name="estimation_locked" formatted="false">實際費用估算、匯出、歷史記錄匯入和備份還原屬於 Pro 版功能。</string>
+    <string name="disclaimer_short" formatted="false">估算僅供參考，不作保證。</string>
+    <string name="disclaimer_long" formatted="false">本估算僅供參考，不作保證。它不構成稅務建議，也不能取代官方文件、稅務機關或專業人士的意見。申報前請確認適用於您情況的規定。</string>
+    <string name="commute_km_raw" formatted="false">已輸入的通勤公里</string>
+    <string name="commute_km_retained" formatted="false">採計的通勤公里</string>
+    <string name="business_km" formatted="false">公務公里</string>
+    <string name="retained_km" formatted="false">採計公里</string>
+    <string name="allowance" formatted="false">里程補助</string>
+    <string name="tolls_parking" formatted="false">過路費和停車費</string>
+    <string name="total" formatted="false">估算總額</string>
+    <string name="flat_deduction" formatted="false">10% 標準扣除</string>
+    <string name="real_better" formatted="false">實際費用看起來比標準扣除更有利。</string>
+    <string name="flat_better" formatted="false">標準扣除看起來比實際費用更有利。</string>
+    <string name="enter_salary" formatted="false">輸入您的年度應稅淨薪資，以便與標準扣除比較。</string>
+    <string name="net_taxable_salary" formatted="false">年度應稅淨薪資</string>
+    <string name="per_vehicle" formatted="false">依車輛</string>
+    <string name="note_scale_unconfirmed" formatted="false">今年的里程費率表尚未公布：已採用最新已知的費率表。</string>
+    <string name="note_cap_applied" formatted="false">一段或多段通勤路程已被限制為 40 公里，因為未申報特殊情況。</string>
+    <string name="note_extra_legs" formatted="false">每天一趟通勤來回之外，未註明特殊情況的行程已被排除。</string>
+    <string name="note_no_vehicle" formatted="false">未指定車輛的行程已被忽略：請選擇預設車輛。</string>
+    <string name="note_fuel">已輸入的燃料（%1$s）不另行計入：里程費率表已包含它。</string>
+    <string name="note_no_salary" formatted="false">未輸入薪資：無法與標準扣除比較。</string>
+    <string name="documents_title" formatted="false">需保留的憑證</string>
+    <string name="documents_list" formatted="false">行車執照\n勞動契約或雇主證明\n工作日紀錄\n過路費和停車費收據\n任何可證明特殊情況的資料</string>
+    <string name="export" formatted="false">匯出</string>
+    <string name="export_title" formatted="false">匯出</string>
+    <string name="export_pdf" formatted="false">PDF 報告</string>
+    <string name="export_xlsx" formatted="false">試算表</string>
+    <string name="export_csv" formatted="false">CSV 檔案</string>
+    <string name="export_period" formatted="false">期間</string>
+    <string name="year" formatted="false">年份</string>
+    <string name="export_from" formatted="false">從</string>
+    <string name="export_to" formatted="false">至</string>
+    <string name="export_include_estimation" formatted="false">包含本年度估算</string>
+    <string name="export_share" formatted="false">檔案會在分享面板中開啟：可儲存或傳送。</string>
+    <string name="export_failed" formatted="false">匯出失敗。</string>
+    <string name="report_title" formatted="false">里程報告</string>
+    <string name="generated_on">產生於 %1$s</string>
+    <string name="yes" formatted="false">是</string>
+    <string name="no" formatted="false">否</string>
+    <string name="import_title" formatted="false">匯入歷史記錄</string>
+    <string name="import_help" formatted="false">如果您的手機保存了位置歷史記錄，可以從管理該記錄的應用程式將其匯出為 JSON 檔案，然後在此處開啟。只會讀取乘車出行的記錄。檔案不會被保留：只儲存日期、距離，以及已知的出發地和目的地。</string>
+    <string name="import_pick" formatted="false">選擇檔案</string>
+    <string name="import_reading" formatted="false">讀取中…</string>
+    <string name="import_found">找到的乘車出行：%1$d</string>
+    <string name="import_skipped">已忽略的其他出行（步行、騎車、大眾運輸）：%1$d</string>
+    <string name="import_default_purpose" formatted="false">未識別為通勤的出行用途</string>
+    <string name="import_period">從 %1$s 到 %2$s</string>
+    <string name="import_confirm">匯入 %1$d 趟行程</string>
+    <string name="import_done">已匯入行程：%1$d</string>
+    <string name="import_nothing_new" formatted="false">沒有新行程：它們之前已匯入。</string>
+    <string name="import_unreadable" formatted="false">此檔案不是可讀取的位置歷史記錄。</string>
+    <string name="import_commute_hint" formatted="false">當檔案標註了住家與工作地點之間的出行時，這些出行會被識別並歸為通勤用途。</string>
+    <string name="backup_title" formatted="false">備份</string>
+    <string name="backup_explain" formatted="false">您的資料只在您決定時才離開裝置。備份是一個檔案，可以存放在任何地方，並在任何裝置上還原。</string>
+    <string name="backup_export" formatted="false">匯出備份</string>
+    <string name="backup_restore" formatted="false">還原備份</string>
+    <string name="backup_restore_help" formatted="false">還原時會合併資料：此後輸入的內容不會遺失。</string>
+    <string name="backup_restored">備份已還原：共 %1$d 趟行程。</string>
+    <string name="backup_invalid" formatted="false">此檔案不是本應用程式的備份。</string>
+    <string name="cloud_title" formatted="false">雲端備份</string>
+    <string name="cloud_explain" formatted="false">自動將資料複製到裝置內建的雲端空間，無需額外帳戶。每次變更後都會更新。</string>
+    <string name="cloud_now" formatted="false">立即備份</string>
+    <string name="cloud_restore" formatted="false">從雲端還原</string>
+    <string name="cloud_last">上次雲端備份：%1$s</string>
+    <string name="cloud_never" formatted="false">尚無雲端備份。</string>
+    <string name="cloud_unavailable" formatted="false">此裝置不支援雲端備份。請使用備份匯出。</string>
+    <string name="cloud_done" formatted="false">雲端備份完成。</string>
+    <string name="cloud_nothing" formatted="false">沒有可還原的雲端備份。</string>
+    <string name="cloud_system_restore" formatted="false">重新安裝應用程式或設定新裝置時，系統會自動還原此備份。</string>
+    <string name="settings" formatted="false">設定</string>
+    <string name="rules_title" formatted="false">計算規則</string>
+    <string name="rule_fr" formatted="false">法國里程費率表</string>
+    <string name="rule_generic" formatted="false">每公里固定費率</string>
+    <string name="generic_rate" formatted="false">每公里費率</string>
+    <string name="currency" formatted="false">貨幣</string>
+    <string name="home_label" formatted="false">住家名稱</string>
+    <string name="work_label" formatted="false">工作地點名稱</string>
+    <string name="home_work_distance" formatted="false">住家到工作地點距離（單程，公里）</string>
+    <string name="places_help" formatted="false">用於常用行程和歷史記錄匯入。</string>
+    <string name="pro_title" formatted="false">Pro 版</string>
+    <string name="pro_subtitle" formatted="false">實際費用所需的一切，而且沒有廣告。</string>
+    <string name="pro_features_title" formatted="false">解鎖的功能：</string>
+    <string name="pro_feature_unlimited" formatted="false">不限次數的行程。</string>
+    <string name="pro_feature_estimation" formatted="false">實際費用估算，並與標準扣除比較。</string>
+    <string name="pro_feature_export" formatted="false">完整、可認證的匯出（整潔的 PDF，以及可直接交給會計師或用於報稅的試算表格式）。</string>
+    <string name="pro_feature_import" formatted="false">匯入手機的行程歷史記錄。</string>
+    <string name="pro_feature_expenses" formatted="false">過路費、停車費和燃料計入估算。</string>
+    <string name="pro_feature_cloud" formatted="false">從備份檔案還原，以及多裝置同步。</string>
+    <string name="pro_feature_widgets" formatted="false">主畫面小工具。</string>
+    <string name="pro_feature_watch" formatted="false">手錶應用程式。</string>
+    <string name="pro_feature_no_ads" formatted="false">完全沒有廣告。</string>
+    <string name="pro_feature_gps" formatted="false">自動 GPS 記錄（動作偵測或與汽車的藍牙連線）。</string>
+    <string name="pro_feature_scan" formatted="false">用相機智慧掃描（OCR）過路費、停車費和燃料收據。</string>
+    <string name="pro_monthly">每月 %1$s</string>
+    <string name="pro_yearly">每年 %1$s</string>
+    <string name="pro_yearly_hint" formatted="false">比按月訂閱省兩個月</string>
+    <string name="subscribe" formatted="false">訂閱</string>
+    <string name="restore_purchases" formatted="false">還原購買</string>
+    <string name="pro_active" formatted="false">Pro 版已啟用</string>
+    <string name="pro_active_since">訂閱：%1$s</string>
+    <string name="pro_unavailable" formatted="false">此版本的應用程式不支援購買。</string>
+    <string name="pro_legal" formatted="false">自動續訂的訂閱，透過您的商店帳戶扣款。可隨時在商店設定中取消；除非在週期結束前至少 24 小時取消，否則將按下一週期扣款。</string>
+    <string name="purchase_pending" formatted="false">購買中…</string>
+    <string name="purchase_failed" formatted="false">購買未完成。</string>
+    <string name="purchase_restored" formatted="false">購買已還原。</string>
+    <string name="purchase_nothing" formatted="false">沒有可還原的項目。</string>
+    <string name="rewarded_title" formatted="false">看廣告試用</string>
+    <string name="rewarded_explain" formatted="false">觀看一則短廣告，即可暫時解鎖此功能。Pro 版移除廣告並解鎖全部功能。</string>
+    <string name="rewarded_estimation" formatted="false">查看估算 24 小時</string>
+    <string name="rewarded_export" formatted="false">一小時內匯出一次</string>
+    <string name="rewarded_trips" formatted="false">本月再加 5 趟行程</string>
+    <string name="rewarded_watch" formatted="false">觀看廣告</string>
+    <string name="rewarded_unavailable" formatted="false">目前沒有可用的廣告。請稍後再試。</string>
+    <string name="rewarded_granted" formatted="false">已解鎖。一路順風！</string>
+    <string name="expenses" formatted="false">費用</string>
+    <string name="add_expense" formatted="false">新增費用</string>
+    <string name="edit_expense" formatted="false">編輯費用</string>
+    <string name="expense_kind" formatted="false">類型</string>
+    <string name="kind_toll" formatted="false">過路費</string>
+    <string name="kind_parking" formatted="false">停車費</string>
+    <string name="kind_fuel" formatted="false">燃料</string>
+    <string name="kind_other" formatted="false">其他</string>
+    <string name="amount" formatted="false">金額</string>
+    <string name="place" formatted="false">地點</string>
+    <string name="litres" formatted="false">公升</string>
+    <string name="odometer" formatted="false">里程錶讀數</string>
+    <string name="no_expenses" formatted="false">沒有費用。過路費和停車費會計入估算。</string>
+    <string name="invalid_amount" formatted="false">請輸入大於 0 的金額。</string>
+    <string name="legal_title" formatted="false">法律與隱私</string>
+    <string name="privacy_text" formatted="false">您的所有資料都保留在裝置上。本應用程式不需要帳戶，也不會向伺服器傳送任何內容。與外部的唯一往來是您主動發起的操作，如匯出、備份或購買，以及免費版的廣告（Pro 版會移除廣告）。</string>
+    <string name="about" formatted="false">關於</string>
+    <string name="version">版本 %1$s</string>
+    <string name="error_generic" formatted="false">發生錯誤。</string>
+    <string name="today" formatted="false">今天</string>
+    <string name="yesterday" formatted="false">昨天</string>
+    <string name="ads_privacy_options" formatted="false">廣告隱私選項</string>
+    <string name="ads_disabled_title" formatted="false">廣告已停用</string>
+    <string name="ads_disabled_text" formatted="false">系統顯示此帳戶屬於未成年使用者。因此本應用程式不顯示任何廣告，也不要求任何同意。不讀取廣告識別碼，不收集或傳送任何資料。</string>
+    <string name="watch_quick_add" formatted="false">快速行程</string>
+    <string name="watch_no_favorites" formatted="false">請在手機上新增常用行程。</string>
+    <string name="watch_added" formatted="false">已新增</string>
+    <string name="watch_open_phone" formatted="false">開啟手機應用程式</string>
+    <string name="widget_today" formatted="false">今天</string>
+    <string name="widget_month" formatted="false">本月</string>
+    <string name="widget_pro_needed" formatted="false">小工具需要 Pro 版</string>
+</resources>

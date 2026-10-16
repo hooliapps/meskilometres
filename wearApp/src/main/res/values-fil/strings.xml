@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometro</string>
+    <string name="watch_quick_add" formatted="false">Mabilis na biyahe</string>
+    <string name="watch_no_favorites" formatted="false">Magdagdag ng mga paboritong biyahe sa telepono mo.</string>
+    <string name="watch_added" formatted="false">Naidagdag</string>
+    <string name="watch_open_phone" formatted="false">Buksan ang app sa telepono</string>
+    <string name="km_value">%1$s km</string>
+    <string name="this_month" formatted="false">Ngayong buwan</string>
+    <string name="today" formatted="false">Ngayon</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">Available ang widget sa Pro</string>
+</resources>

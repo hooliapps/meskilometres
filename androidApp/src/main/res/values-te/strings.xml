@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">కిలోమీటర్లు</string>
+    <string name="widget_name" formatted="false">ప్రయాణాలు</string>
+    <string name="widget_description" formatted="false">నేటి కిలోమీటర్లు మరియు మీ ఇష్టమైన ప్రయాణాలు, ఒకే ట్యాప్‌లో.</string>
+    <string name="tab_trips" formatted="false">ప్రయాణాలు</string>
+    <string name="tab_estimate" formatted="false">అంచనా</string>
+    <string name="tab_more" formatted="false">మరిన్ని</string>
+    <string name="this_month" formatted="false">ఈ నెల</string>
+    <string name="this_year" formatted="false">ఈ సంవత్సరం</string>
+    <string name="trips_count">ప్రయాణాలు: %1$d</string>
+    <string name="km_value">%1$s కి.మీ</string>
+    <string name="add_trip" formatted="false">కొత్త ప్రయాణం</string>
+    <string name="free_remaining">ఈ నెలలో మిగిలిన ఉచిత ప్రయాణాలు: %1$d</string>
+    <string name="free_limit_reached" formatted="false">ఈ నెల ఉచిత పరిమితి ముగిసింది</string>
+    <string name="free_quota_reached" formatted="false">ఉచిత వెర్షన్‌లో నెలకు 5 ప్రయాణాలు నమోదు చేయవచ్చు. అపరిమిత ప్రయాణాల కోసం Pro తీసుకోండి, లేదా మరో 5 ప్రయాణాల కోసం ఒక ప్రకటన చూడండి.</string>
+    <string name="go_pro" formatted="false">Pro తీసుకోండి</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">ఇంకా ప్రయాణాలు లేవు.\nమొదటిదాన్ని నమోదు చేయడానికి + నొక్కండి.</string>
+    <string name="trip_new" formatted="false">కొత్త ప్రయాణం</string>
+    <string name="trip_edit" formatted="false">ప్రయాణాన్ని సవరించండి</string>
+    <string name="field_date" formatted="false">తేదీ</string>
+    <string name="field_from" formatted="false">ఎక్కడి నుండి</string>
+    <string name="field_to" formatted="false">ఎక్కడికి</string>
+    <string name="field_distance" formatted="false">ఒక వైపు దూరం (కి.మీ)</string>
+    <string name="field_round_trip" formatted="false">వెళ్లి రావడం</string>
+    <string name="field_purpose" formatted="false">ఉద్దేశం</string>
+    <string name="field_vehicle" formatted="false">వాహనం</string>
+    <string name="field_note" formatted="false">గమనిక</string>
+    <string name="field_justified" formatted="false">ప్రత్యేక పరిస్థితులు</string>
+    <string name="field_justified_help" formatted="false">ప్రత్యేక కారణంతో ఇల్లు-పని స్థలం దూరం 40 కి.మీ దాటితే, లేదా అదే రోజు సమర్థనీయమైన అదనపు వెళ్లి రావడం కోసం దీన్ని ఎంచుకోండి.</string>
+    <string name="purpose_commute" formatted="false">ఇల్లు-పని</string>
+    <string name="purpose_business" formatted="false">వ్యాపారం</string>
+    <string name="purpose_personal" formatted="false">వ్యక్తిగతం</string>
+    <string name="save" formatted="false">సేవ్ చేయండి</string>
+    <string name="cancel" formatted="false">రద్దు చేయండి</string>
+    <string name="delete" formatted="false">తొలగించండి</string>
+    <string name="edit" formatted="false">సవరించండి</string>
+    <string name="ok" formatted="false">సరే</string>
+    <string name="close" formatted="false">మూసివేయండి</string>
+    <string name="back" formatted="false">వెనుకకు</string>
+    <string name="confirm_delete" formatted="false">శాశ్వతంగా తొలగించాలా?</string>
+    <string name="invalid_distance" formatted="false">0 కంటే ఎక్కువ దూరాన్ని నమోదు చేయండి.</string>
+    <string name="favorites" formatted="false">ఇష్టమైనవి</string>
+    <string name="save_as_favorite" formatted="false">ఇష్టమైనదిగా కూడా సేవ్ చేయండి</string>
+    <string name="favorite_label" formatted="false">ఇష్టమైనదాని పేరు</string>
+    <string name="no_favorites" formatted="false">ఒకే ట్యాప్‌లో నమోదు చేయడానికి ఒక ప్రయాణాన్ని ఇష్టమైనదిగా సేవ్ చేయండి.</string>
+    <string name="use_favorite" formatted="false">ఇష్టమైన ప్రయాణాలు</string>
+    <string name="swap" formatted="false">మార్చండి</string>
+    <string name="quick_add_hint" formatted="false">ఈ రోజుకు జోడించడానికి ఇష్టమైనదాన్ని నొక్కండి.</string>
+    <string name="added" formatted="false">ప్రయాణం జోడించబడింది.</string>
+    <string name="undo" formatted="false">వెనక్కి తీసుకోండి</string>
+    <string name="vehicles" formatted="false">వాహనాలు</string>
+    <string name="add_vehicle" formatted="false">వాహనం జోడించండి</string>
+    <string name="edit_vehicle" formatted="false">వాహనాన్ని సవరించండి</string>
+    <string name="vehicle_name" formatted="false">పేరు</string>
+    <string name="vehicle_kind" formatted="false">రకం</string>
+    <string name="kind_car" formatted="false">కారు</string>
+    <string name="kind_motorcycle" formatted="false">మోటార్‌సైకిల్</string>
+    <string name="kind_moped" formatted="false">మోపెడ్</string>
+    <string name="fiscal_power" formatted="false">పన్ను అశ్వశక్తి (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV మరియు ఆపైన</string>
+    <string name="cv_or_less">%1$d CV మరియు అంతకంటే తక్కువ</string>
+    <string name="cv_range_3_5" formatted="false">3 నుండి 5 CV</string>
+    <string name="electric" formatted="false">విద్యుత్ వాహనం</string>
+    <string name="no_vehicle" formatted="false">వాహనం లేదు. ఒకటి జోడించండి: అంచనాకు అది అవసరం.</string>
+    <string name="default_vehicle" formatted="false">డిఫాల్ట్ వాహనం</string>
+    <string name="vehicle_needed" formatted="false">ముందుగా మరిన్ని &gt; వాహనాలు లో ఒక వాహనాన్ని జోడించండి.</string>
+    <string name="estimation" formatted="false">వాస్తవ ఖర్చుల అంచనా</string>
+    <string name="income_year">ఆదాయ సంవత్సరం %1$d</string>
+    <string name="estimation_locked" formatted="false">వాస్తవ ఖర్చుల అంచనా, ఎగుమతులు, చరిత్ర దిగుమతి మరియు బ్యాకప్ పునరుద్ధరణ Pro వెర్షన్‌లో భాగం.</string>
+    <string name="disclaimer_short" formatted="false">సూచనాత్మక అంచనా, హామీ లేదు.</string>
+    <string name="disclaimer_long" formatted="false">ఈ అంచనా సూచనాత్మకం మాత్రమే, హామీ లేదు. ఇది పన్ను సలహా కాదు; అధికారిక పత్రాలు, పన్ను శాఖ లేదా నిపుణుడి స్థానాన్ని ఇది భర్తీ చేయదు. రిటర్న్ దాఖలు చేసే ముందు మీ పరిస్థితికి వర్తించే నియమాలను తనిఖీ చేయండి.</string>
+    <string name="commute_km_raw" formatted="false">నమోదు చేసిన ఇల్లు-పని కి.మీ</string>
+    <string name="commute_km_retained" formatted="false">పరిగణించిన ఇల్లు-పని కి.మీ</string>
+    <string name="business_km" formatted="false">వ్యాపార కి.మీ</string>
+    <string name="retained_km" formatted="false">పరిగణించిన కి.మీ</string>
+    <string name="allowance" formatted="false">కిలోమీటర్ భత్యం</string>
+    <string name="tolls_parking" formatted="false">టోల్ మరియు పార్కింగ్</string>
+    <string name="total" formatted="false">అంచనా మొత్తం</string>
+    <string name="flat_deduction" formatted="false">ప్రామాణిక 10% మినహాయింపు</string>
+    <string name="real_better" formatted="false">ప్రామాణిక మినహాయింపు కంటే వాస్తవ ఖర్చులు ఎక్కువ అనుకూలంగా కనిపిస్తున్నాయి.</string>
+    <string name="flat_better" formatted="false">వాస్తవ ఖర్చుల కంటే ప్రామాణిక మినహాయింపు ఎక్కువ అనుకూలంగా కనిపిస్తోంది.</string>
+    <string name="enter_salary" formatted="false">ప్రామాణిక మినహాయింపుతో పోల్చడానికి మీ వార్షిక నికర పన్ను విధించదగిన జీతాన్ని నమోదు చేయండి.</string>
+    <string name="net_taxable_salary" formatted="false">వార్షిక నికర పన్ను విధించదగిన జీతం</string>
+    <string name="per_vehicle" formatted="false">ఒక్కో వాహనానికి</string>
+    <string name="note_scale_unconfirmed" formatted="false">ఈ సంవత్సరం రేటు పట్టిక ఇంకా ప్రచురించబడలేదు: చివరిగా తెలిసిన పట్టిక వర్తింపజేయబడింది.</string>
+    <string name="note_cap_applied" formatted="false">ప్రత్యేక పరిస్థితులు ప్రకటించనందున ఒకటి లేదా అంతకంటే ఎక్కువ ఇల్లు-పని ప్రయాణాలు 40 కి.మీకి పరిమితం చేయబడ్డాయి.</string>
+    <string name="note_extra_legs" formatted="false">రోజుకు ఒక ఇల్లు-పని వెళ్లి రావడానికి మించి, ప్రత్యేక పరిస్థితులు లేని ప్రయాణాలు వదిలివేయబడ్డాయి.</string>
+    <string name="note_no_vehicle" formatted="false">వాహనం లేని ప్రయాణాలు విస్మరించబడ్డాయి: డిఫాల్ట్ వాహనాన్ని ఎంచుకోండి.</string>
+    <string name="note_fuel">నమోదు చేసిన ఇంధనం (%1$s) జోడించబడలేదు: కిలోమీటర్ రేటు పట్టికలో అది ఇప్పటికే ఉంది.</string>
+    <string name="note_no_salary" formatted="false">జీతం నమోదు చేయలేదు: ప్రామాణిక మినహాయింపుతో పోలిక లేదు.</string>
+    <string name="documents_title" formatted="false">భద్రపరచాల్సిన పత్రాలు</string>
+    <string name="documents_list" formatted="false">వాహన రిజిస్ట్రేషన్ పత్రం\nఉద్యోగ ఒప్పందం లేదా యజమాని ధ్రువీకరణ పత్రం\nపని చేసిన రోజుల రికార్డు\nటోల్ మరియు పార్కింగ్ రసీదులు\nప్రత్యేక పరిస్థితులను సమర్థించే ఏదైనా పత్రం</string>
+    <string name="export" formatted="false">ఎగుమతి చేయండి</string>
+    <string name="export_title" formatted="false">ఎగుమతి</string>
+    <string name="export_pdf" formatted="false">PDF నివేదిక</string>
+    <string name="export_xlsx" formatted="false">స్ప్రెడ్‌షీట్ వర్క్‌బుక్</string>
+    <string name="export_csv" formatted="false">CSV ఫైల్</string>
+    <string name="export_period" formatted="false">కాలం</string>
+    <string name="year" formatted="false">సంవత్సరం</string>
+    <string name="export_from" formatted="false">నుండి</string>
+    <string name="export_to" formatted="false">వరకు</string>
+    <string name="export_include_estimation" formatted="false">సంవత్సర అంచనాను చేర్చండి</string>
+    <string name="export_share" formatted="false">ఫైల్ షేర్ షీట్‌లో తెరుచుకుంటుంది: దాన్ని సేవ్ చేయండి లేదా పంపండి.</string>
+    <string name="export_failed" formatted="false">ఎగుమతి విఫలమైంది.</string>
+    <string name="report_title" formatted="false">కిలోమీటర్ నివేదిక</string>
+    <string name="generated_on">%1$s న రూపొందించబడింది</string>
+    <string name="yes" formatted="false">అవును</string>
+    <string name="no" formatted="false">కాదు</string>
+    <string name="import_title" formatted="false">చరిత్రను దిగుమతి చేయండి</string>
+    <string name="import_help" formatted="false">మీ ఫోన్ మీ స్థానాల చరిత్రను ఉంచితే, దాన్ని నిర్వహించే యాప్ నుండి JSON ఫైల్‌గా ఎగుమతి చేసి ఇక్కడ తెరవవచ్చు. వాహన ప్రయాణాలు మాత్రమే చదవబడతాయి. ఫైల్ ఉంచబడదు: తేదీ, దూరం మరియు తెలిస్తే బయలుదేరే స్థలం, గమ్యం మాత్రమే సేవ్ చేయబడతాయి.</string>
+    <string name="import_pick" formatted="false">ఫైల్ ఎంచుకోండి</string>
+    <string name="import_reading" formatted="false">చదువుతోంది…</string>
+    <string name="import_found">కనుగొన్న వాహన ప్రయాణాలు: %1$d</string>
+    <string name="import_skipped">విస్మరించిన ఇతర ప్రయాణాలు (నడక, సైకిల్, ప్రజా రవాణా): %1$d</string>
+    <string name="import_default_purpose" formatted="false">ఇల్లు-పనిగా గుర్తించని ప్రయాణాల ఉద్దేశం</string>
+    <string name="import_period">%1$s నుండి %2$s వరకు</string>
+    <string name="import_confirm">%1$d ప్రయాణాలను దిగుమతి చేయండి</string>
+    <string name="import_done">దిగుమతి చేసిన ప్రయాణాలు: %1$d</string>
+    <string name="import_nothing_new" formatted="false">కొత్త ప్రయాణం లేదు: అవి ఇప్పటికే దిగుమతి చేయబడ్డాయి.</string>
+    <string name="import_unreadable" formatted="false">ఈ ఫైల్ చదవగలిగే స్థాన చరిత్ర కాదు.</string>
+    <string name="import_commute_hint" formatted="false">ఫైల్ గుర్తిస్తే మీ ఇల్లు మరియు పని స్థలం మధ్య ప్రయాణాలు గుర్తించబడతాయి; వాటికి ఇల్లు-పని ఉద్దేశం ఇవ్వబడుతుంది.</string>
+    <string name="backup_title" formatted="false">బ్యాకప్</string>
+    <string name="backup_explain" formatted="false">మీరు నిర్ణయించినప్పుడే మీ డేటా మీ పరికరం నుండి బయటకు వెళ్తుంది. బ్యాకప్ అంటే మీరు ఎక్కడైనా ఉంచి, ఏ పరికరంలోనైనా పునరుద్ధరించగల ఒక ఫైల్.</string>
+    <string name="backup_export" formatted="false">బ్యాకప్ ఎగుమతి చేయండి</string>
+    <string name="backup_restore" formatted="false">బ్యాకప్ పునరుద్ధరించండి</string>
+    <string name="backup_restore_help" formatted="false">పునరుద్ధరణ విలీనం చేస్తుంది: ఆ తర్వాత నమోదు చేసినదేదీ పోదు.</string>
+    <string name="backup_restored">బ్యాకప్ పునరుద్ధరించబడింది: మొత్తం %1$d ప్రయాణాలు.</string>
+    <string name="backup_invalid" formatted="false">ఈ ఫైల్ ఈ యాప్ బ్యాకప్ కాదు.</string>
+    <string name="cloud_title" formatted="false">క్లౌడ్ బ్యాకప్</string>
+    <string name="cloud_explain" formatted="false">అదనపు ఖాతా లేకుండా, మీ పరికరం క్లౌడ్ స్థలంలో మీ డేటా స్వయంచాలక కాపీ. ప్రతి మార్పు తర్వాత అది తాజా చేయబడుతుంది.</string>
+    <string name="cloud_now" formatted="false">ఇప్పుడే బ్యాకప్ చేయండి</string>
+    <string name="cloud_restore" formatted="false">క్లౌడ్ నుండి పునరుద్ధరించండి</string>
+    <string name="cloud_last">చివరి క్లౌడ్ బ్యాకప్: %1$s</string>
+    <string name="cloud_never" formatted="false">ఇంకా క్లౌడ్ బ్యాకప్ లేదు.</string>
+    <string name="cloud_unavailable" formatted="false">ఈ పరికరంలో క్లౌడ్ బ్యాకప్ అందుబాటులో లేదు. బ్యాకప్ ఎగుమతిని ఉపయోగించండి.</string>
+    <string name="cloud_done" formatted="false">క్లౌడ్ బ్యాకప్ పూర్తయింది.</string>
+    <string name="cloud_nothing" formatted="false">పునరుద్ధరించడానికి క్లౌడ్ బ్యాకప్ లేదు.</string>
+    <string name="cloud_system_restore" formatted="false">యాప్‌ను మళ్లీ ఇన్‌స్టాల్ చేసినప్పుడు లేదా కొత్త పరికరాన్ని సెటప్ చేసినప్పుడు సిస్టమ్ ఈ బ్యాకప్‌ను స్వయంగా పునరుద్ధరిస్తుంది.</string>
+    <string name="settings" formatted="false">సెట్టింగ్‌లు</string>
+    <string name="rules_title" formatted="false">లెక్కింపు నియమాలు</string>
+    <string name="rule_fr" formatted="false">ఫ్రెంచ్ కిలోమీటర్ రేటు పట్టిక</string>
+    <string name="rule_generic" formatted="false">కిలోమీటర్‌కు స్థిర రేటు</string>
+    <string name="generic_rate" formatted="false">కిలోమీటర్‌కు రేటు</string>
+    <string name="currency" formatted="false">కరెన్సీ</string>
+    <string name="home_label" formatted="false">మీ ఇంటి పేరు</string>
+    <string name="work_label" formatted="false">మీ పని స్థలం పేరు</string>
+    <string name="home_work_distance" formatted="false">ఇల్లు-పని దూరం (ఒక వైపు, కి.మీ)</string>
+    <string name="places_help" formatted="false">ఇష్టమైన ప్రయాణాలకు మరియు చరిత్ర దిగుమతికి ఉపయోగపడతాయి.</string>
+    <string name="pro_title" formatted="false">Pro వెర్షన్</string>
+    <string name="pro_subtitle" formatted="false">మీ వాస్తవ ఖర్చులకు కావాల్సినవన్నీ, ప్రకటనలు లేకుండా.</string>
+    <string name="pro_features_title" formatted="false">అన్‌లాక్ చేసిన ఫీచర్లు:</string>
+    <string name="pro_feature_unlimited" formatted="false">అపరిమిత ప్రయాణాలు.</string>
+    <string name="pro_feature_estimation" formatted="false">వాస్తవ ఖర్చుల అంచనా మరియు ప్రామాణిక మినహాయింపుతో పోలిక.</string>
+    <string name="pro_feature_export" formatted="false">పూర్తి, ధ్రువీకరించిన ఎగుమతి (శుభ్రమైన PDF, మీ అకౌంటెంట్ లేదా పన్ను రిటర్న్ కోసం సిద్ధమైన స్ప్రెడ్‌షీట్ ఫార్మాట్).</string>
+    <string name="pro_feature_import" formatted="false">మీ ఫోన్ ప్రయాణ చరిత్ర దిగుమతి.</string>
+    <string name="pro_feature_expenses" formatted="false">టోల్, పార్కింగ్ మరియు ఇంధనం అంచనాకు జోడించబడతాయి.</string>
+    <string name="pro_feature_cloud" formatted="false">బ్యాకప్ ఫైల్ నుండి పునరుద్ధరణ, మరియు బహుళ పరికరాల సింక్.</string>
+    <string name="pro_feature_widgets" formatted="false">హోమ్ స్క్రీన్ విడ్జెట్.</string>
+    <string name="pro_feature_watch" formatted="false">వాచ్ యాప్.</string>
+    <string name="pro_feature_no_ads" formatted="false">ప్రకటనలు అస్సలు లేవు.</string>
+    <string name="pro_feature_gps" formatted="false">స్వయంచాలక GPS ట్రాకింగ్ (కదలిక గుర్తింపు లేదా కారుతో బ్లూటూత్ కనెక్షన్).</string>
+    <string name="pro_feature_scan" formatted="false">కెమెరాతో టోల్, పార్కింగ్ మరియు ఇంధన రసీదుల స్మార్ట్ స్కాన్ (OCR).</string>
+    <string name="pro_monthly">నెలకు %1$s</string>
+    <string name="pro_yearly">సంవత్సరానికి %1$s</string>
+    <string name="pro_yearly_hint" formatted="false">నెలవారీతో పోలిస్తే రెండు నెలలు ఉచితం</string>
+    <string name="subscribe" formatted="false">సబ్‌స్క్రైబ్ చేయండి</string>
+    <string name="restore_purchases" formatted="false">కొనుగోళ్లను పునరుద్ధరించండి</string>
+    <string name="pro_active" formatted="false">Pro వెర్షన్ యాక్టివ్</string>
+    <string name="pro_active_since">సబ్‌స్క్రిప్షన్: %1$s</string>
+    <string name="pro_unavailable" formatted="false">యాప్ ఈ వెర్షన్‌లో కొనుగోళ్లు అందుబాటులో లేవు.</string>
+    <string name="pro_legal" formatted="false">స్వయంచాలకంగా పునరుద్ధరించబడే సబ్‌స్క్రిప్షన్, మీ స్టోర్ ఖాతా నుండి వసూలు చేయబడుతుంది. స్టోర్ సెట్టింగ్‌లలో ఎప్పుడైనా రద్దు చేయండి; కాలం ముగియడానికి కనీసం 24 గంటల ముందు రద్దు చేయకపోతే తదుపరి కాలానికి ధర వసూలు చేయబడుతుంది.</string>
+    <string name="purchase_pending" formatted="false">కొనుగోలు జరుగుతోంది…</string>
+    <string name="purchase_failed" formatted="false">కొనుగోలు పూర్తి కాలేదు.</string>
+    <string name="purchase_restored" formatted="false">కొనుగోళ్లు పునరుద్ధరించబడ్డాయి.</string>
+    <string name="purchase_nothing" formatted="false">పునరుద్ధరించడానికి ఏమీ లేదు.</string>
+    <string name="rewarded_title" formatted="false">ప్రకటనతో ప్రయత్నించండి</string>
+    <string name="rewarded_explain" formatted="false">దీన్ని కొంతసేపు అన్‌లాక్ చేయడానికి ఒక చిన్న ప్రకటన చూడండి. Pro ప్రకటనలను తొలగించి అన్నింటినీ అన్‌లాక్ చేస్తుంది.</string>
+    <string name="rewarded_estimation" formatted="false">24 గంటల పాటు అంచనా చూడండి</string>
+    <string name="rewarded_export" formatted="false">ఒక ఎగుమతి, గంటలోపు</string>
+    <string name="rewarded_trips" formatted="false">ఈ నెల మరో 5 ప్రయాణాలు</string>
+    <string name="rewarded_watch" formatted="false">ప్రకటన చూడండి</string>
+    <string name="rewarded_unavailable" formatted="false">ప్రస్తుతం ప్రకటన అందుబాటులో లేదు. కాసేపటి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="rewarded_granted" formatted="false">అన్‌లాక్ అయింది. శుభ ప్రయాణం!</string>
+    <string name="expenses" formatted="false">ఖర్చులు</string>
+    <string name="add_expense" formatted="false">కొత్త ఖర్చు</string>
+    <string name="edit_expense" formatted="false">ఖర్చును సవరించండి</string>
+    <string name="expense_kind" formatted="false">రకం</string>
+    <string name="kind_toll" formatted="false">టోల్</string>
+    <string name="kind_parking" formatted="false">పార్కింగ్</string>
+    <string name="kind_fuel" formatted="false">ఇంధనం</string>
+    <string name="kind_other" formatted="false">ఇతర</string>
+    <string name="amount" formatted="false">మొత్తం</string>
+    <string name="place" formatted="false">స్థలం</string>
+    <string name="litres" formatted="false">లీటర్లు</string>
+    <string name="odometer" formatted="false">ఓడోమీటర్ రీడింగ్</string>
+    <string name="no_expenses" formatted="false">ఖర్చులు లేవు. టోల్ మరియు పార్కింగ్ అంచనాకు జోడించబడతాయి.</string>
+    <string name="invalid_amount" formatted="false">0 కంటే ఎక్కువ మొత్తాన్ని నమోదు చేయండి.</string>
+    <string name="legal_title" formatted="false">చట్టపరమైనవి మరియు గోప్యత</string>
+    <string name="privacy_text" formatted="false">మీ డేటా అంతా మీ పరికరంలోనే ఉంటుంది. యాప్‌కు ఖాతా అవసరం లేదు మరియు ఏ సర్వర్‌కూ ఏమీ పంపదు. బయటితో జరిగే ఏకైక మార్పిడులు మీరే ప్రారంభించే ఎగుమతి, బ్యాకప్ లేదా కొనుగోలు, మరియు ఉచిత వెర్షన్ ప్రకటనలు మాత్రమే; ఆ ప్రకటనలను Pro వెర్షన్ తొలగిస్తుంది.</string>
+    <string name="about" formatted="false">యాప్ గురించి</string>
+    <string name="version">వెర్షన్ %1$s</string>
+    <string name="error_generic" formatted="false">ఏదో తప్పు జరిగింది.</string>
+    <string name="today" formatted="false">ఈ రోజు</string>
+    <string name="yesterday" formatted="false">నిన్న</string>
+    <string name="ads_privacy_options" formatted="false">ప్రకటన గోప్యతా ఎంపికలు</string>
+    <string name="ads_disabled_title" formatted="false">ప్రకటనలు నిలిపివేయబడ్డాయి</string>
+    <string name="ads_disabled_text" formatted="false">ఈ ఖాతా ఒక యువ వినియోగదారుదని సిస్టమ్ సూచిస్తోంది. కాబట్టి యాప్ ప్రకటనలు చూపదు, సమ్మతి అడగదు. ప్రకటన ఐడెంటిఫైయర్ ఏదీ చదవబడదు, డేటా ఏదీ సేకరించబడదు లేదా పంపబడదు.</string>
+    <string name="watch_quick_add" formatted="false">త్వరిత ప్రయాణం</string>
+    <string name="watch_no_favorites" formatted="false">మీ ఫోన్‌లో ఇష్టమైన ప్రయాణాలను జోడించండి.</string>
+    <string name="watch_added" formatted="false">జోడించబడింది</string>
+    <string name="watch_open_phone" formatted="false">ఫోన్ యాప్ తెరవండి</string>
+    <string name="widget_today" formatted="false">ఈ రోజు</string>
+    <string name="widget_month" formatted="false">ఈ నెల</string>
+    <string name="widget_pro_needed" formatted="false">Pro తో విడ్జెట్ అందుబాటులో</string>
+</resources>

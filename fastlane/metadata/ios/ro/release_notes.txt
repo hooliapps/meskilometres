@@ -1,0 +1,8 @@
+Prima versiune a Kilomètres.
+
+• Deplasări dintr-o atingere, trasee favorite
+• Estimarea cheltuielilor reale cu baremul oficial (Pro)
+• Exporturi PDF și tabel (Pro)
+• Importul istoricului de deplasări (Pro)
+• Copie în cloud pentru toți; widget și aplicație pentru ceas (Pro)
+• 71 de limbi

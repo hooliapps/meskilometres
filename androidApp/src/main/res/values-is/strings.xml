@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kílómetrar</string>
+    <string name="widget_name" formatted="false">Ferðir</string>
+    <string name="widget_description" formatted="false">Kílómetrar dagsins og uppáhaldsferðirnar þínar með einni snertingu.</string>
+    <string name="tab_trips" formatted="false">Ferðir</string>
+    <string name="tab_estimate" formatted="false">Áætlun</string>
+    <string name="tab_more" formatted="false">Meira</string>
+    <string name="this_month" formatted="false">Þessi mánuður</string>
+    <string name="this_year" formatted="false">Þetta ár</string>
+    <string name="trips_count">Ferðir: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Ný ferð</string>
+    <string name="free_remaining">Ókeypis ferðir eftir í þessum mánuði: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Ókeypis hámarki náð í þessum mánuði</string>
+    <string name="free_quota_reached" formatted="false">Ókeypis útgáfan leyfir 5 ferðir á mánuði. Fáðu Pro fyrir ótakmarkaðar ferðir eða horfðu á auglýsingu fyrir 5 til viðbótar.</string>
+    <string name="go_pro" formatted="false">Fá Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Engar ferðir enn.\nÝttu á + til að skrá þá fyrstu.</string>
+    <string name="trip_new" formatted="false">Ný ferð</string>
+    <string name="trip_edit" formatted="false">Breyta ferð</string>
+    <string name="field_date" formatted="false">Dagsetning</string>
+    <string name="field_from" formatted="false">Frá</string>
+    <string name="field_to" formatted="false">Til</string>
+    <string name="field_distance" formatted="false">Vegalengd aðra leið (km)</string>
+    <string name="field_round_trip" formatted="false">Fram og til baka</string>
+    <string name="field_purpose" formatted="false">Tilgangur</string>
+    <string name="field_vehicle" formatted="false">Ökutæki</string>
+    <string name="field_note" formatted="false">Athugasemd</string>
+    <string name="field_justified" formatted="false">Sérstakar aðstæður</string>
+    <string name="field_justified_help" formatted="false">Hakaðu við ef vegalengdin milli heimilis og vinnu fer yfir 40 km af sérstakri ástæðu, eða fyrir rökstudda aukaferð fram og til baka sama dag.</string>
+    <string name="purpose_commute" formatted="false">Heimili–vinna</string>
+    <string name="purpose_business" formatted="false">Vinnuferð</string>
+    <string name="purpose_personal" formatted="false">Einkaferð</string>
+    <string name="save" formatted="false">Vista</string>
+    <string name="cancel" formatted="false">Hætta við</string>
+    <string name="delete" formatted="false">Eyða</string>
+    <string name="edit" formatted="false">Breyta</string>
+    <string name="ok" formatted="false">Í lagi</string>
+    <string name="close" formatted="false">Loka</string>
+    <string name="back" formatted="false">Til baka</string>
+    <string name="confirm_delete" formatted="false">Eyða varanlega?</string>
+    <string name="invalid_distance" formatted="false">Sláðu inn vegalengd sem er meiri en 0.</string>
+    <string name="favorites" formatted="false">Uppáhald</string>
+    <string name="save_as_favorite" formatted="false">Vista líka sem uppáhald</string>
+    <string name="favorite_label" formatted="false">Heiti uppáhalds</string>
+    <string name="no_favorites" formatted="false">Vistaðu ferð sem uppáhald til að skrá hana með einni snertingu.</string>
+    <string name="use_favorite" formatted="false">Uppáhaldsferðir</string>
+    <string name="swap" formatted="false">Víxla</string>
+    <string name="quick_add_hint" formatted="false">Ýttu á uppáhald til að bæta því við fyrir daginn í dag.</string>
+    <string name="added" formatted="false">Ferð bætt við.</string>
+    <string name="undo" formatted="false">Afturkalla</string>
+    <string name="vehicles" formatted="false">Ökutæki</string>
+    <string name="add_vehicle" formatted="false">Bæta við ökutæki</string>
+    <string name="edit_vehicle" formatted="false">Breyta ökutæki</string>
+    <string name="vehicle_name" formatted="false">Heiti</string>
+    <string name="vehicle_kind" formatted="false">Tegund</string>
+    <string name="kind_car" formatted="false">Bíll</string>
+    <string name="kind_motorcycle" formatted="false">Mótorhjól</string>
+    <string name="kind_moped" formatted="false">Létt bifhjól</string>
+    <string name="fiscal_power" formatted="false">Skattaleg hestöfl (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV eða meira</string>
+    <string name="cv_or_less">%1$d CV eða minna</string>
+    <string name="cv_range_3_5" formatted="false">3 til 5 CV</string>
+    <string name="electric" formatted="false">Rafknúið ökutæki</string>
+    <string name="no_vehicle" formatted="false">Ekkert ökutæki. Bættu einu við: áætlunin þarf það.</string>
+    <string name="default_vehicle" formatted="false">Sjálfgefið ökutæki</string>
+    <string name="vehicle_needed" formatted="false">Bættu fyrst við ökutæki undir Meira &gt; Ökutæki.</string>
+    <string name="estimation" formatted="false">Áætlun raunkostnaðar</string>
+    <string name="income_year">Tekjuár %1$d</string>
+    <string name="estimation_locked" formatted="false">Áætlun raunkostnaðar, útflutningur, innflutningur ferils og endurheimt öryggisafrits eru hluti af Pro-útgáfunni.</string>
+    <string name="disclaimer_short" formatted="false">Leiðbeinandi áætlun, ekki tryggð.</string>
+    <string name="disclaimer_long" formatted="false">Þessi áætlun er leiðbeinandi og ekki tryggð. Hún er ekki skattaráðgjöf og kemur hvorki í stað opinberra texta, skattyfirvalda né fagaðila. Kannaðu reglurnar sem gilda um þínar aðstæður áður en þú skilar framtali.</string>
+    <string name="commute_km_raw" formatted="false">Skráðir km heimili–vinna</string>
+    <string name="commute_km_retained" formatted="false">Km heimili–vinna teknir með</string>
+    <string name="business_km" formatted="false">Vinnutengdir km</string>
+    <string name="retained_km" formatted="false">Km teknir með</string>
+    <string name="allowance" formatted="false">Akstursgreiðsla</string>
+    <string name="tolls_parking" formatted="false">Veggjöld og bílastæði</string>
+    <string name="total" formatted="false">Áætluð heildarupphæð</string>
+    <string name="flat_deduction" formatted="false">Fastur 10% frádráttur</string>
+    <string name="real_better" formatted="false">Raunkostnaður virðist hagstæðari en fasti frádrátturinn.</string>
+    <string name="flat_better" formatted="false">Fasti frádrátturinn virðist hagstæðari en raunkostnaður.</string>
+    <string name="enter_salary" formatted="false">Sláðu inn árleg skattskyld nettólaun þín til að bera saman við fasta frádráttinn.</string>
+    <string name="net_taxable_salary" formatted="false">Árleg skattskyld nettólaun</string>
+    <string name="per_vehicle" formatted="false">Á hvert ökutæki</string>
+    <string name="note_scale_unconfirmed" formatted="false">Tafla þessa árs hefur ekki enn verið birt: síðasta þekkta tafla er notuð.</string>
+    <string name="note_cap_applied" formatted="false">Ein eða fleiri leiðir heimili–vinna voru takmarkaðar við 40 km, þar sem engar sérstakar aðstæður voru tilgreindar.</string>
+    <string name="note_extra_legs" formatted="false">Umfram eina ferð heimili–vinna fram og til baka á dag voru ferðir án sérstakra aðstæðna ekki teknar með.</string>
+    <string name="note_no_vehicle" formatted="false">Ferðir án ökutækis voru hunsaðar: veldu sjálfgefið ökutæki.</string>
+    <string name="note_fuel">Skráð eldsneyti (%1$s) er ekki bætt við: kílómetrataflan nær þegar yfir það.</string>
+    <string name="note_no_salary" formatted="false">Laun ekki skráð: enginn samanburður við fasta frádráttinn.</string>
+    <string name="documents_title" formatted="false">Gögn sem þarf að geyma</string>
+    <string name="documents_list" formatted="false">Skráningarskírteini ökutækis\nRáðningarsamningur eða staðfesting vinnuveitanda\nYfirlit yfir unna daga\nKvittanir fyrir veggjöld og bílastæði\nAllt sem styður sérstakar aðstæður</string>
+    <string name="export" formatted="false">Flytja út</string>
+    <string name="export_title" formatted="false">Útflutningur</string>
+    <string name="export_pdf" formatted="false">PDF-skýrsla</string>
+    <string name="export_xlsx" formatted="false">Töflureiknisskjal</string>
+    <string name="export_csv" formatted="false">CSV-skrá</string>
+    <string name="export_period" formatted="false">Tímabil</string>
+    <string name="year" formatted="false">Ár</string>
+    <string name="export_from" formatted="false">Frá</string>
+    <string name="export_to" formatted="false">Til</string>
+    <string name="export_include_estimation" formatted="false">Hafa áætlun ársins með</string>
+    <string name="export_share" formatted="false">Skráin opnast í deilivalmyndinni: vistaðu hana eða sendu.</string>
+    <string name="export_failed" formatted="false">Útflutningur mistókst.</string>
+    <string name="report_title" formatted="false">Akstursskýrsla</string>
+    <string name="generated_on">Búið til %1$s</string>
+    <string name="yes" formatted="false">já</string>
+    <string name="no" formatted="false">nei</string>
+    <string name="import_title" formatted="false">Flytja inn feril</string>
+    <string name="import_help" formatted="false">Ef síminn þinn geymir feril staðsetninga þinna geturðu flutt hann út sem JSON-skrá úr forritinu sem heldur utan um hann og síðan opnað hana hér. Aðeins ferðir í ökutæki eru lesnar. Skráin er ekki geymd: aðeins dagsetning, vegalengd og, ef þekkt, upphafs- og áfangastaður eru vistuð.</string>
+    <string name="import_pick" formatted="false">Velja skrá</string>
+    <string name="import_reading" formatted="false">Les…</string>
+    <string name="import_found">Ferðir í ökutæki fundust: %1$d</string>
+    <string name="import_skipped">Aðrar ferðir hunsaðar (gangandi, hjólandi, almenningssamgöngur): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Tilgangur ferða sem ekki þekkjast sem heimili–vinna</string>
+    <string name="import_period">Frá %1$s til %2$s</string>
+    <string name="import_confirm">Flytja inn %1$d ferðir</string>
+    <string name="import_done">Ferðir fluttar inn: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Engin ný ferð: þær voru þegar fluttar inn.</string>
+    <string name="import_unreadable" formatted="false">Þessi skrá er ekki læsilegur staðsetningarferill.</string>
+    <string name="import_commute_hint" formatted="false">Ferðir milli heimilis þíns og vinnustaðar þekkjast þegar skráin merkir þær; þær fá tilganginn heimili–vinna.</string>
+    <string name="backup_title" formatted="false">Öryggisafrit</string>
+    <string name="backup_explain" formatted="false">Gögnin þín fara aðeins af tækinu þínu þegar þú ákveður það. Öryggisafrit er skrá sem þú getur geymt hvar sem er og endurheimt á hvaða tæki sem er.</string>
+    <string name="backup_export" formatted="false">Flytja út öryggisafrit</string>
+    <string name="backup_restore" formatted="false">Endurheimta öryggisafrit</string>
+    <string name="backup_restore_help" formatted="false">Endurheimt sameinar: ekkert sem þú hefur skráð síðan tapast.</string>
+    <string name="backup_restored">Öryggisafrit endurheimt: %1$d ferðir alls.</string>
+    <string name="backup_invalid" formatted="false">Þessi skrá er ekki öryggisafrit úr þessu forriti.</string>
+    <string name="cloud_title" formatted="false">Skýjaafrit</string>
+    <string name="cloud_explain" formatted="false">Sjálfvirkt afrit af gögnunum þínum í skýjarými tækisins, án aukareiknings. Það er endurnýjað eftir hverja breytingu.</string>
+    <string name="cloud_now" formatted="false">Taka afrit núna</string>
+    <string name="cloud_restore" formatted="false">Endurheimta úr skýinu</string>
+    <string name="cloud_last">Síðasta skýjaafrit: %1$s</string>
+    <string name="cloud_never" formatted="false">Ekkert skýjaafrit enn.</string>
+    <string name="cloud_unavailable" formatted="false">Skýjaafrit er ekki í boði á þessu tæki. Notaðu útflutning öryggisafrits.</string>
+    <string name="cloud_done" formatted="false">Skýjaafriti lokið.</string>
+    <string name="cloud_nothing" formatted="false">Ekkert skýjaafrit til að endurheimta.</string>
+    <string name="cloud_system_restore" formatted="false">Kerfið endurheimtir þetta afrit sjálfkrafa þegar þú setur forritið upp aftur eða stillir nýtt tæki.</string>
+    <string name="settings" formatted="false">Stillingar</string>
+    <string name="rules_title" formatted="false">Reiknireglur</string>
+    <string name="rule_fr" formatted="false">Frönsk kílómetratafla</string>
+    <string name="rule_generic" formatted="false">Föst upphæð á kílómetra</string>
+    <string name="generic_rate" formatted="false">Upphæð á kílómetra</string>
+    <string name="currency" formatted="false">Gjaldmiðill</string>
+    <string name="home_label" formatted="false">Heiti heimilis þíns</string>
+    <string name="work_label" formatted="false">Heiti vinnustaðar þíns</string>
+    <string name="home_work_distance" formatted="false">Vegalengd heimili–vinna (aðra leið, km)</string>
+    <string name="places_help" formatted="false">Notað fyrir uppáhaldsferðir og innflutning ferils.</string>
+    <string name="pro_title" formatted="false">Pro-útgáfa</string>
+    <string name="pro_subtitle" formatted="false">Allt sem þú þarft fyrir raunkostnaðinn þinn, og engar auglýsingar.</string>
+    <string name="pro_features_title" formatted="false">Opnaðir eiginleikar:</string>
+    <string name="pro_feature_unlimited" formatted="false">Ótakmarkaðar ferðir.</string>
+    <string name="pro_feature_estimation" formatted="false">Áætlun raunkostnaðar og samanburður við fasta frádráttinn.</string>
+    <string name="pro_feature_export" formatted="false">Fullkominn, vottaður útflutningur (snyrtilegt PDF, töflureiknissnið tilbúið fyrir bókarann eða skattframtalið).</string>
+    <string name="pro_feature_import" formatted="false">Innflutningur ferðaferils símans þíns.</string>
+    <string name="pro_feature_expenses" formatted="false">Veggjöldum, bílastæðum og eldsneyti bætt við áætlunina.</string>
+    <string name="pro_feature_cloud" formatted="false">Endurheimt úr öryggisafritsskrá og samstilling milli tækjanna þinna.</string>
+    <string name="pro_feature_widgets" formatted="false">Græja á heimaskjá.</string>
+    <string name="pro_feature_watch" formatted="false">Úrforrit.</string>
+    <string name="pro_feature_no_ads" formatted="false">Engar auglýsingar yfirhöfuð.</string>
+    <string name="pro_feature_gps" formatted="false">Sjálfvirk GPS-skráning (hreyfiskynjun eða Bluetooth-tenging við bílinn).</string>
+    <string name="pro_feature_scan" formatted="false">Snjöll skönnun (OCR) á kvittunum fyrir veggjöld, bílastæði og eldsneyti með myndavélinni.</string>
+    <string name="pro_monthly">%1$s á mánuði</string>
+    <string name="pro_yearly">%1$s á ári</string>
+    <string name="pro_yearly_hint" formatted="false">Tveir mánuðir fríir miðað við mánaðaráskrift</string>
+    <string name="subscribe" formatted="false">Gerast áskrifandi</string>
+    <string name="restore_purchases" formatted="false">Endurheimta kaup</string>
+    <string name="pro_active" formatted="false">Pro-útgáfa virk</string>
+    <string name="pro_active_since">Áskrift: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Kaup eru ekki í boði í þessari útgáfu forritsins.</string>
+    <string name="pro_legal" formatted="false">Áskrift sem endurnýjast sjálfkrafa og er skuldfærð á verslunarreikninginn þinn. Hægt er að segja upp hvenær sem er í stillingum verslunarinnar; verðið er skuldfært fyrir næsta tímabil nema áskriftinni sé sagt upp að minnsta kosti 24 klst. áður en hún rennur út.</string>
+    <string name="purchase_pending" formatted="false">Kaup í vinnslu…</string>
+    <string name="purchase_failed" formatted="false">Kaupin gengu ekki í gegn.</string>
+    <string name="purchase_restored" formatted="false">Kaup endurheimt.</string>
+    <string name="purchase_nothing" formatted="false">Ekkert til að endurheimta.</string>
+    <string name="rewarded_title" formatted="false">Prófa með auglýsingu</string>
+    <string name="rewarded_explain" formatted="false">Horfðu á stutta auglýsingu til að opna þetta um stund. Pro fjarlægir auglýsingar og opnar allt.</string>
+    <string name="rewarded_estimation" formatted="false">Sjá áætlunina í 24 klst.</string>
+    <string name="rewarded_export" formatted="false">Einn útflutningur innan klukkustundar</string>
+    <string name="rewarded_trips" formatted="false">5 ferðir til viðbótar í þessum mánuði</string>
+    <string name="rewarded_watch" formatted="false">Horfa á auglýsingu</string>
+    <string name="rewarded_unavailable" formatted="false">Engin auglýsing í boði núna. Reyndu aftur eftir smástund.</string>
+    <string name="rewarded_granted" formatted="false">Opnað. Góða ferð!</string>
+    <string name="expenses" formatted="false">Útgjöld</string>
+    <string name="add_expense" formatted="false">Ný útgjöld</string>
+    <string name="edit_expense" formatted="false">Breyta útgjöldum</string>
+    <string name="expense_kind" formatted="false">Tegund</string>
+    <string name="kind_toll" formatted="false">Veggjald</string>
+    <string name="kind_parking" formatted="false">Bílastæði</string>
+    <string name="kind_fuel" formatted="false">Eldsneyti</string>
+    <string name="kind_other" formatted="false">Annað</string>
+    <string name="amount" formatted="false">Upphæð</string>
+    <string name="place" formatted="false">Staður</string>
+    <string name="litres" formatted="false">Lítrar</string>
+    <string name="odometer" formatted="false">Staða kílómetramælis</string>
+    <string name="no_expenses" formatted="false">Engin útgjöld. Veggjöldum og bílastæðum er bætt við áætlunina.</string>
+    <string name="invalid_amount" formatted="false">Sláðu inn upphæð sem er hærri en 0.</string>
+    <string name="legal_title" formatted="false">Lagalegt og persónuvernd</string>
+    <string name="privacy_text" formatted="false">Öll gögnin þín eru áfram á tækinu þínu. Forritið krefst engins reiknings og sendir ekkert á netþjón. Einu samskiptin við umheiminn eru þau sem þú átt frumkvæði að, útflutningur, öryggisafrit eða kaup, auk auglýsinga ókeypis útgáfunnar, sem Pro-útgáfan fjarlægir.</string>
+    <string name="about" formatted="false">Um forritið</string>
+    <string name="version">Útgáfa %1$s</string>
+    <string name="error_generic" formatted="false">Eitthvað fór úrskeiðis.</string>
+    <string name="today" formatted="false">Í dag</string>
+    <string name="yesterday" formatted="false">Í gær</string>
+    <string name="ads_privacy_options" formatted="false">Persónuverndarstillingar auglýsinga</string>
+    <string name="ads_disabled_title" formatted="false">Auglýsingar eru óvirkar</string>
+    <string name="ads_disabled_text" formatted="false">Kerfið gefur til kynna að þessi reikningur tilheyri ungum notanda. Forritið sýnir því engar auglýsingar og biður ekki um samþykki. Ekkert auglýsingaauðkenni er lesið og engum gögnum er safnað eða þau send.</string>
+    <string name="watch_quick_add" formatted="false">Flýtiferð</string>
+    <string name="watch_no_favorites" formatted="false">Bættu við uppáhaldsferðum í símanum þínum.</string>
+    <string name="watch_added" formatted="false">Bætt við</string>
+    <string name="watch_open_phone" formatted="false">Opna símaforritið</string>
+    <string name="widget_today" formatted="false">Í dag</string>
+    <string name="widget_month" formatted="false">Þessi mánuður</string>
+    <string name="widget_pro_needed" formatted="false">Græja í boði með Pro</string>
+</resources>

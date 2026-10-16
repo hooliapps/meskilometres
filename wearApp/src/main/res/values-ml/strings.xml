@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">കിലോമീറ്റർ</string>
+    <string name="watch_quick_add" formatted="false">ദ്രുത യാത്ര</string>
+    <string name="watch_no_favorites" formatted="false">നിങ്ങളുടെ ഫോണിൽ പ്രിയ യാത്രകൾ ചേർക്കുക.</string>
+    <string name="watch_added" formatted="false">ചേർത്തു</string>
+    <string name="watch_open_phone" formatted="false">ഫോൺ ആപ്പ് തുറക്കുക</string>
+    <string name="km_value">%1$s കി.മീ</string>
+    <string name="this_month" formatted="false">ഈ മാസം</string>
+    <string name="today" formatted="false">ഇന്ന്</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">വിജറ്റ് Pro-യിൽ ലഭ്യം</string>
+</resources>

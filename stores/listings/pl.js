@@ -1,0 +1,43 @@
+'use strict';
+module.exports = {
+	title: '{app}: kilometrówka',
+	subtitle: 'Przejazdy, wydatki, szacunek',
+	short: 'Ewidencja przebiegu jednym dotknięciem. Przejazdy, opłaty, parkingi, koszty.',
+	full: `{app} prowadzi Twoją ewidencję przebiegu bez zbędnych komplikacji: jedno dotknięcie na przejazd, bez konta, bez konfiguracji. Twoje przejazdy zostają w telefonie, a kopia w chmurze Twojego urządzenia gwarantuje, że nigdy nie przepadną.
+
+JEDNO DOTKNIĘCIE NA PRZEJAZD
+Zapisz swoje stałe trasy jako ulubione i dodawaj przejazd jednym dotknięciem: z aplikacji, z widżetu na ekranie głównym albo z zegarka. Data, skąd, dokąd, odległość, w obie strony lub w jedną, cel: to wszystko.
+
+CO DAJE WERSJA BEZPŁATNA
+• Do 5 przejazdów miesięcznie, wpisywanych ręcznie
+• Ulubione trasy do dodawania jednym dotknięciem
+• Pojazdy i moc fiskalna
+• Plik kopii zapasowej i kopia w chmurze: nic nigdy nie przepada
+
+CO DODAJE PRO
+• Przejazdy bez limitu
+• Szacunek kosztów rzeczywistych według oficjalnych stawek kilometrowych i porównanie z ryczałtowym odliczeniem 10 %
+• Opłaty drogowe, parkingi i paliwo doliczone do szacunku
+• Import historii przejazdów zapisanej już przez Twój telefon
+• Pełny, poświadczony eksport: czytelny raport PDF i arkusz gotowy dla księgowego lub do zeznania podatkowego
+• Przywracanie z pliku kopii zapasowej i synchronizacja między Twoimi urządzeniami
+• Widżet na ekranie głównym i aplikacja na zegarek
+• Zero reklam, na zawsze
+
+SZACUNEK, NIE GWARANCJA
+Szacunek kosztów rzeczywistych jest wyłącznie orientacyjny i nie daje gwarancji. Nie stanowi porady podatkowej i nie zastępuje przepisów, urzędu skarbowego ani specjalisty. Sprawdź zasady, które Cię dotyczą, zanim złożysz zeznanie.
+
+PRYWATNOŚĆ OD PODSTAW
+Bez konta, bez serwera. Aplikacja nie wysyła niczego nigdzie: Twój telefon opuszczają tylko te dane, które sam eksportujesz, zapisujesz w kopii lub kupujesz. Paragony są przechowywane jako odnośniki (data, kwota, miejsce), nigdy jako zdjęcia.
+
+Pro to subskrypcja: {monthly} miesięcznie lub {yearly} rocznie, z możliwością anulowania w każdej chwili z poziomu konta w sklepie.`,
+	keywords: 'kilometrówka,ewidencja,przebieg,przejazdy,km,wydatki,podatek,dojazdy,opłaty,parking,pojazd,paliwo',
+	whatsNew: `Pierwsze wydanie {app}.
+
+• Przejazdy jednym dotknięciem, ulubione trasy
+• Szacunek kosztów rzeczywistych według oficjalnych stawek (Pro)
+• Eksport do PDF i arkusza (Pro)
+• Import historii przejazdów (Pro)
+• Kopia w chmurze dla wszystkich; widżet i aplikacja na zegarek (Pro)
+• 71 języków`
+};

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">ಕಿಲೋಮೀಟರ್</string>
+    <string name="watch_quick_add" formatted="false">ತ್ವರಿತ ಪ್ರಯಾಣ</string>
+    <string name="watch_no_favorites" formatted="false">ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ಮೆಚ್ಚಿನ ಪ್ರಯಾಣಗಳನ್ನು ಸೇರಿಸಿ.</string>
+    <string name="watch_added" formatted="false">ಸೇರಿಸಲಾಗಿದೆ</string>
+    <string name="watch_open_phone" formatted="false">ಫೋನ್ ಆ್ಯಪ್ ತೆರೆಯಿರಿ</string>
+    <string name="km_value">%1$s ಕಿ.ಮೀ</string>
+    <string name="this_month" formatted="false">ಈ ತಿಂಗಳು</string>
+    <string name="today" formatted="false">ಇಂದು</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">ವಿಜೆಟ್ Pro ಜೊತೆ ಲಭ್ಯ</string>
+</resources>

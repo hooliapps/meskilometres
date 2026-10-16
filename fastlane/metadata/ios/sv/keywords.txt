@@ -1,0 +1,1 @@
+körjournal,resor,km,kilometer,utgifter,skatt,pendling,vägtull,parkering,fordon,ersättning,bränsle

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometroak</string>
+    <string name="widget_name" formatted="false">Bidaiak</string>
+    <string name="widget_description" formatted="false">Gaurko kilometroak eta zure bidaia gogokoenak ukitu bakarrarekin.</string>
+    <string name="tab_trips" formatted="false">Bidaiak</string>
+    <string name="tab_estimate" formatted="false">Kalkulua</string>
+    <string name="tab_more" formatted="false">Gehiago</string>
+    <string name="this_month" formatted="false">Hilabete hau</string>
+    <string name="this_year" formatted="false">Urte hau</string>
+    <string name="trips_count">Bidaiak: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Bidaia berria</string>
+    <string name="free_remaining">Hilabete honetan geratzen diren doako bidaiak: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Hilabete honetako doako muga gainditu da</string>
+    <string name="free_quota_reached" formatted="false">Doako bertsioak hilean 5 bidaia onartzen ditu. Pasa Pro bertsiora bidaia mugagabeak izateko, edo ikusi iragarki bat 5 gehiago lortzeko.</string>
+    <string name="go_pro" formatted="false">Pro bertsiora</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Oraindik ez dago bidaiarik.\nSakatu + lehenengoa erregistratzeko.</string>
+    <string name="trip_new" formatted="false">Bidaia berria</string>
+    <string name="trip_edit" formatted="false">Bidaia editatu</string>
+    <string name="field_date" formatted="false">Data</string>
+    <string name="field_from" formatted="false">Nondik</string>
+    <string name="field_to" formatted="false">Nora</string>
+    <string name="field_distance" formatted="false">Joaneko distantzia (km)</string>
+    <string name="field_round_trip" formatted="false">Joan-etorria</string>
+    <string name="field_purpose" formatted="false">Arrazoia</string>
+    <string name="field_vehicle" formatted="false">Ibilgailua</string>
+    <string name="field_note" formatted="false">Oharra</string>
+    <string name="field_justified" formatted="false">Egoera bereziak</string>
+    <string name="field_justified_help" formatted="false">Markatu etxetik lanerako distantzia 40 km baino gehiago bada arrazoi zehatz batengatik, edo egun berean justifikatutako joan-etorri gehigarri baterako.</string>
+    <string name="purpose_commute" formatted="false">Etxe-lana</string>
+    <string name="purpose_business" formatted="false">Lanekoa</string>
+    <string name="purpose_personal" formatted="false">Pertsonala</string>
+    <string name="save" formatted="false">Gorde</string>
+    <string name="cancel" formatted="false">Utzi</string>
+    <string name="delete" formatted="false">Ezabatu</string>
+    <string name="edit" formatted="false">Editatu</string>
+    <string name="ok" formatted="false">Ados</string>
+    <string name="close" formatted="false">Itxi</string>
+    <string name="back" formatted="false">Atzera</string>
+    <string name="confirm_delete" formatted="false">Betiko ezabatu nahi duzu?</string>
+    <string name="invalid_distance" formatted="false">Idatzi 0 baino handiagoa den distantzia bat.</string>
+    <string name="favorites" formatted="false">Gogokoak</string>
+    <string name="save_as_favorite" formatted="false">Gogoko gisa ere gorde</string>
+    <string name="favorite_label" formatted="false">Gogokoaren izena</string>
+    <string name="no_favorites" formatted="false">Gorde bidaia bat gogoko gisa ukitu bakarrarekin erregistratzeko.</string>
+    <string name="use_favorite" formatted="false">Bidaia gogokoak</string>
+    <string name="swap" formatted="false">Trukatu</string>
+    <string name="quick_add_hint" formatted="false">Sakatu gogoko bat gaur gehitzeko.</string>
+    <string name="added" formatted="false">Bidaia gehitu da.</string>
+    <string name="undo" formatted="false">Desegin</string>
+    <string name="vehicles" formatted="false">Ibilgailuak</string>
+    <string name="add_vehicle" formatted="false">Ibilgailua gehitu</string>
+    <string name="edit_vehicle" formatted="false">Ibilgailua editatu</string>
+    <string name="vehicle_name" formatted="false">Izena</string>
+    <string name="vehicle_kind" formatted="false">Mota</string>
+    <string name="kind_car" formatted="false">Autoa</string>
+    <string name="kind_motorcycle" formatted="false">Motoa</string>
+    <string name="kind_moped" formatted="false">Ziklomotorra</string>
+    <string name="fiscal_power" formatted="false">Potentzia fiskala</string>
+    <string name="cv">%1$d ZP</string>
+    <string name="cv_or_more">%1$d ZP edo gehiago</string>
+    <string name="cv_or_less">%1$d ZP edo gutxiago</string>
+    <string name="cv_range_3_5" formatted="false">3tik 5 ZPra</string>
+    <string name="electric" formatted="false">Ibilgailu elektrikoa</string>
+    <string name="no_vehicle" formatted="false">Ez dago ibilgailurik. Gehitu bat: kalkuluak behar du.</string>
+    <string name="default_vehicle" formatted="false">Ibilgailu lehenetsia</string>
+    <string name="vehicle_needed" formatted="false">Gehitu lehenik ibilgailu bat Gehiago &gt; Ibilgailuak atalean.</string>
+    <string name="estimation" formatted="false">Gastu errealen kalkulua</string>
+    <string name="income_year">Diru-sarreren urtea: %1$d</string>
+    <string name="estimation_locked" formatted="false">Gastu errealen kalkulua, esportazioak, historiaren inportazioa eta babeskopia bat leheneratzea Pro bertsioaren parte dira.</string>
+    <string name="disclaimer_short" formatted="false">Orientaziozko kalkulua, bermerik gabea.</string>
+    <string name="disclaimer_long" formatted="false">Kalkulu hau orientaziozkoa da eta ez dago bermatuta. Ez da zerga-aholkularitza eta ez ditu ordezkatzen testu ofizialak, zerga-administrazioa edo profesional bat. Egiaztatu zure egoerari dagozkion arauak aitorpena egin aurretik.</string>
+    <string name="commute_km_raw" formatted="false">Sartutako etxe-lana km</string>
+    <string name="commute_km_retained" formatted="false">Onartutako etxe-lana km</string>
+    <string name="business_km" formatted="false">Laneko km</string>
+    <string name="retained_km" formatted="false">Onartutako km</string>
+    <string name="allowance" formatted="false">Kilometrajeagatiko kalte-ordaina</string>
+    <string name="tolls_parking" formatted="false">Bidesariak eta aparkalekuak</string>
+    <string name="total" formatted="false">Guztira kalkulatua</string>
+    <string name="flat_deduction" formatted="false">%10eko kenkari finkoa</string>
+    <string name="real_better" formatted="false">Gastu errealak kenkari finkoa baino onuragarriagoak dirudite.</string>
+    <string name="flat_better" formatted="false">Kenkari finkoak gastu errealak baino onuragarriagoa dirudi.</string>
+    <string name="enter_salary" formatted="false">Sartu zure urteko soldata garbi zergapegarria kenkari finkoarekin alderatzeko.</string>
+    <string name="net_taxable_salary" formatted="false">Urteko soldata garbi zergapegarria</string>
+    <string name="per_vehicle" formatted="false">Ibilgailu bakoitzeko</string>
+    <string name="note_scale_unconfirmed" formatted="false">Aurtengo baremoa ez da oraindik argitaratu: ezagutzen den azken baremoa aplikatzen da.</string>
+    <string name="note_cap_applied" formatted="false">Etxe-lana bidaia bat edo gehiago 40 km-ra mugatu dira, egoera berezirik adierazi gabe.</string>
+    <string name="note_extra_legs" formatted="false">Eguneko etxe-lana joan-etorri batetik aurrera, egoera berezirik gabeko bidaiak baztertu dira.</string>
+    <string name="note_no_vehicle" formatted="false">Ibilgailurik gabeko bidaiak ez dira kontuan hartu: aukeratu ibilgailu lehenetsi bat.</string>
+    <string name="note_fuel">Sartutako erregaia (%1$s) ez da gehitzen: baremo kilometrikoak dagoeneko barne hartzen du.</string>
+    <string name="note_no_salary" formatted="false">Soldata ez da sartu: ez dago alderaketarik kenkari finkoarekin.</string>
+    <string name="documents_title" formatted="false">Gorde beharreko agiriak</string>
+    <string name="documents_list" formatted="false">Ibilgailuaren zirkulazio-baimena\nLan-kontratua edo enpresaren ziurtagiria\nLan egindako egunen erregistroa\nBidesari eta aparkaleku tiketak\nEgoera bereziak justifikatzen duen edozer</string>
+    <string name="export" formatted="false">Esportatu</string>
+    <string name="export_title" formatted="false">Esportazioa</string>
+    <string name="export_pdf" formatted="false">PDF txostena</string>
+    <string name="export_xlsx" formatted="false">Kalkulu-orriko liburua</string>
+    <string name="export_csv" formatted="false">CSV fitxategia</string>
+    <string name="export_period" formatted="false">Aldia</string>
+    <string name="year" formatted="false">Urtea</string>
+    <string name="export_from" formatted="false">Noiztik</string>
+    <string name="export_to" formatted="false">Noiz arte</string>
+    <string name="export_include_estimation" formatted="false">Urteko kalkulua sartu</string>
+    <string name="export_share" formatted="false">Fitxategia partekatzeko orrian irekitzen da: gorde edo bidali.</string>
+    <string name="export_failed" formatted="false">Esportazioak huts egin du.</string>
+    <string name="report_title" formatted="false">Kilometraje-txostena</string>
+    <string name="generated_on">Sortze-data: %1$s</string>
+    <string name="yes" formatted="false">bai</string>
+    <string name="no" formatted="false">ez</string>
+    <string name="import_title" formatted="false">Historia inportatu</string>
+    <string name="import_help" formatted="false">Zure telefonoak zure kokapenen historia gordetzen badu, JSON fitxategi gisa esporta dezakezu kudeatzen duen aplikaziotik, eta gero hemen ireki. Ibilgailuz egindako joan-etorriak bakarrik irakurtzen dira. Fitxategia ez da gordetzen: data, distantzia eta, ezagunak direnean, abiapuntua eta helmuga bakarrik gordetzen dira.</string>
+    <string name="import_pick" formatted="false">Fitxategia aukeratu</string>
+    <string name="import_reading" formatted="false">Irakurtzen…</string>
+    <string name="import_found">Aurkitutako ibilgailu-bidaiak: %1$d</string>
+    <string name="import_skipped">Baztertutako beste joan-etorriak (oinez, bizikletaz, garraio publikoan): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Etxe-lana gisa ezagutu ez diren bidaien arrazoia</string>
+    <string name="import_period">%1$s - %2$s</string>
+    <string name="import_confirm">%1$d bidaia inportatu</string>
+    <string name="import_done">Inportatutako bidaiak: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Ez dago bidaia berririk: dagoeneko inportatuta zeuden.</string>
+    <string name="import_unreadable" formatted="false">Fitxategi hau ez da kokapen-historia irakurgarri bat.</string>
+    <string name="import_commute_hint" formatted="false">Zure etxearen eta lantokiaren arteko joan-etorriak ezagutzen dira fitxategiak hala etiketatzen dituenean; etxe-lana arrazoia hartzen dute.</string>
+    <string name="backup_title" formatted="false">Babeskopia</string>
+    <string name="backup_explain" formatted="false">Zure datuak zuk erabakitzen duzunean bakarrik irteten dira gailutik. Babeskopia bat nahi duzun tokian gorde eta edozein gailutan leheneratu dezakezun fitxategi bat da.</string>
+    <string name="backup_export" formatted="false">Babeskopia esportatu</string>
+    <string name="backup_restore" formatted="false">Babeskopia leheneratu</string>
+    <string name="backup_restore_help" formatted="false">Leheneratzeak bateratu egiten du: ordutik sartu duzun ezer ez da galtzen.</string>
+    <string name="backup_restored">Babeskopia leheneratu da: %1$d bidaia guztira.</string>
+    <string name="backup_invalid" formatted="false">Fitxategi hau ez da aplikazio honen babeskopia bat.</string>
+    <string name="cloud_title" formatted="false">Hodeiko babeskopia</string>
+    <string name="cloud_explain" formatted="false">Zure datuen kopia automatikoa zure gailuaren hodeiko espazioan, kontu gehigarririk gabe. Aldaketa bakoitzaren ondoren eguneratzen da.</string>
+    <string name="cloud_now" formatted="false">Orain gorde</string>
+    <string name="cloud_restore" formatted="false">Hodeitik leheneratu</string>
+    <string name="cloud_last">Hodeiko azken babeskopia: %1$s</string>
+    <string name="cloud_never" formatted="false">Oraindik ez dago hodeiko babeskopiarik.</string>
+    <string name="cloud_unavailable" formatted="false">Hodeiko babeskopia ez dago erabilgarri gailu honetan. Erabili babeskopiaren esportazioa.</string>
+    <string name="cloud_done" formatted="false">Hodeiko babeskopia egin da.</string>
+    <string name="cloud_nothing" formatted="false">Ez dago leheneratzeko hodeiko babeskopiarik.</string>
+    <string name="cloud_system_restore" formatted="false">Sistemak berez leheneratzen du babeskopia hau aplikazioa berriro instalatzean edo gailu berri bat konfiguratzean.</string>
+    <string name="settings" formatted="false">Ezarpenak</string>
+    <string name="rules_title" formatted="false">Kalkulu-arauak</string>
+    <string name="rule_fr" formatted="false">Frantziako baremo kilometrikoa</string>
+    <string name="rule_generic" formatted="false">Kilometroko tarifa finkoa</string>
+    <string name="generic_rate" formatted="false">Kilometroko tarifa</string>
+    <string name="currency" formatted="false">Moneta</string>
+    <string name="home_label" formatted="false">Zure etxearen izena</string>
+    <string name="work_label" formatted="false">Zure lantokiaren izena</string>
+    <string name="home_work_distance" formatted="false">Etxe-lana distantzia (joana, km)</string>
+    <string name="places_help" formatted="false">Bidaia gogokoetarako eta historiaren inportaziorako erabiltzen dira.</string>
+    <string name="pro_title" formatted="false">Pro bertsioa</string>
+    <string name="pro_subtitle" formatted="false">Gastu errealetarako behar duzun guztia, eta iragarkirik gabe.</string>
+    <string name="pro_features_title" formatted="false">Desblokeatutako funtzioak:</string>
+    <string name="pro_feature_unlimited" formatted="false">Bidaia mugagabeak.</string>
+    <string name="pro_feature_estimation" formatted="false">Gastu errealen kalkulua eta kenkari finkoarekin alderaketa.</string>
+    <string name="pro_feature_export" formatted="false">Esportazio osoa eta ziurtatua (PDF garbia, kalkulu-orri formatua aholkularitzarako edo aitorpenerako prest).</string>
+    <string name="pro_feature_import" formatted="false">Zure telefonoaren bidaia-historiaren inportazioa.</string>
+    <string name="pro_feature_expenses" formatted="false">Bidesariak, aparkalekuak eta erregaia kalkuluari gehituta.</string>
+    <string name="pro_feature_cloud" formatted="false">Babeskopia fitxategi batetik leheneratzea eta gailu anitzen arteko sinkronizazioa.</string>
+    <string name="pro_feature_widgets" formatted="false">Hasierako pantailako widgeta.</string>
+    <string name="pro_feature_watch" formatted="false">Erlojurako aplikazioa.</string>
+    <string name="pro_feature_no_ads" formatted="false">Iragarkirik batere ez.</string>
+    <string name="pro_feature_gps" formatted="false">GPS jarraipen automatikoa (mugimendu-detekzioa edo autoarekin Bluetooth konexioa).</string>
+    <string name="pro_feature_scan" formatted="false">Bidesari, aparkaleku eta erregai tiketen eskaneatze adimenduna (OCR) kamerarekin.</string>
+    <string name="pro_monthly">%1$s hilean</string>
+    <string name="pro_yearly">%1$s urtean</string>
+    <string name="pro_yearly_hint" formatted="false">Bi hilabete doan hilekoarekin alderatuta</string>
+    <string name="subscribe" formatted="false">Harpidetu</string>
+    <string name="restore_purchases" formatted="false">Erosketak leheneratu</string>
+    <string name="pro_active" formatted="false">Pro bertsioa aktibo</string>
+    <string name="pro_active_since">Harpidetza: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Erosketak ez daude erabilgarri aplikazioaren bertsio honetan.</string>
+    <string name="pro_legal" formatted="false">Berritze automatikoko harpidetza, zure dendako kontuan kobratua. Edonoiz bertan behera utz daiteke dendako ezarpenetatik; prezioa hurrengo aldirako kobratzen da, amaitu baino gutxienez 24 ordu lehenago bertan behera uzten ez bada.</string>
+    <string name="purchase_pending" formatted="false">Erosketa egiten…</string>
+    <string name="purchase_failed" formatted="false">Erosketa ez da burutu.</string>
+    <string name="purchase_restored" formatted="false">Erosketak leheneratu dira.</string>
+    <string name="purchase_nothing" formatted="false">Ez dago leheneratzeko ezer.</string>
+    <string name="rewarded_title" formatted="false">Probatu iragarki batekin</string>
+    <string name="rewarded_explain" formatted="false">Ikusi iragarki labur bat funtzio hau aldi batez desblokeatzeko. Pro bertsioak iragarkiak kentzen ditu eta dena desblokeatzen du.</string>
+    <string name="rewarded_estimation" formatted="false">Kalkulua ikusi 24 orduz</string>
+    <string name="rewarded_export" formatted="false">Esportazio bat, ordubetean</string>
+    <string name="rewarded_trips" formatted="false">5 bidaia gehiago hilabete honetan</string>
+    <string name="rewarded_watch" formatted="false">Iragarki bat ikusi</string>
+    <string name="rewarded_unavailable" formatted="false">Ez dago iragarkirik erabilgarri orain. Saiatu berriro une batean.</string>
+    <string name="rewarded_granted" formatted="false">Desblokeatuta. Bidaia on!</string>
+    <string name="expenses" formatted="false">Gastuak</string>
+    <string name="add_expense" formatted="false">Gastu berria</string>
+    <string name="edit_expense" formatted="false">Gastua editatu</string>
+    <string name="expense_kind" formatted="false">Mota</string>
+    <string name="kind_toll" formatted="false">Bidesaria</string>
+    <string name="kind_parking" formatted="false">Aparkalekua</string>
+    <string name="kind_fuel" formatted="false">Erregaia</string>
+    <string name="kind_other" formatted="false">Bestelakoa</string>
+    <string name="amount" formatted="false">Zenbatekoa</string>
+    <string name="place" formatted="false">Lekua</string>
+    <string name="litres" formatted="false">Litroak</string>
+    <string name="odometer" formatted="false">Kilometro-kontagailua</string>
+    <string name="no_expenses" formatted="false">Ez dago gasturik. Bidesariak eta aparkalekuak kalkuluari gehitzen zaizkio.</string>
+    <string name="invalid_amount" formatted="false">Idatzi 0 baino handiagoa den zenbateko bat.</string>
+    <string name="legal_title" formatted="false">Lege-oharra eta pribatutasuna</string>
+    <string name="privacy_text" formatted="false">Zure datu guztiak zure gailuan geratzen dira. Aplikazioak ez du konturik eskatzen eta ez du ezer bidaltzen zerbitzari batera. Kanpoarekiko truke bakarrak zuk abiarazten dituzunak dira, esportazio bat, babeskopia bat edo erosketa bat, eta doako bertsioaren iragarkiak, Pro bertsioak kentzen dituenak.</string>
+    <string name="about" formatted="false">Honi buruz</string>
+    <string name="version">%1$s bertsioa</string>
+    <string name="error_generic" formatted="false">Errore bat gertatu da.</string>
+    <string name="today" formatted="false">Gaur</string>
+    <string name="yesterday" formatted="false">Atzo</string>
+    <string name="ads_privacy_options" formatted="false">Iragarkien pribatutasun-aukerak</string>
+    <string name="ads_disabled_title" formatted="false">Iragarkiak desgaituta daude</string>
+    <string name="ads_disabled_text" formatted="false">Sistemak adierazten du kontu hau erabiltzaile gazte batena dela. Beraz, aplikazioak ez du iragarkirik erakusten eta ez du baimenik eskatzen. Ez da publizitate-identifikatzailerik irakurtzen eta ez da daturik biltzen edo bidaltzen.</string>
+    <string name="watch_quick_add" formatted="false">Bidaia azkarra</string>
+    <string name="watch_no_favorites" formatted="false">Gehitu bidaia gogokoak zure telefonoan.</string>
+    <string name="watch_added" formatted="false">Gehituta</string>
+    <string name="watch_open_phone" formatted="false">Telefonoko aplikazioa ireki</string>
+    <string name="widget_today" formatted="false">Gaur</string>
+    <string name="widget_month" formatted="false">Hilabete hau</string>
+    <string name="widget_pro_needed" formatted="false">Widgeta Pro bertsioarekin erabilgarri</string>
+</resources>

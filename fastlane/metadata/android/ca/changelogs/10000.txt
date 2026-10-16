@@ -1,0 +1,8 @@
+Primera versió de Kilomètres.
+
+• Trajectes amb un toc, itineraris preferits
+• Estimació de despeses reals amb el barem oficial (Pro)
+• Exportacions PDF i full de càlcul (Pro)
+• Importació de l'historial de trajectes (Pro)
+• Còpia al núvol per a tothom; widget i aplicació per al rellotge (Pro)
+• 71 idiomes

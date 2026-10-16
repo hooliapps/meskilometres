@@ -1,0 +1,49 @@
+# Kilomètres: ceļu žurnāls
+
+## Sous-titre / phrase courte
+Braucieni, izdevumi, aplēse
+
+Ceļu žurnāls vienā pieskārienā. Braucieni, ceļa nodevas, stāvvietas, izdevumi.
+
+## Description
+Kilomètres ved jūsu ceļu žurnālu bez liekas piepūles: viens pieskāriens katram braucienam, bez konta, nekas nav jāiestata. Jūsu braucieni paliek jūsu tālrunī, un dublējums jūsu ierīces mākoņa krātuvē nodrošina, ka tie nekad netiek zaudēti.
+
+VIENS PIESKĀRIENS KATRAM BRAUCIENAM
+Saglabājiet ierastos maršrutus izlasē un ierakstiet braucienu ar vienu pieskārienu no lietotnes, sākuma ekrāna logrīka vai pulksteņa. Datums, sākuma punkts, galapunkts, attālums, turp un atpakaļ vai vienā virzienā, mērķis: tas arī viss.
+
+KO DARA BEZMAKSAS VERSIJA
+• Līdz 5 braucieniem mēnesī, ievadītiem manuāli
+• Iecienītie maršruti ierakstīšanai ar vienu pieskārienu
+• Transportlīdzekļi un fiskālā jauda
+• Dublējuma fails un mākoņa dublējums, lai nekas nekad netiktu zaudēts
+
+KO PIEVIENO PRO
+• Neierobežoti braucieni
+• Jūsu faktisko izdevumu aplēse pēc oficiālās kilometru tabulas un salīdzinājums ar fiksēto 10 % atskaitījumu
+• Ceļa nodevas, stāvvietas un degviela pievienotas aplēsei
+• Jūsu tālruņa jau ierakstītās braucienu vēstures imports
+• Pilnīgs, sertificēts eksports: tīra PDF atskaite un izklājlapa grāmatvedim vai nodokļu deklarācijai
+• Atjaunošana no dublējuma faila un sinhronizācija starp jūsu ierīcēm
+• Sākuma ekrāna logrīks un lietotne pulkstenim
+• Nekādu reklāmu, nekad
+
+APLĒSE, NEVIS GARANTIJA
+Faktisko izdevumu aplēse ir tikai orientējoša un nav garantēta. Tā nav nodokļu konsultācija un neaizstāj ne oficiālos tekstus, ne nodokļu administrāciju, ne speciālistu. Pirms deklarēšanas pārbaudiet uz jums attiecināmos noteikumus.
+
+PRIVĀTS PĒC BŪTĪBAS
+Bez konta, bez servera. Lietotne neko nekur nesūta: vienīgie dati, kas atstāj jūsu tālruni, ir tie, ko jūs pats eksportējat, dublējat vai pērkat. Čeki tiek glabāti kā atsauces (datums, summa, vieta), nekad kā attēli.
+
+Pro ir abonements: 4,99 € mēnesī vai 49,99 € gadā, atceļams jebkurā laikā no jūsu veikala konta.
+
+## Mots-cles
+ceļu žurnāls,braucieni,km,izdevumi,nodokļi,darbs,nodeva,stāvvieta,auto,kompensācija,degviela
+
+## Nouveautes
+Pirmā Kilomètres versija.
+
+• Braucieni ar vienu pieskārienu, iecienītie maršruti
+• Faktisko izdevumu aplēse pēc oficiālās tabulas (Pro)
+• PDF un izklājlapu eksports (Pro)
+• Braucienu vēstures imports (Pro)
+• Mākoņa dublējums visiem; logrīks un lietotne pulkstenim (Pro)
+• 71 valoda

@@ -1,0 +1,28 @@
+# Ce que le depot ne doit JAMAIS contenir : les secrets, et le jetable.
+
+# ------------------------------------------------------------- Secrets
+keystore.properties
+*.keystore
+*.jks
+*.p12
+*.mobileprovision
+google-play-key*.json
+iosApp/*.xcodeproj
+iosApp/fastlane/*.p8
+
+# ------------------------------------------------------------ Jetable
+.gradle/
+build/
+*/build/
+.kotlin/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+iosApp/DerivedData/
+iosApp/Pods/
+*.xcuserstate
+
+# ------------------------------------------------------ Outils Node
+tools/branding/node_modules/

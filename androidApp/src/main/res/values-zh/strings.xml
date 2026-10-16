@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">公里</string>
+    <string name="widget_name" formatted="false">行程</string>
+    <string name="widget_description" formatted="false">今日公里数和常用行程，一键记录。</string>
+    <string name="tab_trips" formatted="false">行程</string>
+    <string name="tab_estimate" formatted="false">估算</string>
+    <string name="tab_more" formatted="false">更多</string>
+    <string name="this_month" formatted="false">本月</string>
+    <string name="this_year" formatted="false">今年</string>
+    <string name="trips_count">行程：%1$d</string>
+    <string name="km_value">%1$s 公里</string>
+    <string name="add_trip" formatted="false">新建行程</string>
+    <string name="free_remaining">本月剩余免费行程：%1$d</string>
+    <string name="free_limit_reached" formatted="false">本月免费额度已用完</string>
+    <string name="free_quota_reached" formatted="false">免费版每月可记录 5 次行程。升级 Pro 版即可不限次数，或观看一条广告再获得 5 次。</string>
+    <string name="go_pro" formatted="false">升级 Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">还没有行程。\n点按 + 记录第一次行程。</string>
+    <string name="trip_new" formatted="false">新建行程</string>
+    <string name="trip_edit" formatted="false">编辑行程</string>
+    <string name="field_date" formatted="false">日期</string>
+    <string name="field_from" formatted="false">出发地</string>
+    <string name="field_to" formatted="false">目的地</string>
+    <string name="field_distance" formatted="false">单程距离（公里）</string>
+    <string name="field_round_trip" formatted="false">往返</string>
+    <string name="field_purpose" formatted="false">用途</string>
+    <string name="field_vehicle" formatted="false">车辆</string>
+    <string name="field_note" formatted="false">备注</string>
+    <string name="field_justified" formatted="false">特殊情况</string>
+    <string name="field_justified_help" formatted="false">如果住所与工作地之间的距离因特定原因超过 40 公里，或当天有合理的额外往返，请勾选。</string>
+    <string name="purpose_commute" formatted="false">通勤</string>
+    <string name="purpose_business" formatted="false">公务</string>
+    <string name="purpose_personal" formatted="false">私人</string>
+    <string name="save" formatted="false">保存</string>
+    <string name="cancel" formatted="false">取消</string>
+    <string name="delete" formatted="false">删除</string>
+    <string name="edit" formatted="false">编辑</string>
+    <string name="ok" formatted="false">好</string>
+    <string name="close" formatted="false">关闭</string>
+    <string name="back" formatted="false">返回</string>
+    <string name="confirm_delete" formatted="false">永久删除？</string>
+    <string name="invalid_distance" formatted="false">请输入大于 0 的距离。</string>
+    <string name="favorites" formatted="false">收藏</string>
+    <string name="save_as_favorite" formatted="false">同时保存为收藏</string>
+    <string name="favorite_label" formatted="false">收藏名称</string>
+    <string name="no_favorites" formatted="false">将行程保存为收藏，即可一键记录。</string>
+    <string name="use_favorite" formatted="false">收藏行程</string>
+    <string name="swap" formatted="false">对调</string>
+    <string name="quick_add_hint" formatted="false">点按一个收藏，即可添加到今天。</string>
+    <string name="added" formatted="false">行程已添加。</string>
+    <string name="undo" formatted="false">撤销</string>
+    <string name="vehicles" formatted="false">车辆</string>
+    <string name="add_vehicle" formatted="false">添加车辆</string>
+    <string name="edit_vehicle" formatted="false">编辑车辆</string>
+    <string name="vehicle_name" formatted="false">名称</string>
+    <string name="vehicle_kind" formatted="false">类型</string>
+    <string name="kind_car" formatted="false">汽车</string>
+    <string name="kind_motorcycle" formatted="false">摩托车</string>
+    <string name="kind_moped" formatted="false">轻便摩托车</string>
+    <string name="fiscal_power" formatted="false">财政马力（CV）</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV 及以上</string>
+    <string name="cv_or_less">%1$d CV 及以下</string>
+    <string name="cv_range_3_5" formatted="false">3 至 5 CV</string>
+    <string name="electric" formatted="false">电动车辆</string>
+    <string name="no_vehicle" formatted="false">没有车辆。请添加一辆：估算需要它。</string>
+    <string name="default_vehicle" formatted="false">默认车辆</string>
+    <string name="vehicle_needed" formatted="false">请先在「更多 &gt; 车辆」中添加车辆。</string>
+    <string name="estimation" formatted="false">实际费用估算</string>
+    <string name="income_year">%1$d 年收入</string>
+    <string name="estimation_locked" formatted="false">实际费用估算、导出、历史记录导入和备份还原属于 Pro 版功能。</string>
+    <string name="disclaimer_short" formatted="false">估算仅供参考，不作保证。</string>
+    <string name="disclaimer_long" formatted="false">本估算仅供参考，不作保证。它不构成税务建议，也不能替代官方文件、税务机关或专业人士的意见。申报前请核实适用于您情况的规定。</string>
+    <string name="commute_km_raw" formatted="false">已录入的通勤公里</string>
+    <string name="commute_km_retained" formatted="false">计入的通勤公里</string>
+    <string name="business_km" formatted="false">公务公里</string>
+    <string name="retained_km" formatted="false">计入公里</string>
+    <string name="allowance" formatted="false">里程补贴</string>
+    <string name="tolls_parking" formatted="false">过路费和停车费</string>
+    <string name="total" formatted="false">估算总额</string>
+    <string name="flat_deduction" formatted="false">10% 标准扣除</string>
+    <string name="real_better" formatted="false">实际费用看起来比标准扣除更有利。</string>
+    <string name="flat_better" formatted="false">标准扣除看起来比实际费用更有利。</string>
+    <string name="enter_salary" formatted="false">输入您的年度应税净工资，以便与标准扣除进行比较。</string>
+    <string name="net_taxable_salary" formatted="false">年度应税净工资</string>
+    <string name="per_vehicle" formatted="false">按车辆</string>
+    <string name="note_scale_unconfirmed" formatted="false">今年的里程费率表尚未公布：已采用最新已知的费率表。</string>
+    <string name="note_cap_applied" formatted="false">一段或多段通勤路程已被限制为 40 公里，因为未声明特殊情况。</string>
+    <string name="note_extra_legs" formatted="false">每天一次通勤往返之外，未注明特殊情况的行程已被排除。</string>
+    <string name="note_no_vehicle" formatted="false">未指定车辆的行程已被忽略：请选择默认车辆。</string>
+    <string name="note_fuel">已录入的燃油（%1$s）不另行计入：里程费率表已包含它。</string>
+    <string name="note_no_salary" formatted="false">未输入工资：无法与标准扣除比较。</string>
+    <string name="documents_title" formatted="false">需保留的凭证</string>
+    <string name="documents_list" formatted="false">车辆登记证\n劳动合同或雇主证明\n工作日记录\n过路费和停车费收据\n任何可证明特殊情况的材料</string>
+    <string name="export" formatted="false">导出</string>
+    <string name="export_title" formatted="false">导出</string>
+    <string name="export_pdf" formatted="false">PDF 报告</string>
+    <string name="export_xlsx" formatted="false">电子表格</string>
+    <string name="export_csv" formatted="false">CSV 文件</string>
+    <string name="export_period" formatted="false">时间段</string>
+    <string name="year" formatted="false">年份</string>
+    <string name="export_from" formatted="false">从</string>
+    <string name="export_to" formatted="false">至</string>
+    <string name="export_include_estimation" formatted="false">包含本年度估算</string>
+    <string name="export_share" formatted="false">文件将在共享面板中打开：可保存或发送。</string>
+    <string name="export_failed" formatted="false">导出失败。</string>
+    <string name="report_title" formatted="false">里程报告</string>
+    <string name="generated_on">生成于 %1$s</string>
+    <string name="yes" formatted="false">是</string>
+    <string name="no" formatted="false">否</string>
+    <string name="import_title" formatted="false">导入历史记录</string>
+    <string name="import_help" formatted="false">如果您的手机保存了位置历史记录，可以从管理该记录的应用中将其导出为 JSON 文件，然后在此处打开。只会读取乘车出行的记录。文件不会被保留：只保存日期、距离，以及已知的出发地和目的地。</string>
+    <string name="import_pick" formatted="false">选择文件</string>
+    <string name="import_reading" formatted="false">正在读取…</string>
+    <string name="import_found">找到的乘车出行：%1$d</string>
+    <string name="import_skipped">已忽略的其他出行（步行、骑行、公共交通）：%1$d</string>
+    <string name="import_default_purpose" formatted="false">未识别为通勤的出行用途</string>
+    <string name="import_period">从 %1$s 到 %2$s</string>
+    <string name="import_confirm">导入 %1$d 次行程</string>
+    <string name="import_done">已导入行程：%1$d</string>
+    <string name="import_nothing_new" formatted="false">没有新行程：它们之前已导入。</string>
+    <string name="import_unreadable" formatted="false">此文件不是可读取的位置历史记录。</string>
+    <string name="import_commute_hint" formatted="false">当文件标注了住所与工作地之间的出行时，这些出行会被识别并归为通勤用途。</string>
+    <string name="backup_title" formatted="false">备份</string>
+    <string name="backup_explain" formatted="false">您的数据只在您决定时才离开设备。备份是一个文件，可以存放在任何地方，并在任何设备上恢复。</string>
+    <string name="backup_export" formatted="false">导出备份</string>
+    <string name="backup_restore" formatted="false">恢复备份</string>
+    <string name="backup_restore_help" formatted="false">恢复时会合并数据：此后录入的内容不会丢失。</string>
+    <string name="backup_restored">备份已恢复：共 %1$d 次行程。</string>
+    <string name="backup_invalid" formatted="false">此文件不是本应用的备份。</string>
+    <string name="cloud_title" formatted="false">云备份</string>
+    <string name="cloud_explain" formatted="false">自动将数据复制到设备自带的云空间，无需额外账户。每次更改后都会刷新。</string>
+    <string name="cloud_now" formatted="false">立即备份</string>
+    <string name="cloud_restore" formatted="false">从云端恢复</string>
+    <string name="cloud_last">上次云备份：%1$s</string>
+    <string name="cloud_never" formatted="false">尚无云备份。</string>
+    <string name="cloud_unavailable" formatted="false">此设备不支持云备份。请使用备份导出。</string>
+    <string name="cloud_done" formatted="false">云备份完成。</string>
+    <string name="cloud_nothing" formatted="false">没有可恢复的云备份。</string>
+    <string name="cloud_system_restore" formatted="false">重新安装应用或设置新设备时，系统会自动恢复此备份。</string>
+    <string name="settings" formatted="false">设置</string>
+    <string name="rules_title" formatted="false">计算规则</string>
+    <string name="rule_fr" formatted="false">法国里程费率表</string>
+    <string name="rule_generic" formatted="false">每公里固定费率</string>
+    <string name="generic_rate" formatted="false">每公里费率</string>
+    <string name="currency" formatted="false">货币</string>
+    <string name="home_label" formatted="false">住所名称</string>
+    <string name="work_label" formatted="false">工作地名称</string>
+    <string name="home_work_distance" formatted="false">住所到工作地距离（单程，公里）</string>
+    <string name="places_help" formatted="false">用于收藏行程和历史记录导入。</string>
+    <string name="pro_title" formatted="false">Pro 版</string>
+    <string name="pro_subtitle" formatted="false">实际费用所需的一切，且没有广告。</string>
+    <string name="pro_features_title" formatted="false">解锁的功能：</string>
+    <string name="pro_feature_unlimited" formatted="false">不限次数的行程。</string>
+    <string name="pro_feature_estimation" formatted="false">实际费用估算，并与标准扣除比较。</string>
+    <string name="pro_feature_export" formatted="false">完整、可认证的导出（整洁的 PDF，以及可直接交给会计师或用于报税的电子表格格式）。</string>
+    <string name="pro_feature_import" formatted="false">导入手机的行程历史记录。</string>
+    <string name="pro_feature_expenses" formatted="false">过路费、停车费和燃油计入估算。</string>
+    <string name="pro_feature_cloud" formatted="false">从备份文件还原，以及多设备同步。</string>
+    <string name="pro_feature_widgets" formatted="false">主屏幕小组件。</string>
+    <string name="pro_feature_watch" formatted="false">手表应用。</string>
+    <string name="pro_feature_no_ads" formatted="false">完全没有广告。</string>
+    <string name="pro_feature_gps" formatted="false">自动 GPS 记录（运动检测或与汽车的蓝牙连接）。</string>
+    <string name="pro_feature_scan" formatted="false">用相机智能扫描（OCR）过路费、停车费和燃油收据。</string>
+    <string name="pro_monthly">每月 %1$s</string>
+    <string name="pro_yearly">每年 %1$s</string>
+    <string name="pro_yearly_hint" formatted="false">比按月订阅省两个月</string>
+    <string name="subscribe" formatted="false">订阅</string>
+    <string name="restore_purchases" formatted="false">恢复购买</string>
+    <string name="pro_active" formatted="false">Pro 版已激活</string>
+    <string name="pro_active_since">订阅：%1$s</string>
+    <string name="pro_unavailable" formatted="false">此版本的应用不支持购买。</string>
+    <string name="pro_legal" formatted="false">自动续订的订阅，通过您的商店账户扣费。可随时在商店设置中取消；除非在周期结束前至少 24 小时取消，否则将按下一周期扣费。</string>
+    <string name="purchase_pending" formatted="false">正在购买…</string>
+    <string name="purchase_failed" formatted="false">购买未完成。</string>
+    <string name="purchase_restored" formatted="false">购买已恢复。</string>
+    <string name="purchase_nothing" formatted="false">没有可恢复的内容。</string>
+    <string name="rewarded_title" formatted="false">看广告试用</string>
+    <string name="rewarded_explain" formatted="false">观看一条短广告，即可暂时解锁此功能。Pro 版去除广告并解锁全部功能。</string>
+    <string name="rewarded_estimation" formatted="false">查看估算 24 小时</string>
+    <string name="rewarded_export" formatted="false">一小时内导出一次</string>
+    <string name="rewarded_trips" formatted="false">本月再加 5 次行程</string>
+    <string name="rewarded_watch" formatted="false">观看广告</string>
+    <string name="rewarded_unavailable" formatted="false">目前没有可用的广告。请稍后再试。</string>
+    <string name="rewarded_granted" formatted="false">已解锁。一路顺风！</string>
+    <string name="expenses" formatted="false">费用</string>
+    <string name="add_expense" formatted="false">新建费用</string>
+    <string name="edit_expense" formatted="false">编辑费用</string>
+    <string name="expense_kind" formatted="false">类型</string>
+    <string name="kind_toll" formatted="false">过路费</string>
+    <string name="kind_parking" formatted="false">停车费</string>
+    <string name="kind_fuel" formatted="false">燃油</string>
+    <string name="kind_other" formatted="false">其他</string>
+    <string name="amount" formatted="false">金额</string>
+    <string name="place" formatted="false">地点</string>
+    <string name="litres" formatted="false">升</string>
+    <string name="odometer" formatted="false">里程表读数</string>
+    <string name="no_expenses" formatted="false">没有费用。过路费和停车费会计入估算。</string>
+    <string name="invalid_amount" formatted="false">请输入大于 0 的金额。</string>
+    <string name="legal_title" formatted="false">法律与隐私</string>
+    <string name="privacy_text" formatted="false">您的所有数据都保留在设备上。本应用不需要账户，也不会向服务器发送任何内容。与外部的唯一交互是您主动发起的操作，如导出、备份或购买，以及免费版的广告（Pro 版会去除广告）。</string>
+    <string name="about" formatted="false">关于</string>
+    <string name="version">版本 %1$s</string>
+    <string name="error_generic" formatted="false">出了点问题。</string>
+    <string name="today" formatted="false">今天</string>
+    <string name="yesterday" formatted="false">昨天</string>
+    <string name="ads_privacy_options" formatted="false">广告隐私选项</string>
+    <string name="ads_disabled_title" formatted="false">广告已停用</string>
+    <string name="ads_disabled_text" formatted="false">系统显示此账户属于未成年用户。因此本应用不显示任何广告，也不请求任何同意。不读取广告标识符，不收集或发送任何数据。</string>
+    <string name="watch_quick_add" formatted="false">快速行程</string>
+    <string name="watch_no_favorites" formatted="false">请在手机上添加收藏行程。</string>
+    <string name="watch_added" formatted="false">已添加</string>
+    <string name="watch_open_phone" formatted="false">打开手机应用</string>
+    <string name="widget_today" formatted="false">今天</string>
+    <string name="widget_month" formatted="false">本月</string>
+    <string name="widget_pro_needed" formatted="false">小组件需要 Pro 版</string>
+</resources>

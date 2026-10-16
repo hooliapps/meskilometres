@@ -1,0 +1,8 @@
+Kilomètres-sovelluksen ensimmäinen versio.
+
+• Matkat yhdellä napautuksella, suosikkireitit
+• Todellisten kulujen arvio virallisella taulukolla (Pro)
+• PDF- ja taulukkoviennit (Pro)
+• Matkahistorian tuonti (Pro)
+• Pilvivarmuuskopio kaikille; widget ja kellosovellus (Pro)
+• 71 kieltä

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Quilómetros</string>
+    <string name="widget_name" formatted="false">Viagens</string>
+    <string name="widget_description" formatted="false">Os quilómetros de hoje e as suas viagens favoritas num toque.</string>
+    <string name="tab_trips" formatted="false">Viagens</string>
+    <string name="tab_estimate" formatted="false">Estimativa</string>
+    <string name="tab_more" formatted="false">Mais</string>
+    <string name="this_month" formatted="false">Este mês</string>
+    <string name="this_year" formatted="false">Este ano</string>
+    <string name="trips_count">Viagens: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Nova viagem</string>
+    <string name="free_remaining">Viagens gratuitas restantes este mês: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Limite gratuito atingido este mês</string>
+    <string name="free_quota_reached" formatted="false">A versão gratuita permite 5 viagens por mês. Passe a Pro para viagens ilimitadas, ou veja um anúncio para mais 5.</string>
+    <string name="go_pro" formatted="false">Passar a Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Ainda não há viagens.\nToque em + para registar a primeira.</string>
+    <string name="trip_new" formatted="false">Nova viagem</string>
+    <string name="trip_edit" formatted="false">Editar viagem</string>
+    <string name="field_date" formatted="false">Data</string>
+    <string name="field_from" formatted="false">Partida</string>
+    <string name="field_to" formatted="false">Chegada</string>
+    <string name="field_distance" formatted="false">Distância só de ida (km)</string>
+    <string name="field_round_trip" formatted="false">Ida e volta</string>
+    <string name="field_purpose" formatted="false">Motivo</string>
+    <string name="field_vehicle" formatted="false">Veículo</string>
+    <string name="field_note" formatted="false">Nota</string>
+    <string name="field_justified" formatted="false">Circunstâncias especiais</string>
+    <string name="field_justified_help" formatted="false">Assinale se a distância casa-trabalho ultrapassa 40 km por um motivo específico, ou para uma ida e volta adicional justificada no mesmo dia.</string>
+    <string name="purpose_commute" formatted="false">Casa-trabalho</string>
+    <string name="purpose_business" formatted="false">Profissional</string>
+    <string name="purpose_personal" formatted="false">Pessoal</string>
+    <string name="save" formatted="false">Guardar</string>
+    <string name="cancel" formatted="false">Cancelar</string>
+    <string name="delete" formatted="false">Eliminar</string>
+    <string name="edit" formatted="false">Editar</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Fechar</string>
+    <string name="back" formatted="false">Voltar</string>
+    <string name="confirm_delete" formatted="false">Eliminar definitivamente?</string>
+    <string name="invalid_distance" formatted="false">Indique uma distância superior a 0.</string>
+    <string name="favorites" formatted="false">Favoritos</string>
+    <string name="save_as_favorite" formatted="false">Guardar também como favorito</string>
+    <string name="favorite_label" formatted="false">Nome do favorito</string>
+    <string name="no_favorites" formatted="false">Guarde uma viagem como favorito para a registar num toque.</string>
+    <string name="use_favorite" formatted="false">Viagens favoritas</string>
+    <string name="swap" formatted="false">Inverter</string>
+    <string name="quick_add_hint" formatted="false">Toque num favorito para o adicionar com a data de hoje.</string>
+    <string name="added" formatted="false">Viagem adicionada.</string>
+    <string name="undo" formatted="false">Anular</string>
+    <string name="vehicles" formatted="false">Veículos</string>
+    <string name="add_vehicle" formatted="false">Adicionar um veículo</string>
+    <string name="edit_vehicle" formatted="false">Editar veículo</string>
+    <string name="vehicle_name" formatted="false">Nome</string>
+    <string name="vehicle_kind" formatted="false">Tipo</string>
+    <string name="kind_car" formatted="false">Carro</string>
+    <string name="kind_motorcycle" formatted="false">Mota</string>
+    <string name="kind_moped" formatted="false">Ciclomotor</string>
+    <string name="fiscal_power" formatted="false">Potência fiscal</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV ou mais</string>
+    <string name="cv_or_less">%1$d CV ou menos</string>
+    <string name="cv_range_3_5" formatted="false">3 a 5 CV</string>
+    <string name="electric" formatted="false">Veículo elétrico</string>
+    <string name="no_vehicle" formatted="false">Nenhum veículo. Adicione um: a estimativa precisa dele.</string>
+    <string name="default_vehicle" formatted="false">Veículo predefinido</string>
+    <string name="vehicle_needed" formatted="false">Adicione primeiro um veículo em Mais &gt; Veículos.</string>
+    <string name="estimation" formatted="false">Estimativa das despesas reais</string>
+    <string name="income_year">Ano de rendimentos %1$d</string>
+    <string name="estimation_locked" formatted="false">A estimativa das despesas reais, as exportações, a importação do histórico e o restauro de uma cópia de segurança fazem parte da versão Pro.</string>
+    <string name="disclaimer_short" formatted="false">Estimativa indicativa, não garantida.</string>
+    <string name="disclaimer_long" formatted="false">Esta estimativa é indicativa e não garantida. Não constitui aconselhamento fiscal e não substitui os textos oficiais, a administração fiscal nem um profissional. Verifique as regras aplicáveis à sua situação antes de declarar.</string>
+    <string name="commute_km_raw" formatted="false">Km casa-trabalho introduzidos</string>
+    <string name="commute_km_retained" formatted="false">Km casa-trabalho considerados</string>
+    <string name="business_km" formatted="false">Km profissionais</string>
+    <string name="retained_km" formatted="false">Km considerados</string>
+    <string name="allowance" formatted="false">Subsídio quilométrico</string>
+    <string name="tolls_parking" formatted="false">Portagens e estacionamento</string>
+    <string name="total" formatted="false">Total estimado</string>
+    <string name="flat_deduction" formatted="false">Dedução fixa de 10%</string>
+    <string name="real_better" formatted="false">As despesas reais parecem mais vantajosas do que a dedução fixa.</string>
+    <string name="flat_better" formatted="false">A dedução fixa parece mais vantajosa do que as despesas reais.</string>
+    <string name="enter_salary" formatted="false">Introduza o seu salário líquido tributável anual para comparar com a dedução fixa.</string>
+    <string name="net_taxable_salary" formatted="false">Salário líquido tributável anual</string>
+    <string name="per_vehicle" formatted="false">Por veículo</string>
+    <string name="note_scale_unconfirmed" formatted="false">A tabela deste ano ainda não foi publicada: aplica-se a última tabela conhecida.</string>
+    <string name="note_cap_applied" formatted="false">Um ou mais trajetos casa-trabalho foram limitados a 40 km, sem circunstâncias especiais declaradas.</string>
+    <string name="note_extra_legs" formatted="false">Para além de uma ida e volta casa-trabalho por dia, as viagens sem circunstâncias especiais foram excluídas.</string>
+    <string name="note_no_vehicle" formatted="false">As viagens sem veículo foram ignoradas: escolha um veículo predefinido.</string>
+    <string name="note_fuel">O combustível introduzido (%1$s) não é adicionado: a tabela quilométrica já o inclui.</string>
+    <string name="note_no_salary" formatted="false">Salário não introduzido: sem comparação com a dedução fixa.</string>
+    <string name="documents_title" formatted="false">Comprovativos a conservar</string>
+    <string name="documents_list" formatted="false">Documento único do veículo\nContrato de trabalho ou declaração da entidade empregadora\nRegisto dos dias trabalhados\nTalões de portagem e estacionamento\nQualquer elemento que justifique circunstâncias especiais</string>
+    <string name="export" formatted="false">Exportar</string>
+    <string name="export_title" formatted="false">Exportação</string>
+    <string name="export_pdf" formatted="false">Relatório PDF</string>
+    <string name="export_xlsx" formatted="false">Folha de cálculo</string>
+    <string name="export_csv" formatted="false">Ficheiro CSV</string>
+    <string name="export_period" formatted="false">Período</string>
+    <string name="year" formatted="false">Ano</string>
+    <string name="export_from" formatted="false">De</string>
+    <string name="export_to" formatted="false">Até</string>
+    <string name="export_include_estimation" formatted="false">Incluir a estimativa do ano</string>
+    <string name="export_share" formatted="false">O ficheiro abre na folha de partilha: guarde-o ou envie-o.</string>
+    <string name="export_failed" formatted="false">A exportação falhou.</string>
+    <string name="report_title" formatted="false">Relatório quilométrico</string>
+    <string name="generated_on">Gerado em %1$s</string>
+    <string name="yes" formatted="false">sim</string>
+    <string name="no" formatted="false">não</string>
+    <string name="import_title" formatted="false">Importar um histórico</string>
+    <string name="import_help" formatted="false">Se o seu telemóvel guarda um histórico das suas localizações, pode exportá-lo como ficheiro JSON a partir da aplicação que o gere e abri-lo aqui. Só são lidas as deslocações em veículo. O ficheiro não é conservado: só são guardados a data, a distância e, quando conhecidos, a partida e a chegada.</string>
+    <string name="import_pick" formatted="false">Escolher o ficheiro</string>
+    <string name="import_reading" formatted="false">A ler…</string>
+    <string name="import_found">Deslocações em veículo encontradas: %1$d</string>
+    <string name="import_skipped">Outras deslocações ignoradas (a pé, bicicleta, transportes): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Motivo das viagens não reconhecidas como casa-trabalho</string>
+    <string name="import_period">De %1$s a %2$s</string>
+    <string name="import_confirm">Importar %1$d viagens</string>
+    <string name="import_done">Viagens importadas: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Nenhuma viagem nova: já tinham sido importadas.</string>
+    <string name="import_unreadable" formatted="false">Este ficheiro não é um histórico de localizações legível.</string>
+    <string name="import_commute_hint" formatted="false">As deslocações entre a sua casa e o seu trabalho são reconhecidas quando o ficheiro as identifica; recebem o motivo casa-trabalho.</string>
+    <string name="backup_title" formatted="false">Cópia de segurança</string>
+    <string name="backup_explain" formatted="false">Os seus dados só saem do seu dispositivo se assim o decidir. Uma cópia de segurança é um ficheiro que pode guardar onde quiser e restaurar em qualquer dispositivo.</string>
+    <string name="backup_export" formatted="false">Exportar uma cópia</string>
+    <string name="backup_restore" formatted="false">Restaurar uma cópia</string>
+    <string name="backup_restore_help" formatted="false">O restauro funde os dados: nada do que introduziu entretanto se perde.</string>
+    <string name="backup_restored">Cópia restaurada: %1$d viagens no total.</string>
+    <string name="backup_invalid" formatted="false">Este ficheiro não é uma cópia desta aplicação.</string>
+    <string name="cloud_title" formatted="false">Cópia na nuvem</string>
+    <string name="cloud_explain" formatted="false">Cópia automática dos seus dados no espaço na nuvem do seu dispositivo, sem conta adicional. É refeita a cada alteração.</string>
+    <string name="cloud_now" formatted="false">Guardar agora</string>
+    <string name="cloud_restore" formatted="false">Restaurar da nuvem</string>
+    <string name="cloud_last">Última cópia na nuvem: %1$s</string>
+    <string name="cloud_never" formatted="false">Ainda não há cópia na nuvem.</string>
+    <string name="cloud_unavailable" formatted="false">A cópia na nuvem não está disponível neste dispositivo. Use a exportação de cópia.</string>
+    <string name="cloud_done" formatted="false">Cópia na nuvem efetuada.</string>
+    <string name="cloud_nothing" formatted="false">Nenhuma cópia na nuvem para restaurar.</string>
+    <string name="cloud_system_restore" formatted="false">O sistema restaura esta cópia por si só ao reinstalar a aplicação ou ao configurar um novo dispositivo.</string>
+    <string name="settings" formatted="false">Definições</string>
+    <string name="rules_title" formatted="false">Regras de cálculo</string>
+    <string name="rule_fr" formatted="false">Tabela quilométrica francesa</string>
+    <string name="rule_generic" formatted="false">Taxa fixa por quilómetro</string>
+    <string name="generic_rate" formatted="false">Taxa por quilómetro</string>
+    <string name="currency" formatted="false">Moeda</string>
+    <string name="home_label" formatted="false">Nome da sua casa</string>
+    <string name="work_label" formatted="false">Nome do seu local de trabalho</string>
+    <string name="home_work_distance" formatted="false">Distância casa-trabalho (só ida, km)</string>
+    <string name="places_help" formatted="false">Usados nas viagens favoritas e na importação do histórico.</string>
+    <string name="pro_title" formatted="false">Versão Pro</string>
+    <string name="pro_subtitle" formatted="false">Tudo o que precisa para as suas despesas reais, e sem publicidade.</string>
+    <string name="pro_features_title" formatted="false">Funcionalidades desbloqueadas:</string>
+    <string name="pro_feature_unlimited" formatted="false">Viagens ilimitadas.</string>
+    <string name="pro_feature_estimation" formatted="false">Estimativa das despesas reais e comparação com a dedução fixa.</string>
+    <string name="pro_feature_export" formatted="false">Exportação completa e certificada (PDF limpo, formato de folha de cálculo pronto para o contabilista ou para a declaração).</string>
+    <string name="pro_feature_import" formatted="false">Importação do histórico de viagens do seu telemóvel.</string>
+    <string name="pro_feature_expenses" formatted="false">Portagens, estacionamento e combustível adicionados à estimativa.</string>
+    <string name="pro_feature_cloud" formatted="false">Restauro de uma cópia de segurança e sincronização entre dispositivos.</string>
+    <string name="pro_feature_widgets" formatted="false">Widget do ecrã principal.</string>
+    <string name="pro_feature_watch" formatted="false">Aplicação para o relógio.</string>
+    <string name="pro_feature_no_ads" formatted="false">Sem qualquer publicidade.</string>
+    <string name="pro_feature_gps" formatted="false">Registo GPS automático (deteção de movimento ou ligação Bluetooth ao carro).</string>
+    <string name="pro_feature_scan" formatted="false">Digitalização inteligente (OCR) dos talões de portagem, estacionamento e combustível com a câmara.</string>
+    <string name="pro_monthly">%1$s por mês</string>
+    <string name="pro_yearly">%1$s por ano</string>
+    <string name="pro_yearly_hint" formatted="false">Dois meses oferecidos face ao mensal</string>
+    <string name="subscribe" formatted="false">Subscrever</string>
+    <string name="restore_purchases" formatted="false">Restaurar compras</string>
+    <string name="pro_active" formatted="false">Versão Pro ativa</string>
+    <string name="pro_active_since">Subscrição: %1$s</string>
+    <string name="pro_unavailable" formatted="false">As compras não estão disponíveis nesta versão da aplicação.</string>
+    <string name="pro_legal" formatted="false">Subscrição com renovação automática, debitada na sua conta da loja. Cancelável a qualquer momento nas definições da loja; o preço é debitado para o período seguinte salvo cancelamento pelo menos 24 h antes do seu termo.</string>
+    <string name="purchase_pending" formatted="false">Compra em curso…</string>
+    <string name="purchase_failed" formatted="false">A compra não foi concluída.</string>
+    <string name="purchase_restored" formatted="false">Compras restauradas.</string>
+    <string name="purchase_nothing" formatted="false">Nada a restaurar.</string>
+    <string name="rewarded_title" formatted="false">Experimente com um anúncio</string>
+    <string name="rewarded_explain" formatted="false">Veja um anúncio curto para desbloquear esta função por algum tempo. O Pro remove a publicidade e desbloqueia tudo.</string>
+    <string name="rewarded_estimation" formatted="false">Ver a estimativa durante 24 horas</string>
+    <string name="rewarded_export" formatted="false">Uma exportação, na próxima hora</string>
+    <string name="rewarded_trips" formatted="false">Mais 5 viagens este mês</string>
+    <string name="rewarded_watch" formatted="false">Ver um anúncio</string>
+    <string name="rewarded_unavailable" formatted="false">Nenhum anúncio disponível neste momento. Tente novamente daqui a pouco.</string>
+    <string name="rewarded_granted" formatted="false">Desbloqueado. Boa viagem!</string>
+    <string name="expenses" formatted="false">Despesas</string>
+    <string name="add_expense" formatted="false">Nova despesa</string>
+    <string name="edit_expense" formatted="false">Editar despesa</string>
+    <string name="expense_kind" formatted="false">Tipo</string>
+    <string name="kind_toll" formatted="false">Portagem</string>
+    <string name="kind_parking" formatted="false">Estacionamento</string>
+    <string name="kind_fuel" formatted="false">Combustível</string>
+    <string name="kind_other" formatted="false">Outro</string>
+    <string name="amount" formatted="false">Montante</string>
+    <string name="place" formatted="false">Local</string>
+    <string name="litres" formatted="false">Litros</string>
+    <string name="odometer" formatted="false">Quilometragem</string>
+    <string name="no_expenses" formatted="false">Sem despesas. As portagens e o estacionamento juntam-se à estimativa.</string>
+    <string name="invalid_amount" formatted="false">Indique um montante superior a 0.</string>
+    <string name="legal_title" formatted="false">Avisos legais e privacidade</string>
+    <string name="privacy_text" formatted="false">Todos os seus dados ficam no seu dispositivo. A aplicação não exige qualquer conta e não envia nada para um servidor. As únicas trocas com o exterior são as que você desencadeia, uma exportação, uma cópia ou uma compra, e os anúncios da versão gratuita, que a versão Pro remove.</string>
+    <string name="about" formatted="false">Acerca</string>
+    <string name="version">Versão %1$s</string>
+    <string name="error_generic" formatted="false">Ocorreu um erro.</string>
+    <string name="today" formatted="false">Hoje</string>
+    <string name="yesterday" formatted="false">Ontem</string>
+    <string name="ads_privacy_options" formatted="false">Opções de privacidade dos anúncios</string>
+    <string name="ads_disabled_title" formatted="false">Os anúncios estão desativados</string>
+    <string name="ads_disabled_text" formatted="false">O sistema indica que esta conta pertence a um utilizador jovem. Por isso a aplicação não mostra anúncios nem pede consentimento. Nenhum identificador publicitário é lido e nenhum dado é recolhido ou enviado.</string>
+    <string name="watch_quick_add" formatted="false">Viagem rápida</string>
+    <string name="watch_no_favorites" formatted="false">Adicione viagens favoritas no seu telemóvel.</string>
+    <string name="watch_added" formatted="false">Adicionada</string>
+    <string name="watch_open_phone" formatted="false">Abrir a aplicação do telemóvel</string>
+    <string name="widget_today" formatted="false">Hoje</string>
+    <string name="widget_month" formatted="false">Este mês</string>
+    <string name="widget_pro_needed" formatted="false">Widget disponível com o Pro</string>
+</resources>

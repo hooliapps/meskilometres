@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">கிலோமீட்டர்</string>
+    <string name="watch_quick_add" formatted="false">விரைவுப் பயணம்</string>
+    <string name="watch_no_favorites" formatted="false">உங்கள் போனில் பிடித்த பயணங்களைச் சேர்க்கவும்.</string>
+    <string name="watch_added" formatted="false">சேர்க்கப்பட்டது</string>
+    <string name="watch_open_phone" formatted="false">போன் செயலியைத் திற</string>
+    <string name="km_value">%1$s கி.மீ</string>
+    <string name="this_month" formatted="false">இந்த மாதம்</string>
+    <string name="today" formatted="false">இன்று</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">Pro உடன் விட்ஜெட் கிடைக்கும்</string>
+</resources>

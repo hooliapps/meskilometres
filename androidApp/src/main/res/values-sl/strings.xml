@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometri</string>
+    <string name="widget_name" formatted="false">Vožnje</string>
+    <string name="widget_description" formatted="false">Današnji kilometri in vaše priljubljene vožnje z enim dotikom.</string>
+    <string name="tab_trips" formatted="false">Vožnje</string>
+    <string name="tab_estimate" formatted="false">Ocena</string>
+    <string name="tab_more" formatted="false">Več</string>
+    <string name="this_month" formatted="false">Ta mesec</string>
+    <string name="this_year" formatted="false">Letos</string>
+    <string name="trips_count">Vožnje: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Nova vožnja</string>
+    <string name="free_remaining">Preostale brezplačne vožnje ta mesec: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Brezplačna omejitev za ta mesec je dosežena</string>
+    <string name="free_quota_reached" formatted="false">Brezplačna različica omogoča 5 voženj na mesec. Preklopite na Pro za neomejene vožnje ali si oglejte oglas za 5 dodatnih.</string>
+    <string name="go_pro" formatted="false">Preklopi na Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Še ni voženj.\nDotaknite se + in vnesite prvo.</string>
+    <string name="trip_new" formatted="false">Nova vožnja</string>
+    <string name="trip_edit" formatted="false">Uredi vožnjo</string>
+    <string name="field_date" formatted="false">Datum</string>
+    <string name="field_from" formatted="false">Od</string>
+    <string name="field_to" formatted="false">Do</string>
+    <string name="field_distance" formatted="false">Razdalja v eno smer (km)</string>
+    <string name="field_round_trip" formatted="false">Povratna</string>
+    <string name="field_purpose" formatted="false">Namen</string>
+    <string name="field_vehicle" formatted="false">Vozilo</string>
+    <string name="field_note" formatted="false">Opomba</string>
+    <string name="field_justified" formatted="false">Posebne okoliščine</string>
+    <string name="field_justified_help" formatted="false">Označite, če razdalja od doma do dela iz določenega razloga presega 40 km, ali za upravičeno dodatno povratno vožnjo istega dne.</string>
+    <string name="purpose_commute" formatted="false">Pot na delo</string>
+    <string name="purpose_business" formatted="false">Službeno</string>
+    <string name="purpose_personal" formatted="false">Zasebno</string>
+    <string name="save" formatted="false">Shrani</string>
+    <string name="cancel" formatted="false">Prekliči</string>
+    <string name="delete" formatted="false">Izbriši</string>
+    <string name="edit" formatted="false">Uredi</string>
+    <string name="ok" formatted="false">V redu</string>
+    <string name="close" formatted="false">Zapri</string>
+    <string name="back" formatted="false">Nazaj</string>
+    <string name="confirm_delete" formatted="false">Trajno izbrišem?</string>
+    <string name="invalid_distance" formatted="false">Vnesite razdaljo, večjo od 0.</string>
+    <string name="favorites" formatted="false">Priljubljene</string>
+    <string name="save_as_favorite" formatted="false">Shrani tudi med priljubljene</string>
+    <string name="favorite_label" formatted="false">Ime priljubljene vožnje</string>
+    <string name="no_favorites" formatted="false">Shranite vožnjo med priljubljene in jo vnesite z enim dotikom.</string>
+    <string name="use_favorite" formatted="false">Priljubljene vožnje</string>
+    <string name="swap" formatted="false">Zamenjaj</string>
+    <string name="quick_add_hint" formatted="false">Dotaknite se priljubljene vožnje, da jo dodate za danes.</string>
+    <string name="added" formatted="false">Vožnja dodana.</string>
+    <string name="undo" formatted="false">Razveljavi</string>
+    <string name="vehicles" formatted="false">Vozila</string>
+    <string name="add_vehicle" formatted="false">Dodaj vozilo</string>
+    <string name="edit_vehicle" formatted="false">Uredi vozilo</string>
+    <string name="vehicle_name" formatted="false">Ime</string>
+    <string name="vehicle_kind" formatted="false">Vrsta</string>
+    <string name="kind_car" formatted="false">Avto</string>
+    <string name="kind_motorcycle" formatted="false">Motorno kolo</string>
+    <string name="kind_moped" formatted="false">Moped</string>
+    <string name="fiscal_power" formatted="false">Davčna moč (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV in več</string>
+    <string name="cv_or_less">%1$d CV in manj</string>
+    <string name="cv_range_3_5" formatted="false">3 do 5 CV</string>
+    <string name="electric" formatted="false">Električno vozilo</string>
+    <string name="no_vehicle" formatted="false">Ni vozila. Dodajte ga: ocena ga potrebuje.</string>
+    <string name="default_vehicle" formatted="false">Privzeto vozilo</string>
+    <string name="vehicle_needed" formatted="false">Najprej dodajte vozilo v Več &gt; Vozila.</string>
+    <string name="estimation" formatted="false">Ocena dejanskih stroškov</string>
+    <string name="income_year">Leto dohodkov %1$d</string>
+    <string name="estimation_locked" formatted="false">Ocena dejanskih stroškov, izvozi, uvoz zgodovine in obnovitev varnostne kopije so del različice Pro.</string>
+    <string name="disclaimer_short" formatted="false">Okvirna ocena, brez jamstva.</string>
+    <string name="disclaimer_long" formatted="false">Ta ocena je okvirna in brez jamstva. Ni davčni nasvet in ne nadomešča uradnih predpisov, davčne uprave ali strokovnjaka. Pred oddajo napovedi preverite pravila, ki veljajo za vaš položaj.</string>
+    <string name="commute_km_raw" formatted="false">Vneseni km poti na delo</string>
+    <string name="commute_km_retained" formatted="false">Upoštevani km poti na delo</string>
+    <string name="business_km" formatted="false">Službeni km</string>
+    <string name="retained_km" formatted="false">Upoštevani km</string>
+    <string name="allowance" formatted="false">Kilometrina</string>
+    <string name="tolls_parking" formatted="false">Cestnine in parkiranje</string>
+    <string name="total" formatted="false">Ocenjeni skupni znesek</string>
+    <string name="flat_deduction" formatted="false">Pavšalni odbitek 10 %</string>
+    <string name="real_better" formatted="false">Dejanski stroški so videti ugodnejši od pavšalnega odbitka.</string>
+    <string name="flat_better" formatted="false">Pavšalni odbitek je videti ugodnejši od dejanskih stroškov.</string>
+    <string name="enter_salary" formatted="false">Vnesite letno neto obdavčljivo plačo za primerjavo s pavšalnim odbitkom.</string>
+    <string name="net_taxable_salary" formatted="false">Letna neto obdavčljiva plača</string>
+    <string name="per_vehicle" formatted="false">Na vozilo</string>
+    <string name="note_scale_unconfirmed" formatted="false">Lestvica za to leto še ni objavljena: uporabljena je zadnja znana lestvica.</string>
+    <string name="note_cap_applied" formatted="false">Ena ali več poti na delo je bilo omejenih na 40 km, ker niso bile navedene posebne okoliščine.</string>
+    <string name="note_extra_legs" formatted="false">Poleg ene povratne poti na delo na dan so bile vožnje brez posebnih okoliščin izpuščene.</string>
+    <string name="note_no_vehicle" formatted="false">Vožnje brez vozila so bile prezrte: izberite privzeto vozilo.</string>
+    <string name="note_fuel">Vneseno gorivo (%1$s) se ne prišteje: kilometrska lestvica ga že zajema.</string>
+    <string name="note_no_salary" formatted="false">Plača ni vnesena: ni primerjave s pavšalnim odbitkom.</string>
+    <string name="documents_title" formatted="false">Dokumenti, ki jih hranite</string>
+    <string name="documents_list" formatted="false">Prometno dovoljenje vozila\nPogodba o zaposlitvi ali potrdilo delodajalca\nEvidenca delovnih dni\nRačuni za cestnine in parkiranje\nVse, kar dokazuje posebne okoliščine</string>
+    <string name="export" formatted="false">Izvozi</string>
+    <string name="export_title" formatted="false">Izvoz</string>
+    <string name="export_pdf" formatted="false">Poročilo PDF</string>
+    <string name="export_xlsx" formatted="false">Preglednica</string>
+    <string name="export_csv" formatted="false">Datoteka CSV</string>
+    <string name="export_period" formatted="false">Obdobje</string>
+    <string name="year" formatted="false">Leto</string>
+    <string name="export_from" formatted="false">Od</string>
+    <string name="export_to" formatted="false">Do</string>
+    <string name="export_include_estimation" formatted="false">Vključi oceno za leto</string>
+    <string name="export_share" formatted="false">Datoteka se odpre v meniju za deljenje: shranite jo ali pošljite.</string>
+    <string name="export_failed" formatted="false">Izvoz ni uspel.</string>
+    <string name="report_title" formatted="false">Poročilo o kilometrih</string>
+    <string name="generated_on">Ustvarjeno %1$s</string>
+    <string name="yes" formatted="false">da</string>
+    <string name="no" formatted="false">ne</string>
+    <string name="import_title" formatted="false">Uvozi zgodovino</string>
+    <string name="import_help" formatted="false">Če vaš telefon hrani zgodovino vaših lokacij, jo lahko iz aplikacije, ki jo upravlja, izvozite kot datoteko JSON in jo odprete tukaj. Preberejo se samo potovanja z vozilom. Datoteka se ne shrani: shranijo se samo datum, razdalja in, če sta znana, izhodišče in cilj.</string>
+    <string name="import_pick" formatted="false">Izberi datoteko</string>
+    <string name="import_reading" formatted="false">Branje…</string>
+    <string name="import_found">Najdena potovanja z vozilom: %1$d</string>
+    <string name="import_skipped">Druga prezrta potovanja (peš, s kolesom, z javnim prevozom): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Namen potovanj, ki niso prepoznana kot pot na delo</string>
+    <string name="import_period">Od %1$s do %2$s</string>
+    <string name="import_confirm">Uvozi vožnje: %1$d</string>
+    <string name="import_done">Uvožene vožnje: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Ni novih voženj: bile so že uvožene.</string>
+    <string name="import_unreadable" formatted="false">Ta datoteka ni berljiva zgodovina lokacij.</string>
+    <string name="import_commute_hint" formatted="false">Potovanja med vašim domom in delovnim mestom so prepoznana, kadar jih datoteka tako označi; dobijo namen pot na delo.</string>
+    <string name="backup_title" formatted="false">Varnostna kopija</string>
+    <string name="backup_explain" formatted="false">Vaši podatki zapustijo napravo le, kadar se tako odločite. Varnostna kopija je datoteka, ki jo lahko shranite kamor koli in obnovite na kateri koli napravi.</string>
+    <string name="backup_export" formatted="false">Izvozi varnostno kopijo</string>
+    <string name="backup_restore" formatted="false">Obnovi varnostno kopijo</string>
+    <string name="backup_restore_help" formatted="false">Obnovitev združi podatke: nič, kar ste od takrat vnesli, se ne izgubi.</string>
+    <string name="backup_restored">Varnostna kopija obnovljena: skupaj %1$d voženj.</string>
+    <string name="backup_invalid" formatted="false">Ta datoteka ni varnostna kopija iz te aplikacije.</string>
+    <string name="cloud_title" formatted="false">Varnostna kopija v oblaku</string>
+    <string name="cloud_explain" formatted="false">Samodejna kopija vaših podatkov v oblaku vaše naprave, brez dodatnega računa. Osveži se po vsaki spremembi.</string>
+    <string name="cloud_now" formatted="false">Varnostno kopiraj zdaj</string>
+    <string name="cloud_restore" formatted="false">Obnovi iz oblaka</string>
+    <string name="cloud_last">Zadnja kopija v oblaku: %1$s</string>
+    <string name="cloud_never" formatted="false">Še ni kopije v oblaku.</string>
+    <string name="cloud_unavailable" formatted="false">Varnostna kopija v oblaku na tej napravi ni na voljo. Uporabite izvoz varnostne kopije.</string>
+    <string name="cloud_done" formatted="false">Kopija v oblaku je končana.</string>
+    <string name="cloud_nothing" formatted="false">Ni kopije v oblaku za obnovitev.</string>
+    <string name="cloud_system_restore" formatted="false">Sistem to kopijo obnovi sam, ko znova namestite aplikacijo ali nastavite novo napravo.</string>
+    <string name="settings" formatted="false">Nastavitve</string>
+    <string name="rules_title" formatted="false">Pravila izračuna</string>
+    <string name="rule_fr" formatted="false">Francoska kilometrska lestvica</string>
+    <string name="rule_generic" formatted="false">Fiksna stopnja na kilometer</string>
+    <string name="generic_rate" formatted="false">Stopnja na kilometer</string>
+    <string name="currency" formatted="false">Valuta</string>
+    <string name="home_label" formatted="false">Ime vašega doma</string>
+    <string name="work_label" formatted="false">Ime vašega delovnega mesta</string>
+    <string name="home_work_distance" formatted="false">Razdalja dom–delo (ena smer, km)</string>
+    <string name="places_help" formatted="false">Uporablja se pri priljubljenih vožnjah in uvozu zgodovine.</string>
+    <string name="pro_title" formatted="false">Različica Pro</string>
+    <string name="pro_subtitle" formatted="false">Vse, kar potrebujete za dejanske stroške, in brez oglasov.</string>
+    <string name="pro_features_title" formatted="false">Odklenjene funkcije:</string>
+    <string name="pro_feature_unlimited" formatted="false">Neomejene vožnje.</string>
+    <string name="pro_feature_estimation" formatted="false">Ocena dejanskih stroškov in primerjava s pavšalnim odbitkom.</string>
+    <string name="pro_feature_export" formatted="false">Popoln, overjen izvoz (čist PDF, oblika preglednice, pripravljena za računovodjo ali davčno napoved).</string>
+    <string name="pro_feature_import" formatted="false">Uvoz zgodovine voženj iz vašega telefona.</string>
+    <string name="pro_feature_expenses" formatted="false">Cestnine, parkiranje in gorivo, prišteti k oceni.</string>
+    <string name="pro_feature_cloud" formatted="false">Obnovitev iz datoteke varnostne kopije in sinhronizacija med vašimi napravami.</string>
+    <string name="pro_feature_widgets" formatted="false">Pripomoček na začetnem zaslonu.</string>
+    <string name="pro_feature_watch" formatted="false">Aplikacija za uro.</string>
+    <string name="pro_feature_no_ads" formatted="false">Brez vsakršnih oglasov.</string>
+    <string name="pro_feature_gps" formatted="false">Samodejno sledenje GPS (zaznavanje gibanja ali povezava Bluetooth z avtom).</string>
+    <string name="pro_feature_scan" formatted="false">Pametno skeniranje (OCR) računov za cestnine, parkiranje in gorivo s kamero.</string>
+    <string name="pro_monthly">%1$s na mesec</string>
+    <string name="pro_yearly">%1$s na leto</string>
+    <string name="pro_yearly_hint" formatted="false">Dva meseca brezplačno v primerjavi z mesečno naročnino</string>
+    <string name="subscribe" formatted="false">Naroči se</string>
+    <string name="restore_purchases" formatted="false">Obnovi nakupe</string>
+    <string name="pro_active" formatted="false">Različica Pro je aktivna</string>
+    <string name="pro_active_since">Naročnina: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Nakupi v tej različici aplikacije niso na voljo.</string>
+    <string name="pro_legal" formatted="false">Naročnina s samodejnim podaljševanjem, zaračunana vašemu računu v trgovini. Prekličete jo lahko kadar koli v nastavitvah trgovine; cena za naslednje obdobje se zaračuna, razen če naročnino prekličete vsaj 24 ur pred iztekom.</string>
+    <string name="purchase_pending" formatted="false">Nakup poteka…</string>
+    <string name="purchase_failed" formatted="false">Nakup ni bil dokončan.</string>
+    <string name="purchase_restored" formatted="false">Nakupi obnovljeni.</string>
+    <string name="purchase_nothing" formatted="false">Ničesar ni za obnoviti.</string>
+    <string name="rewarded_title" formatted="false">Preizkusite z oglasom</string>
+    <string name="rewarded_explain" formatted="false">Oglejte si kratek oglas in za nekaj časa odklenite to funkcijo. Pro odstrani oglase in odklene vse.</string>
+    <string name="rewarded_estimation" formatted="false">Ogled ocene za 24 ur</string>
+    <string name="rewarded_export" formatted="false">En izvoz v naslednji uri</string>
+    <string name="rewarded_trips" formatted="false">5 dodatnih voženj ta mesec</string>
+    <string name="rewarded_watch" formatted="false">Oglej si oglas</string>
+    <string name="rewarded_unavailable" formatted="false">Trenutno ni oglasa na voljo. Poskusite znova čez trenutek.</string>
+    <string name="rewarded_granted" formatted="false">Odklenjeno. Srečno pot!</string>
+    <string name="expenses" formatted="false">Stroški</string>
+    <string name="add_expense" formatted="false">Nov strošek</string>
+    <string name="edit_expense" formatted="false">Uredi strošek</string>
+    <string name="expense_kind" formatted="false">Vrsta</string>
+    <string name="kind_toll" formatted="false">Cestnina</string>
+    <string name="kind_parking" formatted="false">Parkiranje</string>
+    <string name="kind_fuel" formatted="false">Gorivo</string>
+    <string name="kind_other" formatted="false">Drugo</string>
+    <string name="amount" formatted="false">Znesek</string>
+    <string name="place" formatted="false">Kraj</string>
+    <string name="litres" formatted="false">Litri</string>
+    <string name="odometer" formatted="false">Stanje števca kilometrov</string>
+    <string name="no_expenses" formatted="false">Ni stroškov. Cestnine in parkiranje se prištejejo k oceni.</string>
+    <string name="invalid_amount" formatted="false">Vnesite znesek, večji od 0.</string>
+    <string name="legal_title" formatted="false">Pravne informacije in zasebnost</string>
+    <string name="privacy_text" formatted="false">Vsi vaši podatki ostanejo na vaši napravi. Aplikacija ne zahteva računa in ničesar ne pošilja na strežnik. Edina izmenjava z zunanjim svetom je tista, ki jo sprožite sami, izvoz, varnostna kopija ali nakup, ter oglasi brezplačne različice, ki jih različica Pro odstrani.</string>
+    <string name="about" formatted="false">O aplikaciji</string>
+    <string name="version">Različica %1$s</string>
+    <string name="error_generic" formatted="false">Nekaj je šlo narobe.</string>
+    <string name="today" formatted="false">Danes</string>
+    <string name="yesterday" formatted="false">Včeraj</string>
+    <string name="ads_privacy_options" formatted="false">Možnosti zasebnosti oglasov</string>
+    <string name="ads_disabled_title" formatted="false">Oglasi so onemogočeni</string>
+    <string name="ads_disabled_text" formatted="false">Sistem sporoča, da ta račun pripada mlademu uporabniku. Aplikacija zato ne prikazuje oglasov in ne zahteva privolitve. Ne bere se noben oglaševalski identifikator in nobeni podatki se ne zbirajo ali pošiljajo.</string>
+    <string name="watch_quick_add" formatted="false">Hitra vožnja</string>
+    <string name="watch_no_favorites" formatted="false">Dodajte priljubljene vožnje na telefonu.</string>
+    <string name="watch_added" formatted="false">Dodano</string>
+    <string name="watch_open_phone" formatted="false">Odpri aplikacijo na telefonu</string>
+    <string name="widget_today" formatted="false">Danes</string>
+    <string name="widget_month" formatted="false">Ta mesec</string>
+    <string name="widget_pro_needed" formatted="false">Pripomoček je na voljo s Pro</string>
+</resources>

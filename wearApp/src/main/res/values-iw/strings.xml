@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">קילומטרים</string>
+    <string name="watch_quick_add" formatted="false">נסיעה מהירה</string>
+    <string name="watch_no_favorites" formatted="false">הוסיפו נסיעות מועדפות בטלפון.</string>
+    <string name="watch_added" formatted="false">נוסף</string>
+    <string name="watch_open_phone" formatted="false">פתיחת האפליקציה בטלפון</string>
+    <string name="km_value">%1$s ק\"מ</string>
+    <string name="this_month" formatted="false">החודש</string>
+    <string name="today" formatted="false">היום</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">הווידג\'ט זמין עם Pro</string>
+</resources>

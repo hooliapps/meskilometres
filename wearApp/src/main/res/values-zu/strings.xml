@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Amakhilomitha</string>
+    <string name="watch_quick_add" formatted="false">Uhambo olusheshayo</string>
+    <string name="watch_no_favorites" formatted="false">Engeza uhambo oluyintandokazi efonini yakho.</string>
+    <string name="watch_added" formatted="false">Kwengeziwe</string>
+    <string name="watch_open_phone" formatted="false">Vula i-app yefoni</string>
+    <string name="km_value">%1$s km</string>
+    <string name="this_month" formatted="false">Kule nyanga</string>
+    <string name="today" formatted="false">Namuhla</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">Iwijethi iyatholakala nge-Pro</string>
+</resources>

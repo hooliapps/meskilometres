@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">ကီလိုမီတာ</string>
+    <string name="widget_name" formatted="false">ခရီးစဉ်များ</string>
+    <string name="widget_description" formatted="false">ယနေ့ကီလိုမီတာနှင့် သင်အကြိုက်ဆုံးခရီးစဉ်များကို တစ်ချက်နှိပ်ရုံဖြင့်။</string>
+    <string name="tab_trips" formatted="false">ခရီးစဉ်များ</string>
+    <string name="tab_estimate" formatted="false">ခန့်မှန်းချက်</string>
+    <string name="tab_more" formatted="false">နောက်ထပ်</string>
+    <string name="this_month" formatted="false">ဤလ</string>
+    <string name="this_year" formatted="false">ဤနှစ်</string>
+    <string name="trips_count">ခရီးစဉ်များ - %1$d</string>
+    <string name="km_value">%1$s ကီလိုမီတာ</string>
+    <string name="add_trip" formatted="false">ခရီးစဉ်အသစ်</string>
+    <string name="free_remaining">ဤလတွင် ကျန်ရှိသော အခမဲ့ခရီးစဉ်များ - %1$d</string>
+    <string name="free_limit_reached" formatted="false">ဤလအတွက် အခမဲ့ကန့်သတ်ချက် ပြည့်သွားပါပြီ</string>
+    <string name="free_quota_reached" formatted="false">အခမဲ့ဗားရှင်းတွင် တစ်လလျှင် ခရီးစဉ် ၅ ခုသာ မှတ်တမ်းတင်နိုင်ပါသည်။ အကန့်အသတ်မရှိ ခရီးစဉ်များအတွက် Pro သို့ ပြောင်းပါ၊ သို့မဟုတ် နောက်ထပ် ၅ ခုအတွက် ကြော်ငြာတစ်ခု ကြည့်ပါ။</string>
+    <string name="go_pro" formatted="false">Pro သို့ ပြောင်းရန်</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">ခရီးစဉ် မရှိသေးပါ။\nပထမဆုံးခရီးစဉ်ကို မှတ်တမ်းတင်ရန် + ကို နှိပ်ပါ။</string>
+    <string name="trip_new" formatted="false">ခရီးစဉ်အသစ်</string>
+    <string name="trip_edit" formatted="false">ခရီးစဉ် ပြင်ဆင်ရန်</string>
+    <string name="field_date" formatted="false">ရက်စွဲ</string>
+    <string name="field_from" formatted="false">မှ</string>
+    <string name="field_to" formatted="false">သို့</string>
+    <string name="field_distance" formatted="false">တစ်ကြောင်း အကွာအဝေး (ကီလိုမီတာ)</string>
+    <string name="field_round_trip" formatted="false">အသွားအပြန်</string>
+    <string name="field_purpose" formatted="false">ရည်ရွယ်ချက်</string>
+    <string name="field_vehicle" formatted="false">ယာဉ်</string>
+    <string name="field_note" formatted="false">မှတ်ချက်</string>
+    <string name="field_justified" formatted="false">အထူးအခြေအနေ</string>
+    <string name="field_justified_help" formatted="false">အိမ်နှင့်အလုပ်အကြား အကွာအဝေးသည် အကြောင်းပြချက်တစ်ခုကြောင့် ၄၀ ကီလိုမီတာထက် ကျော်လွန်ပါက၊ သို့မဟုတ် တစ်နေ့တည်းတွင် ခိုင်လုံသော နောက်ထပ်အသွားအပြန်ခရီးအတွက် အမှန်ခြစ်ပါ။</string>
+    <string name="purpose_commute" formatted="false">အိမ်-အလုပ်</string>
+    <string name="purpose_business" formatted="false">လုပ်ငန်း</string>
+    <string name="purpose_personal" formatted="false">ကိုယ်ရေးကိုယ်တာ</string>
+    <string name="save" formatted="false">သိမ်းရန်</string>
+    <string name="cancel" formatted="false">ပယ်ဖျက်ရန်</string>
+    <string name="delete" formatted="false">ဖျက်ရန်</string>
+    <string name="edit" formatted="false">ပြင်ဆင်ရန်</string>
+    <string name="ok" formatted="false">အိုကေ</string>
+    <string name="close" formatted="false">ပိတ်ရန်</string>
+    <string name="back" formatted="false">နောက်သို့</string>
+    <string name="confirm_delete" formatted="false">အပြီးတိုင် ဖျက်မလား။</string>
+    <string name="invalid_distance" formatted="false">၀ ထက်ကြီးသော အကွာအဝေးကို ထည့်ပါ။</string>
+    <string name="favorites" formatted="false">အကြိုက်ဆုံးများ</string>
+    <string name="save_as_favorite" formatted="false">အကြိုက်ဆုံးအဖြစ်လည်း သိမ်းရန်</string>
+    <string name="favorite_label" formatted="false">အကြိုက်ဆုံး အမည်</string>
+    <string name="no_favorites" formatted="false">တစ်ချက်နှိပ်ရုံဖြင့် မှတ်တမ်းတင်နိုင်ရန် ခရီးစဉ်တစ်ခုကို အကြိုက်ဆုံးအဖြစ် သိမ်းပါ။</string>
+    <string name="use_favorite" formatted="false">အကြိုက်ဆုံး ခရီးစဉ်များ</string>
+    <string name="swap" formatted="false">လဲလှယ်ရန်</string>
+    <string name="quick_add_hint" formatted="false">ယနေ့အတွက် ထည့်ရန် အကြိုက်ဆုံးတစ်ခုကို နှိပ်ပါ။</string>
+    <string name="added" formatted="false">ခရီးစဉ် ထည့်ပြီးပါပြီ။</string>
+    <string name="undo" formatted="false">နောက်ပြန်ရန်</string>
+    <string name="vehicles" formatted="false">ယာဉ်များ</string>
+    <string name="add_vehicle" formatted="false">ယာဉ် ထည့်ရန်</string>
+    <string name="edit_vehicle" formatted="false">ယာဉ် ပြင်ဆင်ရန်</string>
+    <string name="vehicle_name" formatted="false">အမည်</string>
+    <string name="vehicle_kind" formatted="false">အမျိုးအစား</string>
+    <string name="kind_car" formatted="false">ကား</string>
+    <string name="kind_motorcycle" formatted="false">ဆိုင်ကယ်</string>
+    <string name="kind_moped" formatted="false">မိုပက်</string>
+    <string name="fiscal_power" formatted="false">အခွန်မြင်းကောင်ရေအား (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV နှင့်အထက်</string>
+    <string name="cv_or_less">%1$d CV နှင့်အောက်</string>
+    <string name="cv_range_3_5" formatted="false">၃ မှ ၅ CV</string>
+    <string name="electric" formatted="false">လျှပ်စစ်ယာဉ်</string>
+    <string name="no_vehicle" formatted="false">ယာဉ် မရှိပါ။ တစ်စီး ထည့်ပါ - ခန့်မှန်းချက်အတွက် လိုအပ်ပါသည်။</string>
+    <string name="default_vehicle" formatted="false">မူလယာဉ်</string>
+    <string name="vehicle_needed" formatted="false">နောက်ထပ် &gt; ယာဉ်များ တွင် ယာဉ်တစ်စီးကို အရင်ထည့်ပါ။</string>
+    <string name="estimation" formatted="false">အမှန်တကယ်ကုန်ကျစရိတ် ခန့်မှန်းချက်</string>
+    <string name="income_year">ဝင်ငွေနှစ် %1$d</string>
+    <string name="estimation_locked" formatted="false">အမှန်တကယ်ကုန်ကျစရိတ် ခန့်မှန်းချက်၊ ထုတ်ယူမှုများ၊ မှတ်တမ်းတင်သွင်းမှုနှင့် အရန်သိမ်းဆည်းမှု ပြန်လည်ရယူခြင်းတို့သည် Pro ဗားရှင်း၏ အစိတ်အပိုင်းများ ဖြစ်ပါသည်။</string>
+    <string name="disclaimer_short" formatted="false">ခန့်မှန်းချက်သာ ဖြစ်ပြီး အာမမခံပါ။</string>
+    <string name="disclaimer_long" formatted="false">ဤခန့်မှန်းချက်သည် ညွှန်ပြမှုသာဖြစ်ပြီး အာမမခံပါ။ ၎င်းသည် အခွန်အကြံဉာဏ် မဟုတ်သည့်အပြင် တရားဝင်စာရွက်စာတမ်းများ၊ အခွန်ဌာန သို့မဟုတ် ကျွမ်းကျင်သူတစ်ဦးကို အစားမထိုးနိုင်ပါ။ ကြေညာလွှာမတင်မီ သင့်အခြေအနေနှင့် သက်ဆိုင်သော စည်းမျဉ်းများကို စစ်ဆေးပါ။</string>
+    <string name="commute_km_raw" formatted="false">ထည့်သွင်းထားသော အိမ်-အလုပ် ကီလိုမီတာ</string>
+    <string name="commute_km_retained" formatted="false">ထည့်တွက်သော အိမ်-အလုပ် ကီလိုမီတာ</string>
+    <string name="business_km" formatted="false">လုပ်ငန်း ကီလိုမီတာ</string>
+    <string name="retained_km" formatted="false">ထည့်တွက်သော ကီလိုမီတာ</string>
+    <string name="allowance" formatted="false">ကီလိုမီတာ ထောက်ပံ့ကြေး</string>
+    <string name="tolls_parking" formatted="false">လမ်းကြေးနှင့် ကားပါကင်</string>
+    <string name="total" formatted="false">ခန့်မှန်း စုစုပေါင်း</string>
+    <string name="flat_deduction" formatted="false">ပုံသေ 10% နုတ်ယူမှု</string>
+    <string name="real_better" formatted="false">ပုံသေနုတ်ယူမှုထက် အမှန်တကယ်ကုန်ကျစရိတ်က ပိုအကျိုးရှိပုံရသည်။</string>
+    <string name="flat_better" formatted="false">အမှန်တကယ်ကုန်ကျစရိတ်ထက် ပုံသေနုတ်ယူမှုက ပိုအကျိုးရှိပုံရသည်။</string>
+    <string name="enter_salary" formatted="false">ပုံသေနုတ်ယူမှုနှင့် နှိုင်းယှဉ်ရန် သင်၏ နှစ်စဉ် အခွန်ကျသင့် အသားတင်လစာကို ထည့်ပါ။</string>
+    <string name="net_taxable_salary" formatted="false">နှစ်စဉ် အခွန်ကျသင့် အသားတင်လစာ</string>
+    <string name="per_vehicle" formatted="false">ယာဉ်တစ်စီးလျှင်</string>
+    <string name="note_scale_unconfirmed" formatted="false">ဤနှစ်အတွက် နှုန်းဇယားကို မထုတ်ပြန်ရသေးပါ - နောက်ဆုံးသိရှိထားသော ဇယားကို အသုံးပြုထားပါသည်။</string>
+    <string name="note_cap_applied" formatted="false">အထူးအခြေအနေ မဖော်ပြထားသောကြောင့် အိမ်-အလုပ် ခရီးတစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုကို ၄၀ ကီလိုမီတာဖြင့် ကန့်သတ်ထားပါသည်။</string>
+    <string name="note_extra_legs" formatted="false">တစ်နေ့လျှင် အိမ်-အလုပ် အသွားအပြန်တစ်ကြိမ်ထက် ပိုသော၊ အထူးအခြေအနေမရှိသည့် ခရီးစဉ်များကို ချန်လှပ်ထားပါသည်။</string>
+    <string name="note_no_vehicle" formatted="false">ယာဉ်မပါသော ခရီးစဉ်များကို လျစ်လျူရှုထားပါသည် - မူလယာဉ်တစ်စီးကို ရွေးပါ။</string>
+    <string name="note_fuel">ထည့်သွင်းထားသော လောင်စာ (%1$s) ကို မပေါင်းထည့်ပါ - ကီလိုမီတာနှုန်းဇယားတွင် ၎င်းပါဝင်ပြီးဖြစ်ပါသည်။</string>
+    <string name="note_no_salary" formatted="false">လစာ မထည့်ထားပါ - ပုံသေနုတ်ယူမှုနှင့် နှိုင်းယှဉ်မှု မရှိပါ။</string>
+    <string name="documents_title" formatted="false">သိမ်းဆည်းထားရမည့် စာရွက်စာတမ်းများ</string>
+    <string name="documents_list" formatted="false">ယာဉ်မှတ်ပုံတင်စာရွက်\nအလုပ်ခန့်စာချုပ် သို့မဟုတ် အလုပ်ရှင်ထောက်ခံစာ\nအလုပ်လုပ်သည့်ရက်များ မှတ်တမ်း\nလမ်းကြေးနှင့် ကားပါကင် ပြေစာများ\nအထူးအခြေအနေကို ထောက်ခံသည့် မည်သည့်အရာမဆို</string>
+    <string name="export" formatted="false">ထုတ်ယူရန်</string>
+    <string name="export_title" formatted="false">ထုတ်ယူမှု</string>
+    <string name="export_pdf" formatted="false">PDF အစီရင်ခံစာ</string>
+    <string name="export_xlsx" formatted="false">စာရင်းဇယားဖိုင်</string>
+    <string name="export_csv" formatted="false">CSV ဖိုင်</string>
+    <string name="export_period" formatted="false">ကာလ</string>
+    <string name="year" formatted="false">နှစ်</string>
+    <string name="export_from" formatted="false">မှ</string>
+    <string name="export_to" formatted="false">ထိ</string>
+    <string name="export_include_estimation" formatted="false">နှစ်အတွက် ခန့်မှန်းချက် ထည့်သွင်းရန်</string>
+    <string name="export_share" formatted="false">ဖိုင်သည် မျှဝေမှုစာမျက်နှာတွင် ပွင့်လာပါမည် - သိမ်းပါ သို့မဟုတ် ပေးပို့ပါ။</string>
+    <string name="export_failed" formatted="false">ထုတ်ယူမှု မအောင်မြင်ပါ။</string>
+    <string name="report_title" formatted="false">ကီလိုမီတာ အစီရင်ခံစာ</string>
+    <string name="generated_on">%1$s တွင် ထုတ်လုပ်သည်</string>
+    <string name="yes" formatted="false">ဟုတ်</string>
+    <string name="no" formatted="false">မဟုတ်</string>
+    <string name="import_title" formatted="false">မှတ်တမ်း တင်သွင်းရန်</string>
+    <string name="import_help" formatted="false">သင့်ဖုန်းတွင် သင်၏တည်နေရာမှတ်တမ်း သိမ်းထားပါက ၎င်းကို စီမံသည့်အက်ပ်မှ JSON ဖိုင်အဖြစ် ထုတ်ယူပြီး ဤနေရာတွင် ဖွင့်နိုင်ပါသည်။ ယာဉ်ဖြင့်သွားသော ခရီးများကိုသာ ဖတ်ပါသည်။ ဖိုင်ကို မသိမ်းထားပါ - ရက်စွဲ၊ အကွာအဝေးနှင့် သိရှိပါက စတင်ရာနှင့် ဆိုက်ရောက်ရာနေရာတို့ကိုသာ သိမ်းဆည်းပါသည်။</string>
+    <string name="import_pick" formatted="false">ဖိုင် ရွေးရန်</string>
+    <string name="import_reading" formatted="false">ဖတ်နေသည်…</string>
+    <string name="import_found">တွေ့ရှိသော ယာဉ်ခရီးများ - %1$d</string>
+    <string name="import_skipped">လျစ်လျူရှုထားသော အခြားခရီးများ (လမ်းလျှောက်၊ စက်ဘီး၊ အများပြည်သူသယ်ယူပို့ဆောင်ရေး) - %1$d</string>
+    <string name="import_default_purpose" formatted="false">အိမ်-အလုပ်အဖြစ် မသိရှိသော ခရီးများအတွက် ရည်ရွယ်ချက်</string>
+    <string name="import_period">%1$s မှ %2$s ထိ</string>
+    <string name="import_confirm">ခရီးစဉ် %1$d ခု တင်သွင်းရန်</string>
+    <string name="import_done">တင်သွင်းပြီး ခရီးစဉ်များ - %1$d</string>
+    <string name="import_nothing_new" formatted="false">ခရီးစဉ်အသစ် မရှိပါ - ၎င်းတို့ကို တင်သွင်းပြီးဖြစ်ပါသည်။</string>
+    <string name="import_unreadable" formatted="false">ဤဖိုင်သည် ဖတ်နိုင်သော တည်နေရာမှတ်တမ်း မဟုတ်ပါ။</string>
+    <string name="import_commute_hint" formatted="false">ဖိုင်တွင် အမှတ်အသားပြုထားပါက သင့်အိမ်နှင့် အလုပ်နေရာအကြား ခရီးများကို သိရှိပြီး အိမ်-အလုပ် ရည်ရွယ်ချက်ကို သတ်မှတ်ပေးပါသည်။</string>
+    <string name="backup_title" formatted="false">အရန်သိမ်းဆည်းမှု</string>
+    <string name="backup_explain" formatted="false">သင်ဆုံးဖြတ်မှသာ သင့်ဒေတာသည် သင့်စက်မှ ထွက်သွားပါသည်။ အရန်သိမ်းဆည်းမှုဆိုသည်မှာ မည်သည့်နေရာတွင်မဆို သိမ်းထားနိုင်ပြီး မည်သည့်စက်တွင်မဆို ပြန်လည်ရယူနိုင်သော ဖိုင်တစ်ခုဖြစ်ပါသည်။</string>
+    <string name="backup_export" formatted="false">အရန်သိမ်းဆည်းမှု ထုတ်ယူရန်</string>
+    <string name="backup_restore" formatted="false">အရန်သိမ်းဆည်းမှု ပြန်လည်ရယူရန်</string>
+    <string name="backup_restore_help" formatted="false">ပြန်လည်ရယူခြင်းသည် ပေါင်းစည်းပေးပါသည် - ထို့နောက် သင်ထည့်ထားသမျှ မပျောက်ပါ။</string>
+    <string name="backup_restored">အရန်သိမ်းဆည်းမှု ပြန်လည်ရယူပြီးပါပြီ - စုစုပေါင်း ခရီးစဉ် %1$d ခု။</string>
+    <string name="backup_invalid" formatted="false">ဤဖိုင်သည် ဤအက်ပ်၏ အရန်သိမ်းဆည်းမှု မဟုတ်ပါ။</string>
+    <string name="cloud_title" formatted="false">ကလောက် အရန်သိမ်းဆည်းမှု</string>
+    <string name="cloud_explain" formatted="false">အကောင့်အပို မလိုဘဲ သင့်စက်၏ ကလောက်နေရာတွင် သင့်ဒေတာကို အလိုအလျောက် ကူးယူသိမ်းဆည်းပါသည်။ ပြောင်းလဲမှုတိုင်းနောက်တွင် အသစ်ပြန်လုပ်ပါသည်။</string>
+    <string name="cloud_now" formatted="false">ယခု အရန်သိမ်းရန်</string>
+    <string name="cloud_restore" formatted="false">ကလောက်မှ ပြန်လည်ရယူရန်</string>
+    <string name="cloud_last">နောက်ဆုံး ကလောက်အရန်သိမ်းဆည်းမှု - %1$s</string>
+    <string name="cloud_never" formatted="false">ကလောက်အရန်သိမ်းဆည်းမှု မရှိသေးပါ။</string>
+    <string name="cloud_unavailable" formatted="false">ဤစက်တွင် ကလောက်အရန်သိမ်းဆည်းမှု မရနိုင်ပါ။ အရန်သိမ်းဆည်းမှု ထုတ်ယူခြင်းကို အသုံးပြုပါ။</string>
+    <string name="cloud_done" formatted="false">ကလောက်အရန်သိမ်းဆည်းမှု ပြီးပါပြီ။</string>
+    <string name="cloud_nothing" formatted="false">ပြန်လည်ရယူရန် ကလောက်အရန်သိမ်းဆည်းမှု မရှိပါ။</string>
+    <string name="cloud_system_restore" formatted="false">အက်ပ်ကို ပြန်လည်ထည့်သွင်းသောအခါ သို့မဟုတ် စက်အသစ် စတင်သတ်မှတ်သောအခါ စနစ်က ဤအရန်သိမ်းဆည်းမှုကို အလိုအလျောက် ပြန်လည်ရယူပေးပါသည်။</string>
+    <string name="settings" formatted="false">ဆက်တင်များ</string>
+    <string name="rules_title" formatted="false">တွက်ချက်မှု စည်းမျဉ်းများ</string>
+    <string name="rule_fr" formatted="false">ပြင်သစ် ကီလိုမီတာနှုန်းဇယား</string>
+    <string name="rule_generic" formatted="false">တစ်ကီလိုမီတာလျှင် ပုံသေနှုန်း</string>
+    <string name="generic_rate" formatted="false">တစ်ကီလိုမီတာလျှင် နှုန်း</string>
+    <string name="currency" formatted="false">ငွေကြေး</string>
+    <string name="home_label" formatted="false">သင့်အိမ် အမည်</string>
+    <string name="work_label" formatted="false">သင့်အလုပ်နေရာ အမည်</string>
+    <string name="home_work_distance" formatted="false">အိမ်-အလုပ် အကွာအဝေး (တစ်ကြောင်း၊ ကီလိုမီတာ)</string>
+    <string name="places_help" formatted="false">အကြိုက်ဆုံးခရီးစဉ်များနှင့် မှတ်တမ်းတင်သွင်းမှုအတွက် အသုံးပြုပါသည်။</string>
+    <string name="pro_title" formatted="false">Pro ဗားရှင်း</string>
+    <string name="pro_subtitle" formatted="false">သင့်အမှန်တကယ်ကုန်ကျစရိတ်အတွက် လိုအပ်သမျှ၊ ကြော်ငြာမပါ။</string>
+    <string name="pro_features_title" formatted="false">ဖွင့်ပေးသော လုပ်ဆောင်ချက်များ -</string>
+    <string name="pro_feature_unlimited" formatted="false">အကန့်အသတ်မရှိ ခရီးစဉ်များ။</string>
+    <string name="pro_feature_estimation" formatted="false">အမှန်တကယ်ကုန်ကျစရိတ် ခန့်မှန်းချက်နှင့် ပုံသေနုတ်ယူမှုနှင့် နှိုင်းယှဉ်မှု။</string>
+    <string name="pro_feature_export" formatted="false">ပြည့်စုံပြီး အသိအမှတ်ပြုထားသော ထုတ်ယူမှု (သန့်ရှင်းသော PDF၊ သင့်စာရင်းကိုင် သို့မဟုတ် အခွန်ကြေညာလွှာအတွက် အသင့်ဖြစ်သော စာရင်းဇယားပုံစံ)။</string>
+    <string name="pro_feature_import" formatted="false">သင့်ဖုန်း၏ ခရီးစဉ်မှတ်တမ်း တင်သွင်းခြင်း။</string>
+    <string name="pro_feature_expenses" formatted="false">ခန့်မှန်းချက်တွင် လမ်းကြေး၊ ကားပါကင်နှင့် လောင်စာ ထည့်သွင်းခြင်း။</string>
+    <string name="pro_feature_cloud" formatted="false">အရန်သိမ်းဆည်းမှုဖိုင်မှ ပြန်လည်ရယူခြင်းနှင့် သင့်စက်များအကြား ထပ်တူကျစေခြင်း။</string>
+    <string name="pro_feature_widgets" formatted="false">ပင်မစခရင် ဝစ်ဂျက်။</string>
+    <string name="pro_feature_watch" formatted="false">နာရီအက်ပ်။</string>
+    <string name="pro_feature_no_ads" formatted="false">ကြော်ငြာ လုံးဝမပါ။</string>
+    <string name="pro_feature_gps" formatted="false">အလိုအလျောက် GPS ခြေရာခံခြင်း (လှုပ်ရှားမှု ထောက်လှမ်းခြင်း သို့မဟုတ် ကားနှင့် Bluetooth ချိတ်ဆက်ခြင်း)။</string>
+    <string name="pro_feature_scan" formatted="false">ကင်မရာဖြင့် လမ်းကြေး၊ ကားပါကင်နှင့် လောင်စာပြေစာများကို ဉာဏ်ရည်တု စကင်ဖတ်ခြင်း (OCR)။</string>
+    <string name="pro_monthly">တစ်လလျှင် %1$s</string>
+    <string name="pro_yearly">တစ်နှစ်လျှင် %1$s</string>
+    <string name="pro_yearly_hint" formatted="false">လစဉ်နှင့် နှိုင်းယှဉ်ပါက နှစ်လ အခမဲ့</string>
+    <string name="subscribe" formatted="false">စာရင်းသွင်းရန်</string>
+    <string name="restore_purchases" formatted="false">ဝယ်ယူမှုများ ပြန်လည်ရယူရန်</string>
+    <string name="pro_active" formatted="false">Pro ဗားရှင်း အသက်ဝင်နေသည်</string>
+    <string name="pro_active_since">စာရင်းသွင်းမှု - %1$s</string>
+    <string name="pro_unavailable" formatted="false">အက်ပ်၏ ဤဗားရှင်းတွင် ဝယ်ယူမှုများ မရနိုင်ပါ။</string>
+    <string name="pro_legal" formatted="false">အလိုအလျောက် သက်တမ်းတိုးသော စာရင်းသွင်းမှုဖြစ်ပြီး သင့်စတိုးအကောင့်မှ ကောက်ခံပါသည်။ စတိုးဆက်တင်များတွင် အချိန်မရွေး ပယ်ဖျက်နိုင်ပါသည်။ ကာလမကုန်ဆုံးမီ အနည်းဆုံး ၂၄ နာရီ ကြိုတင်ပယ်ဖျက်ခြင်းမရှိပါက နောက်ကာလအတွက် ကျသင့်ငွေကို ကောက်ခံပါမည်။</string>
+    <string name="purchase_pending" formatted="false">ဝယ်ယူနေသည်…</string>
+    <string name="purchase_failed" formatted="false">ဝယ်ယူမှု မပြီးမြောက်ပါ။</string>
+    <string name="purchase_restored" formatted="false">ဝယ်ယူမှုများ ပြန်လည်ရယူပြီးပါပြီ။</string>
+    <string name="purchase_nothing" formatted="false">ပြန်လည်ရယူရန် မရှိပါ။</string>
+    <string name="rewarded_title" formatted="false">ကြော်ငြာဖြင့် စမ်းသုံးရန်</string>
+    <string name="rewarded_explain" formatted="false">ဤလုပ်ဆောင်ချက်ကို ခဏတာ ဖွင့်ရန် ကြော်ငြာတိုတစ်ခု ကြည့်ပါ။ Pro သည် ကြော်ငြာများကို ဖယ်ရှားပြီး အားလုံးကို ဖွင့်ပေးပါသည်။</string>
+    <string name="rewarded_estimation" formatted="false">ခန့်မှန်းချက်ကို ၂၄ နာရီ ကြည့်ရန်</string>
+    <string name="rewarded_export" formatted="false">တစ်နာရီအတွင်း ထုတ်ယူမှု တစ်ကြိမ်</string>
+    <string name="rewarded_trips" formatted="false">ဤလတွင် နောက်ထပ် ခရီးစဉ် ၅ ခု</string>
+    <string name="rewarded_watch" formatted="false">ကြော်ငြာ ကြည့်ရန်</string>
+    <string name="rewarded_unavailable" formatted="false">ယခု ကြော်ငြာ မရှိသေးပါ။ ခဏနေ ပြန်ကြိုးစားပါ။</string>
+    <string name="rewarded_granted" formatted="false">ဖွင့်ပြီးပါပြီ။ ခရီးချောမွေ့ပါစေ။</string>
+    <string name="expenses" formatted="false">ကုန်ကျစရိတ်များ</string>
+    <string name="add_expense" formatted="false">ကုန်ကျစရိတ်အသစ်</string>
+    <string name="edit_expense" formatted="false">ကုန်ကျစရိတ် ပြင်ဆင်ရန်</string>
+    <string name="expense_kind" formatted="false">အမျိုးအစား</string>
+    <string name="kind_toll" formatted="false">လမ်းကြေး</string>
+    <string name="kind_parking" formatted="false">ကားပါကင်</string>
+    <string name="kind_fuel" formatted="false">လောင်စာ</string>
+    <string name="kind_other" formatted="false">အခြား</string>
+    <string name="amount" formatted="false">ပမာဏ</string>
+    <string name="place" formatted="false">နေရာ</string>
+    <string name="litres" formatted="false">လီတာ</string>
+    <string name="odometer" formatted="false">မိုင်တိုင်း ပြကိန်း</string>
+    <string name="no_expenses" formatted="false">ကုန်ကျစရိတ် မရှိပါ။ လမ်းကြေးနှင့် ကားပါကင်ကို ခန့်မှန်းချက်တွင် ထည့်ပေါင်းပါသည်။</string>
+    <string name="invalid_amount" formatted="false">၀ ထက်ကြီးသော ပမာဏကို ထည့်ပါ။</string>
+    <string name="legal_title" formatted="false">ဥပဒေရေးရာနှင့် ကိုယ်ရေးလုံခြုံမှု</string>
+    <string name="privacy_text" formatted="false">သင့်ဒေတာအားလုံး သင့်စက်ထဲတွင်သာ ရှိနေပါသည်။ အက်ပ်သည် အကောင့် မလိုအပ်ဘဲ ဆာဗာသို့ မည်သည့်အရာမျှ မပို့ပါ။ ပြင်ပနှင့် ဆက်သွယ်မှုမှာ သင်ကိုယ်တိုင် စတင်သော ထုတ်ယူမှု၊ အရန်သိမ်းဆည်းမှု သို့မဟုတ် ဝယ်ယူမှုနှင့် Pro ဗားရှင်းက ဖယ်ရှားပေးသော အခမဲ့ဗားရှင်း၏ ကြော်ငြာများသာ ဖြစ်ပါသည်။</string>
+    <string name="about" formatted="false">အကြောင်း</string>
+    <string name="version">ဗားရှင်း %1$s</string>
+    <string name="error_generic" formatted="false">တစ်ခုခု မှားယွင်းသွားပါသည်။</string>
+    <string name="today" formatted="false">ယနေ့</string>
+    <string name="yesterday" formatted="false">မနေ့က</string>
+    <string name="ads_privacy_options" formatted="false">ကြော်ငြာ ကိုယ်ရေးလုံခြုံမှု ရွေးချယ်စရာများ</string>
+    <string name="ads_disabled_title" formatted="false">ကြော်ငြာများ ပိတ်ထားသည်</string>
+    <string name="ads_disabled_text" formatted="false">ဤအကောင့်သည် လူငယ်အသုံးပြုသူတစ်ဦး၏ အကောင့်ဖြစ်ကြောင်း စနစ်က ဖော်ပြပါသည်။ ထို့ကြောင့် အက်ပ်သည် ကြော်ငြာ မပြဘဲ သဘောတူညီချက်လည်း မတောင်းပါ။ ကြော်ငြာ ခွဲခြားသတ်မှတ်ချက်ကို မဖတ်ဘဲ မည်သည့်ဒေတာမျှ မစုဆောင်း၊ မပေးပို့ပါ။</string>
+    <string name="watch_quick_add" formatted="false">အမြန် ခရီးစဉ်</string>
+    <string name="watch_no_favorites" formatted="false">သင့်ဖုန်းတွင် အကြိုက်ဆုံးခရီးစဉ်များ ထည့်ပါ။</string>
+    <string name="watch_added" formatted="false">ထည့်ပြီး</string>
+    <string name="watch_open_phone" formatted="false">ဖုန်းအက်ပ် ဖွင့်ရန်</string>
+    <string name="widget_today" formatted="false">ယနေ့</string>
+    <string name="widget_month" formatted="false">ဤလ</string>
+    <string name="widget_pro_needed" formatted="false">ဝစ်ဂျက်ကို Pro ဖြင့် ရနိုင်သည်</string>
+</resources>

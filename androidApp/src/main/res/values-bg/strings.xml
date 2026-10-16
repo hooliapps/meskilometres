@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Километри</string>
+    <string name="widget_name" formatted="false">Пътувания</string>
+    <string name="widget_description" formatted="false">Километрите за днес и любимите ви пътувания с едно докосване.</string>
+    <string name="tab_trips" formatted="false">Пътувания</string>
+    <string name="tab_estimate" formatted="false">Оценка</string>
+    <string name="tab_more" formatted="false">Още</string>
+    <string name="this_month" formatted="false">Този месец</string>
+    <string name="this_year" formatted="false">Тази година</string>
+    <string name="trips_count">Пътувания: %1$d</string>
+    <string name="km_value">%1$s км</string>
+    <string name="add_trip" formatted="false">Ново пътуване</string>
+    <string name="free_remaining">Оставащи безплатни пътувания този месец: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Безплатният лимит за този месец е достигнат</string>
+    <string name="free_quota_reached" formatted="false">Безплатната версия позволява 5 пътувания на месец. Преминете към Pro за неограничени пътувания или гледайте реклама за още 5.</string>
+    <string name="go_pro" formatted="false">Към Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Все още няма пътувания.\nДокоснете +, за да въведете първото.</string>
+    <string name="trip_new" formatted="false">Ново пътуване</string>
+    <string name="trip_edit" formatted="false">Редактиране на пътуване</string>
+    <string name="field_date" formatted="false">Дата</string>
+    <string name="field_from" formatted="false">От</string>
+    <string name="field_to" formatted="false">До</string>
+    <string name="field_distance" formatted="false">Разстояние в една посока (км)</string>
+    <string name="field_round_trip" formatted="false">Отиване и връщане</string>
+    <string name="field_purpose" formatted="false">Цел</string>
+    <string name="field_vehicle" formatted="false">Превозно средство</string>
+    <string name="field_note" formatted="false">Бележка</string>
+    <string name="field_justified" formatted="false">Особени обстоятелства</string>
+    <string name="field_justified_help" formatted="false">Отметнете, ако разстоянието от дома до работата надвишава 40 км по конкретна причина, или за обосновано допълнително отиване и връщане в същия ден.</string>
+    <string name="purpose_commute" formatted="false">Дом – работа</string>
+    <string name="purpose_business" formatted="false">Служебно</string>
+    <string name="purpose_personal" formatted="false">Лично</string>
+    <string name="save" formatted="false">Запазване</string>
+    <string name="cancel" formatted="false">Отказ</string>
+    <string name="delete" formatted="false">Изтриване</string>
+    <string name="edit" formatted="false">Редактиране</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Затваряне</string>
+    <string name="back" formatted="false">Назад</string>
+    <string name="confirm_delete" formatted="false">Да се изтрие ли окончателно?</string>
+    <string name="invalid_distance" formatted="false">Въведете разстояние, по-голямо от 0.</string>
+    <string name="favorites" formatted="false">Любими</string>
+    <string name="save_as_favorite" formatted="false">Запазване и като любимо</string>
+    <string name="favorite_label" formatted="false">Име на любимото</string>
+    <string name="no_favorites" formatted="false">Запазете пътуване като любимо, за да го въвеждате с едно докосване.</string>
+    <string name="use_favorite" formatted="false">Любими пътувания</string>
+    <string name="swap" formatted="false">Размяна</string>
+    <string name="quick_add_hint" formatted="false">Докоснете любимо, за да го добавите за днес.</string>
+    <string name="added" formatted="false">Пътуването е добавено.</string>
+    <string name="undo" formatted="false">Отмяна</string>
+    <string name="vehicles" formatted="false">Превозни средства</string>
+    <string name="add_vehicle" formatted="false">Добавяне на превозно средство</string>
+    <string name="edit_vehicle" formatted="false">Редактиране на превозно средство</string>
+    <string name="vehicle_name" formatted="false">Име</string>
+    <string name="vehicle_kind" formatted="false">Тип</string>
+    <string name="kind_car" formatted="false">Автомобил</string>
+    <string name="kind_motorcycle" formatted="false">Мотоциклет</string>
+    <string name="kind_moped" formatted="false">Мопед</string>
+    <string name="fiscal_power" formatted="false">Данъчна мощност</string>
+    <string name="cv">%1$d к.с.</string>
+    <string name="cv_or_more">%1$d к.с. и повече</string>
+    <string name="cv_or_less">%1$d к.с. и по-малко</string>
+    <string name="cv_range_3_5" formatted="false">От 3 до 5 к.с.</string>
+    <string name="electric" formatted="false">Електрическо превозно средство</string>
+    <string name="no_vehicle" formatted="false">Няма превозно средство. Добавете едно: оценката го изисква.</string>
+    <string name="default_vehicle" formatted="false">Превозно средство по подразбиране</string>
+    <string name="vehicle_needed" formatted="false">Първо добавете превозно средство в Още &gt; Превозни средства.</string>
+    <string name="estimation" formatted="false">Оценка на действителните разходи</string>
+    <string name="income_year">Година на доходите %1$d</string>
+    <string name="estimation_locked" formatted="false">Оценката на действителните разходи, експортирането, импортирането на история и възстановяването от резервно копие са част от версията Pro.</string>
+    <string name="disclaimer_short" formatted="false">Ориентировъчна оценка, без гаранция.</string>
+    <string name="disclaimer_long" formatted="false">Тази оценка е ориентировъчна и не е гарантирана. Тя не е данъчна консултация и не замества официалните текстове, данъчната администрация или специалист. Проверете правилата, които се отнасят за вашия случай, преди да подадете декларация.</string>
+    <string name="commute_km_raw" formatted="false">Въведени км дом – работа</string>
+    <string name="commute_km_retained" formatted="false">Признати км дом – работа</string>
+    <string name="business_km" formatted="false">Служебни км</string>
+    <string name="retained_km" formatted="false">Признати км</string>
+    <string name="allowance" formatted="false">Компенсация за километри</string>
+    <string name="tolls_parking" formatted="false">Пътни такси и паркинг</string>
+    <string name="total" formatted="false">Прогнозна сума</string>
+    <string name="flat_deduction" formatted="false">Стандартно приспадане от 10 %</string>
+    <string name="real_better" formatted="false">Действителните разходи изглеждат по-изгодни от стандартното приспадане.</string>
+    <string name="flat_better" formatted="false">Стандартното приспадане изглежда по-изгодно от действителните разходи.</string>
+    <string name="enter_salary" formatted="false">Въведете годишната си нетна облагаема заплата, за да я сравните със стандартното приспадане.</string>
+    <string name="net_taxable_salary" formatted="false">Годишна нетна облагаема заплата</string>
+    <string name="per_vehicle" formatted="false">По превозно средство</string>
+    <string name="note_scale_unconfirmed" formatted="false">Скалата за тази година още не е публикувана: прилага се последната известна.</string>
+    <string name="note_cap_applied" formatted="false">Едно или повече пътувания дом – работа са ограничени до 40 км, тъй като не са посочени особени обстоятелства.</string>
+    <string name="note_extra_legs" formatted="false">Извън едно отиване и връщане дом – работа на ден, пътуванията без особени обстоятелства не са включени.</string>
+    <string name="note_no_vehicle" formatted="false">Пътуванията без превозно средство са пропуснати: изберете превозно средство по подразбиране.</string>
+    <string name="note_fuel">Въведеното гориво (%1$s) не се добавя: километричната скала вече го включва.</string>
+    <string name="note_no_salary" formatted="false">Не е въведена заплата: няма сравнение със стандартното приспадане.</string>
+    <string name="documents_title" formatted="false">Документи за съхранение</string>
+    <string name="documents_list" formatted="false">Талон на превозното средство\nТрудов договор или удостоверение от работодателя\nОтчет на отработените дни\nКвитанции за пътни такси и паркинг\nВсичко, което доказва особени обстоятелства</string>
+    <string name="export" formatted="false">Експортиране</string>
+    <string name="export_title" formatted="false">Експортиране</string>
+    <string name="export_pdf" formatted="false">Отчет PDF</string>
+    <string name="export_xlsx" formatted="false">Електронна таблица</string>
+    <string name="export_csv" formatted="false">Файл CSV</string>
+    <string name="export_period" formatted="false">Период</string>
+    <string name="year" formatted="false">Година</string>
+    <string name="export_from" formatted="false">От</string>
+    <string name="export_to" formatted="false">До</string>
+    <string name="export_include_estimation" formatted="false">Включване на оценката за годината</string>
+    <string name="export_share" formatted="false">Файлът се отваря в менюто за споделяне: запазете го или го изпратете.</string>
+    <string name="export_failed" formatted="false">Експортирането не успя.</string>
+    <string name="report_title" formatted="false">Отчет за пробега</string>
+    <string name="generated_on">Създаден на %1$s</string>
+    <string name="yes" formatted="false">да</string>
+    <string name="no" formatted="false">не</string>
+    <string name="import_title" formatted="false">Импортиране на история</string>
+    <string name="import_help" formatted="false">Ако телефонът ви пази история на местоположенията ви, можете да я експортирате като файл JSON от приложението, което я управлява, и да я отворите тук. Четат се само пътуванията с превозно средство. Файлът не се запазва: съхраняват се само датата, разстоянието и, когато са известни, началната и крайната точка.</string>
+    <string name="import_pick" formatted="false">Избор на файл</string>
+    <string name="import_reading" formatted="false">Четене…</string>
+    <string name="import_found">Намерени пътувания с превозно средство: %1$d</string>
+    <string name="import_skipped">Пропуснати други придвижвания (пеша, с колело, с градски транспорт): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Цел за пътуванията, които не са разпознати като дом – работа</string>
+    <string name="import_period">От %1$s до %2$s</string>
+    <string name="import_confirm">Импортиране на %1$d пътувания</string>
+    <string name="import_done">Импортирани пътувания: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Няма нови пътувания: вече са импортирани.</string>
+    <string name="import_unreadable" formatted="false">Този файл не е четима история на местоположенията.</string>
+    <string name="import_commute_hint" formatted="false">Пътуванията между дома и работата се разпознават, когато файлът ги е обозначил така; те получават цел дом – работа.</string>
+    <string name="backup_title" formatted="false">Резервно копие</string>
+    <string name="backup_explain" formatted="false">Данните ви напускат устройството само когато вие решите. Резервното копие е файл, който можете да съхранявате където пожелаете и да възстановите на всяко устройство.</string>
+    <string name="backup_export" formatted="false">Експортиране на резервно копие</string>
+    <string name="backup_restore" formatted="false">Възстановяване от резервно копие</string>
+    <string name="backup_restore_help" formatted="false">Възстановяването обединява: нищо въведено оттогава не се губи.</string>
+    <string name="backup_restored">Резервното копие е възстановено: общо %1$d пътувания.</string>
+    <string name="backup_invalid" formatted="false">Този файл не е резервно копие от това приложение.</string>
+    <string name="cloud_title" formatted="false">Резервно копие в облака</string>
+    <string name="cloud_explain" formatted="false">Автоматично копие на данните ви в облачното пространство на устройството ви, без допълнителен акаунт. Обновява се след всяка промяна.</string>
+    <string name="cloud_now" formatted="false">Запазване сега</string>
+    <string name="cloud_restore" formatted="false">Възстановяване от облака</string>
+    <string name="cloud_last">Последно копие в облака: %1$s</string>
+    <string name="cloud_never" formatted="false">Все още няма копие в облака.</string>
+    <string name="cloud_unavailable" formatted="false">Резервното копие в облака не е налично на това устройство. Използвайте експортирането на резервно копие.</string>
+    <string name="cloud_done" formatted="false">Копието в облака е готово.</string>
+    <string name="cloud_nothing" formatted="false">Няма копие в облака за възстановяване.</string>
+    <string name="cloud_system_restore" formatted="false">Системата възстановява това копие сама при преинсталиране на приложението или настройване на ново устройство.</string>
+    <string name="settings" formatted="false">Настройки</string>
+    <string name="rules_title" formatted="false">Правила за изчисление</string>
+    <string name="rule_fr" formatted="false">Френска километрична скала</string>
+    <string name="rule_generic" formatted="false">Фиксирана ставка на километър</string>
+    <string name="generic_rate" formatted="false">Ставка на километър</string>
+    <string name="currency" formatted="false">Валута</string>
+    <string name="home_label" formatted="false">Име на дома ви</string>
+    <string name="work_label" formatted="false">Име на работното ви място</string>
+    <string name="home_work_distance" formatted="false">Разстояние дом – работа (една посока, км)</string>
+    <string name="places_help" formatted="false">Използват се от любимите пътувания и от импортирането на история.</string>
+    <string name="pro_title" formatted="false">Версия Pro</string>
+    <string name="pro_subtitle" formatted="false">Всичко необходимо за действителните ви разходи, и без реклами.</string>
+    <string name="pro_features_title" formatted="false">Отключени функции:</string>
+    <string name="pro_feature_unlimited" formatted="false">Неограничени пътувания.</string>
+    <string name="pro_feature_estimation" formatted="false">Оценка на действителните разходи и сравнение със стандартното приспадане.</string>
+    <string name="pro_feature_export" formatted="false">Пълно, сертифицирано експортиране (чист PDF, табличен формат, готов за счетоводителя или данъчната декларация).</string>
+    <string name="pro_feature_import" formatted="false">Импортиране на историята на пътуванията от телефона ви.</string>
+    <string name="pro_feature_expenses" formatted="false">Пътни такси, паркинг и гориво, добавени към оценката.</string>
+    <string name="pro_feature_cloud" formatted="false">Възстановяване от резервно копие и синхронизиране между устройства.</string>
+    <string name="pro_feature_widgets" formatted="false">Уиджет за началния екран.</string>
+    <string name="pro_feature_watch" formatted="false">Приложение за часовник.</string>
+    <string name="pro_feature_no_ads" formatted="false">Никакви реклами.</string>
+    <string name="pro_feature_gps" formatted="false">Автоматично GPS проследяване (засичане на движение или Bluetooth връзка с автомобила).</string>
+    <string name="pro_feature_scan" formatted="false">Интелигентно сканиране (OCR) на квитанции за пътни такси, паркинг и гориво с камерата.</string>
+    <string name="pro_monthly">%1$s на месец</string>
+    <string name="pro_yearly">%1$s на година</string>
+    <string name="pro_yearly_hint" formatted="false">Два месеца безплатно спрямо месечния план</string>
+    <string name="subscribe" formatted="false">Абониране</string>
+    <string name="restore_purchases" formatted="false">Възстановяване на покупки</string>
+    <string name="pro_active" formatted="false">Версията Pro е активна</string>
+    <string name="pro_active_since">Абонамент: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Покупките не са налични в тази версия на приложението.</string>
+    <string name="pro_legal" formatted="false">Автоматично подновяващ се абонамент, таксуван през акаунта ви в магазина. Можете да го прекратите по всяко време от настройките на магазина; цената за следващия период се таксува, освен ако абонаментът не бъде прекратен поне 24 ч преди края му.</string>
+    <string name="purchase_pending" formatted="false">Покупката се обработва…</string>
+    <string name="purchase_failed" formatted="false">Покупката не беше завършена.</string>
+    <string name="purchase_restored" formatted="false">Покупките са възстановени.</string>
+    <string name="purchase_nothing" formatted="false">Няма нищо за възстановяване.</string>
+    <string name="rewarded_title" formatted="false">Опитайте с реклама</string>
+    <string name="rewarded_explain" formatted="false">Гледайте кратка реклама, за да отключите това за известно време. Pro премахва рекламите и отключва всичко.</string>
+    <string name="rewarded_estimation" formatted="false">Преглед на оценката за 24 часа</string>
+    <string name="rewarded_export" formatted="false">Едно експортиране в рамките на час</string>
+    <string name="rewarded_trips" formatted="false">Още 5 пътувания този месец</string>
+    <string name="rewarded_watch" formatted="false">Гледане на реклама</string>
+    <string name="rewarded_unavailable" formatted="false">В момента няма налична реклама. Опитайте отново след малко.</string>
+    <string name="rewarded_granted" formatted="false">Отключено. На добър път!</string>
+    <string name="expenses" formatted="false">Разходи</string>
+    <string name="add_expense" formatted="false">Нов разход</string>
+    <string name="edit_expense" formatted="false">Редактиране на разход</string>
+    <string name="expense_kind" formatted="false">Тип</string>
+    <string name="kind_toll" formatted="false">Пътна такса</string>
+    <string name="kind_parking" formatted="false">Паркинг</string>
+    <string name="kind_fuel" formatted="false">Гориво</string>
+    <string name="kind_other" formatted="false">Друго</string>
+    <string name="amount" formatted="false">Сума</string>
+    <string name="place" formatted="false">Място</string>
+    <string name="litres" formatted="false">Литри</string>
+    <string name="odometer" formatted="false">Показание на километража</string>
+    <string name="no_expenses" formatted="false">Няма разходи. Пътните такси и паркингът се добавят към оценката.</string>
+    <string name="invalid_amount" formatted="false">Въведете сума, по-голяма от 0.</string>
+    <string name="legal_title" formatted="false">Правна информация и поверителност</string>
+    <string name="privacy_text" formatted="false">Всичките ви данни остават на устройството ви. Приложението не изисква акаунт и не изпраща нищо към сървър. Единственият обмен с външния свят е този, който вие задействате — експортиране, резервно копие или покупка — и рекламите в безплатната версия, които версията Pro премахва.</string>
+    <string name="about" formatted="false">За приложението</string>
+    <string name="version">Версия %1$s</string>
+    <string name="error_generic" formatted="false">Нещо се обърка.</string>
+    <string name="today" formatted="false">Днес</string>
+    <string name="yesterday" formatted="false">Вчера</string>
+    <string name="ads_privacy_options" formatted="false">Опции за поверителност на рекламите</string>
+    <string name="ads_disabled_title" formatted="false">Рекламите са изключени</string>
+    <string name="ads_disabled_text" formatted="false">Системата съобщава, че този акаунт принадлежи на млад потребител. Затова приложението не показва реклами и не иска съгласие. Не се чете рекламен идентификатор и не се събират или изпращат данни.</string>
+    <string name="watch_quick_add" formatted="false">Бързо пътуване</string>
+    <string name="watch_no_favorites" formatted="false">Добавете любими пътувания на телефона си.</string>
+    <string name="watch_added" formatted="false">Добавено</string>
+    <string name="watch_open_phone" formatted="false">Отваряне на приложението на телефона</string>
+    <string name="widget_today" formatted="false">Днес</string>
+    <string name="widget_month" formatted="false">Този месец</string>
+    <string name="widget_pro_needed" formatted="false">Уиджетът е наличен с Pro</string>
+</resources>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilomeetrid</string>
+    <string name="widget_name" formatted="false">Sõidud</string>
+    <string name="widget_description" formatted="false">Tänased kilomeetrid ja sinu lemmiksõidud ühe puudutusega.</string>
+    <string name="tab_trips" formatted="false">Sõidud</string>
+    <string name="tab_estimate" formatted="false">Hinnang</string>
+    <string name="tab_more" formatted="false">Veel</string>
+    <string name="this_month" formatted="false">Sel kuul</string>
+    <string name="this_year" formatted="false">Sel aastal</string>
+    <string name="trips_count">Sõite: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Uus sõit</string>
+    <string name="free_remaining">Tasuta sõite sel kuul alles: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Tasuta limiit on sel kuul täis</string>
+    <string name="free_quota_reached" formatted="false">Tasuta versioon lubab 5 sõitu kuus. Hangi Pro piiramatute sõitude jaoks või vaata reklaami, et saada 5 juurde.</string>
+    <string name="go_pro" formatted="false">Hangi Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Sõite pole veel.\nPuuduta +, et esimene kirja panna.</string>
+    <string name="trip_new" formatted="false">Uus sõit</string>
+    <string name="trip_edit" formatted="false">Muuda sõitu</string>
+    <string name="field_date" formatted="false">Kuupäev</string>
+    <string name="field_from" formatted="false">Kust</string>
+    <string name="field_to" formatted="false">Kuhu</string>
+    <string name="field_distance" formatted="false">Ühe otsa vahemaa (km)</string>
+    <string name="field_round_trip" formatted="false">Edasi-tagasi</string>
+    <string name="field_purpose" formatted="false">Eesmärk</string>
+    <string name="field_vehicle" formatted="false">Sõiduk</string>
+    <string name="field_note" formatted="false">Märkus</string>
+    <string name="field_justified" formatted="false">Eriasjaolud</string>
+    <string name="field_justified_help" formatted="false">Märgi, kui kodu ja töökoha vaheline vahemaa ületab 40 km erilisel põhjusel või kui tegu on põhjendatud lisasõiduga edasi-tagasi samal päeval.</string>
+    <string name="purpose_commute" formatted="false">Kodu–töö</string>
+    <string name="purpose_business" formatted="false">Tööalane</string>
+    <string name="purpose_personal" formatted="false">Isiklik</string>
+    <string name="save" formatted="false">Salvesta</string>
+    <string name="cancel" formatted="false">Tühista</string>
+    <string name="delete" formatted="false">Kustuta</string>
+    <string name="edit" formatted="false">Muuda</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Sule</string>
+    <string name="back" formatted="false">Tagasi</string>
+    <string name="confirm_delete" formatted="false">Kas kustutada jäädavalt?</string>
+    <string name="invalid_distance" formatted="false">Sisesta vahemaa, mis on suurem kui 0.</string>
+    <string name="favorites" formatted="false">Lemmikud</string>
+    <string name="save_as_favorite" formatted="false">Salvesta ka lemmikuna</string>
+    <string name="favorite_label" formatted="false">Lemmiku nimi</string>
+    <string name="no_favorites" formatted="false">Salvesta sõit lemmikuna, et see ühe puudutusega kirja panna.</string>
+    <string name="use_favorite" formatted="false">Lemmiksõidud</string>
+    <string name="swap" formatted="false">Vaheta</string>
+    <string name="quick_add_hint" formatted="false">Puuduta lemmikut, et lisada see tänasele päevale.</string>
+    <string name="added" formatted="false">Sõit lisatud.</string>
+    <string name="undo" formatted="false">Võta tagasi</string>
+    <string name="vehicles" formatted="false">Sõidukid</string>
+    <string name="add_vehicle" formatted="false">Lisa sõiduk</string>
+    <string name="edit_vehicle" formatted="false">Muuda sõidukit</string>
+    <string name="vehicle_name" formatted="false">Nimi</string>
+    <string name="vehicle_kind" formatted="false">Tüüp</string>
+    <string name="kind_car" formatted="false">Auto</string>
+    <string name="kind_motorcycle" formatted="false">Mootorratas</string>
+    <string name="kind_moped" formatted="false">Mopeed</string>
+    <string name="fiscal_power" formatted="false">Maksuvõimsus (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV ja rohkem</string>
+    <string name="cv_or_less">%1$d CV ja vähem</string>
+    <string name="cv_range_3_5" formatted="false">3 kuni 5 CV</string>
+    <string name="electric" formatted="false">Elektrisõiduk</string>
+    <string name="no_vehicle" formatted="false">Sõidukit pole. Lisa üks: hinnang vajab seda.</string>
+    <string name="default_vehicle" formatted="false">Vaikesõiduk</string>
+    <string name="vehicle_needed" formatted="false">Lisa kõigepealt sõiduk menüüs Veel &gt; Sõidukid.</string>
+    <string name="estimation" formatted="false">Tegelike kulude hinnang</string>
+    <string name="income_year">Tuluaasta %1$d</string>
+    <string name="estimation_locked" formatted="false">Tegelike kulude hinnang, eksport, ajaloo import ja varukoopia taastamine kuuluvad Pro versiooni.</string>
+    <string name="disclaimer_short" formatted="false">Soovituslik hinnang, pole garanteeritud.</string>
+    <string name="disclaimer_long" formatted="false">See hinnang on soovituslik ja pole garanteeritud. See ei ole maksunõustamine ega asenda ametlikke tekste, maksuametit ega spetsialisti. Kontrolli enne deklareerimist oma olukorrale kehtivaid reegleid.</string>
+    <string name="commute_km_raw" formatted="false">Sisestatud kodu–töö km</string>
+    <string name="commute_km_retained" formatted="false">Arvesse võetud kodu–töö km</string>
+    <string name="business_km" formatted="false">Tööalased km</string>
+    <string name="retained_km" formatted="false">Arvesse võetud km</string>
+    <string name="allowance" formatted="false">Kilomeetrihüvitis</string>
+    <string name="tolls_parking" formatted="false">Teemaksud ja parkimine</string>
+    <string name="total" formatted="false">Hinnanguline kokku</string>
+    <string name="flat_deduction" formatted="false">Kindlasummaline 10% mahaarvamine</string>
+    <string name="real_better" formatted="false">Tegelikud kulud tunduvad soodsamad kui kindlasummaline mahaarvamine.</string>
+    <string name="flat_better" formatted="false">Kindlasummaline mahaarvamine tundub soodsam kui tegelikud kulud.</string>
+    <string name="enter_salary" formatted="false">Sisesta oma aastane maksustatav netopalk, et võrrelda seda kindlasummalise mahaarvamisega.</string>
+    <string name="net_taxable_salary" formatted="false">Aastane maksustatav netopalk</string>
+    <string name="per_vehicle" formatted="false">Sõiduki kohta</string>
+    <string name="note_scale_unconfirmed" formatted="false">Selle aasta tabelit pole veel avaldatud: rakendatakse viimast teadaolevat tabelit.</string>
+    <string name="note_cap_applied" formatted="false">Üks või mitu kodu–töö lõiku piirati 40 km-ga, kuna eriasjaolusid ei märgitud.</string>
+    <string name="note_extra_legs" formatted="false">Lisaks ühele kodu–töö edasi-tagasi sõidule päevas jäeti eriasjaoludeta sõidud välja.</string>
+    <string name="note_no_vehicle" formatted="false">Sõidukita sõite ei arvestatud: vali vaikesõiduk.</string>
+    <string name="note_fuel">Sisestatud kütust (%1$s) ei lisata: kilomeetritabel katab selle juba.</string>
+    <string name="note_no_salary" formatted="false">Palka pole sisestatud: võrdlust kindlasummalise mahaarvamisega ei tehta.</string>
+    <string name="documents_title" formatted="false">Säilitatavad dokumendid</string>
+    <string name="documents_list" formatted="false">Sõiduki registreerimistunnistus\nTööleping või tööandja tõend\nTöötatud päevade arvestus\nTeemaksu- ja parkimiskviitungid\nKõik, mis tõendab eriasjaolusid</string>
+    <string name="export" formatted="false">Ekspordi</string>
+    <string name="export_title" formatted="false">Eksport</string>
+    <string name="export_pdf" formatted="false">PDF-aruanne</string>
+    <string name="export_xlsx" formatted="false">Tabelarvutuse fail</string>
+    <string name="export_csv" formatted="false">CSV-fail</string>
+    <string name="export_period" formatted="false">Periood</string>
+    <string name="year" formatted="false">Aasta</string>
+    <string name="export_from" formatted="false">Alates</string>
+    <string name="export_to" formatted="false">Kuni</string>
+    <string name="export_include_estimation" formatted="false">Lisa aasta hinnang</string>
+    <string name="export_share" formatted="false">Fail avaneb jagamismenüüs: salvesta või saada see.</string>
+    <string name="export_failed" formatted="false">Eksport ebaõnnestus.</string>
+    <string name="report_title" formatted="false">Kilomeetriaruanne</string>
+    <string name="generated_on">Loodud %1$s</string>
+    <string name="yes" formatted="false">jah</string>
+    <string name="no" formatted="false">ei</string>
+    <string name="import_title" formatted="false">Impordi ajalugu</string>
+    <string name="import_help" formatted="false">Kui sinu telefon säilitab sinu asukohtade ajalugu, saad selle eksportida JSON-failina rakendusest, mis seda haldab, ja seejärel siin avada. Loetakse ainult sõidukiga tehtud teekondi. Faili ei säilitata: salvestatakse ainult kuupäev, vahemaa ning, kui need on teada, lähte- ja sihtkoht.</string>
+    <string name="import_pick" formatted="false">Vali fail</string>
+    <string name="import_reading" formatted="false">Lugemine…</string>
+    <string name="import_found">Leitud sõidukiga teekondi: %1$d</string>
+    <string name="import_skipped">Muid teekondi eiratud (jalgsi, rattaga, ühistransport): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Eesmärk teekondadele, mida ei tuvastatud kodu–töö sõiduna</string>
+    <string name="import_period">Alates %1$s kuni %2$s</string>
+    <string name="import_confirm">Impordi %1$d sõitu</string>
+    <string name="import_done">Imporditud sõite: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Uusi sõite pole: need olid juba imporditud.</string>
+    <string name="import_unreadable" formatted="false">See fail ei ole loetav asukohaajalugu.</string>
+    <string name="import_commute_hint" formatted="false">Sinu kodu ja töökoha vahelised teekonnad tuvastatakse, kui fail need nii märgib; need saavad eesmärgiks kodu–töö.</string>
+    <string name="backup_title" formatted="false">Varukoopia</string>
+    <string name="backup_explain" formatted="false">Sinu andmed lahkuvad seadmest ainult siis, kui sa nii otsustad. Varukoopia on fail, mille saad salvestada kuhu tahes ja taastada mis tahes seadmes.</string>
+    <string name="backup_export" formatted="false">Ekspordi varukoopia</string>
+    <string name="backup_restore" formatted="false">Taasta varukoopia</string>
+    <string name="backup_restore_help" formatted="false">Taastamine ühendab: midagi, mida oled vahepeal sisestanud, ei lähe kaduma.</string>
+    <string name="backup_restored">Varukoopia taastatud: kokku %1$d sõitu.</string>
+    <string name="backup_invalid" formatted="false">See fail ei ole selle rakenduse varukoopia.</string>
+    <string name="cloud_title" formatted="false">Pilvevarundus</string>
+    <string name="cloud_explain" formatted="false">Sinu andmete automaatne koopia seadme pilveruumis, ilma lisakontota. Seda uuendatakse pärast iga muudatust.</string>
+    <string name="cloud_now" formatted="false">Varunda kohe</string>
+    <string name="cloud_restore" formatted="false">Taasta pilvest</string>
+    <string name="cloud_last">Viimane pilvevarukoopia: %1$s</string>
+    <string name="cloud_never" formatted="false">Pilvevarukoopiat pole veel.</string>
+    <string name="cloud_unavailable" formatted="false">Pilvevarundus pole selles seadmes saadaval. Kasuta varukoopia eksporti.</string>
+    <string name="cloud_done" formatted="false">Pilvevarundus tehtud.</string>
+    <string name="cloud_nothing" formatted="false">Pole ühtegi pilvevarukoopiat, mida taastada.</string>
+    <string name="cloud_system_restore" formatted="false">Süsteem taastab selle varukoopia ise, kui installid rakenduse uuesti või seadistad uue seadme.</string>
+    <string name="settings" formatted="false">Seaded</string>
+    <string name="rules_title" formatted="false">Arvutusreeglid</string>
+    <string name="rule_fr" formatted="false">Prantsuse kilomeetritabel</string>
+    <string name="rule_generic" formatted="false">Kindel määr kilomeetri kohta</string>
+    <string name="generic_rate" formatted="false">Määr kilomeetri kohta</string>
+    <string name="currency" formatted="false">Valuuta</string>
+    <string name="home_label" formatted="false">Sinu kodu nimi</string>
+    <string name="work_label" formatted="false">Sinu töökoha nimi</string>
+    <string name="home_work_distance" formatted="false">Kodu–töö vahemaa (üks ots, km)</string>
+    <string name="places_help" formatted="false">Kasutatakse lemmiksõitude ja ajaloo impordi jaoks.</string>
+    <string name="pro_title" formatted="false">Pro versioon</string>
+    <string name="pro_subtitle" formatted="false">Kõik, mida vajad oma tegelike kulude jaoks, ja ilma reklaamideta.</string>
+    <string name="pro_features_title" formatted="false">Avatud funktsioonid:</string>
+    <string name="pro_feature_unlimited" formatted="false">Piiramatult sõite.</string>
+    <string name="pro_feature_estimation" formatted="false">Tegelike kulude hinnang ja võrdlus kindlasummalise mahaarvamisega.</string>
+    <string name="pro_feature_export" formatted="false">Täielik, sertifitseeritud eksport (korrektne PDF, tabelarvutuse vorming raamatupidajale või maksudeklaratsiooniks).</string>
+    <string name="pro_feature_import" formatted="false">Sinu telefoni sõiduajaloo import.</string>
+    <string name="pro_feature_expenses" formatted="false">Teemaksud, parkimine ja kütus lisatakse hinnangusse.</string>
+    <string name="pro_feature_cloud" formatted="false">Taastamine varukoopiafailist ja sünkroonimine sinu seadmete vahel.</string>
+    <string name="pro_feature_widgets" formatted="false">Avakuva vidin.</string>
+    <string name="pro_feature_watch" formatted="false">Kellarakendus.</string>
+    <string name="pro_feature_no_ads" formatted="false">Üldse mitte reklaame.</string>
+    <string name="pro_feature_gps" formatted="false">Automaatne GPS-jälgimine (liikumise tuvastus või Bluetooth-ühendus autoga).</string>
+    <string name="pro_feature_scan" formatted="false">Teemaksu-, parkimis- ja kütusekviitungite nutikas skannimine (OCR) kaameraga.</string>
+    <string name="pro_monthly">%1$s kuus</string>
+    <string name="pro_yearly">%1$s aastas</string>
+    <string name="pro_yearly_hint" formatted="false">Kaks kuud tasuta võrreldes kuutasuga</string>
+    <string name="subscribe" formatted="false">Telli</string>
+    <string name="restore_purchases" formatted="false">Taasta ostud</string>
+    <string name="pro_active" formatted="false">Pro versioon on aktiivne</string>
+    <string name="pro_active_since">Tellimus: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Ostud pole selles rakenduse versioonis saadaval.</string>
+    <string name="pro_legal" formatted="false">Automaatselt uuenev tellimus, mis võetakse sinu poe kontolt. Saad igal ajal poe seadetes tühistada; hind võetakse järgmise perioodi eest, kui tellimust ei tühistata vähemalt 24 tundi enne selle lõppu.</string>
+    <string name="purchase_pending" formatted="false">Ost on pooleli…</string>
+    <string name="purchase_failed" formatted="false">Ost ei õnnestunud.</string>
+    <string name="purchase_restored" formatted="false">Ostud taastatud.</string>
+    <string name="purchase_nothing" formatted="false">Pole midagi taastada.</string>
+    <string name="rewarded_title" formatted="false">Proovi reklaamiga</string>
+    <string name="rewarded_explain" formatted="false">Vaata lühikest reklaami, et see mõneks ajaks avada. Pro eemaldab reklaamid ja avab kõik.</string>
+    <string name="rewarded_estimation" formatted="false">Vaata hinnangut 24 tundi</string>
+    <string name="rewarded_export" formatted="false">Üks eksport tunni jooksul</string>
+    <string name="rewarded_trips" formatted="false">5 sõitu sel kuul juurde</string>
+    <string name="rewarded_watch" formatted="false">Vaata reklaami</string>
+    <string name="rewarded_unavailable" formatted="false">Praegu pole reklaami saadaval. Proovi veidi hiljem uuesti.</string>
+    <string name="rewarded_granted" formatted="false">Avatud. Head teed!</string>
+    <string name="expenses" formatted="false">Kulud</string>
+    <string name="add_expense" formatted="false">Uus kulu</string>
+    <string name="edit_expense" formatted="false">Muuda kulu</string>
+    <string name="expense_kind" formatted="false">Tüüp</string>
+    <string name="kind_toll" formatted="false">Teemaks</string>
+    <string name="kind_parking" formatted="false">Parkimine</string>
+    <string name="kind_fuel" formatted="false">Kütus</string>
+    <string name="kind_other" formatted="false">Muu</string>
+    <string name="amount" formatted="false">Summa</string>
+    <string name="place" formatted="false">Koht</string>
+    <string name="litres" formatted="false">Liitrid</string>
+    <string name="odometer" formatted="false">Odomeetri näit</string>
+    <string name="no_expenses" formatted="false">Kulusid pole. Teemaksud ja parkimine lisatakse hinnangusse.</string>
+    <string name="invalid_amount" formatted="false">Sisesta summa, mis on suurem kui 0.</string>
+    <string name="legal_title" formatted="false">Õiguslik teave ja privaatsus</string>
+    <string name="privacy_text" formatted="false">Kõik sinu andmed jäävad sinu seadmesse. Rakendus ei nõua kontot ega saada midagi serverisse. Ainsad ühendused välismaailmaga on need, mille sa ise käivitad, eksport, varukoopia või ost, ning tasuta versiooni reklaamid, mille Pro versioon eemaldab.</string>
+    <string name="about" formatted="false">Teave</string>
+    <string name="version">Versioon %1$s</string>
+    <string name="error_generic" formatted="false">Midagi läks valesti.</string>
+    <string name="today" formatted="false">Täna</string>
+    <string name="yesterday" formatted="false">Eile</string>
+    <string name="ads_privacy_options" formatted="false">Reklaamide privaatsusvalikud</string>
+    <string name="ads_disabled_title" formatted="false">Reklaamid on välja lülitatud</string>
+    <string name="ads_disabled_text" formatted="false">Süsteem näitab, et see konto kuulub noorele kasutajale. Seetõttu ei näita rakendus reklaame ega küsi nõusolekut. Reklaamitunnust ei loeta ning andmeid ei koguta ega saadeta.</string>
+    <string name="watch_quick_add" formatted="false">Kiire sõit</string>
+    <string name="watch_no_favorites" formatted="false">Lisa lemmiksõidud oma telefonis.</string>
+    <string name="watch_added" formatted="false">Lisatud</string>
+    <string name="watch_open_phone" formatted="false">Ava telefoni rakendus</string>
+    <string name="widget_today" formatted="false">Täna</string>
+    <string name="widget_month" formatted="false">Sel kuul</string>
+    <string name="widget_pro_needed" formatted="false">Vidin saadaval Pro-ga</string>
+</resources>

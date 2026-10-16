@@ -1,0 +1,8 @@
+A Kilomètres első kiadása.
+
+• Utak egyetlen koppintással, kedvenc útvonalak
+• Tényleges költségek becslése a hivatalos díjtáblázattal (Pro)
+• PDF- és táblázatexport (Pro)
+• Útelőzmények importálása (Pro)
+• Felhőmentés mindenkinek; widget és óraalkalmazás (Pro)
+• 71 nyelv

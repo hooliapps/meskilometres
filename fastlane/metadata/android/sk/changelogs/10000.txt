@@ -1,0 +1,8 @@
+Prvé vydanie Kilomètres.
+
+• Jazdy jedným ťuknutím, obľúbené trasy
+• Odhad skutočných výdavkov podľa oficiálneho sadzobníka (Pro)
+• Export do PDF a tabuľky (Pro)
+• Import histórie jázd (Pro)
+• Záloha v cloude pre všetkých; widget a aplikácia pre hodinky (Pro)
+• 71 jazykov

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometry</string>
+    <string name="widget_name" formatted="false">Jízdy</string>
+    <string name="widget_description" formatted="false">Dnešní kilometry a vaše oblíbené jízdy jedním klepnutím.</string>
+    <string name="tab_trips" formatted="false">Jízdy</string>
+    <string name="tab_estimate" formatted="false">Odhad</string>
+    <string name="tab_more" formatted="false">Více</string>
+    <string name="this_month" formatted="false">Tento měsíc</string>
+    <string name="this_year" formatted="false">Tento rok</string>
+    <string name="trips_count">Jízdy: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Nová jízda</string>
+    <string name="free_remaining">Zbývající bezplatné jízdy tento měsíc: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Bezplatný limit pro tento měsíc vyčerpán</string>
+    <string name="free_quota_reached" formatted="false">Bezplatná verze umožňuje 5 jízd měsíčně. Přejděte na Pro a mějte jízdy bez omezení, nebo si pusťte reklamu a získejte 5 dalších.</string>
+    <string name="go_pro" formatted="false">Přejít na Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Zatím žádné jízdy.\nKlepněte na + a zapište první.</string>
+    <string name="trip_new" formatted="false">Nová jízda</string>
+    <string name="trip_edit" formatted="false">Upravit jízdu</string>
+    <string name="field_date" formatted="false">Datum</string>
+    <string name="field_from" formatted="false">Odkud</string>
+    <string name="field_to" formatted="false">Kam</string>
+    <string name="field_distance" formatted="false">Vzdálenost jedné cesty (km)</string>
+    <string name="field_round_trip" formatted="false">Tam a zpět</string>
+    <string name="field_purpose" formatted="false">Účel</string>
+    <string name="field_vehicle" formatted="false">Vozidlo</string>
+    <string name="field_note" formatted="false">Poznámka</string>
+    <string name="field_justified" formatted="false">Zvláštní okolnosti</string>
+    <string name="field_justified_help" formatted="false">Zaškrtněte, pokud vzdálenost z domova do práce přesahuje 40 km z konkrétního důvodu, nebo při odůvodněné další cestě tam a zpět v tentýž den.</string>
+    <string name="purpose_commute" formatted="false">Cesta do práce</string>
+    <string name="purpose_business" formatted="false">Služební</string>
+    <string name="purpose_personal" formatted="false">Soukromá</string>
+    <string name="save" formatted="false">Uložit</string>
+    <string name="cancel" formatted="false">Zrušit</string>
+    <string name="delete" formatted="false">Smazat</string>
+    <string name="edit" formatted="false">Upravit</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Zavřít</string>
+    <string name="back" formatted="false">Zpět</string>
+    <string name="confirm_delete" formatted="false">Smazat natrvalo?</string>
+    <string name="invalid_distance" formatted="false">Zadejte vzdálenost větší než 0.</string>
+    <string name="favorites" formatted="false">Oblíbené</string>
+    <string name="save_as_favorite" formatted="false">Uložit také jako oblíbenou</string>
+    <string name="favorite_label" formatted="false">Název oblíbené jízdy</string>
+    <string name="no_favorites" formatted="false">Uložte jízdu jako oblíbenou a zapisujte ji jedním klepnutím.</string>
+    <string name="use_favorite" formatted="false">Oblíbené jízdy</string>
+    <string name="swap" formatted="false">Prohodit</string>
+    <string name="quick_add_hint" formatted="false">Klepněte na oblíbenou jízdu a přidejte ji na dnešek.</string>
+    <string name="added" formatted="false">Jízda přidána.</string>
+    <string name="undo" formatted="false">Vrátit zpět</string>
+    <string name="vehicles" formatted="false">Vozidla</string>
+    <string name="add_vehicle" formatted="false">Přidat vozidlo</string>
+    <string name="edit_vehicle" formatted="false">Upravit vozidlo</string>
+    <string name="vehicle_name" formatted="false">Název</string>
+    <string name="vehicle_kind" formatted="false">Typ</string>
+    <string name="kind_car" formatted="false">Auto</string>
+    <string name="kind_motorcycle" formatted="false">Motocykl</string>
+    <string name="kind_moped" formatted="false">Moped</string>
+    <string name="fiscal_power" formatted="false">Daňový výkon (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV a více</string>
+    <string name="cv_or_less">%1$d CV a méně</string>
+    <string name="cv_range_3_5" formatted="false">3 až 5 CV</string>
+    <string name="electric" formatted="false">Elektrické vozidlo</string>
+    <string name="no_vehicle" formatted="false">Žádné vozidlo. Přidejte nějaké: odhad ho potřebuje.</string>
+    <string name="default_vehicle" formatted="false">Výchozí vozidlo</string>
+    <string name="vehicle_needed" formatted="false">Nejprve přidejte vozidlo v nabídce Více &gt; Vozidla.</string>
+    <string name="estimation" formatted="false">Odhad skutečných výdajů</string>
+    <string name="income_year">Rok příjmů %1$d</string>
+    <string name="estimation_locked" formatted="false">Odhad skutečných výdajů, exporty, import historie a obnovení zálohy patří do verze Pro.</string>
+    <string name="disclaimer_short" formatted="false">Orientační odhad, bez záruky.</string>
+    <string name="disclaimer_long" formatted="false">Tento odhad je orientační a bez záruky. Nejde o daňové poradenství a nenahrazuje oficiální předpisy, finanční úřad ani odborníka. Před podáním přiznání si ověřte pravidla platná pro vaši situaci.</string>
+    <string name="commute_km_raw" formatted="false">Zadané km cest do práce</string>
+    <string name="commute_km_retained" formatted="false">Započtené km cest do práce</string>
+    <string name="business_km" formatted="false">Služební km</string>
+    <string name="retained_km" formatted="false">Započtené km</string>
+    <string name="allowance" formatted="false">Kilometrovné</string>
+    <string name="tolls_parking" formatted="false">Mýto a parkování</string>
+    <string name="total" formatted="false">Odhadovaný součet</string>
+    <string name="flat_deduction" formatted="false">Paušální odpočet 10 %</string>
+    <string name="real_better" formatted="false">Skutečné výdaje vypadají výhodněji než paušální odpočet.</string>
+    <string name="flat_better" formatted="false">Paušální odpočet vypadá výhodněji než skutečné výdaje.</string>
+    <string name="enter_salary" formatted="false">Zadejte svou roční čistou zdanitelnou mzdu pro porovnání s paušálním odpočtem.</string>
+    <string name="net_taxable_salary" formatted="false">Roční čistá zdanitelná mzda</string>
+    <string name="per_vehicle" formatted="false">Na vozidlo</string>
+    <string name="note_scale_unconfirmed" formatted="false">Sazebník pro tento rok ještě nebyl zveřejněn: použije se poslední známý sazebník.</string>
+    <string name="note_cap_applied" formatted="false">Jedna nebo více cest do práce bylo omezeno na 40 km, protože nebyly uvedeny zvláštní okolnosti.</string>
+    <string name="note_extra_legs" formatted="false">Nad rámec jedné cesty do práce tam a zpět denně byly jízdy bez zvláštních okolností vynechány.</string>
+    <string name="note_no_vehicle" formatted="false">Jízdy bez vozidla byly ignorovány: zvolte výchozí vozidlo.</string>
+    <string name="note_fuel">Zadané palivo (%1$s) se nepřičítá: kilometrový sazebník ho už zahrnuje.</string>
+    <string name="note_no_salary" formatted="false">Mzda nezadána: žádné porovnání s paušálním odpočtem.</string>
+    <string name="documents_title" formatted="false">Doklady k uschování</string>
+    <string name="documents_list" formatted="false">Technický průkaz vozidla\nPracovní smlouva nebo potvrzení zaměstnavatele\nPřehled odpracovaných dnů\nÚčtenky za mýto a parkování\nCokoli dokládající zvláštní okolnosti</string>
+    <string name="export" formatted="false">Exportovat</string>
+    <string name="export_title" formatted="false">Export</string>
+    <string name="export_pdf" formatted="false">Zpráva PDF</string>
+    <string name="export_xlsx" formatted="false">Tabulkový sešit</string>
+    <string name="export_csv" formatted="false">Soubor CSV</string>
+    <string name="export_period" formatted="false">Období</string>
+    <string name="year" formatted="false">Rok</string>
+    <string name="export_from" formatted="false">Od</string>
+    <string name="export_to" formatted="false">Do</string>
+    <string name="export_include_estimation" formatted="false">Zahrnout odhad za rok</string>
+    <string name="export_share" formatted="false">Soubor se otevře v nabídce sdílení: uložte ho nebo odešlete.</string>
+    <string name="export_failed" formatted="false">Export se nezdařil.</string>
+    <string name="report_title" formatted="false">Kilometrová zpráva</string>
+    <string name="generated_on">Vytvořeno %1$s</string>
+    <string name="yes" formatted="false">ano</string>
+    <string name="no" formatted="false">ne</string>
+    <string name="import_title" formatted="false">Importovat historii</string>
+    <string name="import_help" formatted="false">Pokud si váš telefon uchovává historii vaší polohy, můžete ji z aplikace, která ji spravuje, exportovat jako soubor JSON a otevřít ji zde. Načtou se jen cesty vozidlem. Soubor se neuchovává: uloží se jen datum, vzdálenost a, pokud jsou známy, výchozí a cílové místo.</string>
+    <string name="import_pick" formatted="false">Vybrat soubor</string>
+    <string name="import_reading" formatted="false">Načítání…</string>
+    <string name="import_found">Nalezené cesty vozidlem: %1$d</string>
+    <string name="import_skipped">Ostatní cesty ignorovány (pěšky, na kole, MHD): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Účel cest nerozpoznaných jako cesta do práce</string>
+    <string name="import_period">Od %1$s do %2$s</string>
+    <string name="import_confirm">Importovat jízdy: %1$d</string>
+    <string name="import_done">Importované jízdy: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Žádná nová jízda: už byly importovány.</string>
+    <string name="import_unreadable" formatted="false">Tento soubor není čitelná historie polohy.</string>
+    <string name="import_commute_hint" formatted="false">Cesty mezi vaším domovem a pracovištěm se rozpoznají, pokud je tak soubor označuje; dostanou účel cesta do práce.</string>
+    <string name="backup_title" formatted="false">Záloha</string>
+    <string name="backup_explain" formatted="false">Vaše data opustí zařízení jen tehdy, když se tak rozhodnete. Záloha je soubor, který můžete uložit kamkoli a obnovit na jakémkoli zařízení.</string>
+    <string name="backup_export" formatted="false">Exportovat zálohu</string>
+    <string name="backup_restore" formatted="false">Obnovit zálohu</string>
+    <string name="backup_restore_help" formatted="false">Obnovení data sloučí: nic, co jste od té doby zadali, se neztratí.</string>
+    <string name="backup_restored">Záloha obnovena: celkem %1$d jízd.</string>
+    <string name="backup_invalid" formatted="false">Tento soubor není záloha z této aplikace.</string>
+    <string name="cloud_title" formatted="false">Záloha v cloudu</string>
+    <string name="cloud_explain" formatted="false">Automatická kopie vašich dat v cloudovém úložišti vašeho zařízení, bez dalšího účtu. Obnovuje se po každé změně.</string>
+    <string name="cloud_now" formatted="false">Zálohovat nyní</string>
+    <string name="cloud_restore" formatted="false">Obnovit z cloudu</string>
+    <string name="cloud_last">Poslední záloha v cloudu: %1$s</string>
+    <string name="cloud_never" formatted="false">Zatím žádná záloha v cloudu.</string>
+    <string name="cloud_unavailable" formatted="false">Záloha v cloudu není na tomto zařízení k dispozici. Použijte export zálohy.</string>
+    <string name="cloud_done" formatted="false">Záloha v cloudu hotova.</string>
+    <string name="cloud_nothing" formatted="false">Žádná záloha v cloudu k obnovení.</string>
+    <string name="cloud_system_restore" formatted="false">Systém tuto zálohu obnoví sám při přeinstalaci aplikace nebo při nastavení nového zařízení.</string>
+    <string name="settings" formatted="false">Nastavení</string>
+    <string name="rules_title" formatted="false">Pravidla výpočtu</string>
+    <string name="rule_fr" formatted="false">Francouzský kilometrový sazebník</string>
+    <string name="rule_generic" formatted="false">Pevná sazba za kilometr</string>
+    <string name="generic_rate" formatted="false">Sazba za kilometr</string>
+    <string name="currency" formatted="false">Měna</string>
+    <string name="home_label" formatted="false">Název vašeho domova</string>
+    <string name="work_label" formatted="false">Název vašeho pracoviště</string>
+    <string name="home_work_distance" formatted="false">Vzdálenost domov–práce (jedna cesta, km)</string>
+    <string name="places_help" formatted="false">Používá se u oblíbených jízd a při importu historie.</string>
+    <string name="pro_title" formatted="false">Verze Pro</string>
+    <string name="pro_subtitle" formatted="false">Vše, co potřebujete pro skutečné výdaje, a žádné reklamy.</string>
+    <string name="pro_features_title" formatted="false">Odemčené funkce:</string>
+    <string name="pro_feature_unlimited" formatted="false">Jízdy bez omezení.</string>
+    <string name="pro_feature_estimation" formatted="false">Odhad skutečných výdajů a porovnání s paušálním odpočtem.</string>
+    <string name="pro_feature_export" formatted="false">Úplný, ověřený export (čisté PDF, tabulkový formát připravený pro účetního nebo daňové přiznání).</string>
+    <string name="pro_feature_import" formatted="false">Import historie jízd z vašeho telefonu.</string>
+    <string name="pro_feature_expenses" formatted="false">Mýto, parkování a palivo přičtené k odhadu.</string>
+    <string name="pro_feature_cloud" formatted="false">Obnovení ze souboru zálohy a synchronizace mezi zařízeními.</string>
+    <string name="pro_feature_widgets" formatted="false">Widget na domovské obrazovce.</string>
+    <string name="pro_feature_watch" formatted="false">Aplikace pro hodinky.</string>
+    <string name="pro_feature_no_ads" formatted="false">Vůbec žádné reklamy.</string>
+    <string name="pro_feature_gps" formatted="false">Automatické sledování GPS (detekce pohybu nebo připojení Bluetooth k autu).</string>
+    <string name="pro_feature_scan" formatted="false">Chytré skenování (OCR) účtenek za mýto, parkování a palivo fotoaparátem.</string>
+    <string name="pro_monthly">%1$s měsíčně</string>
+    <string name="pro_yearly">%1$s ročně</string>
+    <string name="pro_yearly_hint" formatted="false">Dva měsíce zdarma oproti měsíčnímu plánu</string>
+    <string name="subscribe" formatted="false">Předplatit</string>
+    <string name="restore_purchases" formatted="false">Obnovit nákupy</string>
+    <string name="pro_active" formatted="false">Verze Pro je aktivní</string>
+    <string name="pro_active_since">Předplatné: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Nákupy nejsou v této verzi aplikace k dispozici.</string>
+    <string name="pro_legal" formatted="false">Automaticky obnovované předplatné, účtované na váš účet v obchodě. Lze zrušit kdykoli v nastavení obchodu; cena za další období se strhne, pokud předplatné nezrušíte alespoň 24 hodin před jeho koncem.</string>
+    <string name="purchase_pending" formatted="false">Probíhá nákup…</string>
+    <string name="purchase_failed" formatted="false">Nákup nebyl dokončen.</string>
+    <string name="purchase_restored" formatted="false">Nákupy obnoveny.</string>
+    <string name="purchase_nothing" formatted="false">Není co obnovit.</string>
+    <string name="rewarded_title" formatted="false">Vyzkoušet za reklamu</string>
+    <string name="rewarded_explain" formatted="false">Pusťte si krátkou reklamu a odemkněte tuto funkci na chvíli. Pro odstraní reklamy a odemkne vše.</string>
+    <string name="rewarded_estimation" formatted="false">Zobrazit odhad na 24 hodin</string>
+    <string name="rewarded_export" formatted="false">Jeden export do hodiny</string>
+    <string name="rewarded_trips" formatted="false">5 dalších jízd tento měsíc</string>
+    <string name="rewarded_watch" formatted="false">Pustit reklamu</string>
+    <string name="rewarded_unavailable" formatted="false">Právě není k dispozici žádná reklama. Zkuste to za chvíli znovu.</string>
+    <string name="rewarded_granted" formatted="false">Odemčeno. Šťastnou cestu!</string>
+    <string name="expenses" formatted="false">Výdaje</string>
+    <string name="add_expense" formatted="false">Nový výdaj</string>
+    <string name="edit_expense" formatted="false">Upravit výdaj</string>
+    <string name="expense_kind" formatted="false">Typ</string>
+    <string name="kind_toll" formatted="false">Mýto</string>
+    <string name="kind_parking" formatted="false">Parkování</string>
+    <string name="kind_fuel" formatted="false">Palivo</string>
+    <string name="kind_other" formatted="false">Jiné</string>
+    <string name="amount" formatted="false">Částka</string>
+    <string name="place" formatted="false">Místo</string>
+    <string name="litres" formatted="false">Litry</string>
+    <string name="odometer" formatted="false">Stav tachometru</string>
+    <string name="no_expenses" formatted="false">Žádné výdaje. Mýto a parkování se přičítají k odhadu.</string>
+    <string name="invalid_amount" formatted="false">Zadejte částku větší než 0.</string>
+    <string name="legal_title" formatted="false">Právní informace a soukromí</string>
+    <string name="privacy_text" formatted="false">Všechna vaše data zůstávají ve vašem zařízení. Aplikace nevyžaduje žádný účet a nic neposílá na server. Jediné spojení s okolím je to, které sami spustíte, export, záloha nebo nákup, a reklamy v bezplatné verzi, které verze Pro odstraňuje.</string>
+    <string name="about" formatted="false">O aplikaci</string>
+    <string name="version">Verze %1$s</string>
+    <string name="error_generic" formatted="false">Něco se pokazilo.</string>
+    <string name="today" formatted="false">Dnes</string>
+    <string name="yesterday" formatted="false">Včera</string>
+    <string name="ads_privacy_options" formatted="false">Možnosti soukromí reklam</string>
+    <string name="ads_disabled_title" formatted="false">Reklamy jsou vypnuté</string>
+    <string name="ads_disabled_text" formatted="false">Systém uvádí, že tento účet patří mladému uživateli. Aplikace proto nezobrazuje žádné reklamy a nežádá o souhlas. Nečte se žádný reklamní identifikátor a žádná data se neshromažďují ani neodesílají.</string>
+    <string name="watch_quick_add" formatted="false">Rychlá jízda</string>
+    <string name="watch_no_favorites" formatted="false">Přidejte oblíbené jízdy v telefonu.</string>
+    <string name="watch_added" formatted="false">Přidáno</string>
+    <string name="watch_open_phone" formatted="false">Otevřít aplikaci v telefonu</string>
+    <string name="widget_today" formatted="false">Dnes</string>
+    <string name="widget_month" formatted="false">Tento měsíc</string>
+    <string name="widget_pro_needed" formatted="false">Widget je k dispozici s Pro</string>
+</resources>

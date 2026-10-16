@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Шақырым</string>
+    <string name="widget_name" formatted="false">Сапарлар</string>
+    <string name="widget_description" formatted="false">Бүгінгі километрлер мен таңдаулы сапарларыңыз бір түртумен.</string>
+    <string name="tab_trips" formatted="false">Сапарлар</string>
+    <string name="tab_estimate" formatted="false">Бағалау</string>
+    <string name="tab_more" formatted="false">Тағы</string>
+    <string name="this_month" formatted="false">Осы ай</string>
+    <string name="this_year" formatted="false">Осы жыл</string>
+    <string name="trips_count">Сапарлар: %1$d</string>
+    <string name="km_value">%1$s км</string>
+    <string name="add_trip" formatted="false">Жаңа сапар</string>
+    <string name="free_remaining">Осы айда қалған тегін сапарлар: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Осы айдың тегін шегіне жеттіңіз</string>
+    <string name="free_quota_reached" formatted="false">Тегін нұсқада айына 5 сапар енгізуге болады. Шексіз сапарлар үшін Pro нұсқасына өтіңіз немесе тағы 5 сапар үшін жарнама көріңіз.</string>
+    <string name="go_pro" formatted="false">Pro алу</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Әзірге сапар жоқ.\nБіріншісін енгізу үшін + түймесін түртіңіз.</string>
+    <string name="trip_new" formatted="false">Жаңа сапар</string>
+    <string name="trip_edit" formatted="false">Сапарды өзгерту</string>
+    <string name="field_date" formatted="false">Күні</string>
+    <string name="field_from" formatted="false">Қайдан</string>
+    <string name="field_to" formatted="false">Қайда</string>
+    <string name="field_distance" formatted="false">Бір бағыттағы қашықтық (км)</string>
+    <string name="field_round_trip" formatted="false">Барып-қайту</string>
+    <string name="field_purpose" formatted="false">Мақсаты</string>
+    <string name="field_vehicle" formatted="false">Көлік</string>
+    <string name="field_note" formatted="false">Ескертпе</string>
+    <string name="field_justified" formatted="false">Ерекше жағдайлар</string>
+    <string name="field_justified_help" formatted="false">Үй мен жұмыс арасындағы қашықтық ерекше себеппен 40 км-ден асса немесе сол күні негізді қосымша барып-қайту болса, белгілеңіз.</string>
+    <string name="purpose_commute" formatted="false">Үй – жұмыс</string>
+    <string name="purpose_business" formatted="false">Қызметтік</string>
+    <string name="purpose_personal" formatted="false">Жеке</string>
+    <string name="save" formatted="false">Сақтау</string>
+    <string name="cancel" formatted="false">Бас тарту</string>
+    <string name="delete" formatted="false">Жою</string>
+    <string name="edit" formatted="false">Өзгерту</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Жабу</string>
+    <string name="back" formatted="false">Артқа</string>
+    <string name="confirm_delete" formatted="false">Біржола жойылсын ба?</string>
+    <string name="invalid_distance" formatted="false">0-ден үлкен қашықтық енгізіңіз.</string>
+    <string name="favorites" formatted="false">Таңдаулылар</string>
+    <string name="save_as_favorite" formatted="false">Таңдаулыға да сақтау</string>
+    <string name="favorite_label" formatted="false">Таңдаулының атауы</string>
+    <string name="no_favorites" formatted="false">Сапарды бір түртумен енгізу үшін оны таңдаулыға сақтаңыз.</string>
+    <string name="use_favorite" formatted="false">Таңдаулы сапарлар</string>
+    <string name="swap" formatted="false">Орнын ауыстыру</string>
+    <string name="quick_add_hint" formatted="false">Бүгінге қосу үшін таңдаулыны түртіңіз.</string>
+    <string name="added" formatted="false">Сапар қосылды.</string>
+    <string name="undo" formatted="false">Болдырмау</string>
+    <string name="vehicles" formatted="false">Көліктер</string>
+    <string name="add_vehicle" formatted="false">Көлік қосу</string>
+    <string name="edit_vehicle" formatted="false">Көлікті өзгерту</string>
+    <string name="vehicle_name" formatted="false">Атауы</string>
+    <string name="vehicle_kind" formatted="false">Түрі</string>
+    <string name="kind_car" formatted="false">Жеңіл көлік</string>
+    <string name="kind_motorcycle" formatted="false">Мотоцикл</string>
+    <string name="kind_moped" formatted="false">Мопед</string>
+    <string name="fiscal_power" formatted="false">Салықтық қуат</string>
+    <string name="cv">%1$d а.к.</string>
+    <string name="cv_or_more">%1$d а.к. және одан жоғары</string>
+    <string name="cv_or_less">%1$d а.к. және одан төмен</string>
+    <string name="cv_range_3_5" formatted="false">3–5 а.к.</string>
+    <string name="electric" formatted="false">Электр көлігі</string>
+    <string name="no_vehicle" formatted="false">Көлік жоқ. Қосыңыз: бағалауға қажет.</string>
+    <string name="default_vehicle" formatted="false">Әдепкі көлік</string>
+    <string name="vehicle_needed" formatted="false">Алдымен Тағы &gt; Көліктер бөлімінде көлік қосыңыз.</string>
+    <string name="estimation" formatted="false">Нақты шығындарды бағалау</string>
+    <string name="income_year">Табыс жылы %1$d</string>
+    <string name="estimation_locked" formatted="false">Нақты шығындарды бағалау, экспорт, тарихты импорттау және сақтық көшірмені қалпына келтіру Pro нұсқасына кіреді.</string>
+    <string name="disclaimer_short" formatted="false">Болжамды бағалау, кепілдік берілмейді.</string>
+    <string name="disclaimer_long" formatted="false">Бұл бағалау болжамды және кепілдік берілмейді. Бұл салық кеңесі емес және ресми құжаттарды, салық органын немесе маманды алмастырмайды. Декларация тапсырар алдында өз жағдайыңызға қолданылатын ережелерді тексеріңіз.</string>
+    <string name="commute_km_raw" formatted="false">Енгізілген үй – жұмыс км</string>
+    <string name="commute_km_retained" formatted="false">Есепке алынған үй – жұмыс км</string>
+    <string name="business_km" formatted="false">Қызметтік км</string>
+    <string name="retained_km" formatted="false">Есепке алынған км</string>
+    <string name="allowance" formatted="false">Километраж өтемақысы</string>
+    <string name="tolls_parking" formatted="false">Ақылы жолдар мен тұрақтар</string>
+    <string name="total" formatted="false">Болжамды жиыны</string>
+    <string name="flat_deduction" formatted="false">10 % стандартты шегерім</string>
+    <string name="real_better" formatted="false">Нақты шығындар стандартты шегерімнен тиімдірек көрінеді.</string>
+    <string name="flat_better" formatted="false">Стандартты шегерім нақты шығындардан тиімдірек көрінеді.</string>
+    <string name="enter_salary" formatted="false">Стандартты шегеріммен салыстыру үшін жылдық таза салық салынатын жалақыңызды енгізіңіз.</string>
+    <string name="net_taxable_salary" formatted="false">Жылдық таза салық салынатын жалақы</string>
+    <string name="per_vehicle" formatted="false">Әр көлік бойынша</string>
+    <string name="note_scale_unconfirmed" formatted="false">Биылғы шкала әлі жарияланбаған: соңғы белгілі шкала қолданылады.</string>
+    <string name="note_cap_applied" formatted="false">Ерекше жағдайлар көрсетілмегендіктен, бір немесе бірнеше үй – жұмыс сапары 40 км-мен шектелді.</string>
+    <string name="note_extra_legs" formatted="false">Күніне бір үй – жұмыс барып-қайтудан артық, ерекше жағдайсыз сапарлар есепке алынбады.</string>
+    <string name="note_no_vehicle" formatted="false">Көліксіз сапарлар ескерілмеді: әдепкі көлікті таңдаңыз.</string>
+    <string name="note_fuel">Енгізілген жанармай (%1$s) қосылмайды: километраж шкаласы оны әлдеқашан қамтиды.</string>
+    <string name="note_no_salary" formatted="false">Жалақы енгізілмеген: стандартты шегеріммен салыстыру жоқ.</string>
+    <string name="documents_title" formatted="false">Сақтау керек құжаттар</string>
+    <string name="documents_list" formatted="false">Көлікті тіркеу куәлігі\nЕңбек шарты немесе жұмыс берушінің анықтамасы\nЖұмыс күндерінің есебі\nАқылы жол және тұрақ түбіртектері\nЕрекше жағдайларды растайтын кез келген құжат</string>
+    <string name="export" formatted="false">Экспорттау</string>
+    <string name="export_title" formatted="false">Экспорт</string>
+    <string name="export_pdf" formatted="false">PDF есеп</string>
+    <string name="export_xlsx" formatted="false">Электрондық кесте</string>
+    <string name="export_csv" formatted="false">CSV файлы</string>
+    <string name="export_period" formatted="false">Кезең</string>
+    <string name="year" formatted="false">Жыл</string>
+    <string name="export_from" formatted="false">Басы</string>
+    <string name="export_to" formatted="false">Соңы</string>
+    <string name="export_include_estimation" formatted="false">Жылдық бағалауды қосу</string>
+    <string name="export_share" formatted="false">Файл бөлісу терезесінде ашылады: сақтаңыз немесе жіберіңіз.</string>
+    <string name="export_failed" formatted="false">Экспорт сәтсіз аяқталды.</string>
+    <string name="report_title" formatted="false">Километраж есебі</string>
+    <string name="generated_on">Жасалған күні: %1$s</string>
+    <string name="yes" formatted="false">иә</string>
+    <string name="no" formatted="false">жоқ</string>
+    <string name="import_title" formatted="false">Тарихты импорттау</string>
+    <string name="import_help" formatted="false">Телефоныңыз орналасқан жерлеріңіздің тарихын сақтаса, оны басқаратын қолданбадан JSON файлы ретінде экспорттап, осы жерде ашуға болады. Тек көлікпен жасалған сапарлар оқылады. Файл сақталмайды: тек күні, қашықтығы және белгілі болса, басталу және аяқталу нүктелері ғана сақталады.</string>
+    <string name="import_pick" formatted="false">Файлды таңдау</string>
+    <string name="import_reading" formatted="false">Оқылуда…</string>
+    <string name="import_found">Табылған көлік сапарлары: %1$d</string>
+    <string name="import_skipped">Басқа ескерілмеген жүрістер (жаяу, велосипед, қоғамдық көлік): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Үй – жұмыс деп танылмаған сапарлардың мақсаты</string>
+    <string name="import_period">%1$s – %2$s аралығы</string>
+    <string name="import_confirm">%1$d сапарды импорттау</string>
+    <string name="import_done">Импортталған сапарлар: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Жаңа сапар жоқ: олар бұрын импортталған.</string>
+    <string name="import_unreadable" formatted="false">Бұл файл оқылатын орналасу тарихы емес.</string>
+    <string name="import_commute_hint" formatted="false">Үй мен жұмыс арасындағы жүрістер файлда солай белгіленсе танылады; оларға үй – жұмыс мақсаты беріледі.</string>
+    <string name="backup_title" formatted="false">Сақтық көшірме</string>
+    <string name="backup_explain" formatted="false">Деректеріңіз құрылғыдан тек сіз шешкенде ғана шығады. Сақтық көшірме — кез келген жерде сақтап, кез келген құрылғыда қалпына келтіруге болатын файл.</string>
+    <string name="backup_export" formatted="false">Сақтық көшірмені экспорттау</string>
+    <string name="backup_restore" formatted="false">Сақтық көшірмені қалпына келтіру</string>
+    <string name="backup_restore_help" formatted="false">Қалпына келтіру деректерді біріктіреді: содан бері енгізгеніңіз жоғалмайды.</string>
+    <string name="backup_restored">Сақтық көшірме қалпына келтірілді: барлығы %1$d сапар.</string>
+    <string name="backup_invalid" formatted="false">Бұл файл осы қолданбаның сақтық көшірмесі емес.</string>
+    <string name="cloud_title" formatted="false">Бұлттық сақтық көшірме</string>
+    <string name="cloud_explain" formatted="false">Қосымша аккаунтсыз, құрылғыңыздың бұлттық кеңістігіндегі деректеріңіздің автоматты көшірмесі. Әр өзгерістен кейін жаңартылады.</string>
+    <string name="cloud_now" formatted="false">Қазір сақтау</string>
+    <string name="cloud_restore" formatted="false">Бұлттан қалпына келтіру</string>
+    <string name="cloud_last">Соңғы бұлттық көшірме: %1$s</string>
+    <string name="cloud_never" formatted="false">Бұлттық көшірме әлі жоқ.</string>
+    <string name="cloud_unavailable" formatted="false">Бұл құрылғыда бұлттық сақтық көшірме қолжетімді емес. Сақтық көшірме экспортын пайдаланыңыз.</string>
+    <string name="cloud_done" formatted="false">Бұлттық көшірме жасалды.</string>
+    <string name="cloud_nothing" formatted="false">Қалпына келтіретін бұлттық көшірме жоқ.</string>
+    <string name="cloud_system_restore" formatted="false">Қолданбаны қайта орнатқанда немесе жаңа құрылғыны реттегенде жүйе бұл көшірмені өзі қалпына келтіреді.</string>
+    <string name="settings" formatted="false">Параметрлер</string>
+    <string name="rules_title" formatted="false">Есептеу ережелері</string>
+    <string name="rule_fr" formatted="false">Француз километраж шкаласы</string>
+    <string name="rule_generic" formatted="false">Километрге тұрақты мөлшерлеме</string>
+    <string name="generic_rate" formatted="false">Километрге мөлшерлеме</string>
+    <string name="currency" formatted="false">Валюта</string>
+    <string name="home_label" formatted="false">Үйіңіздің атауы</string>
+    <string name="work_label" formatted="false">Жұмыс орныңыздың атауы</string>
+    <string name="home_work_distance" formatted="false">Үй – жұмыс қашықтығы (бір бағыт, км)</string>
+    <string name="places_help" formatted="false">Таңдаулы сапарлар мен тарихты импорттауда қолданылады.</string>
+    <string name="pro_title" formatted="false">Pro нұсқасы</string>
+    <string name="pro_subtitle" formatted="false">Нақты шығындарыңызға қажеттің бәрі, және ешқандай жарнама жоқ.</string>
+    <string name="pro_features_title" formatted="false">Ашылатын мүмкіндіктер:</string>
+    <string name="pro_feature_unlimited" formatted="false">Шексіз сапарлар.</string>
+    <string name="pro_feature_estimation" formatted="false">Нақты шығындарды бағалау және стандартты шегеріммен салыстыру.</string>
+    <string name="pro_feature_export" formatted="false">Толық, сертификатталған экспорт (таза PDF, бухгалтерге немесе салық декларациясына дайын кесте форматы).</string>
+    <string name="pro_feature_import" formatted="false">Телефоныңыздағы сапарлар тарихын импорттау.</string>
+    <string name="pro_feature_expenses" formatted="false">Бағалауға қосылатын ақылы жолдар, тұрақ және жанармай.</string>
+    <string name="pro_feature_cloud" formatted="false">Сақтық көшірме файлынан қалпына келтіру және құрылғылар арасында синхрондау.</string>
+    <string name="pro_feature_widgets" formatted="false">Негізгі экран виджеті.</string>
+    <string name="pro_feature_watch" formatted="false">Сағат қолданбасы.</string>
+    <string name="pro_feature_no_ads" formatted="false">Мүлдем жарнама жоқ.</string>
+    <string name="pro_feature_gps" formatted="false">Автоматты GPS бақылау (қозғалысты анықтау немесе көлікке Bluetooth арқылы қосылу).</string>
+    <string name="pro_feature_scan" formatted="false">Ақылы жол, тұрақ және жанармай түбіртектерін камерамен зерделі сканерлеу (OCR).</string>
+    <string name="pro_monthly">Айына %1$s</string>
+    <string name="pro_yearly">Жылына %1$s</string>
+    <string name="pro_yearly_hint" formatted="false">Ай сайынғы төлеммен салыстырғанда екі ай тегін</string>
+    <string name="subscribe" formatted="false">Жазылу</string>
+    <string name="restore_purchases" formatted="false">Сатып алуларды қалпына келтіру</string>
+    <string name="pro_active" formatted="false">Pro нұсқасы белсенді</string>
+    <string name="pro_active_since">Жазылым: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Қолданбаның бұл нұсқасында сатып алу қолжетімді емес.</string>
+    <string name="pro_legal" formatted="false">Автоматты түрде жаңартылатын жазылым, төлем дүкен аккаунтыңыздан алынады. Дүкен параметрлерінде кез келген уақытта тоқтатуға болады; мерзімі аяқталуына кемінде 24 сағат қалғанда тоқтатылмаса, келесі кезеңнің ақысы алынады.</string>
+    <string name="purchase_pending" formatted="false">Сатып алу орындалуда…</string>
+    <string name="purchase_failed" formatted="false">Сатып алу аяқталмады.</string>
+    <string name="purchase_restored" formatted="false">Сатып алулар қалпына келтірілді.</string>
+    <string name="purchase_nothing" formatted="false">Қалпына келтіретін ештеңе жоқ.</string>
+    <string name="rewarded_title" formatted="false">Жарнама көріп байқап көру</string>
+    <string name="rewarded_explain" formatted="false">Бұл мүмкіндікті біраз уақытқа ашу үшін қысқа жарнама көріңіз. Pro жарнаманы алып тастап, бәрін ашады.</string>
+    <string name="rewarded_estimation" formatted="false">Бағалауды 24 сағат көру</string>
+    <string name="rewarded_export" formatted="false">Бір сағат ішінде бір экспорт</string>
+    <string name="rewarded_trips" formatted="false">Осы айда тағы 5 сапар</string>
+    <string name="rewarded_watch" formatted="false">Жарнама көру</string>
+    <string name="rewarded_unavailable" formatted="false">Қазір жарнама жоқ. Сәлден кейін қайталап көріңіз.</string>
+    <string name="rewarded_granted" formatted="false">Ашылды. Жолыңыз болсын!</string>
+    <string name="expenses" formatted="false">Шығындар</string>
+    <string name="add_expense" formatted="false">Жаңа шығын</string>
+    <string name="edit_expense" formatted="false">Шығынды өзгерту</string>
+    <string name="expense_kind" formatted="false">Түрі</string>
+    <string name="kind_toll" formatted="false">Ақылы жол</string>
+    <string name="kind_parking" formatted="false">Тұрақ</string>
+    <string name="kind_fuel" formatted="false">Жанармай</string>
+    <string name="kind_other" formatted="false">Басқа</string>
+    <string name="amount" formatted="false">Сомасы</string>
+    <string name="place" formatted="false">Орны</string>
+    <string name="litres" formatted="false">Литр</string>
+    <string name="odometer" formatted="false">Одометр көрсеткіші</string>
+    <string name="no_expenses" formatted="false">Шығындар жоқ. Ақылы жолдар мен тұрақтар бағалауға қосылады.</string>
+    <string name="invalid_amount" formatted="false">0-ден үлкен сома енгізіңіз.</string>
+    <string name="legal_title" formatted="false">Құқықтық ақпарат және құпиялылық</string>
+    <string name="privacy_text" formatted="false">Барлық деректеріңіз құрылғыңызда қалады. Қолданба аккаунт талап етпейді және серверге ештеңе жібермейді. Сыртқы әлеммен жалғыз алмасу — сіз іске қосатын экспорт, сақтық көшірме немесе сатып алу, сондай-ақ Pro нұсқасы алып тастайтын тегін нұсқадағы жарнама.</string>
+    <string name="about" formatted="false">Қолданба туралы</string>
+    <string name="version">Нұсқа %1$s</string>
+    <string name="error_generic" formatted="false">Бірдеңе дұрыс болмады.</string>
+    <string name="today" formatted="false">Бүгін</string>
+    <string name="yesterday" formatted="false">Кеше</string>
+    <string name="ads_privacy_options" formatted="false">Жарнама құпиялылығы параметрлері</string>
+    <string name="ads_disabled_title" formatted="false">Жарнама өшірілген</string>
+    <string name="ads_disabled_text" formatted="false">Жүйе бұл аккаунт жас пайдаланушыға тиесілі екенін хабарлайды. Сондықтан қолданба жарнама көрсетпейді және келісім сұрамайды. Жарнама идентификаторы оқылмайды, деректер жиналмайды және жіберілмейді.</string>
+    <string name="watch_quick_add" formatted="false">Жылдам сапар</string>
+    <string name="watch_no_favorites" formatted="false">Телефоныңызда таңдаулы сапарларды қосыңыз.</string>
+    <string name="watch_added" formatted="false">Қосылды</string>
+    <string name="watch_open_phone" formatted="false">Телефон қолданбасын ашу</string>
+    <string name="widget_today" formatted="false">Бүгін</string>
+    <string name="widget_month" formatted="false">Осы ай</string>
+    <string name="widget_pro_needed" formatted="false">Виджет Pro нұсқасында қолжетімді</string>
+</resources>

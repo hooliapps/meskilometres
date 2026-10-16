@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometers</string>
+    <string name="widget_name" formatted="false">Ritte</string>
+    <string name="widget_description" formatted="false">Vandag se kilometers en jou gunstelingritte met een tik.</string>
+    <string name="tab_trips" formatted="false">Ritte</string>
+    <string name="tab_estimate" formatted="false">Raming</string>
+    <string name="tab_more" formatted="false">Meer</string>
+    <string name="this_month" formatted="false">Hierdie maand</string>
+    <string name="this_year" formatted="false">Hierdie jaar</string>
+    <string name="trips_count">Ritte: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Nuwe rit</string>
+    <string name="free_remaining">Gratis ritte oor hierdie maand: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Gratis limiet vir hierdie maand bereik</string>
+    <string name="free_quota_reached" formatted="false">Die gratis weergawe laat 5 ritte per maand toe. Kry Pro vir onbeperkte ritte, of kyk na \'n advertensie vir 5 meer.</string>
+    <string name="go_pro" formatted="false">Kry Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Nog geen ritte nie.\nTik op + om die eerste een aan te teken.</string>
+    <string name="trip_new" formatted="false">Nuwe rit</string>
+    <string name="trip_edit" formatted="false">Wysig rit</string>
+    <string name="field_date" formatted="false">Datum</string>
+    <string name="field_from" formatted="false">Van</string>
+    <string name="field_to" formatted="false">Na</string>
+    <string name="field_distance" formatted="false">Enkelrit-afstand (km)</string>
+    <string name="field_round_trip" formatted="false">Heen en terug</string>
+    <string name="field_purpose" formatted="false">Doel</string>
+    <string name="field_vehicle" formatted="false">Voertuig</string>
+    <string name="field_note" formatted="false">Nota</string>
+    <string name="field_justified" formatted="false">Besondere omstandighede</string>
+    <string name="field_justified_help" formatted="false">Merk as die afstand tussen huis en werk om \'n spesifieke rede meer as 40 km is, of vir \'n geregverdigde ekstra heen-en-terugrit op dieselfde dag.</string>
+    <string name="purpose_commute" formatted="false">Huis-werk</string>
+    <string name="purpose_business" formatted="false">Sake</string>
+    <string name="purpose_personal" formatted="false">Persoonlik</string>
+    <string name="save" formatted="false">Stoor</string>
+    <string name="cancel" formatted="false">Kanselleer</string>
+    <string name="delete" formatted="false">Verwyder</string>
+    <string name="edit" formatted="false">Wysig</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Sluit</string>
+    <string name="back" formatted="false">Terug</string>
+    <string name="confirm_delete" formatted="false">Permanent verwyder?</string>
+    <string name="invalid_distance" formatted="false">Voer \'n afstand groter as 0 in.</string>
+    <string name="favorites" formatted="false">Gunstelinge</string>
+    <string name="save_as_favorite" formatted="false">Stoor ook as gunsteling</string>
+    <string name="favorite_label" formatted="false">Naam van gunsteling</string>
+    <string name="no_favorites" formatted="false">Stoor \'n rit as gunsteling om dit met een tik aan te teken.</string>
+    <string name="use_favorite" formatted="false">Gunstelingritte</string>
+    <string name="swap" formatted="false">Ruil om</string>
+    <string name="quick_add_hint" formatted="false">Tik op \'n gunsteling om dit vir vandag by te voeg.</string>
+    <string name="added" formatted="false">Rit bygevoeg.</string>
+    <string name="undo" formatted="false">Ontdoen</string>
+    <string name="vehicles" formatted="false">Voertuie</string>
+    <string name="add_vehicle" formatted="false">Voeg \'n voertuig by</string>
+    <string name="edit_vehicle" formatted="false">Wysig voertuig</string>
+    <string name="vehicle_name" formatted="false">Naam</string>
+    <string name="vehicle_kind" formatted="false">Tipe</string>
+    <string name="kind_car" formatted="false">Motor</string>
+    <string name="kind_motorcycle" formatted="false">Motorfiets</string>
+    <string name="kind_moped" formatted="false">Bromponie</string>
+    <string name="fiscal_power" formatted="false">Fiskale perdekrag (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV en meer</string>
+    <string name="cv_or_less">%1$d CV en minder</string>
+    <string name="cv_range_3_5" formatted="false">3 tot 5 CV</string>
+    <string name="electric" formatted="false">Elektriese voertuig</string>
+    <string name="no_vehicle" formatted="false">Geen voertuig nie. Voeg een by: die raming het dit nodig.</string>
+    <string name="default_vehicle" formatted="false">Verstekvoertuig</string>
+    <string name="vehicle_needed" formatted="false">Voeg eers \'n voertuig by onder Meer &gt; Voertuie.</string>
+    <string name="estimation" formatted="false">Raming van werklike uitgawes</string>
+    <string name="income_year">Inkomstejaar %1$d</string>
+    <string name="estimation_locked" formatted="false">Die raming van werklike uitgawes, die uitvoere, die invoer van geskiedenis en die herstel van \'n rugsteun is deel van die Pro-weergawe.</string>
+    <string name="disclaimer_short" formatted="false">Aanduidende raming, nie gewaarborg nie.</string>
+    <string name="disclaimer_long" formatted="false">Hierdie raming is slegs aanduidend en word nie gewaarborg nie. Dit is nie belastingadvies nie en vervang nie amptelike tekste, die belastingowerheid of \'n professionele persoon nie. Kyk na die reëls wat op jou situasie van toepassing is voordat jy indien.</string>
+    <string name="commute_km_raw" formatted="false">Huis-werk-km ingevoer</string>
+    <string name="commute_km_retained" formatted="false">Huis-werk-km in ag geneem</string>
+    <string name="business_km" formatted="false">Sake-km</string>
+    <string name="retained_km" formatted="false">Km in ag geneem</string>
+    <string name="allowance" formatted="false">Kilometervergoeding</string>
+    <string name="tolls_parking" formatted="false">Tolgeld en parkering</string>
+    <string name="total" formatted="false">Geraamde totaal</string>
+    <string name="flat_deduction" formatted="false">Standaardaftrekking van 10%</string>
+    <string name="real_better" formatted="false">Werklike uitgawes lyk voordeliger as die standaardaftrekking.</string>
+    <string name="flat_better" formatted="false">Die standaardaftrekking lyk voordeliger as werklike uitgawes.</string>
+    <string name="enter_salary" formatted="false">Voer jou jaarlikse netto belasbare salaris in om met die standaardaftrekking te vergelyk.</string>
+    <string name="net_taxable_salary" formatted="false">Jaarlikse netto belasbare salaris</string>
+    <string name="per_vehicle" formatted="false">Per voertuig</string>
+    <string name="note_scale_unconfirmed" formatted="false">Vanjaar se skaal is nog nie gepubliseer nie: die jongste bekende skaal word toegepas.</string>
+    <string name="note_cap_applied" formatted="false">Een of meer huis-werk-ritte is tot 40 km beperk, aangesien geen besondere omstandighede aangedui is nie.</string>
+    <string name="note_extra_legs" formatted="false">Buiten een huis-werk-heen-en-terugrit per dag is ritte sonder besondere omstandighede weggelaat.</string>
+    <string name="note_no_vehicle" formatted="false">Ritte sonder \'n voertuig is geïgnoreer: kies \'n verstekvoertuig.</string>
+    <string name="note_fuel">Brandstof ingevoer (%1$s) word nie bygevoeg nie: die kilometerskaal dek dit reeds.</string>
+    <string name="note_no_salary" formatted="false">Salaris nie ingevoer nie: geen vergelyking met die standaardaftrekking nie.</string>
+    <string name="documents_title" formatted="false">Dokumente om te bewaar</string>
+    <string name="documents_list" formatted="false">Registrasiesertifikaat van die voertuig\nDienskontrak of werkgewersertifikaat\nRekord van gewerkte dae\nTol- en parkeerkwitansies\nEnigiets wat besondere omstandighede staaf</string>
+    <string name="export" formatted="false">Voer uit</string>
+    <string name="export_title" formatted="false">Uitvoer</string>
+    <string name="export_pdf" formatted="false">PDF-verslag</string>
+    <string name="export_xlsx" formatted="false">Sigbladwerkboek</string>
+    <string name="export_csv" formatted="false">CSV-lêer</string>
+    <string name="export_period" formatted="false">Tydperk</string>
+    <string name="year" formatted="false">Jaar</string>
+    <string name="export_from" formatted="false">Van</string>
+    <string name="export_to" formatted="false">Tot</string>
+    <string name="export_include_estimation" formatted="false">Sluit die jaar se raming in</string>
+    <string name="export_share" formatted="false">Die lêer maak in die deelvenster oop: stoor dit of stuur dit.</string>
+    <string name="export_failed" formatted="false">Uitvoer het misluk.</string>
+    <string name="report_title" formatted="false">Kilometerverslag</string>
+    <string name="generated_on">Gegenereer op %1$s</string>
+    <string name="yes" formatted="false">ja</string>
+    <string name="no" formatted="false">nee</string>
+    <string name="import_title" formatted="false">Voer \'n geskiedenis in</string>
+    <string name="import_help" formatted="false">As jou foon \'n geskiedenis van jou liggings bewaar, kan jy dit as \'n JSON-lêer uitvoer vanaf die toepassing wat dit bestuur, en dit dan hier oopmaak. Slegs ritte per voertuig word gelees. Die lêer word nie bewaar nie: slegs die datum, die afstand en, indien bekend, die vertrek- en aankomspunt word gestoor.</string>
+    <string name="import_pick" formatted="false">Kies die lêer</string>
+    <string name="import_reading" formatted="false">Lees tans…</string>
+    <string name="import_found">Voertuigritte gevind: %1$d</string>
+    <string name="import_skipped">Ander ritte geïgnoreer (stap, fiets, openbare vervoer): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Doel vir ritte wat nie as huis-werk herken is nie</string>
+    <string name="import_period">Van %1$s tot %2$s</string>
+    <string name="import_confirm">Voer %1$d ritte in</string>
+    <string name="import_done">Ritte ingevoer: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Geen nuwe rit nie: hulle is reeds ingevoer.</string>
+    <string name="import_unreadable" formatted="false">Hierdie lêer is nie \'n leesbare ligginggeskiedenis nie.</string>
+    <string name="import_commute_hint" formatted="false">Ritte tussen jou huis en jou werkplek word herken wanneer die lêer hulle so merk; hulle kry die doel huis-werk.</string>
+    <string name="backup_title" formatted="false">Rugsteun</string>
+    <string name="backup_explain" formatted="false">Jou data verlaat jou toestel slegs wanneer jy so besluit. \'n Rugsteun is \'n lêer wat jy enige plek kan bewaar en op enige toestel kan herstel.</string>
+    <string name="backup_export" formatted="false">Voer \'n rugsteun uit</string>
+    <string name="backup_restore" formatted="false">Herstel \'n rugsteun</string>
+    <string name="backup_restore_help" formatted="false">Herstel voeg saam: niks wat jy sedertdien ingevoer het, gaan verlore nie.</string>
+    <string name="backup_restored">Rugsteun herstel: %1$d ritte in totaal.</string>
+    <string name="backup_invalid" formatted="false">Hierdie lêer is nie \'n rugsteun van hierdie toepassing nie.</string>
+    <string name="cloud_title" formatted="false">Wolkrugsteun</string>
+    <string name="cloud_explain" formatted="false">Outomatiese kopie van jou data in jou toestel se wolkruimte, sonder \'n ekstra rekening. Dit word ná elke verandering vernuwe.</string>
+    <string name="cloud_now" formatted="false">Rugsteun nou</string>
+    <string name="cloud_restore" formatted="false">Herstel vanaf die wolk</string>
+    <string name="cloud_last">Laaste wolkrugsteun: %1$s</string>
+    <string name="cloud_never" formatted="false">Nog geen wolkrugsteun nie.</string>
+    <string name="cloud_unavailable" formatted="false">Wolkrugsteun is nie op hierdie toestel beskikbaar nie. Gebruik die rugsteunuitvoer.</string>
+    <string name="cloud_done" formatted="false">Wolkrugsteun voltooi.</string>
+    <string name="cloud_nothing" formatted="false">Geen wolkrugsteun om te herstel nie.</string>
+    <string name="cloud_system_restore" formatted="false">Die stelsel herstel hierdie rugsteun vanself wanneer jy die toepassing herinstalleer of \'n nuwe toestel opstel.</string>
+    <string name="settings" formatted="false">Instellings</string>
+    <string name="rules_title" formatted="false">Berekeningsreëls</string>
+    <string name="rule_fr" formatted="false">Franse kilometerskaal</string>
+    <string name="rule_generic" formatted="false">Vaste tarief per kilometer</string>
+    <string name="generic_rate" formatted="false">Tarief per kilometer</string>
+    <string name="currency" formatted="false">Geldeenheid</string>
+    <string name="home_label" formatted="false">Naam van jou huis</string>
+    <string name="work_label" formatted="false">Naam van jou werkplek</string>
+    <string name="home_work_distance" formatted="false">Afstand huis-werk (enkelrit, km)</string>
+    <string name="places_help" formatted="false">Word gebruik deur gunstelingritte en die invoer van geskiedenis.</string>
+    <string name="pro_title" formatted="false">Pro-weergawe</string>
+    <string name="pro_subtitle" formatted="false">Alles wat jy vir jou werklike uitgawes nodig het, en geen advertensies nie.</string>
+    <string name="pro_features_title" formatted="false">Ontsluite funksies:</string>
+    <string name="pro_feature_unlimited" formatted="false">Onbeperkte ritte.</string>
+    <string name="pro_feature_estimation" formatted="false">Raming van werklike uitgawes en vergelyking met die standaardaftrekking.</string>
+    <string name="pro_feature_export" formatted="false">Volledige, gesertifiseerde uitvoer (netjiese PDF, sigbladformaat gereed vir jou rekenmeester of belastingopgawe).</string>
+    <string name="pro_feature_import" formatted="false">Invoer van jou foon se ritgeskiedenis.</string>
+    <string name="pro_feature_expenses" formatted="false">Tolgeld, parkering en brandstof by die raming gevoeg.</string>
+    <string name="pro_feature_cloud" formatted="false">Herstel vanaf \'n rugsteunlêer, en sinchronisasie tussen jou toestelle.</string>
+    <string name="pro_feature_widgets" formatted="false">Tuisskerm-legstuk.</string>
+    <string name="pro_feature_watch" formatted="false">Horlosie-toepassing.</string>
+    <string name="pro_feature_no_ads" formatted="false">Glad geen advertensies nie.</string>
+    <string name="pro_feature_gps" formatted="false">Outomatiese GPS-opsporing (bewegingsbespeuring of Bluetooth-verbinding met die motor).</string>
+    <string name="pro_feature_scan" formatted="false">Slim skandering (OCR) van tol-, parkeer- en brandstofkwitansies met die kamera.</string>
+    <string name="pro_monthly">%1$s per maand</string>
+    <string name="pro_yearly">%1$s per jaar</string>
+    <string name="pro_yearly_hint" formatted="false">Twee maande gratis vergeleke met maandeliks</string>
+    <string name="subscribe" formatted="false">Teken in</string>
+    <string name="restore_purchases" formatted="false">Herstel aankope</string>
+    <string name="pro_active" formatted="false">Pro-weergawe aktief</string>
+    <string name="pro_active_since">Intekening: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Aankope is nie in hierdie weergawe van die toepassing beskikbaar nie.</string>
+    <string name="pro_legal" formatted="false">Intekening wat outomaties hernu word, gehef op jou winkelrekening. Kanselleer enige tyd in die winkelinstellings; die prys word vir die volgende tydperk gehef tensy dit minstens 24 uur voor die einde gekanselleer word.</string>
+    <string name="purchase_pending" formatted="false">Aankoop aan die gang…</string>
+    <string name="purchase_failed" formatted="false">Die aankoop is nie voltooi nie.</string>
+    <string name="purchase_restored" formatted="false">Aankope herstel.</string>
+    <string name="purchase_nothing" formatted="false">Niks om te herstel nie.</string>
+    <string name="rewarded_title" formatted="false">Probeer dit met \'n advertensie</string>
+    <string name="rewarded_explain" formatted="false">Kyk na \'n kort advertensie om dit vir \'n rukkie te ontsluit. Pro verwyder advertensies en ontsluit alles.</string>
+    <string name="rewarded_estimation" formatted="false">Sien die raming vir 24 uur</string>
+    <string name="rewarded_export" formatted="false">Een uitvoer, binne die uur</string>
+    <string name="rewarded_trips" formatted="false">5 ritte meer hierdie maand</string>
+    <string name="rewarded_watch" formatted="false">Kyk na \'n advertensie</string>
+    <string name="rewarded_unavailable" formatted="false">Geen advertensie tans beskikbaar nie. Probeer oor \'n rukkie weer.</string>
+    <string name="rewarded_granted" formatted="false">Ontsluit. Ry veilig!</string>
+    <string name="expenses" formatted="false">Uitgawes</string>
+    <string name="add_expense" formatted="false">Nuwe uitgawe</string>
+    <string name="edit_expense" formatted="false">Wysig uitgawe</string>
+    <string name="expense_kind" formatted="false">Tipe</string>
+    <string name="kind_toll" formatted="false">Tolgeld</string>
+    <string name="kind_parking" formatted="false">Parkering</string>
+    <string name="kind_fuel" formatted="false">Brandstof</string>
+    <string name="kind_other" formatted="false">Ander</string>
+    <string name="amount" formatted="false">Bedrag</string>
+    <string name="place" formatted="false">Plek</string>
+    <string name="litres" formatted="false">Liter</string>
+    <string name="odometer" formatted="false">Kilometerstand</string>
+    <string name="no_expenses" formatted="false">Geen uitgawes nie. Tolgeld en parkering word by die raming gevoeg.</string>
+    <string name="invalid_amount" formatted="false">Voer \'n bedrag groter as 0 in.</string>
+    <string name="legal_title" formatted="false">Regsinligting en privaatheid</string>
+    <string name="privacy_text" formatted="false">Al jou data bly op jou toestel. Die toepassing vereis geen rekening nie en stuur niks na \'n bediener nie. Die enigste uitruilings met buite is dié wat jy self begin, \'n uitvoer, \'n rugsteun of \'n aankoop, en die advertensies van die gratis weergawe, wat die Pro-weergawe verwyder.</string>
+    <string name="about" formatted="false">Oor</string>
+    <string name="version">Weergawe %1$s</string>
+    <string name="error_generic" formatted="false">Iets het verkeerd geloop.</string>
+    <string name="today" formatted="false">Vandag</string>
+    <string name="yesterday" formatted="false">Gister</string>
+    <string name="ads_privacy_options" formatted="false">Privaatheidsopsies vir advertensies</string>
+    <string name="ads_disabled_title" formatted="false">Advertensies is gedeaktiveer</string>
+    <string name="ads_disabled_text" formatted="false">Die stelsel dui aan dat hierdie rekening aan \'n jong gebruiker behoort. Die toepassing wys dus geen advertensies nie en vra geen toestemming nie. Geen advertensie-identifiseerder word gelees nie en geen data word versamel of gestuur nie.</string>
+    <string name="watch_quick_add" formatted="false">Vinnige rit</string>
+    <string name="watch_no_favorites" formatted="false">Voeg gunstelingritte op jou foon by.</string>
+    <string name="watch_added" formatted="false">Bygevoeg</string>
+    <string name="watch_open_phone" formatted="false">Maak die foontoepassing oop</string>
+    <string name="widget_today" formatted="false">Vandag</string>
+    <string name="widget_month" formatted="false">Hierdie maand</string>
+    <string name="widget_pro_needed" formatted="false">Legstuk beskikbaar met Pro</string>
+</resources>

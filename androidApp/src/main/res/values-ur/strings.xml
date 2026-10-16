@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">کلومیٹر</string>
+    <string name="widget_name" formatted="false">سفر</string>
+    <string name="widget_description" formatted="false">آج کے کلومیٹر اور آپ کے پسندیدہ سفر ایک ٹیپ میں۔</string>
+    <string name="tab_trips" formatted="false">سفر</string>
+    <string name="tab_estimate" formatted="false">تخمینہ</string>
+    <string name="tab_more" formatted="false">مزید</string>
+    <string name="this_month" formatted="false">اس ماہ</string>
+    <string name="this_year" formatted="false">اس سال</string>
+    <string name="trips_count">سفر: %1$d</string>
+    <string name="km_value">%1$s کلومیٹر</string>
+    <string name="add_trip" formatted="false">نیا سفر</string>
+    <string name="free_remaining">اس ماہ باقی مفت سفر: %1$d</string>
+    <string name="free_limit_reached" formatted="false">اس ماہ کی مفت حد پوری ہو گئی</string>
+    <string name="free_quota_reached" formatted="false">مفت ورژن میں ماہانہ 5 سفر کی اجازت ہے۔ لامحدود سفر کے لیے Pro لیں، یا 5 مزید کے لیے ایک اشتہار دیکھیں۔</string>
+    <string name="go_pro" formatted="false">Pro لیں</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">ابھی کوئی سفر نہیں۔\nپہلا سفر درج کرنے کے لیے + پر ٹیپ کریں۔</string>
+    <string name="trip_new" formatted="false">نیا سفر</string>
+    <string name="trip_edit" formatted="false">سفر میں ترمیم</string>
+    <string name="field_date" formatted="false">تاریخ</string>
+    <string name="field_from" formatted="false">روانگی</string>
+    <string name="field_to" formatted="false">منزل</string>
+    <string name="field_distance" formatted="false">یک طرفہ فاصلہ (کلومیٹر)</string>
+    <string name="field_round_trip" formatted="false">آنا جانا</string>
+    <string name="field_purpose" formatted="false">مقصد</string>
+    <string name="field_vehicle" formatted="false">گاڑی</string>
+    <string name="field_note" formatted="false">نوٹ</string>
+    <string name="field_justified" formatted="false">خاص حالات</string>
+    <string name="field_justified_help" formatted="false">اگر گھر سے کام کی جگہ کا فاصلہ کسی خاص وجہ سے 40 کلومیٹر سے زیادہ ہے، یا اسی دن ایک اضافی جائز آنے جانے کے لیے، اس پر نشان لگائیں۔</string>
+    <string name="purpose_commute" formatted="false">گھر-کام</string>
+    <string name="purpose_business" formatted="false">کاروباری</string>
+    <string name="purpose_personal" formatted="false">ذاتی</string>
+    <string name="save" formatted="false">محفوظ کریں</string>
+    <string name="cancel" formatted="false">منسوخ</string>
+    <string name="delete" formatted="false">حذف کریں</string>
+    <string name="edit" formatted="false">ترمیم</string>
+    <string name="ok" formatted="false">ٹھیک ہے</string>
+    <string name="close" formatted="false">بند کریں</string>
+    <string name="back" formatted="false">واپس</string>
+    <string name="confirm_delete" formatted="false">مستقل طور پر حذف کریں؟</string>
+    <string name="invalid_distance" formatted="false">0 سے زیادہ فاصلہ درج کریں۔</string>
+    <string name="favorites" formatted="false">پسندیدہ</string>
+    <string name="save_as_favorite" formatted="false">پسندیدہ کے طور پر بھی محفوظ کریں</string>
+    <string name="favorite_label" formatted="false">پسندیدہ کا نام</string>
+    <string name="no_favorites" formatted="false">کسی سفر کو پسندیدہ کے طور پر محفوظ کریں تاکہ اسے ایک ٹیپ میں درج کر سکیں۔</string>
+    <string name="use_favorite" formatted="false">پسندیدہ سفر</string>
+    <string name="swap" formatted="false">الٹ دیں</string>
+    <string name="quick_add_hint" formatted="false">آج کے لیے شامل کرنے کے لیے کسی پسندیدہ پر ٹیپ کریں۔</string>
+    <string name="added" formatted="false">سفر شامل ہو گیا۔</string>
+    <string name="undo" formatted="false">واپس لیں</string>
+    <string name="vehicles" formatted="false">گاڑیاں</string>
+    <string name="add_vehicle" formatted="false">گاڑی شامل کریں</string>
+    <string name="edit_vehicle" formatted="false">گاڑی میں ترمیم</string>
+    <string name="vehicle_name" formatted="false">نام</string>
+    <string name="vehicle_kind" formatted="false">قسم</string>
+    <string name="kind_car" formatted="false">کار</string>
+    <string name="kind_motorcycle" formatted="false">موٹر سائیکل</string>
+    <string name="kind_moped" formatted="false">موپیڈ</string>
+    <string name="fiscal_power" formatted="false">ٹیکس ہارس پاور (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV یا زیادہ</string>
+    <string name="cv_or_less">%1$d CV یا کم</string>
+    <string name="cv_range_3_5" formatted="false">3 سے 5 CV</string>
+    <string name="electric" formatted="false">برقی گاڑی</string>
+    <string name="no_vehicle" formatted="false">کوئی گاڑی نہیں۔ ایک شامل کریں: تخمینے کو اس کی ضرورت ہے۔</string>
+    <string name="default_vehicle" formatted="false">ڈیفالٹ گاڑی</string>
+    <string name="vehicle_needed" formatted="false">پہلے مزید &gt; گاڑیاں میں ایک گاڑی شامل کریں۔</string>
+    <string name="estimation" formatted="false">اصل اخراجات کا تخمینہ</string>
+    <string name="income_year">آمدنی کا سال %1$d</string>
+    <string name="estimation_locked" formatted="false">اصل اخراجات کا تخمینہ، ایکسپورٹ، ہسٹری امپورٹ اور بیک اپ کی بحالی Pro ورژن کا حصہ ہیں۔</string>
+    <string name="disclaimer_short" formatted="false">اندازاً تخمینہ، ضمانت نہیں۔</string>
+    <string name="disclaimer_long" formatted="false">یہ تخمینہ محض اندازاً ہے اور اس کی ضمانت نہیں۔ یہ ٹیکس مشورہ نہیں ہے اور سرکاری دستاویزات، ٹیکس انتظامیہ یا کسی ماہر کا متبادل نہیں۔ گوشوارہ جمع کرانے سے پہلے اپنی صورتحال پر لاگو قواعد کی جانچ کریں۔</string>
+    <string name="commute_km_raw" formatted="false">درج کردہ گھر-کام کلومیٹر</string>
+    <string name="commute_km_retained" formatted="false">شمار کردہ گھر-کام کلومیٹر</string>
+    <string name="business_km" formatted="false">کاروباری کلومیٹر</string>
+    <string name="retained_km" formatted="false">شمار کردہ کلومیٹر</string>
+    <string name="allowance" formatted="false">کلومیٹر الاؤنس</string>
+    <string name="tolls_parking" formatted="false">ٹول اور پارکنگ</string>
+    <string name="total" formatted="false">تخمینی کل</string>
+    <string name="flat_deduction" formatted="false">معیاری 10% کٹوتی</string>
+    <string name="real_better" formatted="false">اصل اخراجات معیاری کٹوتی سے زیادہ فائدہ مند لگتے ہیں۔</string>
+    <string name="flat_better" formatted="false">معیاری کٹوتی اصل اخراجات سے زیادہ فائدہ مند لگتی ہے۔</string>
+    <string name="enter_salary" formatted="false">معیاری کٹوتی سے موازنے کے لیے اپنی سالانہ خالص قابلِ ٹیکس تنخواہ درج کریں۔</string>
+    <string name="net_taxable_salary" formatted="false">سالانہ خالص قابلِ ٹیکس تنخواہ</string>
+    <string name="per_vehicle" formatted="false">فی گاڑی</string>
+    <string name="note_scale_unconfirmed" formatted="false">اس سال کا پیمانہ ابھی شائع نہیں ہوا: آخری معلوم پیمانہ لاگو کیا گیا ہے۔</string>
+    <string name="note_cap_applied" formatted="false">خاص حالات کے بغیر ایک یا زیادہ گھر-کام سفر 40 کلومیٹر تک محدود کر دیے گئے۔</string>
+    <string name="note_extra_legs" formatted="false">روزانہ ایک گھر-کام آنے جانے سے زیادہ، خاص حالات کے بغیر سفر شامل نہیں کیے گئے۔</string>
+    <string name="note_no_vehicle" formatted="false">بغیر گاڑی کے سفر نظر انداز کر دیے گئے: ایک ڈیفالٹ گاڑی منتخب کریں۔</string>
+    <string name="note_fuel">درج کردہ ایندھن (%1$s) شامل نہیں کیا گیا: کلومیٹر پیمانہ پہلے ہی اسے شامل کرتا ہے۔</string>
+    <string name="note_no_salary" formatted="false">تنخواہ درج نہیں کی گئی: معیاری کٹوتی سے کوئی موازنہ نہیں۔</string>
+    <string name="documents_title" formatted="false">رکھنے والی دستاویزات</string>
+    <string name="documents_list" formatted="false">گاڑی کی رجسٹریشن دستاویز\nملازمت کا معاہدہ یا آجر کا سرٹیفکیٹ\nکام کے دنوں کا ریکارڈ\nٹول اور پارکنگ کی رسیدیں\nخاص حالات ثابت کرنے والی کوئی بھی چیز</string>
+    <string name="export" formatted="false">ایکسپورٹ</string>
+    <string name="export_title" formatted="false">ایکسپورٹ</string>
+    <string name="export_pdf" formatted="false">PDF رپورٹ</string>
+    <string name="export_xlsx" formatted="false">اسپریڈشیٹ ورک بک</string>
+    <string name="export_csv" formatted="false">CSV فائل</string>
+    <string name="export_period" formatted="false">مدت</string>
+    <string name="year" formatted="false">سال</string>
+    <string name="export_from" formatted="false">سے</string>
+    <string name="export_to" formatted="false">تک</string>
+    <string name="export_include_estimation" formatted="false">سال کا تخمینہ شامل کریں</string>
+    <string name="export_share" formatted="false">فائل شیئر شیٹ میں کھلتی ہے: اسے محفوظ کریں یا بھیجیں۔</string>
+    <string name="export_failed" formatted="false">ایکسپورٹ ناکام ہو گیا۔</string>
+    <string name="report_title" formatted="false">کلومیٹر رپورٹ</string>
+    <string name="generated_on">تیار کردہ: %1$s</string>
+    <string name="yes" formatted="false">ہاں</string>
+    <string name="no" formatted="false">نہیں</string>
+    <string name="import_title" formatted="false">ہسٹری امپورٹ کریں</string>
+    <string name="import_help" formatted="false">اگر آپ کا فون آپ کے مقامات کی ہسٹری رکھتا ہے، تو آپ اسے سنبھالنے والی ایپ سے JSON فائل کے طور پر ایکسپورٹ کر کے یہاں کھول سکتے ہیں۔ صرف گاڑی کے سفر پڑھے جاتے ہیں۔ فائل محفوظ نہیں رکھی جاتی: صرف تاریخ، فاصلہ اور، اگر معلوم ہو، روانگی اور منزل محفوظ کی جاتی ہے۔</string>
+    <string name="import_pick" formatted="false">فائل منتخب کریں</string>
+    <string name="import_reading" formatted="false">پڑھا جا رہا ہے…</string>
+    <string name="import_found">ملنے والے گاڑی کے سفر: %1$d</string>
+    <string name="import_skipped">دیگر نظر انداز کردہ سفر (پیدل، سائیکل، ٹرانسپورٹ): %1$d</string>
+    <string name="import_default_purpose" formatted="false">گھر-کام کے طور پر نہ پہچانے گئے سفروں کا مقصد</string>
+    <string name="import_period">%1$s سے %2$s تک</string>
+    <string name="import_confirm">%1$d سفر امپورٹ کریں</string>
+    <string name="import_done">امپورٹ کردہ سفر: %1$d</string>
+    <string name="import_nothing_new" formatted="false">کوئی نیا سفر نہیں: یہ پہلے ہی امپورٹ ہو چکے تھے۔</string>
+    <string name="import_unreadable" formatted="false">یہ فائل پڑھنے کے قابل مقامات کی ہسٹری نہیں ہے۔</string>
+    <string name="import_commute_hint" formatted="false">آپ کے گھر اور کام کی جگہ کے درمیان سفر تب پہچانے جاتے ہیں جب فائل ان پر نشان لگاتی ہے؛ انہیں گھر-کام کا مقصد ملتا ہے۔</string>
+    <string name="backup_title" formatted="false">بیک اپ</string>
+    <string name="backup_explain" formatted="false">آپ کا ڈیٹا صرف آپ کے فیصلے پر آپ کے آلے سے باہر جاتا ہے۔ بیک اپ ایک فائل ہے جسے آپ کہیں بھی رکھ سکتے ہیں اور کسی بھی آلے پر بحال کر سکتے ہیں۔</string>
+    <string name="backup_export" formatted="false">بیک اپ ایکسپورٹ کریں</string>
+    <string name="backup_restore" formatted="false">بیک اپ بحال کریں</string>
+    <string name="backup_restore_help" formatted="false">بحالی ضم کرتی ہے: اس کے بعد درج کی گئی کوئی چیز ضائع نہیں ہوتی۔</string>
+    <string name="backup_restored">بیک اپ بحال ہو گیا: کل %1$d سفر۔</string>
+    <string name="backup_invalid" formatted="false">یہ فائل اس ایپ کا بیک اپ نہیں ہے۔</string>
+    <string name="cloud_title" formatted="false">کلاؤڈ بیک اپ</string>
+    <string name="cloud_explain" formatted="false">آپ کے آلے کی کلاؤڈ اسپیس میں آپ کے ڈیٹا کی خودکار نقل، بغیر کسی اضافی اکاؤنٹ کے۔ ہر تبدیلی کے بعد تازہ ہوتی ہے۔</string>
+    <string name="cloud_now" formatted="false">ابھی بیک اپ لیں</string>
+    <string name="cloud_restore" formatted="false">کلاؤڈ سے بحال کریں</string>
+    <string name="cloud_last">آخری کلاؤڈ بیک اپ: %1$s</string>
+    <string name="cloud_never" formatted="false">ابھی تک کوئی کلاؤڈ بیک اپ نہیں۔</string>
+    <string name="cloud_unavailable" formatted="false">اس آلے پر کلاؤڈ بیک اپ دستیاب نہیں۔ بیک اپ ایکسپورٹ استعمال کریں۔</string>
+    <string name="cloud_done" formatted="false">کلاؤڈ بیک اپ مکمل۔</string>
+    <string name="cloud_nothing" formatted="false">بحال کرنے کے لیے کوئی کلاؤڈ بیک اپ نہیں۔</string>
+    <string name="cloud_system_restore" formatted="false">ایپ دوبارہ انسٹال کرنے یا نیا آلہ سیٹ کرنے پر سسٹم یہ بیک اپ خود بحال کر دیتا ہے۔</string>
+    <string name="settings" formatted="false">ترتیبات</string>
+    <string name="rules_title" formatted="false">حساب کے قواعد</string>
+    <string name="rule_fr" formatted="false">فرانسیسی کلومیٹر پیمانہ</string>
+    <string name="rule_generic" formatted="false">فی کلومیٹر مقررہ شرح</string>
+    <string name="generic_rate" formatted="false">فی کلومیٹر شرح</string>
+    <string name="currency" formatted="false">کرنسی</string>
+    <string name="home_label" formatted="false">آپ کے گھر کا نام</string>
+    <string name="work_label" formatted="false">آپ کے کام کی جگہ کا نام</string>
+    <string name="home_work_distance" formatted="false">گھر سے کام کا فاصلہ (یک طرفہ، کلومیٹر)</string>
+    <string name="places_help" formatted="false">پسندیدہ سفروں اور ہسٹری امپورٹ کے لیے استعمال ہوتے ہیں۔</string>
+    <string name="pro_title" formatted="false">Pro ورژن</string>
+    <string name="pro_subtitle" formatted="false">آپ کے اصل اخراجات کے لیے سب کچھ، اور کوئی اشتہار نہیں۔</string>
+    <string name="pro_features_title" formatted="false">کھلنے والی خصوصیات:</string>
+    <string name="pro_feature_unlimited" formatted="false">لامحدود سفر۔</string>
+    <string name="pro_feature_estimation" formatted="false">اصل اخراجات کا تخمینہ اور معیاری کٹوتی سے موازنہ۔</string>
+    <string name="pro_feature_export" formatted="false">مکمل، تصدیق شدہ ایکسپورٹ (صاف PDF، آپ کے اکاؤنٹنٹ یا ٹیکس گوشوارے کے لیے تیار اسپریڈشیٹ فارمیٹ)۔</string>
+    <string name="pro_feature_import" formatted="false">آپ کے فون کی سفر ہسٹری کا امپورٹ۔</string>
+    <string name="pro_feature_expenses" formatted="false">ٹول، پارکنگ اور ایندھن تخمینے میں شامل۔</string>
+    <string name="pro_feature_cloud" formatted="false">بیک اپ فائل سے بحالی، اور آپ کے آلات میں ہم آہنگی۔</string>
+    <string name="pro_feature_widgets" formatted="false">ہوم اسکرین ویجٹ۔</string>
+    <string name="pro_feature_watch" formatted="false">گھڑی کی ایپ۔</string>
+    <string name="pro_feature_no_ads" formatted="false">بالکل کوئی اشتہار نہیں۔</string>
+    <string name="pro_feature_gps" formatted="false">خودکار GPS ٹریکنگ (حرکت کی شناخت یا کار سے بلوٹوتھ کنکشن)۔</string>
+    <string name="pro_feature_scan" formatted="false">کیمرے سے ٹول، پارکنگ اور ایندھن کی رسیدوں کا ذہین اسکین (OCR)۔</string>
+    <string name="pro_monthly">%1$s ماہانہ</string>
+    <string name="pro_yearly">%1$s سالانہ</string>
+    <string name="pro_yearly_hint" formatted="false">ماہانہ کے مقابلے میں دو ماہ مفت</string>
+    <string name="subscribe" formatted="false">سبسکرائب کریں</string>
+    <string name="restore_purchases" formatted="false">خریداریاں بحال کریں</string>
+    <string name="pro_active" formatted="false">Pro ورژن فعال ہے</string>
+    <string name="pro_active_since">سبسکرپشن: %1$s</string>
+    <string name="pro_unavailable" formatted="false">ایپ کے اس ورژن میں خریداریاں دستیاب نہیں۔</string>
+    <string name="pro_legal" formatted="false">خودکار تجدید والی سبسکرپشن، جو آپ کے اسٹور اکاؤنٹ سے وصول کی جاتی ہے۔ اسٹور کی ترتیبات سے کسی بھی وقت منسوخ کریں؛ اگلی مدت کی قیمت وصول کی جاتی ہے جب تک کہ مدت ختم ہونے سے کم از کم 24 گھنٹے پہلے منسوخ نہ کی جائے۔</string>
+    <string name="purchase_pending" formatted="false">خریداری جاری ہے…</string>
+    <string name="purchase_failed" formatted="false">خریداری مکمل نہیں ہوئی۔</string>
+    <string name="purchase_restored" formatted="false">خریداریاں بحال ہو گئیں۔</string>
+    <string name="purchase_nothing" formatted="false">بحال کرنے کے لیے کچھ نہیں۔</string>
+    <string name="rewarded_title" formatted="false">اشتہار کے ساتھ آزمائیں</string>
+    <string name="rewarded_explain" formatted="false">اسے کچھ دیر کے لیے کھولنے کے لیے ایک مختصر اشتہار دیکھیں۔ Pro اشتہارات ہٹاتا ہے اور سب کچھ کھول دیتا ہے۔</string>
+    <string name="rewarded_estimation" formatted="false">24 گھنٹے تخمینہ دیکھیں</string>
+    <string name="rewarded_export" formatted="false">ایک ایکسپورٹ، ایک گھنٹے کے اندر</string>
+    <string name="rewarded_trips" formatted="false">اس ماہ 5 مزید سفر</string>
+    <string name="rewarded_watch" formatted="false">اشتہار دیکھیں</string>
+    <string name="rewarded_unavailable" formatted="false">ابھی کوئی اشتہار دستیاب نہیں۔ تھوڑی دیر بعد دوبارہ کوشش کریں۔</string>
+    <string name="rewarded_granted" formatted="false">کھل گیا۔ سفر مبارک!</string>
+    <string name="expenses" formatted="false">اخراجات</string>
+    <string name="add_expense" formatted="false">نیا خرچ</string>
+    <string name="edit_expense" formatted="false">خرچ میں ترمیم</string>
+    <string name="expense_kind" formatted="false">قسم</string>
+    <string name="kind_toll" formatted="false">ٹول</string>
+    <string name="kind_parking" formatted="false">پارکنگ</string>
+    <string name="kind_fuel" formatted="false">ایندھن</string>
+    <string name="kind_other" formatted="false">دیگر</string>
+    <string name="amount" formatted="false">رقم</string>
+    <string name="place" formatted="false">جگہ</string>
+    <string name="litres" formatted="false">لیٹر</string>
+    <string name="odometer" formatted="false">اوڈومیٹر ریڈنگ</string>
+    <string name="no_expenses" formatted="false">کوئی خرچ نہیں۔ ٹول اور پارکنگ تخمینے میں شامل کیے جاتے ہیں۔</string>
+    <string name="invalid_amount" formatted="false">0 سے زیادہ رقم درج کریں۔</string>
+    <string name="legal_title" formatted="false">قانونی اور رازداری</string>
+    <string name="privacy_text" formatted="false">آپ کا تمام ڈیٹا آپ کے آلے پر رہتا ہے۔ ایپ کو کسی اکاؤنٹ کی ضرورت نہیں اور یہ کسی سرور کو کچھ نہیں بھیجتی۔ باہر سے واحد تبادلہ وہ ہے جو آپ خود شروع کرتے ہیں، ایکسپورٹ، بیک اپ یا خریداری، اور مفت ورژن کے اشتہارات، جنہیں Pro ورژن ہٹا دیتا ہے۔</string>
+    <string name="about" formatted="false">ایپ کے بارے میں</string>
+    <string name="version">ورژن %1$s</string>
+    <string name="error_generic" formatted="false">کچھ غلط ہو گیا۔</string>
+    <string name="today" formatted="false">آج</string>
+    <string name="yesterday" formatted="false">کل</string>
+    <string name="ads_privacy_options" formatted="false">اشتہار کی رازداری کے اختیارات</string>
+    <string name="ads_disabled_title" formatted="false">اشتہارات بند ہیں</string>
+    <string name="ads_disabled_text" formatted="false">سسٹم بتاتا ہے کہ یہ اکاؤنٹ ایک کم عمر صارف کا ہے۔ اس لیے ایپ کوئی اشتہار نہیں دکھاتی اور کوئی رضامندی نہیں مانگتی۔ کوئی اشتہاری شناخت کنندہ نہیں پڑھا جاتا اور کوئی ڈیٹا جمع یا بھیجا نہیں جاتا۔</string>
+    <string name="watch_quick_add" formatted="false">فوری سفر</string>
+    <string name="watch_no_favorites" formatted="false">اپنے فون پر پسندیدہ سفر شامل کریں۔</string>
+    <string name="watch_added" formatted="false">شامل ہو گیا</string>
+    <string name="watch_open_phone" formatted="false">فون کی ایپ کھولیں</string>
+    <string name="widget_today" formatted="false">آج</string>
+    <string name="widget_month" formatted="false">اس ماہ</string>
+    <string name="widget_pro_needed" formatted="false">ویجٹ Pro کے ساتھ دستیاب ہے</string>
+</resources>

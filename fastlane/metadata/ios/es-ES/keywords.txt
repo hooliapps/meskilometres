@@ -1,0 +1,1 @@
+kilometraje,registro,viajes,km,gastos reales,impuestos,baremo,peaje,parking,vehículo,combustible

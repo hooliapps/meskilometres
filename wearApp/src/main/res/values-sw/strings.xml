@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilomita</string>
+    <string name="watch_quick_add" formatted="false">Safari ya haraka</string>
+    <string name="watch_no_favorites" formatted="false">Ongeza safari pendwa kwenye simu yako.</string>
+    <string name="watch_added" formatted="false">Imeongezwa</string>
+    <string name="watch_open_phone" formatted="false">Fungua programu ya simu</string>
+    <string name="km_value">%1$s km</string>
+    <string name="this_month" formatted="false">Mwezi huu</string>
+    <string name="today" formatted="false">Leo</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">Wijeti inapatikana na Pro</string>
+</resources>

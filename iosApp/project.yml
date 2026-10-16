@@ -1,0 +1,121 @@
+# Projet Xcode de Kilometres, decrit en texte et GENERE par XcodeGen, comme
+# pour QuanGame :
+#
+#     brew install xcodegen
+#     cd iosApp && xcodegen generate      # ecrit Kilometres.xcodeproj (ignore par Git)
+#     open Kilometres.xcodeproj
+#
+# Le coeur est le module Kotlin partage, compile en XCFramework par Gradle
+# AVANT chaque build (script de pre-build ci-dessous). Trois cibles : l'app
+# iPhone/iPad, le widget d'ecran d'accueil (Pro), l'app Apple Watch (Pro).
+name: Kilometres
+
+options:
+  bundleIdPrefix: com.consultali
+  developmentLanguage: en
+  deploymentTarget:
+    iOS: "16.0"
+    watchOS: "9.0"
+  createIntermediateGroups: true
+
+packages:
+  GoogleMobileAds:
+    url: https://github.com/googleads/swift-package-manager-google-mobile-ads.git
+    from: "12.0.0"
+  UserMessagingPlatform:
+    url: https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git
+    from: "3.0.0"
+
+settings:
+  base:
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+    SWIFT_VERSION: "5.0"
+    DEVELOPMENT_TEAM: 2VH85YG976
+    # Le XCFramework est produit par Gradle dans shared/build/XCFrameworks.
+    FRAMEWORK_SEARCH_PATHS: "$(inherited) $(SRCROOT)/../shared/build/XCFrameworks/release"
+
+targets:
+  Kilometres:
+    type: application
+    platform: iOS
+    sources:
+      - path: Kilometres
+    dependencies:
+      - framework: ../shared/build/XCFrameworks/release/KilometresCore.xcframework
+        embed: false
+      - package: GoogleMobileAds
+      - package: UserMessagingPlatform
+        product: GoogleUserMessagingPlatform
+      - sdk: AppTrackingTransparency.framework
+      - sdk: StoreKit.framework
+      - sdk: WidgetKit.framework
+      - sdk: WatchConnectivity.framework
+      - target: KilometresWidget
+      - target: KilometresWatch
+    preBuildScripts:
+      - name: Compiler le coeur Kotlin
+        script: |
+          cd "$SRCROOT/.."
+          ./gradlew :shared:assembleKilometresCoreReleaseXCFramework -q
+        basedOnDependencyAnalysis: false
+    settings:
+      base:
+        PRODUCT_NAME: Kilometres
+        INFOPLIST_FILE: Kilometres/App/Info.plist
+        CODE_SIGN_ENTITLEMENTS: Kilometres/App/Kilometres.entitlements
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        TARGETED_DEVICE_FAMILY: "1,2"
+        SUPPORTS_MACCATALYST: NO
+        LOCALIZATION_PREFERS_STRING_CATALOGS: NO
+        ENABLE_USER_SCRIPT_SANDBOXING: NO
+      configs:
+        Debug:
+          PRODUCT_BUNDLE_IDENTIFIER: com.consultali.kilometres.debug
+          ADMOB_APP_ID: ca-app-pub-3940256099942544~1458002511
+        Release:
+          PRODUCT_BUNDLE_IDENTIFIER: com.consultali.kilometres
+          # A REMPLACER par l'identifiant AdMob iOS cree pour cette application.
+          ADMOB_APP_ID: ca-app-pub-3940256099942544~1458002511
+
+  KilometresWidget:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: KilometresWidget
+      - path: Kilometres/Resources
+        excludes: ["Assets.xcassets"]
+      - path: Kilometres/Data/Localization.swift
+    settings:
+      base:
+        INFOPLIST_FILE: KilometresWidget/Info.plist
+        CODE_SIGN_ENTITLEMENTS: KilometresWidget/KilometresWidget.entitlements
+      configs:
+        Debug:
+          PRODUCT_BUNDLE_IDENTIFIER: com.consultali.kilometres.debug.widget
+        Release:
+          PRODUCT_BUNDLE_IDENTIFIER: com.consultali.kilometres.widget
+
+  KilometresWatch:
+    type: application
+    platform: watchOS
+    sources:
+      - path: KilometresWatch
+      - path: Kilometres/Resources
+        excludes: ["Assets.xcassets"]
+      - path: Kilometres/Data/Localization.swift
+    dependencies:
+      - sdk: WatchConnectivity.framework
+    settings:
+      base:
+        INFOPLIST_FILE: KilometresWatch/Info.plist
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        WATCHOS_DEPLOYMENT_TARGET: "9.0"
+        SKIP_INSTALL: YES
+      configs:
+        Debug:
+          PRODUCT_BUNDLE_IDENTIFIER: com.consultali.kilometres.debug.watchkitapp
+          INFOPLIST_KEY_WKCompanionAppBundleIdentifier: com.consultali.kilometres.debug
+        Release:
+          PRODUCT_BUNDLE_IDENTIFIER: com.consultali.kilometres.watchkitapp
+          INFOPLIST_KEY_WKCompanionAppBundleIdentifier: com.consultali.kilometres

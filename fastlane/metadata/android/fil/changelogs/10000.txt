@@ -1,0 +1,8 @@
+Unang release ng Kilomètres.
+
+• Biyahe sa isang tap, mga paboritong ruta
+• Tantiya ng aktuwal na gastos gamit ang opisyal na talaan ng rate (Pro)
+• Mga export na PDF at spreadsheet (Pro)
+• Pag-import ng history ng biyahe (Pro)
+• Cloud backup para sa lahat; widget at app para sa relo (Pro)
+• 71 wika

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">ກິໂລແມັດ</string>
+    <string name="watch_quick_add" formatted="false">ການເດີນທາງດ່ວນ</string>
+    <string name="watch_no_favorites" formatted="false">ເພີ່ມການເດີນທາງໂປດໃນໂທລະສັບຂອງທ່ານ</string>
+    <string name="watch_added" formatted="false">ເພີ່ມແລ້ວ</string>
+    <string name="watch_open_phone" formatted="false">ເປີດແອັບໃນໂທລະສັບ</string>
+    <string name="km_value">%1$s ກມ</string>
+    <string name="this_month" formatted="false">ເດືອນນີ້</string>
+    <string name="today" formatted="false">ມື້ນີ້</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="widget_pro_needed" formatted="false">ວິດເຈັດໃຊ້ໄດ້ກັບ Pro</string>
+</resources>

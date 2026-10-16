@@ -1,0 +1,1 @@
+kilometrówka,ewidencja,przebieg,przejazdy,km,wydatki,podatek,dojazdy,opłaty,parking,pojazd,paliwo

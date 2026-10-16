@@ -1,0 +1,8 @@
+Erste Version von Kilomètres.
+
+• Fahrten mit einem Tipp, Lieblingsstrecken
+• Schätzung der tatsächlichen Kosten mit der amtlichen Tabelle (Pro)
+• PDF- und Tabellen-Export (Pro)
+• Import des Fahrtenverlaufs (Pro)
+• Cloud-Sicherung für alle; Widget und Uhren-App (Pro)
+• 71 Sprachen

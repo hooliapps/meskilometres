@@ -1,0 +1,1 @@
+kjørebok,turer,km,utgifter,skatt,pendling,bompenger,parkering,kjøretøy,godtgjørelse,drivstoff

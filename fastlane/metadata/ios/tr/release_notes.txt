@@ -1,0 +1,8 @@
+Kilomètres ilk sürümü.
+
+• Tek dokunuşla yolculuk, favori güzergâhlar
+• Resmi tarifeyle gerçek gider tahmini (Pro)
+• PDF ve hesap tablosu dışa aktarma (Pro)
+• Yolculuk geçmişi içe aktarma (Pro)
+• Herkese bulut yedekleme; widget ve saat uygulaması (Pro)
+• 71 dil

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometer</string>
+    <string name="widget_name" formatted="false">Turer</string>
+    <string name="widget_description" formatted="false">Dagens kilometer og favoritturene dine med ett trykk.</string>
+    <string name="tab_trips" formatted="false">Turer</string>
+    <string name="tab_estimate" formatted="false">Estimat</string>
+    <string name="tab_more" formatted="false">Mer</string>
+    <string name="this_month" formatted="false">Denne måneden</string>
+    <string name="this_year" formatted="false">I år</string>
+    <string name="trips_count">Turer: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Ny tur</string>
+    <string name="free_remaining">Gratis turer igjen denne måneden: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Gratisgrensen er nådd denne måneden</string>
+    <string name="free_quota_reached" formatted="false">Gratisversjonen tillater 5 turer per måned. Skaff deg Pro for ubegrenset antall turer, eller se en annonse for 5 til.</string>
+    <string name="go_pro" formatted="false">Skaff Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Ingen turer ennå.\nTrykk på + for å registrere den første.</string>
+    <string name="trip_new" formatted="false">Ny tur</string>
+    <string name="trip_edit" formatted="false">Rediger tur</string>
+    <string name="field_date" formatted="false">Dato</string>
+    <string name="field_from" formatted="false">Fra</string>
+    <string name="field_to" formatted="false">Til</string>
+    <string name="field_distance" formatted="false">Avstand én vei (km)</string>
+    <string name="field_round_trip" formatted="false">Tur-retur</string>
+    <string name="field_purpose" formatted="false">Formål</string>
+    <string name="field_vehicle" formatted="false">Kjøretøy</string>
+    <string name="field_note" formatted="false">Notat</string>
+    <string name="field_justified" formatted="false">Særlige omstendigheter</string>
+    <string name="field_justified_help" formatted="false">Kryss av hvis avstanden mellom hjem og arbeid overstiger 40 km av en særlig grunn, eller for en begrunnet ekstra tur-retur samme dag.</string>
+    <string name="purpose_commute" formatted="false">Pendling</string>
+    <string name="purpose_business" formatted="false">Yrkesreise</string>
+    <string name="purpose_personal" formatted="false">Privat</string>
+    <string name="save" formatted="false">Lagre</string>
+    <string name="cancel" formatted="false">Avbryt</string>
+    <string name="delete" formatted="false">Slett</string>
+    <string name="edit" formatted="false">Rediger</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Lukk</string>
+    <string name="back" formatted="false">Tilbake</string>
+    <string name="confirm_delete" formatted="false">Slette permanent?</string>
+    <string name="invalid_distance" formatted="false">Oppgi en avstand større enn 0.</string>
+    <string name="favorites" formatted="false">Favoritter</string>
+    <string name="save_as_favorite" formatted="false">Lagre også som favoritt</string>
+    <string name="favorite_label" formatted="false">Navn på favoritten</string>
+    <string name="no_favorites" formatted="false">Lagre en tur som favoritt for å registrere den med ett trykk.</string>
+    <string name="use_favorite" formatted="false">Favoritturer</string>
+    <string name="swap" formatted="false">Bytt om</string>
+    <string name="quick_add_hint" formatted="false">Trykk på en favoritt for å legge den til for i dag.</string>
+    <string name="added" formatted="false">Tur lagt til.</string>
+    <string name="undo" formatted="false">Angre</string>
+    <string name="vehicles" formatted="false">Kjøretøy</string>
+    <string name="add_vehicle" formatted="false">Legg til kjøretøy</string>
+    <string name="edit_vehicle" formatted="false">Rediger kjøretøy</string>
+    <string name="vehicle_name" formatted="false">Navn</string>
+    <string name="vehicle_kind" formatted="false">Type</string>
+    <string name="kind_car" formatted="false">Bil</string>
+    <string name="kind_motorcycle" formatted="false">Motorsykkel</string>
+    <string name="kind_moped" formatted="false">Moped</string>
+    <string name="fiscal_power" formatted="false">Skattemessig hestekraft (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV og mer</string>
+    <string name="cv_or_less">%1$d CV og mindre</string>
+    <string name="cv_range_3_5" formatted="false">3 til 5 CV</string>
+    <string name="electric" formatted="false">Elkjøretøy</string>
+    <string name="no_vehicle" formatted="false">Ingen kjøretøy. Legg til ett: estimatet trenger det.</string>
+    <string name="default_vehicle" formatted="false">Standardkjøretøy</string>
+    <string name="vehicle_needed" formatted="false">Legg først til et kjøretøy under Mer &gt; Kjøretøy.</string>
+    <string name="estimation" formatted="false">Estimat av faktiske utgifter</string>
+    <string name="income_year">Inntektsår %1$d</string>
+    <string name="estimation_locked" formatted="false">Estimatet av faktiske utgifter, eksport, import av historikk og gjenoppretting av en sikkerhetskopi er en del av Pro-versjonen.</string>
+    <string name="disclaimer_short" formatted="false">Veiledende estimat, ikke garantert.</string>
+    <string name="disclaimer_long" formatted="false">Dette estimatet er veiledende og ikke garantert. Det er ikke skatterådgivning og erstatter verken offisielle tekster, skattemyndighetene eller en fagperson. Sjekk reglene som gjelder for din situasjon før du leverer.</string>
+    <string name="commute_km_raw" formatted="false">Registrerte pendlings-km</string>
+    <string name="commute_km_retained" formatted="false">Medregnede pendlings-km</string>
+    <string name="business_km" formatted="false">Yrkes-km</string>
+    <string name="retained_km" formatted="false">Medregnede km</string>
+    <string name="allowance" formatted="false">Kilometergodtgjørelse</string>
+    <string name="tolls_parking" formatted="false">Bompenger og parkering</string>
+    <string name="total" formatted="false">Estimert totalt</string>
+    <string name="flat_deduction" formatted="false">Standardfradrag på 10 %</string>
+    <string name="real_better" formatted="false">Faktiske utgifter ser ut til å lønne seg mer enn standardfradraget.</string>
+    <string name="flat_better" formatted="false">Standardfradraget ser ut til å lønne seg mer enn faktiske utgifter.</string>
+    <string name="enter_salary" formatted="false">Oppgi din skattepliktige nettoårslønn for å sammenligne med standardfradraget.</string>
+    <string name="net_taxable_salary" formatted="false">Skattepliktig nettoårslønn</string>
+    <string name="per_vehicle" formatted="false">Per kjøretøy</string>
+    <string name="note_scale_unconfirmed" formatted="false">Årets sats er ikke publisert ennå: den sist kjente satsen brukes.</string>
+    <string name="note_cap_applied" formatted="false">Én eller flere pendlingsstrekninger ble begrenset til 40 km, siden ingen særlige omstendigheter er oppgitt.</string>
+    <string name="note_extra_legs" formatted="false">Utover én pendlingstur tur-retur per dag ble turer uten særlige omstendigheter utelatt.</string>
+    <string name="note_no_vehicle" formatted="false">Turer uten kjøretøy ble ignorert: velg et standardkjøretøy.</string>
+    <string name="note_fuel">Registrert drivstoff (%1$s) legges ikke til: kilometersatsen dekker det allerede.</string>
+    <string name="note_no_salary" formatted="false">Lønn ikke oppgitt: ingen sammenligning med standardfradraget.</string>
+    <string name="documents_title" formatted="false">Dokumenter å ta vare på</string>
+    <string name="documents_list" formatted="false">Kjøretøyets vognkort\nArbeidskontrakt eller bekreftelse fra arbeidsgiver\nOversikt over arbeidsdager\nKvitteringer for bompenger og parkering\nAlt som dokumenterer særlige omstendigheter</string>
+    <string name="export" formatted="false">Eksporter</string>
+    <string name="export_title" formatted="false">Eksport</string>
+    <string name="export_pdf" formatted="false">PDF-rapport</string>
+    <string name="export_xlsx" formatted="false">Regneark</string>
+    <string name="export_csv" formatted="false">CSV-fil</string>
+    <string name="export_period" formatted="false">Periode</string>
+    <string name="year" formatted="false">År</string>
+    <string name="export_from" formatted="false">Fra</string>
+    <string name="export_to" formatted="false">Til</string>
+    <string name="export_include_estimation" formatted="false">Ta med årets estimat</string>
+    <string name="export_share" formatted="false">Filen åpnes i delingsmenyen: lagre den eller send den.</string>
+    <string name="export_failed" formatted="false">Eksporten mislyktes.</string>
+    <string name="report_title" formatted="false">Kilometerrapport</string>
+    <string name="generated_on">Generert %1$s</string>
+    <string name="yes" formatted="false">ja</string>
+    <string name="no" formatted="false">nei</string>
+    <string name="import_title" formatted="false">Importer en historikk</string>
+    <string name="import_help" formatted="false">Hvis telefonen din lagrer en historikk over posisjonene dine, kan du eksportere den som en JSON-fil fra appen som håndterer den, og så åpne den her. Bare turer med kjøretøy leses. Filen beholdes ikke: bare dato, avstand og, når de er kjent, start og mål lagres.</string>
+    <string name="import_pick" formatted="false">Velg filen</string>
+    <string name="import_reading" formatted="false">Leser…</string>
+    <string name="import_found">Kjøretøyturer funnet: %1$d</string>
+    <string name="import_skipped">Andre turer ignorert (gange, sykkel, kollektivtransport): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Formål for turer som ikke gjenkjennes som pendling</string>
+    <string name="import_period">Fra %1$s til %2$s</string>
+    <string name="import_confirm">Importer %1$d turer</string>
+    <string name="import_done">Importerte turer: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Ingen nye turer: de var allerede importert.</string>
+    <string name="import_unreadable" formatted="false">Denne filen er ikke en lesbar posisjonshistorikk.</string>
+    <string name="import_commute_hint" formatted="false">Turer mellom hjemmet ditt og arbeidsplassen din gjenkjennes når filen merker dem; de får formålet pendling.</string>
+    <string name="backup_title" formatted="false">Sikkerhetskopi</string>
+    <string name="backup_explain" formatted="false">Dataene dine forlater bare enheten din når du bestemmer det. En sikkerhetskopi er en fil du kan lagre hvor som helst og gjenopprette på hvilken som helst enhet.</string>
+    <string name="backup_export" formatted="false">Eksporter en sikkerhetskopi</string>
+    <string name="backup_restore" formatted="false">Gjenopprett en sikkerhetskopi</string>
+    <string name="backup_restore_help" formatted="false">Gjenopprettingen slår sammen: ingenting du har registrert siden, går tapt.</string>
+    <string name="backup_restored">Sikkerhetskopi gjenopprettet: %1$d turer totalt.</string>
+    <string name="backup_invalid" formatted="false">Denne filen er ikke en sikkerhetskopi fra denne appen.</string>
+    <string name="cloud_title" formatted="false">Skysikkerhetskopi</string>
+    <string name="cloud_explain" formatted="false">Automatisk kopi av dataene dine i enhetens skylagring, uten ekstra konto. Den oppdateres etter hver endring.</string>
+    <string name="cloud_now" formatted="false">Sikkerhetskopier nå</string>
+    <string name="cloud_restore" formatted="false">Gjenopprett fra skyen</string>
+    <string name="cloud_last">Siste skysikkerhetskopi: %1$s</string>
+    <string name="cloud_never" formatted="false">Ingen skysikkerhetskopi ennå.</string>
+    <string name="cloud_unavailable" formatted="false">Skysikkerhetskopi er ikke tilgjengelig på denne enheten. Bruk eksport av sikkerhetskopi.</string>
+    <string name="cloud_done" formatted="false">Skysikkerhetskopi fullført.</string>
+    <string name="cloud_nothing" formatted="false">Ingen skysikkerhetskopi å gjenopprette.</string>
+    <string name="cloud_system_restore" formatted="false">Systemet gjenoppretter denne sikkerhetskopien av seg selv når du installerer appen på nytt eller setter opp en ny enhet.</string>
+    <string name="settings" formatted="false">Innstillinger</string>
+    <string name="rules_title" formatted="false">Beregningsregler</string>
+    <string name="rule_fr" formatted="false">Fransk kilometersats</string>
+    <string name="rule_generic" formatted="false">Fast sats per kilometer</string>
+    <string name="generic_rate" formatted="false">Sats per kilometer</string>
+    <string name="currency" formatted="false">Valuta</string>
+    <string name="home_label" formatted="false">Navn på hjemmet ditt</string>
+    <string name="work_label" formatted="false">Navn på arbeidsplassen din</string>
+    <string name="home_work_distance" formatted="false">Avstand hjem–arbeid (én vei, km)</string>
+    <string name="places_help" formatted="false">Brukes av favoritturer og av historikkimporten.</string>
+    <string name="pro_title" formatted="false">Pro-versjon</string>
+    <string name="pro_subtitle" formatted="false">Alt du trenger for de faktiske utgiftene dine, og ingen reklame.</string>
+    <string name="pro_features_title" formatted="false">Opplåste funksjoner:</string>
+    <string name="pro_feature_unlimited" formatted="false">Ubegrenset antall turer.</string>
+    <string name="pro_feature_estimation" formatted="false">Estimat av faktiske utgifter og sammenligning med standardfradraget.</string>
+    <string name="pro_feature_export" formatted="false">Komplett, sertifisert eksport (ren PDF, regnearkformat klart for regnskapsføreren eller skattemeldingen).</string>
+    <string name="pro_feature_import" formatted="false">Import av telefonens turhistorikk.</string>
+    <string name="pro_feature_expenses" formatted="false">Bompenger, parkering og drivstoff lagt til i estimatet.</string>
+    <string name="pro_feature_cloud" formatted="false">Gjenoppretting fra en sikkerhetskopifil og synkronisering mellom enhetene dine.</string>
+    <string name="pro_feature_widgets" formatted="false">Widget på startskjermen.</string>
+    <string name="pro_feature_watch" formatted="false">App for klokken.</string>
+    <string name="pro_feature_no_ads" formatted="false">Ingen reklame i det hele tatt.</string>
+    <string name="pro_feature_gps" formatted="false">Automatisk GPS-sporing (bevegelsesregistrering eller Bluetooth-tilkobling til bilen).</string>
+    <string name="pro_feature_scan" formatted="false">Smart skanning (OCR) av kvitteringer for bompenger, parkering og drivstoff med kameraet.</string>
+    <string name="pro_monthly">%1$s per måned</string>
+    <string name="pro_yearly">%1$s per år</string>
+    <string name="pro_yearly_hint" formatted="false">To måneder gratis sammenlignet med månedlig</string>
+    <string name="subscribe" formatted="false">Abonner</string>
+    <string name="restore_purchases" formatted="false">Gjenopprett kjøp</string>
+    <string name="pro_active" formatted="false">Pro-versjon aktiv</string>
+    <string name="pro_active_since">Abonnement: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Kjøp er ikke tilgjengelig i denne versjonen av appen.</string>
+    <string name="pro_legal" formatted="false">Abonnement med automatisk fornyelse, belastet butikkontoen din. Kan sies opp når som helst i butikkens innstillinger; prisen belastes for neste periode med mindre abonnementet sies opp minst 24 timer før det utløper.</string>
+    <string name="purchase_pending" formatted="false">Kjøp pågår…</string>
+    <string name="purchase_failed" formatted="false">Kjøpet ble ikke fullført.</string>
+    <string name="purchase_restored" formatted="false">Kjøp gjenopprettet.</string>
+    <string name="purchase_nothing" formatted="false">Ingenting å gjenopprette.</string>
+    <string name="rewarded_title" formatted="false">Prøv med en annonse</string>
+    <string name="rewarded_explain" formatted="false">Se en kort annonse for å låse opp dette en stund. Pro fjerner reklamen og låser opp alt.</string>
+    <string name="rewarded_estimation" formatted="false">Se estimatet i 24 timer</string>
+    <string name="rewarded_export" formatted="false">Én eksport, innen en time</string>
+    <string name="rewarded_trips" formatted="false">5 turer til denne måneden</string>
+    <string name="rewarded_watch" formatted="false">Se en annonse</string>
+    <string name="rewarded_unavailable" formatted="false">Ingen annonse tilgjengelig akkurat nå. Prøv igjen om litt.</string>
+    <string name="rewarded_granted" formatted="false">Låst opp. God tur!</string>
+    <string name="expenses" formatted="false">Utgifter</string>
+    <string name="add_expense" formatted="false">Ny utgift</string>
+    <string name="edit_expense" formatted="false">Rediger utgift</string>
+    <string name="expense_kind" formatted="false">Type</string>
+    <string name="kind_toll" formatted="false">Bompenger</string>
+    <string name="kind_parking" formatted="false">Parkering</string>
+    <string name="kind_fuel" formatted="false">Drivstoff</string>
+    <string name="kind_other" formatted="false">Annet</string>
+    <string name="amount" formatted="false">Beløp</string>
+    <string name="place" formatted="false">Sted</string>
+    <string name="litres" formatted="false">Liter</string>
+    <string name="odometer" formatted="false">Kilometerstand</string>
+    <string name="no_expenses" formatted="false">Ingen utgifter. Bompenger og parkering legges til i estimatet.</string>
+    <string name="invalid_amount" formatted="false">Oppgi et beløp større enn 0.</string>
+    <string name="legal_title" formatted="false">Juridisk og personvern</string>
+    <string name="privacy_text" formatted="false">Alle dataene dine blir på enheten din. Appen krever ingen konto og sender ingenting til en server. De eneste utvekslingene med omverdenen er de du selv utløser, en eksport, en sikkerhetskopi eller et kjøp, samt annonsene i gratisversjonen, som Pro-versjonen fjerner.</string>
+    <string name="about" formatted="false">Om</string>
+    <string name="version">Versjon %1$s</string>
+    <string name="error_generic" formatted="false">Noe gikk galt.</string>
+    <string name="today" formatted="false">I dag</string>
+    <string name="yesterday" formatted="false">I går</string>
+    <string name="ads_privacy_options" formatted="false">Personvernvalg for annonser</string>
+    <string name="ads_disabled_title" formatted="false">Annonser er deaktivert</string>
+    <string name="ads_disabled_text" formatted="false">Systemet angir at denne kontoen tilhører en ung bruker. Appen viser derfor ingen annonser og ber ikke om samtykke. Ingen annonse-ID leses, og ingen data samles inn eller sendes.</string>
+    <string name="watch_quick_add" formatted="false">Rask tur</string>
+    <string name="watch_no_favorites" formatted="false">Legg til favoritturer på telefonen din.</string>
+    <string name="watch_added" formatted="false">Lagt til</string>
+    <string name="watch_open_phone" formatted="false">Åpne appen på telefonen</string>
+    <string name="widget_today" formatted="false">I dag</string>
+    <string name="widget_month" formatted="false">Denne måneden</string>
+    <string name="widget_pro_needed" formatted="false">Widget tilgjengelig med Pro</string>
+</resources>

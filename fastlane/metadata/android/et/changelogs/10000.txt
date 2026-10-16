@@ -1,0 +1,8 @@
+Rakenduse Kilomètres esimene versioon.
+
+• Sõidud ühe puudutusega, lemmikmarsruudid
+• Tegelike kulude hinnang ametliku tabeli alusel (Pro)
+• PDF- ja tabeliekspordid (Pro)
+• Sõiduajaloo import (Pro)
+• Pilvevarundus kõigile; vidin ja kellarakendus (Pro)
+• 71 keelt

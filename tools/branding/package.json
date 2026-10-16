@@ -1,0 +1,8 @@
+{
+  "name": "kilometres-branding",
+  "private": true,
+  "description": "Rendu des icones et visuels de magasin par Chromium sans interface.",
+  "dependencies": {
+    "playwright-core": "^1.49.1"
+  }
+}

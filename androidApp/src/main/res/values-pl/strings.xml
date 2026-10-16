@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometry</string>
+    <string name="widget_name" formatted="false">Przejazdy</string>
+    <string name="widget_description" formatted="false">Dzisiejsze kilometry i Twoje ulubione przejazdy jednym dotknięciem.</string>
+    <string name="tab_trips" formatted="false">Przejazdy</string>
+    <string name="tab_estimate" formatted="false">Szacunek</string>
+    <string name="tab_more" formatted="false">Więcej</string>
+    <string name="this_month" formatted="false">W tym miesiącu</string>
+    <string name="this_year" formatted="false">W tym roku</string>
+    <string name="trips_count">Przejazdy: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Nowy przejazd</string>
+    <string name="free_remaining">Darmowe przejazdy w tym miesiącu: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Darmowy limit na ten miesiąc wyczerpany</string>
+    <string name="free_quota_reached" formatted="false">Wersja bezpłatna pozwala na 5 przejazdów miesięcznie. Przejdź na Pro, aby mieć przejazdy bez limitu, albo obejrzyj reklamę, aby dostać 5 dodatkowych.</string>
+    <string name="go_pro" formatted="false">Przejdź na Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Nie ma jeszcze przejazdów.\nDotknij +, aby dodać pierwszy.</string>
+    <string name="trip_new" formatted="false">Nowy przejazd</string>
+    <string name="trip_edit" formatted="false">Edytuj przejazd</string>
+    <string name="field_date" formatted="false">Data</string>
+    <string name="field_from" formatted="false">Skąd</string>
+    <string name="field_to" formatted="false">Dokąd</string>
+    <string name="field_distance" formatted="false">Odległość w jedną stronę (km)</string>
+    <string name="field_round_trip" formatted="false">W obie strony</string>
+    <string name="field_purpose" formatted="false">Cel</string>
+    <string name="field_vehicle" formatted="false">Pojazd</string>
+    <string name="field_note" formatted="false">Notatka</string>
+    <string name="field_justified" formatted="false">Szczególne okoliczności</string>
+    <string name="field_justified_help" formatted="false">Zaznacz, jeśli odległość z domu do pracy przekracza 40 km z konkretnego powodu, albo w przypadku uzasadnionego dodatkowego przejazdu w obie strony tego samego dnia.</string>
+    <string name="purpose_commute" formatted="false">Dojazd do pracy</string>
+    <string name="purpose_business" formatted="false">Służbowy</string>
+    <string name="purpose_personal" formatted="false">Prywatny</string>
+    <string name="save" formatted="false">Zapisz</string>
+    <string name="cancel" formatted="false">Anuluj</string>
+    <string name="delete" formatted="false">Usuń</string>
+    <string name="edit" formatted="false">Edytuj</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Zamknij</string>
+    <string name="back" formatted="false">Wstecz</string>
+    <string name="confirm_delete" formatted="false">Usunąć na stałe?</string>
+    <string name="invalid_distance" formatted="false">Podaj odległość większą niż 0.</string>
+    <string name="favorites" formatted="false">Ulubione</string>
+    <string name="save_as_favorite" formatted="false">Zapisz też jako ulubiony</string>
+    <string name="favorite_label" formatted="false">Nazwa ulubionego</string>
+    <string name="no_favorites" formatted="false">Zapisz przejazd jako ulubiony, aby dodawać go jednym dotknięciem.</string>
+    <string name="use_favorite" formatted="false">Ulubione przejazdy</string>
+    <string name="swap" formatted="false">Zamień</string>
+    <string name="quick_add_hint" formatted="false">Dotknij ulubionego, aby dodać go na dziś.</string>
+    <string name="added" formatted="false">Przejazd dodany.</string>
+    <string name="undo" formatted="false">Cofnij</string>
+    <string name="vehicles" formatted="false">Pojazdy</string>
+    <string name="add_vehicle" formatted="false">Dodaj pojazd</string>
+    <string name="edit_vehicle" formatted="false">Edytuj pojazd</string>
+    <string name="vehicle_name" formatted="false">Nazwa</string>
+    <string name="vehicle_kind" formatted="false">Rodzaj</string>
+    <string name="kind_car" formatted="false">Samochód</string>
+    <string name="kind_motorcycle" formatted="false">Motocykl</string>
+    <string name="kind_moped" formatted="false">Motorower</string>
+    <string name="fiscal_power" formatted="false">Moc fiskalna (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV i więcej</string>
+    <string name="cv_or_less">%1$d CV i mniej</string>
+    <string name="cv_range_3_5" formatted="false">Od 3 do 5 CV</string>
+    <string name="electric" formatted="false">Pojazd elektryczny</string>
+    <string name="no_vehicle" formatted="false">Brak pojazdu. Dodaj go: szacunek tego wymaga.</string>
+    <string name="default_vehicle" formatted="false">Pojazd domyślny</string>
+    <string name="vehicle_needed" formatted="false">Najpierw dodaj pojazd w Więcej &gt; Pojazdy.</string>
+    <string name="estimation" formatted="false">Szacunek kosztów rzeczywistych</string>
+    <string name="income_year">Rok dochodów %1$d</string>
+    <string name="estimation_locked" formatted="false">Szacunek kosztów rzeczywistych, eksporty, import historii i przywracanie kopii zapasowej należą do wersji Pro.</string>
+    <string name="disclaimer_short" formatted="false">Szacunek orientacyjny, bez gwarancji.</string>
+    <string name="disclaimer_long" formatted="false">Ten szacunek jest orientacyjny i nie daje żadnej gwarancji. Nie stanowi porady podatkowej i nie zastępuje przepisów, urzędu skarbowego ani specjalisty. Sprawdź zasady obowiązujące w Twojej sytuacji przed złożeniem zeznania.</string>
+    <string name="commute_km_raw" formatted="false">Wpisane km dojazdów do pracy</string>
+    <string name="commute_km_retained" formatted="false">Uwzględnione km dojazdów do pracy</string>
+    <string name="business_km" formatted="false">Km służbowe</string>
+    <string name="retained_km" formatted="false">Uwzględnione km</string>
+    <string name="allowance" formatted="false">Zwrot za kilometry</string>
+    <string name="tolls_parking" formatted="false">Opłaty drogowe i parkingi</string>
+    <string name="total" formatted="false">Szacowana suma</string>
+    <string name="flat_deduction" formatted="false">Ryczałtowe odliczenie 10 %</string>
+    <string name="real_better" formatted="false">Koszty rzeczywiste wyglądają korzystniej niż odliczenie ryczałtowe.</string>
+    <string name="flat_better" formatted="false">Odliczenie ryczałtowe wygląda korzystniej niż koszty rzeczywiste.</string>
+    <string name="enter_salary" formatted="false">Wpisz roczne wynagrodzenie netto podlegające opodatkowaniu, aby porównać je z odliczeniem ryczałtowym.</string>
+    <string name="net_taxable_salary" formatted="false">Roczne wynagrodzenie netto do opodatkowania</string>
+    <string name="per_vehicle" formatted="false">Na pojazd</string>
+    <string name="note_scale_unconfirmed" formatted="false">Stawki na ten rok nie zostały jeszcze opublikowane: zastosowano ostatnie znane stawki.</string>
+    <string name="note_cap_applied" formatted="false">Co najmniej jeden dojazd do pracy ograniczono do 40 km, bo nie zgłoszono szczególnych okoliczności.</string>
+    <string name="note_extra_legs" formatted="false">Poza jednym dojazdem do pracy w obie strony dziennie przejazdy bez szczególnych okoliczności zostały pominięte.</string>
+    <string name="note_no_vehicle" formatted="false">Przejazdy bez pojazdu zostały pominięte: wybierz pojazd domyślny.</string>
+    <string name="note_fuel">Wpisane paliwo (%1$s) nie jest doliczane: stawka kilometrowa już je obejmuje.</string>
+    <string name="note_no_salary" formatted="false">Nie wpisano wynagrodzenia: brak porównania z odliczeniem ryczałtowym.</string>
+    <string name="documents_title" formatted="false">Dokumenty do zachowania</string>
+    <string name="documents_list" formatted="false">Dowód rejestracyjny pojazdu\nUmowa o pracę lub zaświadczenie od pracodawcy\nZestawienie przepracowanych dni\nParagony za opłaty drogowe i parkingi\nWszystko, co potwierdza szczególne okoliczności</string>
+    <string name="export" formatted="false">Eksportuj</string>
+    <string name="export_title" formatted="false">Eksport</string>
+    <string name="export_pdf" formatted="false">Raport PDF</string>
+    <string name="export_xlsx" formatted="false">Skoroszyt arkusza kalkulacyjnego</string>
+    <string name="export_csv" formatted="false">Plik CSV</string>
+    <string name="export_period" formatted="false">Okres</string>
+    <string name="year" formatted="false">Rok</string>
+    <string name="export_from" formatted="false">Od</string>
+    <string name="export_to" formatted="false">Do</string>
+    <string name="export_include_estimation" formatted="false">Dołącz szacunek za rok</string>
+    <string name="export_share" formatted="false">Plik otworzy się w arkuszu udostępniania: zapisz go lub wyślij.</string>
+    <string name="export_failed" formatted="false">Eksport się nie powiódł.</string>
+    <string name="report_title" formatted="false">Raport kilometrów</string>
+    <string name="generated_on">Wygenerowano %1$s</string>
+    <string name="yes" formatted="false">tak</string>
+    <string name="no" formatted="false">nie</string>
+    <string name="import_title" formatted="false">Importuj historię</string>
+    <string name="import_help" formatted="false">Jeśli Twój telefon przechowuje historię lokalizacji, możesz ją wyeksportować jako plik JSON z aplikacji, która nią zarządza, a potem otworzyć tutaj. Odczytywane są tylko podróże pojazdem. Plik nie jest zachowywany: zapisywane są tylko data, odległość oraz, jeśli są znane, miejsce początkowe i docelowe.</string>
+    <string name="import_pick" formatted="false">Wybierz plik</string>
+    <string name="import_reading" formatted="false">Odczytywanie…</string>
+    <string name="import_found">Znalezione podróże pojazdem: %1$d</string>
+    <string name="import_skipped">Inne pominięte podróże (pieszo, rowerem, komunikacją): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Cel podróży nierozpoznanych jako dojazd do pracy</string>
+    <string name="import_period">Od %1$s do %2$s</string>
+    <string name="import_confirm">Importuj przejazdy: %1$d</string>
+    <string name="import_done">Zaimportowane przejazdy: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Brak nowych przejazdów: były już zaimportowane.</string>
+    <string name="import_unreadable" formatted="false">Ten plik nie jest czytelną historią lokalizacji.</string>
+    <string name="import_commute_hint" formatted="false">Podróże między domem a pracą są rozpoznawane, gdy plik je tak oznacza; dostają cel „dojazd do pracy”.</string>
+    <string name="backup_title" formatted="false">Kopia zapasowa</string>
+    <string name="backup_explain" formatted="false">Twoje dane opuszczają urządzenie tylko wtedy, gdy tak zdecydujesz. Kopia zapasowa to plik, który możesz przechowywać gdziekolwiek i przywrócić na dowolnym urządzeniu.</string>
+    <string name="backup_export" formatted="false">Eksportuj kopię zapasową</string>
+    <string name="backup_restore" formatted="false">Przywróć kopię zapasową</string>
+    <string name="backup_restore_help" formatted="false">Przywracanie scala dane: nic, co wpisano od tego czasu, nie ginie.</string>
+    <string name="backup_restored">Kopia przywrócona: łącznie %1$d przejazdów.</string>
+    <string name="backup_invalid" formatted="false">Ten plik nie jest kopią zapasową z tej aplikacji.</string>
+    <string name="cloud_title" formatted="false">Kopia w chmurze</string>
+    <string name="cloud_explain" formatted="false">Automatyczna kopia Twoich danych w chmurze Twojego urządzenia, bez dodatkowego konta. Odświeża się po każdej zmianie.</string>
+    <string name="cloud_now" formatted="false">Utwórz kopię teraz</string>
+    <string name="cloud_restore" formatted="false">Przywróć z chmury</string>
+    <string name="cloud_last">Ostatnia kopia w chmurze: %1$s</string>
+    <string name="cloud_never" formatted="false">Nie ma jeszcze kopii w chmurze.</string>
+    <string name="cloud_unavailable" formatted="false">Kopia w chmurze nie jest dostępna na tym urządzeniu. Użyj eksportu kopii zapasowej.</string>
+    <string name="cloud_done" formatted="false">Kopia w chmurze gotowa.</string>
+    <string name="cloud_nothing" formatted="false">Brak kopii w chmurze do przywrócenia.</string>
+    <string name="cloud_system_restore" formatted="false">System sam przywraca tę kopię po ponownej instalacji aplikacji lub przy konfiguracji nowego urządzenia.</string>
+    <string name="settings" formatted="false">Ustawienia</string>
+    <string name="rules_title" formatted="false">Zasady obliczeń</string>
+    <string name="rule_fr" formatted="false">Francuskie stawki kilometrowe</string>
+    <string name="rule_generic" formatted="false">Stała stawka za kilometr</string>
+    <string name="generic_rate" formatted="false">Stawka za kilometr</string>
+    <string name="currency" formatted="false">Waluta</string>
+    <string name="home_label" formatted="false">Nazwa Twojego domu</string>
+    <string name="work_label" formatted="false">Nazwa Twojego miejsca pracy</string>
+    <string name="home_work_distance" formatted="false">Odległość dom–praca (w jedną stronę, km)</string>
+    <string name="places_help" formatted="false">Używane przez ulubione przejazdy i import historii.</string>
+    <string name="pro_title" formatted="false">Wersja Pro</string>
+    <string name="pro_subtitle" formatted="false">Wszystko, czego potrzebujesz do kosztów rzeczywistych, i żadnych reklam.</string>
+    <string name="pro_features_title" formatted="false">Odblokowane funkcje:</string>
+    <string name="pro_feature_unlimited" formatted="false">Przejazdy bez limitu.</string>
+    <string name="pro_feature_estimation" formatted="false">Szacunek kosztów rzeczywistych i porównanie z odliczeniem ryczałtowym.</string>
+    <string name="pro_feature_export" formatted="false">Pełny, poświadczony eksport (czytelny PDF, format arkusza gotowy dla księgowego lub do zeznania podatkowego).</string>
+    <string name="pro_feature_import" formatted="false">Import historii przejazdów z Twojego telefonu.</string>
+    <string name="pro_feature_expenses" formatted="false">Opłaty drogowe, parkingi i paliwo doliczone do szacunku.</string>
+    <string name="pro_feature_cloud" formatted="false">Przywracanie z pliku kopii zapasowej i synchronizacja między urządzeniami.</string>
+    <string name="pro_feature_widgets" formatted="false">Widżet na ekranie głównym.</string>
+    <string name="pro_feature_watch" formatted="false">Aplikacja na zegarek.</string>
+    <string name="pro_feature_no_ads" formatted="false">Zero reklam.</string>
+    <string name="pro_feature_gps" formatted="false">Automatyczne śledzenie GPS (wykrywanie ruchu lub połączenie Bluetooth z samochodem).</string>
+    <string name="pro_feature_scan" formatted="false">Inteligentne skanowanie (OCR) paragonów za opłaty drogowe, parkingi i paliwo aparatem.</string>
+    <string name="pro_monthly">%1$s miesięcznie</string>
+    <string name="pro_yearly">%1$s rocznie</string>
+    <string name="pro_yearly_hint" formatted="false">Dwa miesiące gratis w porównaniu z planem miesięcznym</string>
+    <string name="subscribe" formatted="false">Subskrybuj</string>
+    <string name="restore_purchases" formatted="false">Przywróć zakupy</string>
+    <string name="pro_active" formatted="false">Wersja Pro aktywna</string>
+    <string name="pro_active_since">Subskrypcja: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Zakupy nie są dostępne w tej wersji aplikacji.</string>
+    <string name="pro_legal" formatted="false">Subskrypcja odnawiana automatycznie, pobierana z Twojego konta w sklepie. Możesz ją anulować w każdej chwili w ustawieniach sklepu; opłata za kolejny okres zostanie pobrana, chyba że anulujesz co najmniej 24 godziny przed jego końcem.</string>
+    <string name="purchase_pending" formatted="false">Trwa zakup…</string>
+    <string name="purchase_failed" formatted="false">Zakup nie został sfinalizowany.</string>
+    <string name="purchase_restored" formatted="false">Zakupy przywrócone.</string>
+    <string name="purchase_nothing" formatted="false">Nie ma nic do przywrócenia.</string>
+    <string name="rewarded_title" formatted="false">Wypróbuj za obejrzenie reklamy</string>
+    <string name="rewarded_explain" formatted="false">Obejrzyj krótką reklamę, aby odblokować tę funkcję na jakiś czas. Pro usuwa reklamy i odblokowuje wszystko.</string>
+    <string name="rewarded_estimation" formatted="false">Zobacz szacunek przez 24 godziny</string>
+    <string name="rewarded_export" formatted="false">Jeden eksport w ciągu godziny</string>
+    <string name="rewarded_trips" formatted="false">5 dodatkowych przejazdów w tym miesiącu</string>
+    <string name="rewarded_watch" formatted="false">Obejrzyj reklamę</string>
+    <string name="rewarded_unavailable" formatted="false">Chwilowo brak dostępnej reklamy. Spróbuj ponownie za moment.</string>
+    <string name="rewarded_granted" formatted="false">Odblokowane. Miłej drogi!</string>
+    <string name="expenses" formatted="false">Wydatki</string>
+    <string name="add_expense" formatted="false">Nowy wydatek</string>
+    <string name="edit_expense" formatted="false">Edytuj wydatek</string>
+    <string name="expense_kind" formatted="false">Rodzaj</string>
+    <string name="kind_toll" formatted="false">Opłata drogowa</string>
+    <string name="kind_parking" formatted="false">Parking</string>
+    <string name="kind_fuel" formatted="false">Paliwo</string>
+    <string name="kind_other" formatted="false">Inne</string>
+    <string name="amount" formatted="false">Kwota</string>
+    <string name="place" formatted="false">Miejsce</string>
+    <string name="litres" formatted="false">Litry</string>
+    <string name="odometer" formatted="false">Stan licznika</string>
+    <string name="no_expenses" formatted="false">Brak wydatków. Opłaty drogowe i parkingi są doliczane do szacunku.</string>
+    <string name="invalid_amount" formatted="false">Podaj kwotę większą niż 0.</string>
+    <string name="legal_title" formatted="false">Informacje prawne i prywatność</string>
+    <string name="privacy_text" formatted="false">Wszystkie Twoje dane pozostają na Twoim urządzeniu. Aplikacja nie wymaga konta i nie wysyła niczego na serwer. Jedyne połączenia ze światem zewnętrznym to te, które sam uruchamiasz: eksport, kopia zapasowa lub zakup, oraz reklamy w wersji bezpłatnej, które usuwa wersja Pro.</string>
+    <string name="about" formatted="false">O aplikacji</string>
+    <string name="version">Wersja %1$s</string>
+    <string name="error_generic" formatted="false">Coś poszło nie tak.</string>
+    <string name="today" formatted="false">Dziś</string>
+    <string name="yesterday" formatted="false">Wczoraj</string>
+    <string name="ads_privacy_options" formatted="false">Opcje prywatności reklam</string>
+    <string name="ads_disabled_title" formatted="false">Reklamy są wyłączone</string>
+    <string name="ads_disabled_text" formatted="false">System wskazuje, że to konto należy do młodego użytkownika. Aplikacja nie wyświetla więc żadnych reklam i nie prosi o zgodę. Nie odczytuje identyfikatora reklamowego, nie zbiera ani nie wysyła żadnych danych.</string>
+    <string name="watch_quick_add" formatted="false">Szybki przejazd</string>
+    <string name="watch_no_favorites" formatted="false">Dodaj ulubione przejazdy na telefonie.</string>
+    <string name="watch_added" formatted="false">Dodano</string>
+    <string name="watch_open_phone" formatted="false">Otwórz aplikację na telefonie</string>
+    <string name="widget_today" formatted="false">Dziś</string>
+    <string name="widget_month" formatted="false">W tym miesiącu</string>
+    <string name="widget_pro_needed" formatted="false">Widżet dostępny z Pro</string>
+</resources>

@@ -1,0 +1,8 @@
+Pirmā Kilomètres versija.
+
+• Braucieni ar vienu pieskārienu, iecienītie maršruti
+• Faktisko izdevumu aplēse pēc oficiālās tabulas (Pro)
+• PDF un izklājlapu eksports (Pro)
+• Braucienu vēstures imports (Pro)
+• Mākoņa dublējums visiem; logrīks un lietotne pulkstenim (Pro)
+• 71 valoda

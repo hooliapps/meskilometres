@@ -1,0 +1,8 @@
+Første versjon av Kilomètres.
+
+• Turer med ett trykk, favorittruter
+• Estimat av faktiske utgifter med den offisielle satsen (Pro)
+• PDF- og regnearkeksport (Pro)
+• Import av turhistorikk (Pro)
+• Skysikkerhetskopi for alle; widget og app for klokken (Pro)
+• 71 språk

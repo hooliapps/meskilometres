@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometer</string>
+    <string name="widget_name" formatted="false">Resor</string>
+    <string name="widget_description" formatted="false">Dagens kilometer och dina favoritresor med ett tryck.</string>
+    <string name="tab_trips" formatted="false">Resor</string>
+    <string name="tab_estimate" formatted="false">Uppskattning</string>
+    <string name="tab_more" formatted="false">Mer</string>
+    <string name="this_month" formatted="false">Denna månad</string>
+    <string name="this_year" formatted="false">I år</string>
+    <string name="trips_count">Resor: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Ny resa</string>
+    <string name="free_remaining">Gratis resor kvar denna månad: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Gratisgränsen är nådd för denna månad</string>
+    <string name="free_quota_reached" formatted="false">Gratisversionen tillåter 5 resor per månad. Skaffa Pro för obegränsat antal resor, eller titta på en annons för 5 till.</string>
+    <string name="go_pro" formatted="false">Skaffa Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Inga resor ännu.\nTryck på + för att registrera den första.</string>
+    <string name="trip_new" formatted="false">Ny resa</string>
+    <string name="trip_edit" formatted="false">Redigera resa</string>
+    <string name="field_date" formatted="false">Datum</string>
+    <string name="field_from" formatted="false">Från</string>
+    <string name="field_to" formatted="false">Till</string>
+    <string name="field_distance" formatted="false">Enkel sträcka (km)</string>
+    <string name="field_round_trip" formatted="false">Tur och retur</string>
+    <string name="field_purpose" formatted="false">Syfte</string>
+    <string name="field_vehicle" formatted="false">Fordon</string>
+    <string name="field_note" formatted="false">Anteckning</string>
+    <string name="field_justified" formatted="false">Särskilda omständigheter</string>
+    <string name="field_justified_help" formatted="false">Bocka i om avståndet mellan hem och arbete överstiger 40 km av ett särskilt skäl, eller för en motiverad extra tur-och-retur-resa samma dag.</string>
+    <string name="purpose_commute" formatted="false">Pendling</string>
+    <string name="purpose_business" formatted="false">Tjänsteresa</string>
+    <string name="purpose_personal" formatted="false">Privat</string>
+    <string name="save" formatted="false">Spara</string>
+    <string name="cancel" formatted="false">Avbryt</string>
+    <string name="delete" formatted="false">Radera</string>
+    <string name="edit" formatted="false">Redigera</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Stäng</string>
+    <string name="back" formatted="false">Tillbaka</string>
+    <string name="confirm_delete" formatted="false">Radera permanent?</string>
+    <string name="invalid_distance" formatted="false">Ange en sträcka som är större än 0.</string>
+    <string name="favorites" formatted="false">Favoriter</string>
+    <string name="save_as_favorite" formatted="false">Spara även som favorit</string>
+    <string name="favorite_label" formatted="false">Favoritens namn</string>
+    <string name="no_favorites" formatted="false">Spara en resa som favorit för att registrera den med ett tryck.</string>
+    <string name="use_favorite" formatted="false">Favoritresor</string>
+    <string name="swap" formatted="false">Växla</string>
+    <string name="quick_add_hint" formatted="false">Tryck på en favorit för att lägga till den för i dag.</string>
+    <string name="added" formatted="false">Resa tillagd.</string>
+    <string name="undo" formatted="false">Ångra</string>
+    <string name="vehicles" formatted="false">Fordon</string>
+    <string name="add_vehicle" formatted="false">Lägg till fordon</string>
+    <string name="edit_vehicle" formatted="false">Redigera fordon</string>
+    <string name="vehicle_name" formatted="false">Namn</string>
+    <string name="vehicle_kind" formatted="false">Typ</string>
+    <string name="kind_car" formatted="false">Bil</string>
+    <string name="kind_motorcycle" formatted="false">Motorcykel</string>
+    <string name="kind_moped" formatted="false">Moped</string>
+    <string name="fiscal_power" formatted="false">Skattehästkrafter (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV eller mer</string>
+    <string name="cv_or_less">%1$d CV eller mindre</string>
+    <string name="cv_range_3_5" formatted="false">3 till 5 CV</string>
+    <string name="electric" formatted="false">Elfordon</string>
+    <string name="no_vehicle" formatted="false">Inget fordon. Lägg till ett: uppskattningen behöver det.</string>
+    <string name="default_vehicle" formatted="false">Standardfordon</string>
+    <string name="vehicle_needed" formatted="false">Lägg först till ett fordon under Mer &gt; Fordon.</string>
+    <string name="estimation" formatted="false">Uppskattning av faktiska kostnader</string>
+    <string name="income_year">Inkomstår %1$d</string>
+    <string name="estimation_locked" formatted="false">Uppskattningen av faktiska kostnader, exporter, import av historik och återställning av en säkerhetskopia ingår i Pro-versionen.</string>
+    <string name="disclaimer_short" formatted="false">Vägledande uppskattning, inte garanterad.</string>
+    <string name="disclaimer_long" formatted="false">Denna uppskattning är vägledande och inte garanterad. Den är inte skatterådgivning och ersätter varken officiella texter, skattemyndigheten eller en fackman. Kontrollera vilka regler som gäller för din situation innan du deklarerar.</string>
+    <string name="commute_km_raw" formatted="false">Angivna pendlings-km</string>
+    <string name="commute_km_retained" formatted="false">Medräknade pendlings-km</string>
+    <string name="business_km" formatted="false">Tjänste-km</string>
+    <string name="retained_km" formatted="false">Medräknade km</string>
+    <string name="allowance" formatted="false">Kilometerersättning</string>
+    <string name="tolls_parking" formatted="false">Vägtullar och parkering</string>
+    <string name="total" formatted="false">Uppskattad summa</string>
+    <string name="flat_deduction" formatted="false">Schablonavdrag på 10 %</string>
+    <string name="real_better" formatted="false">Faktiska kostnader verkar mer fördelaktiga än schablonavdraget.</string>
+    <string name="flat_better" formatted="false">Schablonavdraget verkar mer fördelaktigt än faktiska kostnader.</string>
+    <string name="enter_salary" formatted="false">Ange din beskattningsbara nettoårslön för att jämföra med schablonavdraget.</string>
+    <string name="net_taxable_salary" formatted="false">Beskattningsbar nettoårslön</string>
+    <string name="per_vehicle" formatted="false">Per fordon</string>
+    <string name="note_scale_unconfirmed" formatted="false">Årets tabell är inte publicerad ännu: den senast kända tabellen tillämpas.</string>
+    <string name="note_cap_applied" formatted="false">En eller flera pendlingssträckor har begränsats till 40 km, eftersom inga särskilda omständigheter angetts.</string>
+    <string name="note_extra_legs" formatted="false">Utöver en pendlingsresa tur och retur per dag har resor utan särskilda omständigheter uteslutits.</string>
+    <string name="note_no_vehicle" formatted="false">Resor utan fordon ignorerades: välj ett standardfordon.</string>
+    <string name="note_fuel">Angivet bränsle (%1$s) läggs inte till: kilometertabellen täcker det redan.</string>
+    <string name="note_no_salary" formatted="false">Lön inte angiven: ingen jämförelse med schablonavdraget.</string>
+    <string name="documents_title" formatted="false">Dokument att spara</string>
+    <string name="documents_list" formatted="false">Fordonets registreringsbevis\nAnställningsavtal eller intyg från arbetsgivaren\nFörteckning över arbetade dagar\nKvitton för vägtullar och parkering\nAllt som styrker särskilda omständigheter</string>
+    <string name="export" formatted="false">Exportera</string>
+    <string name="export_title" formatted="false">Export</string>
+    <string name="export_pdf" formatted="false">PDF-rapport</string>
+    <string name="export_xlsx" formatted="false">Kalkylarbetsbok</string>
+    <string name="export_csv" formatted="false">CSV-fil</string>
+    <string name="export_period" formatted="false">Period</string>
+    <string name="year" formatted="false">År</string>
+    <string name="export_from" formatted="false">Från</string>
+    <string name="export_to" formatted="false">Till</string>
+    <string name="export_include_estimation" formatted="false">Inkludera årets uppskattning</string>
+    <string name="export_share" formatted="false">Filen öppnas i delningsmenyn: spara den eller skicka den.</string>
+    <string name="export_failed" formatted="false">Exporten misslyckades.</string>
+    <string name="report_title" formatted="false">Kilometerrapport</string>
+    <string name="generated_on">Skapad %1$s</string>
+    <string name="yes" formatted="false">ja</string>
+    <string name="no" formatted="false">nej</string>
+    <string name="import_title" formatted="false">Importera en historik</string>
+    <string name="import_help" formatted="false">Om din telefon sparar en historik över dina platser kan du exportera den som en JSON-fil från appen som hanterar den och sedan öppna den här. Endast resor med fordon läses in. Filen sparas inte: bara datum, sträcka och, när de är kända, start och mål lagras.</string>
+    <string name="import_pick" formatted="false">Välj fil</string>
+    <string name="import_reading" formatted="false">Läser in…</string>
+    <string name="import_found">Fordonsresor hittade: %1$d</string>
+    <string name="import_skipped">Andra resor ignorerade (gång, cykel, kollektivtrafik): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Syfte för resor som inte känns igen som pendling</string>
+    <string name="import_period">Från %1$s till %2$s</string>
+    <string name="import_confirm">Importera %1$d resor</string>
+    <string name="import_done">Importerade resor: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Inga nya resor: de var redan importerade.</string>
+    <string name="import_unreadable" formatted="false">Den här filen är inte en läsbar platshistorik.</string>
+    <string name="import_commute_hint" formatted="false">Resor mellan ditt hem och din arbetsplats känns igen när filen märker dem så; de får syftet pendling.</string>
+    <string name="backup_title" formatted="false">Säkerhetskopia</string>
+    <string name="backup_explain" formatted="false">Dina data lämnar bara din enhet när du bestämmer det. En säkerhetskopia är en fil som du kan spara var som helst och återställa på vilken enhet som helst.</string>
+    <string name="backup_export" formatted="false">Exportera en säkerhetskopia</string>
+    <string name="backup_restore" formatted="false">Återställ en säkerhetskopia</string>
+    <string name="backup_restore_help" formatted="false">Återställningen slår samman: inget du har angett sedan dess går förlorat.</string>
+    <string name="backup_restored">Säkerhetskopia återställd: %1$d resor totalt.</string>
+    <string name="backup_invalid" formatted="false">Den här filen är inte en säkerhetskopia från den här appen.</string>
+    <string name="cloud_title" formatted="false">Molnsäkerhetskopia</string>
+    <string name="cloud_explain" formatted="false">Automatisk kopia av dina data i din enhets molnutrymme, utan extra konto. Den uppdateras efter varje ändring.</string>
+    <string name="cloud_now" formatted="false">Säkerhetskopiera nu</string>
+    <string name="cloud_restore" formatted="false">Återställ från molnet</string>
+    <string name="cloud_last">Senaste molnsäkerhetskopia: %1$s</string>
+    <string name="cloud_never" formatted="false">Ingen molnsäkerhetskopia ännu.</string>
+    <string name="cloud_unavailable" formatted="false">Molnsäkerhetskopiering är inte tillgänglig på den här enheten. Använd exporten av säkerhetskopia.</string>
+    <string name="cloud_done" formatted="false">Molnsäkerhetskopia klar.</string>
+    <string name="cloud_nothing" formatted="false">Ingen molnsäkerhetskopia att återställa.</string>
+    <string name="cloud_system_restore" formatted="false">Systemet återställer den här säkerhetskopian av sig självt när du installerar om appen eller ställer in en ny enhet.</string>
+    <string name="settings" formatted="false">Inställningar</string>
+    <string name="rules_title" formatted="false">Beräkningsregler</string>
+    <string name="rule_fr" formatted="false">Fransk kilometertabell</string>
+    <string name="rule_generic" formatted="false">Fast belopp per kilometer</string>
+    <string name="generic_rate" formatted="false">Belopp per kilometer</string>
+    <string name="currency" formatted="false">Valuta</string>
+    <string name="home_label" formatted="false">Namn på ditt hem</string>
+    <string name="work_label" formatted="false">Namn på din arbetsplats</string>
+    <string name="home_work_distance" formatted="false">Avstånd hem–arbete (enkel väg, km)</string>
+    <string name="places_help" formatted="false">Används av favoritresor och av historikimporten.</string>
+    <string name="pro_title" formatted="false">Pro-version</string>
+    <string name="pro_subtitle" formatted="false">Allt du behöver för dina faktiska kostnader, och inga annonser.</string>
+    <string name="pro_features_title" formatted="false">Upplåsta funktioner:</string>
+    <string name="pro_feature_unlimited" formatted="false">Obegränsat antal resor.</string>
+    <string name="pro_feature_estimation" formatted="false">Uppskattning av faktiska kostnader och jämförelse med schablonavdraget.</string>
+    <string name="pro_feature_export" formatted="false">Fullständig, certifierad export (ren PDF, kalkylformat redo för din revisor eller deklaration).</string>
+    <string name="pro_feature_import" formatted="false">Import av telefonens resehistorik.</string>
+    <string name="pro_feature_expenses" formatted="false">Vägtullar, parkering och bränsle läggs till i uppskattningen.</string>
+    <string name="pro_feature_cloud" formatted="false">Återställning från en säkerhetskopia och synkronisering mellan dina enheter.</string>
+    <string name="pro_feature_widgets" formatted="false">Widget på hemskärmen.</string>
+    <string name="pro_feature_watch" formatted="false">Klock-app.</string>
+    <string name="pro_feature_no_ads" formatted="false">Inga annonser alls.</string>
+    <string name="pro_feature_gps" formatted="false">Automatisk GPS-spårning (rörelsedetektering eller Bluetooth-anslutning till bilen).</string>
+    <string name="pro_feature_scan" formatted="false">Smart skanning (OCR) av kvitton för vägtullar, parkering och bränsle med kameran.</string>
+    <string name="pro_monthly">%1$s per månad</string>
+    <string name="pro_yearly">%1$s per år</string>
+    <string name="pro_yearly_hint" formatted="false">Två månader gratis jämfört med månadsvis</string>
+    <string name="subscribe" formatted="false">Prenumerera</string>
+    <string name="restore_purchases" formatted="false">Återställ köp</string>
+    <string name="pro_active" formatted="false">Pro-versionen är aktiv</string>
+    <string name="pro_active_since">Prenumeration: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Köp är inte tillgängliga i den här versionen av appen.</string>
+    <string name="pro_legal" formatted="false">Prenumeration som förnyas automatiskt och debiteras ditt butikskonto. Kan sägas upp när som helst i butikens inställningar; priset debiteras för nästa period om inte prenumerationen sägs upp minst 24 timmar innan den löper ut.</string>
+    <string name="purchase_pending" formatted="false">Köp pågår…</string>
+    <string name="purchase_failed" formatted="false">Köpet slutfördes inte.</string>
+    <string name="purchase_restored" formatted="false">Köp återställda.</string>
+    <string name="purchase_nothing" formatted="false">Inget att återställa.</string>
+    <string name="rewarded_title" formatted="false">Prova med en annons</string>
+    <string name="rewarded_explain" formatted="false">Titta på en kort annons för att låsa upp detta ett tag. Pro tar bort annonserna och låser upp allt.</string>
+    <string name="rewarded_estimation" formatted="false">Se uppskattningen i 24 timmar</string>
+    <string name="rewarded_export" formatted="false">En export, inom en timme</string>
+    <string name="rewarded_trips" formatted="false">5 resor till denna månad</string>
+    <string name="rewarded_watch" formatted="false">Titta på en annons</string>
+    <string name="rewarded_unavailable" formatted="false">Ingen annons tillgänglig just nu. Försök igen om en stund.</string>
+    <string name="rewarded_granted" formatted="false">Upplåst. Trevlig resa!</string>
+    <string name="expenses" formatted="false">Utgifter</string>
+    <string name="add_expense" formatted="false">Ny utgift</string>
+    <string name="edit_expense" formatted="false">Redigera utgift</string>
+    <string name="expense_kind" formatted="false">Typ</string>
+    <string name="kind_toll" formatted="false">Vägtull</string>
+    <string name="kind_parking" formatted="false">Parkering</string>
+    <string name="kind_fuel" formatted="false">Bränsle</string>
+    <string name="kind_other" formatted="false">Annat</string>
+    <string name="amount" formatted="false">Belopp</string>
+    <string name="place" formatted="false">Plats</string>
+    <string name="litres" formatted="false">Liter</string>
+    <string name="odometer" formatted="false">Mätarställning</string>
+    <string name="no_expenses" formatted="false">Inga utgifter. Vägtullar och parkering läggs till i uppskattningen.</string>
+    <string name="invalid_amount" formatted="false">Ange ett belopp som är större än 0.</string>
+    <string name="legal_title" formatted="false">Juridik och integritet</string>
+    <string name="privacy_text" formatted="false">Alla dina data stannar på din enhet. Appen kräver inget konto och skickar ingenting till någon server. De enda utbytena med omvärlden är de du själv startar, en export, en säkerhetskopia eller ett köp, samt annonserna i gratisversionen, som Pro-versionen tar bort.</string>
+    <string name="about" formatted="false">Om</string>
+    <string name="version">Version %1$s</string>
+    <string name="error_generic" formatted="false">Något gick fel.</string>
+    <string name="today" formatted="false">I dag</string>
+    <string name="yesterday" formatted="false">I går</string>
+    <string name="ads_privacy_options" formatted="false">Integritetsalternativ för annonser</string>
+    <string name="ads_disabled_title" formatted="false">Annonser är avstängda</string>
+    <string name="ads_disabled_text" formatted="false">Systemet anger att det här kontot tillhör en ung användare. Appen visar därför inga annonser och ber inte om något samtycke. Ingen annonsidentifierare läses och inga data samlas in eller skickas.</string>
+    <string name="watch_quick_add" formatted="false">Snabb resa</string>
+    <string name="watch_no_favorites" formatted="false">Lägg till favoritresor på din telefon.</string>
+    <string name="watch_added" formatted="false">Tillagd</string>
+    <string name="watch_open_phone" formatted="false">Öppna appen på telefonen</string>
+    <string name="widget_today" formatted="false">I dag</string>
+    <string name="widget_month" formatted="false">Denna månad</string>
+    <string name="widget_pro_needed" formatted="false">Widget tillgänglig med Pro</string>
+</resources>

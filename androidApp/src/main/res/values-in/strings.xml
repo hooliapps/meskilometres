@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometer</string>
+    <string name="widget_name" formatted="false">Perjalanan</string>
+    <string name="widget_description" formatted="false">Kilometer hari ini dan perjalanan favorit Anda dalam satu ketukan.</string>
+    <string name="tab_trips" formatted="false">Perjalanan</string>
+    <string name="tab_estimate" formatted="false">Estimasi</string>
+    <string name="tab_more" formatted="false">Lainnya</string>
+    <string name="this_month" formatted="false">Bulan ini</string>
+    <string name="this_year" formatted="false">Tahun ini</string>
+    <string name="trips_count">Perjalanan: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Perjalanan baru</string>
+    <string name="free_remaining">Sisa perjalanan gratis bulan ini: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Batas gratis bulan ini tercapai</string>
+    <string name="free_quota_reached" formatted="false">Versi gratis memungkinkan 5 perjalanan per bulan. Beralih ke Pro untuk perjalanan tanpa batas, atau tonton iklan untuk 5 perjalanan lagi.</string>
+    <string name="go_pro" formatted="false">Beralih ke Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Belum ada perjalanan.\nKetuk + untuk mencatat yang pertama.</string>
+    <string name="trip_new" formatted="false">Perjalanan baru</string>
+    <string name="trip_edit" formatted="false">Edit perjalanan</string>
+    <string name="field_date" formatted="false">Tanggal</string>
+    <string name="field_from" formatted="false">Dari</string>
+    <string name="field_to" formatted="false">Ke</string>
+    <string name="field_distance" formatted="false">Jarak sekali jalan (km)</string>
+    <string name="field_round_trip" formatted="false">Pulang pergi</string>
+    <string name="field_purpose" formatted="false">Tujuan</string>
+    <string name="field_vehicle" formatted="false">Kendaraan</string>
+    <string name="field_note" formatted="false">Catatan</string>
+    <string name="field_justified" formatted="false">Keadaan khusus</string>
+    <string name="field_justified_help" formatted="false">Centang jika jarak rumah ke tempat kerja melebihi 40 km karena alasan tertentu, atau untuk perjalanan pulang pergi tambahan yang beralasan di hari yang sama.</string>
+    <string name="purpose_commute" formatted="false">Rumah-kerja</string>
+    <string name="purpose_business" formatted="false">Bisnis</string>
+    <string name="purpose_personal" formatted="false">Pribadi</string>
+    <string name="save" formatted="false">Simpan</string>
+    <string name="cancel" formatted="false">Batal</string>
+    <string name="delete" formatted="false">Hapus</string>
+    <string name="edit" formatted="false">Edit</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Tutup</string>
+    <string name="back" formatted="false">Kembali</string>
+    <string name="confirm_delete" formatted="false">Hapus secara permanen?</string>
+    <string name="invalid_distance" formatted="false">Masukkan jarak lebih dari 0.</string>
+    <string name="favorites" formatted="false">Favorit</string>
+    <string name="save_as_favorite" formatted="false">Simpan juga sebagai favorit</string>
+    <string name="favorite_label" formatted="false">Nama favorit</string>
+    <string name="no_favorites" formatted="false">Simpan perjalanan sebagai favorit untuk mencatatnya dalam satu ketukan.</string>
+    <string name="use_favorite" formatted="false">Perjalanan favorit</string>
+    <string name="swap" formatted="false">Tukar</string>
+    <string name="quick_add_hint" formatted="false">Ketuk favorit untuk menambahkannya hari ini.</string>
+    <string name="added" formatted="false">Perjalanan ditambahkan.</string>
+    <string name="undo" formatted="false">Urungkan</string>
+    <string name="vehicles" formatted="false">Kendaraan</string>
+    <string name="add_vehicle" formatted="false">Tambah kendaraan</string>
+    <string name="edit_vehicle" formatted="false">Edit kendaraan</string>
+    <string name="vehicle_name" formatted="false">Nama</string>
+    <string name="vehicle_kind" formatted="false">Jenis</string>
+    <string name="kind_car" formatted="false">Mobil</string>
+    <string name="kind_motorcycle" formatted="false">Sepeda motor</string>
+    <string name="kind_moped" formatted="false">Moped</string>
+    <string name="fiscal_power" formatted="false">Daya fiskal (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV ke atas</string>
+    <string name="cv_or_less">%1$d CV ke bawah</string>
+    <string name="cv_range_3_5" formatted="false">3 sampai 5 CV</string>
+    <string name="electric" formatted="false">Kendaraan listrik</string>
+    <string name="no_vehicle" formatted="false">Belum ada kendaraan. Tambahkan satu: estimasi memerlukannya.</string>
+    <string name="default_vehicle" formatted="false">Kendaraan utama</string>
+    <string name="vehicle_needed" formatted="false">Tambahkan kendaraan terlebih dahulu di Lainnya &gt; Kendaraan.</string>
+    <string name="estimation" formatted="false">Estimasi biaya riil</string>
+    <string name="income_year">Tahun penghasilan %1$d</string>
+    <string name="estimation_locked" formatted="false">Estimasi biaya riil, ekspor, impor riwayat, dan pemulihan cadangan termasuk dalam versi Pro.</string>
+    <string name="disclaimer_short" formatted="false">Estimasi indikatif, tidak dijamin.</string>
+    <string name="disclaimer_long" formatted="false">Estimasi ini bersifat indikatif dan tidak dijamin. Ini bukan nasihat pajak dan tidak menggantikan peraturan resmi, otoritas pajak, atau tenaga profesional. Periksa aturan yang berlaku untuk situasi Anda sebelum melapor.</string>
+    <string name="commute_km_raw" formatted="false">Km rumah-kerja dimasukkan</string>
+    <string name="commute_km_retained" formatted="false">Km rumah-kerja dihitung</string>
+    <string name="business_km" formatted="false">Km bisnis</string>
+    <string name="retained_km" formatted="false">Km dihitung</string>
+    <string name="allowance" formatted="false">Tunjangan kilometer</string>
+    <string name="tolls_parking" formatted="false">Tol dan parkir</string>
+    <string name="total" formatted="false">Total estimasi</string>
+    <string name="flat_deduction" formatted="false">Potongan tetap 10%</string>
+    <string name="real_better" formatted="false">Biaya riil tampak lebih menguntungkan daripada potongan tetap.</string>
+    <string name="flat_better" formatted="false">Potongan tetap tampak lebih menguntungkan daripada biaya riil.</string>
+    <string name="enter_salary" formatted="false">Masukkan gaji bersih kena pajak tahunan Anda untuk dibandingkan dengan potongan tetap.</string>
+    <string name="net_taxable_salary" formatted="false">Gaji bersih kena pajak tahunan</string>
+    <string name="per_vehicle" formatted="false">Per kendaraan</string>
+    <string name="note_scale_unconfirmed" formatted="false">Tarif tahun ini belum diterbitkan: tarif terakhir yang diketahui diterapkan.</string>
+    <string name="note_cap_applied" formatted="false">Satu atau lebih perjalanan rumah-kerja dibatasi 40 km karena tidak ada keadaan khusus yang dinyatakan.</string>
+    <string name="note_extra_legs" formatted="false">Di luar satu perjalanan pulang pergi rumah-kerja per hari, perjalanan tanpa keadaan khusus tidak dihitung.</string>
+    <string name="note_no_vehicle" formatted="false">Perjalanan tanpa kendaraan diabaikan: pilih kendaraan utama.</string>
+    <string name="note_fuel">Bahan bakar yang dimasukkan (%1$s) tidak ditambahkan: tarif kilometer sudah mencakupnya.</string>
+    <string name="note_no_salary" formatted="false">Gaji belum dimasukkan: tidak ada perbandingan dengan potongan tetap.</string>
+    <string name="documents_title" formatted="false">Dokumen yang harus disimpan</string>
+    <string name="documents_list" formatted="false">Surat tanda kendaraan\nKontrak kerja atau surat keterangan dari pemberi kerja\nCatatan hari kerja\nStruk tol dan parkir\nSegala bukti pendukung keadaan khusus</string>
+    <string name="export" formatted="false">Ekspor</string>
+    <string name="export_title" formatted="false">Ekspor</string>
+    <string name="export_pdf" formatted="false">Laporan PDF</string>
+    <string name="export_xlsx" formatted="false">Buku kerja spreadsheet</string>
+    <string name="export_csv" formatted="false">Berkas CSV</string>
+    <string name="export_period" formatted="false">Periode</string>
+    <string name="year" formatted="false">Tahun</string>
+    <string name="export_from" formatted="false">Dari</string>
+    <string name="export_to" formatted="false">Sampai</string>
+    <string name="export_include_estimation" formatted="false">Sertakan estimasi tahun ini</string>
+    <string name="export_share" formatted="false">Berkas terbuka di lembar berbagi: simpan atau kirim.</string>
+    <string name="export_failed" formatted="false">Ekspor gagal.</string>
+    <string name="report_title" formatted="false">Laporan kilometer</string>
+    <string name="generated_on">Dibuat pada %1$s</string>
+    <string name="yes" formatted="false">ya</string>
+    <string name="no" formatted="false">tidak</string>
+    <string name="import_title" formatted="false">Impor riwayat</string>
+    <string name="import_help" formatted="false">Jika ponsel Anda menyimpan riwayat lokasi Anda, Anda dapat mengekspornya sebagai berkas JSON dari aplikasi yang mengelolanya, lalu membukanya di sini. Hanya perjalanan dengan kendaraan yang dibaca. Berkas tidak disimpan: hanya tanggal, jarak, dan, jika diketahui, titik awal dan tujuan yang disimpan.</string>
+    <string name="import_pick" formatted="false">Pilih berkas</string>
+    <string name="import_reading" formatted="false">Membaca…</string>
+    <string name="import_found">Perjalanan kendaraan ditemukan: %1$d</string>
+    <string name="import_skipped">Perjalanan lain diabaikan (jalan kaki, sepeda, transportasi umum): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Tujuan untuk perjalanan yang tidak dikenali sebagai rumah-kerja</string>
+    <string name="import_period">Dari %1$s sampai %2$s</string>
+    <string name="import_confirm">Impor %1$d perjalanan</string>
+    <string name="import_done">Perjalanan diimpor: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Tidak ada perjalanan baru: semuanya sudah diimpor.</string>
+    <string name="import_unreadable" formatted="false">Berkas ini bukan riwayat lokasi yang dapat dibaca.</string>
+    <string name="import_commute_hint" formatted="false">Perjalanan antara rumah dan tempat kerja Anda dikenali saat berkas menandainya; perjalanan itu mendapat tujuan rumah-kerja.</string>
+    <string name="backup_title" formatted="false">Cadangan</string>
+    <string name="backup_explain" formatted="false">Data Anda hanya meninggalkan perangkat jika Anda memutuskannya. Cadangan adalah berkas yang dapat Anda simpan di mana saja dan pulihkan di perangkat mana pun.</string>
+    <string name="backup_export" formatted="false">Ekspor cadangan</string>
+    <string name="backup_restore" formatted="false">Pulihkan cadangan</string>
+    <string name="backup_restore_help" formatted="false">Pemulihan menggabungkan data: tidak ada yang Anda masukkan sejak itu yang hilang.</string>
+    <string name="backup_restored">Cadangan dipulihkan: total %1$d perjalanan.</string>
+    <string name="backup_invalid" formatted="false">Berkas ini bukan cadangan dari aplikasi ini.</string>
+    <string name="cloud_title" formatted="false">Cadangan cloud</string>
+    <string name="cloud_explain" formatted="false">Salinan otomatis data Anda di ruang cloud perangkat Anda, tanpa akun tambahan. Diperbarui setelah setiap perubahan.</string>
+    <string name="cloud_now" formatted="false">Cadangkan sekarang</string>
+    <string name="cloud_restore" formatted="false">Pulihkan dari cloud</string>
+    <string name="cloud_last">Cadangan cloud terakhir: %1$s</string>
+    <string name="cloud_never" formatted="false">Belum ada cadangan cloud.</string>
+    <string name="cloud_unavailable" formatted="false">Cadangan cloud tidak tersedia di perangkat ini. Gunakan ekspor cadangan.</string>
+    <string name="cloud_done" formatted="false">Cadangan cloud selesai.</string>
+    <string name="cloud_nothing" formatted="false">Tidak ada cadangan cloud untuk dipulihkan.</string>
+    <string name="cloud_system_restore" formatted="false">Sistem memulihkan cadangan ini dengan sendirinya saat Anda memasang ulang aplikasi atau menyiapkan perangkat baru.</string>
+    <string name="settings" formatted="false">Pengaturan</string>
+    <string name="rules_title" formatted="false">Aturan perhitungan</string>
+    <string name="rule_fr" formatted="false">Tarif kilometer Prancis</string>
+    <string name="rule_generic" formatted="false">Tarif tetap per kilometer</string>
+    <string name="generic_rate" formatted="false">Tarif per kilometer</string>
+    <string name="currency" formatted="false">Mata uang</string>
+    <string name="home_label" formatted="false">Nama rumah Anda</string>
+    <string name="work_label" formatted="false">Nama tempat kerja Anda</string>
+    <string name="home_work_distance" formatted="false">Jarak rumah-kerja (sekali jalan, km)</string>
+    <string name="places_help" formatted="false">Digunakan oleh perjalanan favorit dan impor riwayat.</string>
+    <string name="pro_title" formatted="false">Versi Pro</string>
+    <string name="pro_subtitle" formatted="false">Semua yang Anda perlukan untuk biaya riil, tanpa iklan.</string>
+    <string name="pro_features_title" formatted="false">Fitur yang terbuka:</string>
+    <string name="pro_feature_unlimited" formatted="false">Perjalanan tanpa batas.</string>
+    <string name="pro_feature_estimation" formatted="false">Estimasi biaya riil dan perbandingan dengan potongan tetap.</string>
+    <string name="pro_feature_export" formatted="false">Ekspor lengkap dan tersertifikasi (PDF rapi, format spreadsheet siap untuk akuntan atau laporan pajak Anda).</string>
+    <string name="pro_feature_import" formatted="false">Impor riwayat perjalanan dari ponsel Anda.</string>
+    <string name="pro_feature_expenses" formatted="false">Tol, parkir, dan bahan bakar ditambahkan ke estimasi.</string>
+    <string name="pro_feature_cloud" formatted="false">Pemulihan dari berkas cadangan, dan sinkronisasi antar perangkat Anda.</string>
+    <string name="pro_feature_widgets" formatted="false">Widget layar utama.</string>
+    <string name="pro_feature_watch" formatted="false">Aplikasi jam tangan.</string>
+    <string name="pro_feature_no_ads" formatted="false">Tanpa iklan sama sekali.</string>
+    <string name="pro_feature_gps" formatted="false">Pelacakan GPS otomatis (deteksi gerakan atau koneksi Bluetooth ke mobil).</string>
+    <string name="pro_feature_scan" formatted="false">Pemindaian cerdas (OCR) struk tol, parkir, dan bahan bakar dengan kamera.</string>
+    <string name="pro_monthly">%1$s per bulan</string>
+    <string name="pro_yearly">%1$s per tahun</string>
+    <string name="pro_yearly_hint" formatted="false">Gratis dua bulan dibandingkan bulanan</string>
+    <string name="subscribe" formatted="false">Berlangganan</string>
+    <string name="restore_purchases" formatted="false">Pulihkan pembelian</string>
+    <string name="pro_active" formatted="false">Versi Pro aktif</string>
+    <string name="pro_active_since">Langganan: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Pembelian tidak tersedia di versi aplikasi ini.</string>
+    <string name="pro_legal" formatted="false">Langganan yang diperpanjang otomatis, ditagihkan ke akun toko Anda. Dapat dibatalkan kapan saja di pengaturan toko; harga ditagihkan untuk periode berikutnya kecuali dibatalkan setidaknya 24 jam sebelum berakhir.</string>
+    <string name="purchase_pending" formatted="false">Pembelian sedang diproses…</string>
+    <string name="purchase_failed" formatted="false">Pembelian tidak selesai.</string>
+    <string name="purchase_restored" formatted="false">Pembelian dipulihkan.</string>
+    <string name="purchase_nothing" formatted="false">Tidak ada yang perlu dipulihkan.</string>
+    <string name="rewarded_title" formatted="false">Coba dengan iklan</string>
+    <string name="rewarded_explain" formatted="false">Tonton iklan singkat untuk membuka fitur ini sementara waktu. Pro menghapus iklan dan membuka semuanya.</string>
+    <string name="rewarded_estimation" formatted="false">Lihat estimasi selama 24 jam</string>
+    <string name="rewarded_export" formatted="false">Satu ekspor, dalam satu jam</string>
+    <string name="rewarded_trips" formatted="false">5 perjalanan lagi bulan ini</string>
+    <string name="rewarded_watch" formatted="false">Tonton iklan</string>
+    <string name="rewarded_unavailable" formatted="false">Tidak ada iklan yang tersedia saat ini. Coba lagi sebentar lagi.</string>
+    <string name="rewarded_granted" formatted="false">Terbuka. Selamat menikmati!</string>
+    <string name="expenses" formatted="false">Biaya</string>
+    <string name="add_expense" formatted="false">Biaya baru</string>
+    <string name="edit_expense" formatted="false">Edit biaya</string>
+    <string name="expense_kind" formatted="false">Jenis</string>
+    <string name="kind_toll" formatted="false">Tol</string>
+    <string name="kind_parking" formatted="false">Parkir</string>
+    <string name="kind_fuel" formatted="false">Bahan bakar</string>
+    <string name="kind_other" formatted="false">Lainnya</string>
+    <string name="amount" formatted="false">Jumlah</string>
+    <string name="place" formatted="false">Tempat</string>
+    <string name="litres" formatted="false">Liter</string>
+    <string name="odometer" formatted="false">Angka odometer</string>
+    <string name="no_expenses" formatted="false">Belum ada biaya. Tol dan parkir ditambahkan ke estimasi.</string>
+    <string name="invalid_amount" formatted="false">Masukkan jumlah lebih dari 0.</string>
+    <string name="legal_title" formatted="false">Hukum dan privasi</string>
+    <string name="privacy_text" formatted="false">Semua data Anda tetap di perangkat Anda. Aplikasi tidak memerlukan akun dan tidak mengirim apa pun ke server. Satu-satunya pertukaran dengan pihak luar adalah yang Anda picu sendiri, yaitu ekspor, cadangan, atau pembelian, serta iklan di versi gratis yang dihapus oleh versi Pro.</string>
+    <string name="about" formatted="false">Tentang</string>
+    <string name="version">Versi %1$s</string>
+    <string name="error_generic" formatted="false">Terjadi kesalahan.</string>
+    <string name="today" formatted="false">Hari ini</string>
+    <string name="yesterday" formatted="false">Kemarin</string>
+    <string name="ads_privacy_options" formatted="false">Opsi privasi iklan</string>
+    <string name="ads_disabled_title" formatted="false">Iklan dinonaktifkan</string>
+    <string name="ads_disabled_text" formatted="false">Sistem menunjukkan bahwa akun ini milik pengguna muda. Oleh karena itu, aplikasi tidak menampilkan iklan dan tidak meminta persetujuan. Tidak ada pengenal iklan yang dibaca dan tidak ada data yang dikumpulkan atau dikirim.</string>
+    <string name="watch_quick_add" formatted="false">Perjalanan cepat</string>
+    <string name="watch_no_favorites" formatted="false">Tambahkan perjalanan favorit di ponsel Anda.</string>
+    <string name="watch_added" formatted="false">Ditambahkan</string>
+    <string name="watch_open_phone" formatted="false">Buka aplikasi ponsel</string>
+    <string name="widget_today" formatted="false">Hari ini</string>
+    <string name="widget_month" formatted="false">Bulan ini</string>
+    <string name="widget_pro_needed" formatted="false">Widget tersedia dengan Pro</string>
+</resources>

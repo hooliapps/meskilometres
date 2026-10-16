@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Amakhilomitha</string>
+    <string name="widget_name" formatted="false">Uhambo</string>
+    <string name="widget_description" formatted="false">Amakhilomitha anamuhla nohambo lwakho oluyintandokazi ngokuthepha kanye.</string>
+    <string name="tab_trips" formatted="false">Uhambo</string>
+    <string name="tab_estimate" formatted="false">Isilinganiso</string>
+    <string name="tab_more" formatted="false">Okunye</string>
+    <string name="this_month" formatted="false">Kule nyanga</string>
+    <string name="this_year" formatted="false">Kulo nyaka</string>
+    <string name="trips_count">Uhambo: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Uhambo olusha</string>
+    <string name="free_remaining">Uhambo lwamahhala olusele kule nyanga: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Umkhawulo wamahhala wale nyanga ufinyelelwe</string>
+    <string name="free_quota_reached" formatted="false">Inguqulo yamahhala ivumela uhambo olungu-5 ngenyanga. Thatha i-Pro ukuze uthole uhambo olungenamkhawulo, noma ubuke isikhangiso ukuze uthole olunye olungu-5.</string>
+    <string name="go_pro" formatted="false">Thatha i-Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Alukho uhambo okwamanje.\nThepha u-+ ukuze ubhale olokuqala.</string>
+    <string name="trip_new" formatted="false">Uhambo olusha</string>
+    <string name="trip_edit" formatted="false">Hlela uhambo</string>
+    <string name="field_date" formatted="false">Usuku</string>
+    <string name="field_from" formatted="false">Kusuka</string>
+    <string name="field_to" formatted="false">Kuya</string>
+    <string name="field_distance" formatted="false">Ibanga lohambo olulodwa (km)</string>
+    <string name="field_round_trip" formatted="false">Ukuya nokubuya</string>
+    <string name="field_purpose" formatted="false">Inhloso</string>
+    <string name="field_vehicle" formatted="false">Imoto</string>
+    <string name="field_note" formatted="false">Inothi</string>
+    <string name="field_justified" formatted="false">Izimo ezikhethekile</string>
+    <string name="field_justified_help" formatted="false">Maka uma ibanga lasekhaya kuya emsebenzini lidlula ama-km angu-40 ngesizathu esithile, noma uhambo olwengeziwe lokuya nokubuya olunesizathu ngosuku olufanayo.</string>
+    <string name="purpose_commute" formatted="false">Ikhaya-umsebenzi</string>
+    <string name="purpose_business" formatted="false">Umsebenzi</string>
+    <string name="purpose_personal" formatted="false">Okwakho</string>
+    <string name="save" formatted="false">Londoloza</string>
+    <string name="cancel" formatted="false">Khansela</string>
+    <string name="delete" formatted="false">Susa</string>
+    <string name="edit" formatted="false">Hlela</string>
+    <string name="ok" formatted="false">Kulungile</string>
+    <string name="close" formatted="false">Vala</string>
+    <string name="back" formatted="false">Emuva</string>
+    <string name="confirm_delete" formatted="false">Susa unomphela?</string>
+    <string name="invalid_distance" formatted="false">Faka ibanga elingaphezu kuka-0.</string>
+    <string name="favorites" formatted="false">Izintandokazi</string>
+    <string name="save_as_favorite" formatted="false">Londoloza nanjengentandokazi</string>
+    <string name="favorite_label" formatted="false">Igama lentandokazi</string>
+    <string name="no_favorites" formatted="false">Londoloza uhambo njengentandokazi ukuze ulubhale ngokuthepha kanye.</string>
+    <string name="use_favorite" formatted="false">Uhambo oluyintandokazi</string>
+    <string name="swap" formatted="false">Shintshanisa</string>
+    <string name="quick_add_hint" formatted="false">Thepha intandokazi ukuze uyengeze namuhla.</string>
+    <string name="added" formatted="false">Uhambo lwengeziwe.</string>
+    <string name="undo" formatted="false">Hlehlisa</string>
+    <string name="vehicles" formatted="false">Izimoto</string>
+    <string name="add_vehicle" formatted="false">Engeza imoto</string>
+    <string name="edit_vehicle" formatted="false">Hlela imoto</string>
+    <string name="vehicle_name" formatted="false">Igama</string>
+    <string name="vehicle_kind" formatted="false">Uhlobo</string>
+    <string name="kind_car" formatted="false">Imoto</string>
+    <string name="kind_motorcycle" formatted="false">Isithuthuthu</string>
+    <string name="kind_moped" formatted="false">Isithuthuthu esincane</string>
+    <string name="fiscal_power" formatted="false">Amandla ehhashi entela (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV nangaphezulu</string>
+    <string name="cv_or_less">%1$d CV nangaphansi</string>
+    <string name="cv_range_3_5" formatted="false">3 kuya ku-5 CV</string>
+    <string name="electric" formatted="false">Imoto kagesi</string>
+    <string name="no_vehicle" formatted="false">Ayikho imoto. Engeza eyodwa: isilinganiso siyayidinga.</string>
+    <string name="default_vehicle" formatted="false">Imoto ezenzakalelayo</string>
+    <string name="vehicle_needed" formatted="false">Qala wengeze imoto ku-Okunye &gt; Izimoto.</string>
+    <string name="estimation" formatted="false">Isilinganiso sezindleko zangempela</string>
+    <string name="income_year">Unyaka weholo %1$d</string>
+    <string name="estimation_locked" formatted="false">Isilinganiso sezindleko zangempela, ukuthumela ngaphandle, ukungenisa umlando nokubuyisela ikhophi yokulondoloza kuyingxenye yenguqulo ye-Pro.</string>
+    <string name="disclaimer_short" formatted="false">Isilinganiso esiyisiqondiso nje, asiqinisekisiwe.</string>
+    <string name="disclaimer_long" formatted="false">Lesi silinganiso siyisiqondiso nje futhi asiqinisekisiwe. Asiyona iseluleko sentela futhi asithathi indawo yemibhalo esemthethweni, yabaphathi bentela noma yochwepheshe. Hlola imithetho esebenza esimweni sakho ngaphambi kokufaka isitatimende.</string>
+    <string name="commute_km_raw" formatted="false">Ama-km ekhaya-umsebenzi afakiwe</string>
+    <string name="commute_km_retained" formatted="false">Ama-km ekhaya-umsebenzi agciniwe</string>
+    <string name="business_km" formatted="false">Ama-km omsebenzi</string>
+    <string name="retained_km" formatted="false">Ama-km agciniwe</string>
+    <string name="allowance" formatted="false">Isabelo samakhilomitha</string>
+    <string name="tolls_parking" formatted="false">Izimali zomgwaqo nokupaka</string>
+    <string name="total" formatted="false">Isamba esilinganisiwe</string>
+    <string name="flat_deduction" formatted="false">Ukudonswa okujwayelekile kuka-10%</string>
+    <string name="real_better" formatted="false">Izindleko zangempela zibonakala zizuzisa kakhulu kunokudonswa okujwayelekile.</string>
+    <string name="flat_better" formatted="false">Ukudonswa okujwayelekile kubonakala kuzuzisa kakhulu kunezindleko zangempela.</string>
+    <string name="enter_salary" formatted="false">Faka iholo lakho lonyaka elihlanzekile elikhokhelwa intela ukuze uqhathanise nokudonswa okujwayelekile.</string>
+    <string name="net_taxable_salary" formatted="false">Iholo lonyaka elihlanzekile elikhokhelwa intela</string>
+    <string name="per_vehicle" formatted="false">Ngemoto ngayinye</string>
+    <string name="note_scale_unconfirmed" formatted="false">Ithebula lalo nyaka alikashicilelwa: kusetshenziswa ithebula lokugcina elaziwayo.</string>
+    <string name="note_cap_applied" formatted="false">Uhambo olulodwa noma ngaphezulu lwekhaya-umsebenzi lwehliselwe kuma-km angu-40, ngoba kungekho zimo ezikhethekile ezimenyezelwe.</string>
+    <string name="note_extra_legs" formatted="false">Ngaphezu kohambo olulodwa lokuya nokubuya ekhaya-umsebenzi ngosuku, uhambo olungenazo izimo ezikhethekile lushiyiwe.</string>
+    <string name="note_no_vehicle" formatted="false">Uhambo olungenamoto lushaywe indiva: khetha imoto ezenzakalelayo.</string>
+    <string name="note_fuel">Uphethiloli ofakiwe (%1$s) awengezwa: ithebula lamakhilomitha selivele liwufaka.</string>
+    <string name="note_no_salary" formatted="false">Iholo alifakiwe: akukho kuqhathanisa nokudonswa okujwayelekile.</string>
+    <string name="documents_title" formatted="false">Amadokhumenti okufanele uwagcine</string>
+    <string name="documents_list" formatted="false">Idokhumenti yokubhaliswa kwemoto\nInkontileka yomsebenzi noma isitifiketi somqashi\nIrekhodi lezinsuku ezisetshenziwe\nAmarisidi ezimali zomgwaqo nokupaka\nNoma yini esekela izimo ezikhethekile</string>
+    <string name="export" formatted="false">Thumela ngaphandle</string>
+    <string name="export_title" formatted="false">Ukuthumela ngaphandle</string>
+    <string name="export_pdf" formatted="false">Umbiko we-PDF</string>
+    <string name="export_xlsx" formatted="false">Ifayela lespredishithi</string>
+    <string name="export_csv" formatted="false">Ifayela le-CSV</string>
+    <string name="export_period" formatted="false">Isikhathi</string>
+    <string name="year" formatted="false">Unyaka</string>
+    <string name="export_from" formatted="false">Kusuka</string>
+    <string name="export_to" formatted="false">Kuya</string>
+    <string name="export_include_estimation" formatted="false">Faka isilinganiso sonyaka</string>
+    <string name="export_share" formatted="false">Ifayela livuleka ewindini lokwabelana: lilondoloze noma ulithumele.</string>
+    <string name="export_failed" formatted="false">Ukuthumela ngaphandle kuhlulekile.</string>
+    <string name="report_title" formatted="false">Umbiko wamakhilomitha</string>
+    <string name="generated_on">Kwenziwe ngomhla %1$s</string>
+    <string name="yes" formatted="false">yebo</string>
+    <string name="no" formatted="false">cha</string>
+    <string name="import_title" formatted="false">Ngenisa umlando</string>
+    <string name="import_help" formatted="false">Uma ifoni yakho igcina umlando wezindawo zakho, ungawuthumela ngaphandle njengefayela le-JSON kusuka ku-app ewuphethe, bese uwuvula lapha. Kufundwa uhambo lwemoto kuphela. Ifayela aligcinwa: kugcinwa usuku, ibanga, futhi uma kwaziwa, indawo yokusuka neyokuya kuphela.</string>
+    <string name="import_pick" formatted="false">Khetha ifayela</string>
+    <string name="import_reading" formatted="false">Iyafunda…</string>
+    <string name="import_found">Uhambo lwemoto olutholiwe: %1$d</string>
+    <string name="import_skipped">Olunye uhambo olushaywe indiva (ngezinyawo, ngebhayisikili, ngezithuthi): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Inhloso yohambo olungabonwanga njengekhaya-umsebenzi</string>
+    <string name="import_period">Kusuka %1$s kuya %2$s</string>
+    <string name="import_confirm">Ngenisa uhambo olungu-%1$d</string>
+    <string name="import_done">Uhambo olungenisiwe: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Alukho uhambo olusha: belulungenisiwe kakade.</string>
+    <string name="import_unreadable" formatted="false">Leli fayela akuwona umlando wezindawo ofundekayo.</string>
+    <string name="import_commute_hint" formatted="false">Uhambo phakathi kwekhaya lakho nendawo yakho yomsebenzi luyabonwa uma ifayela liluchaza; luthola inhloso yekhaya-umsebenzi.</string>
+    <string name="backup_title" formatted="false">Ikhophi yokulondoloza</string>
+    <string name="backup_explain" formatted="false">Idatha yakho iphuma kudivayisi yakho kuphela uma unquma. Ikhophi yokulondoloza iyifayela ongaligcina noma kuphi futhi ulibuyisele kunoma iyiphi idivayisi.</string>
+    <string name="backup_export" formatted="false">Thumela ikhophi yokulondoloza</string>
+    <string name="backup_restore" formatted="false">Buyisela ikhophi yokulondoloza</string>
+    <string name="backup_restore_help" formatted="false">Ukubuyisela kuyahlanganisa: akukho okufakile kusukela lapho okulahlekayo.</string>
+    <string name="backup_restored">Ikhophi yokulondoloza ibuyiselwe: uhambo olungu-%1$d sekukonke.</string>
+    <string name="backup_invalid" formatted="false">Leli fayela akuyona ikhophi yokulondoloza yale app.</string>
+    <string name="cloud_title" formatted="false">Ikhophi yokulondoloza yefu</string>
+    <string name="cloud_explain" formatted="false">Ikhophi ezenzakalelayo yedatha yakho esikhaleni sefu sedivayisi yakho, ngaphandle kwe-akhawunti eyengeziwe. Ivuselelwa ngemva kwalo lonke ushintsho.</string>
+    <string name="cloud_now" formatted="false">Londoloza manje</string>
+    <string name="cloud_restore" formatted="false">Buyisela kusuka efwini</string>
+    <string name="cloud_last">Ikhophi yokugcina yefu: %1$s</string>
+    <string name="cloud_never" formatted="false">Ayikho ikhophi yefu okwamanje.</string>
+    <string name="cloud_unavailable" formatted="false">Ikhophi yokulondoloza yefu ayitholakali kule divayisi. Sebenzisa ukuthumela ikhophi yokulondoloza.</string>
+    <string name="cloud_done" formatted="false">Ikhophi yefu yenziwe.</string>
+    <string name="cloud_nothing" formatted="false">Ayikho ikhophi yefu engabuyiselwa.</string>
+    <string name="cloud_system_restore" formatted="false">Isistimu ibuyisela le khophi ngokwayo uma ufaka i-app kabusha noma usetha idivayisi entsha.</string>
+    <string name="settings" formatted="false">Izilungiselelo</string>
+    <string name="rules_title" formatted="false">Imithetho yokubala</string>
+    <string name="rule_fr" formatted="false">Ithebula lamakhilomitha laseFrance</string>
+    <string name="rule_generic" formatted="false">Izinga elingaguquki ngekhilomitha</string>
+    <string name="generic_rate" formatted="false">Izinga ngekhilomitha</string>
+    <string name="currency" formatted="false">Imali</string>
+    <string name="home_label" formatted="false">Igama lekhaya lakho</string>
+    <string name="work_label" formatted="false">Igama lendawo yakho yomsebenzi</string>
+    <string name="home_work_distance" formatted="false">Ibanga lekhaya-umsebenzi (uhambo olulodwa, km)</string>
+    <string name="places_help" formatted="false">Kusetshenziswa uhambo oluyintandokazi nokungeniswa komlando.</string>
+    <string name="pro_title" formatted="false">Inguqulo ye-Pro</string>
+    <string name="pro_subtitle" formatted="false">Konke okudingayo kwezindleko zakho zangempela, futhi azikho izikhangiso.</string>
+    <string name="pro_features_title" formatted="false">Izici ezivuliwe:</string>
+    <string name="pro_feature_unlimited" formatted="false">Uhambo olungenamkhawulo.</string>
+    <string name="pro_feature_estimation" formatted="false">Isilinganiso sezindleko zangempela nokuqhathanisa nokudonswa okujwayelekile.</string>
+    <string name="pro_feature_export" formatted="false">Ukuthumela ngaphandle okuphelele futhi okuqinisekisiwe (i-PDF ehlanzekile, ifomethi yespredishithi elungele umbalimali wakho noma isitatimende sentela).</string>
+    <string name="pro_feature_import" formatted="false">Ukungenisa umlando wohambo wefoni yakho.</string>
+    <string name="pro_feature_expenses" formatted="false">Izimali zomgwaqo, ukupaka nophethiloli kwengezwa esilinganisweni.</string>
+    <string name="pro_feature_cloud" formatted="false">Ukubuyisela kusuka efayeleni lekhophi yokulondoloza, nokuvumelanisa phakathi kwamadivayisi akho.</string>
+    <string name="pro_feature_widgets" formatted="false">Iwijethi yesikrini sasekhaya.</string>
+    <string name="pro_feature_watch" formatted="false">I-app yewashi.</string>
+    <string name="pro_feature_no_ads" formatted="false">Azikho nhlobo izikhangiso.</string>
+    <string name="pro_feature_gps" formatted="false">Ukulandelela kwe-GPS okuzenzakalelayo (ukubona ukunyakaza noma ukuxhuma kwe-Bluetooth nemoto).</string>
+    <string name="pro_feature_scan" formatted="false">Ukuskena okuhlakaniphile (OCR) kwamarisidi ezimali zomgwaqo, okupaka nophethiloli ngekhamera.</string>
+    <string name="pro_monthly">%1$s ngenyanga</string>
+    <string name="pro_yearly">%1$s ngonyaka</string>
+    <string name="pro_yearly_hint" formatted="false">Izinyanga ezimbili zamahhala uma kuqhathaniswa neyanyanga zonke</string>
+    <string name="subscribe" formatted="false">Bhalisa</string>
+    <string name="restore_purchases" formatted="false">Buyisela okuthengiwe</string>
+    <string name="pro_active" formatted="false">Inguqulo ye-Pro iyasebenza</string>
+    <string name="pro_active_since">Ukubhalisa: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Ukuthenga akutholakali kule nguqulo ye-app.</string>
+    <string name="pro_legal" formatted="false">Ukubhalisa okuzivuselela ngokwako, okukhokhiswa ku-akhawunti yakho yesitolo. Khansela noma nini kuzilungiselelo zesitolo; intengo ikhokhiswa isikhathi esilandelayo ngaphandle uma kukhanselwe okungenani amahora angu-24 ngaphambi kokuphela kwaso.</string>
+    <string name="purchase_pending" formatted="false">Ukuthenga kuyaqhubeka…</string>
+    <string name="purchase_failed" formatted="false">Ukuthenga akuphelelanga.</string>
+    <string name="purchase_restored" formatted="false">Okuthengiwe kubuyiselwe.</string>
+    <string name="purchase_nothing" formatted="false">Akukho okungabuyiselwa.</string>
+    <string name="rewarded_title" formatted="false">Yizame ngesikhangiso</string>
+    <string name="rewarded_explain" formatted="false">Buka isikhangiso esifushane ukuze uvule lokhu isikhashana. I-Pro isusa izikhangiso futhi ivule konke.</string>
+    <string name="rewarded_estimation" formatted="false">Bona isilinganiso amahora angu-24</string>
+    <string name="rewarded_export" formatted="false">Ukuthumela ngaphandle kanye, phakathi kwehora</string>
+    <string name="rewarded_trips" formatted="false">Olunye uhambo olungu-5 kule nyanga</string>
+    <string name="rewarded_watch" formatted="false">Buka isikhangiso</string>
+    <string name="rewarded_unavailable" formatted="false">Asikho isikhangiso esitholakalayo njengamanje. Zama futhi emzuzwaneni.</string>
+    <string name="rewarded_granted" formatted="false">Kuvuliwe. Uhambo oluhle!</string>
+    <string name="expenses" formatted="false">Izindleko</string>
+    <string name="add_expense" formatted="false">Indleko entsha</string>
+    <string name="edit_expense" formatted="false">Hlela indleko</string>
+    <string name="expense_kind" formatted="false">Uhlobo</string>
+    <string name="kind_toll" formatted="false">Imali yomgwaqo</string>
+    <string name="kind_parking" formatted="false">Ukupaka</string>
+    <string name="kind_fuel" formatted="false">Uphethiloli</string>
+    <string name="kind_other" formatted="false">Okunye</string>
+    <string name="amount" formatted="false">Inani</string>
+    <string name="place" formatted="false">Indawo</string>
+    <string name="litres" formatted="false">Amalitha</string>
+    <string name="odometer" formatted="false">Ukufundwa kwe-odometha</string>
+    <string name="no_expenses" formatted="false">Azikho izindleko. Izimali zomgwaqo nokupaka kwengezwa esilinganisweni.</string>
+    <string name="invalid_amount" formatted="false">Faka inani elingaphezu kuka-0.</string>
+    <string name="legal_title" formatted="false">Okomthetho nobumfihlo</string>
+    <string name="privacy_text" formatted="false">Yonke idatha yakho ihlala kudivayisi yakho. I-app ayidingi akhawunti futhi ayithumeli lutho kuseva. Ukuxhumana kuphela nangaphandle yilokho okuqalayo wena, ukuthumela ngaphandle, ikhophi yokulondoloza noma ukuthenga, nezikhangiso zenguqulo yamahhala, ezisuswa yinguqulo ye-Pro.</string>
+    <string name="about" formatted="false">Mayelana</string>
+    <string name="version">Inguqulo %1$s</string>
+    <string name="error_generic" formatted="false">Kukhona okungahambanga kahle.</string>
+    <string name="today" formatted="false">Namuhla</string>
+    <string name="yesterday" formatted="false">Izolo</string>
+    <string name="ads_privacy_options" formatted="false">Okukhethwa kukho kobumfihlo bezikhangiso</string>
+    <string name="ads_disabled_title" formatted="false">Izikhangiso zivaliwe</string>
+    <string name="ads_disabled_text" formatted="false">Isistimu ikhombisa ukuthi le akhawunti ngeyomsebenzisi osemncane. Ngakho-ke i-app ayikhombisi zikhangiso futhi ayiceli mvume. Akukho mazisi wezikhangiso ofundwayo futhi ayikho idatha eqoqwayo noma ethunyelwayo.</string>
+    <string name="watch_quick_add" formatted="false">Uhambo olusheshayo</string>
+    <string name="watch_no_favorites" formatted="false">Engeza uhambo oluyintandokazi efonini yakho.</string>
+    <string name="watch_added" formatted="false">Kwengeziwe</string>
+    <string name="watch_open_phone" formatted="false">Vula i-app yefoni</string>
+    <string name="widget_today" formatted="false">Namuhla</string>
+    <string name="widget_month" formatted="false">Kule nyanga</string>
+    <string name="widget_pro_needed" formatted="false">Iwijethi iyatholakala nge-Pro</string>
+</resources>

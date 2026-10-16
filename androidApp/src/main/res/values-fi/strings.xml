@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GENERE par tools/i18n/generate.js : ne pas modifier a la main. -->
+<resources>
+    <string name="app_name" formatted="false">Kilometrit</string>
+    <string name="widget_name" formatted="false">Matkat</string>
+    <string name="widget_description" formatted="false">Päivän kilometrit ja suosikkimatkasi yhdellä napautuksella.</string>
+    <string name="tab_trips" formatted="false">Matkat</string>
+    <string name="tab_estimate" formatted="false">Arvio</string>
+    <string name="tab_more" formatted="false">Lisää</string>
+    <string name="this_month" formatted="false">Tässä kuussa</string>
+    <string name="this_year" formatted="false">Tänä vuonna</string>
+    <string name="trips_count">Matkoja: %1$d</string>
+    <string name="km_value">%1$s km</string>
+    <string name="add_trip" formatted="false">Uusi matka</string>
+    <string name="free_remaining">Ilmaisia matkoja jäljellä tässä kuussa: %1$d</string>
+    <string name="free_limit_reached" formatted="false">Ilmaisraja saavutettu tässä kuussa</string>
+    <string name="free_quota_reached" formatted="false">Ilmaisversio sallii 5 matkaa kuukaudessa. Hanki Pro rajattomiin matkoihin tai katso mainos saadaksesi 5 lisää.</string>
+    <string name="go_pro" formatted="false">Hanki Pro</string>
+    <string name="pro_badge" formatted="false">Pro</string>
+    <string name="no_trips_yet" formatted="false">Ei vielä matkoja.\nNapauta + kirjataksesi ensimmäisen.</string>
+    <string name="trip_new" formatted="false">Uusi matka</string>
+    <string name="trip_edit" formatted="false">Muokkaa matkaa</string>
+    <string name="field_date" formatted="false">Päivämäärä</string>
+    <string name="field_from" formatted="false">Mistä</string>
+    <string name="field_to" formatted="false">Minne</string>
+    <string name="field_distance" formatted="false">Yhdensuuntainen matka (km)</string>
+    <string name="field_round_trip" formatted="false">Meno-paluu</string>
+    <string name="field_purpose" formatted="false">Tarkoitus</string>
+    <string name="field_vehicle" formatted="false">Ajoneuvo</string>
+    <string name="field_note" formatted="false">Huomautus</string>
+    <string name="field_justified" formatted="false">Erityiset olosuhteet</string>
+    <string name="field_justified_help" formatted="false">Rastita, jos kodin ja työpaikan välinen matka ylittää 40 km erityisestä syystä tai jos kyseessä on perusteltu ylimääräinen meno-paluu samana päivänä.</string>
+    <string name="purpose_commute" formatted="false">Työmatka</string>
+    <string name="purpose_business" formatted="false">Työajo</string>
+    <string name="purpose_personal" formatted="false">Yksityinen</string>
+    <string name="save" formatted="false">Tallenna</string>
+    <string name="cancel" formatted="false">Peruuta</string>
+    <string name="delete" formatted="false">Poista</string>
+    <string name="edit" formatted="false">Muokkaa</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="close" formatted="false">Sulje</string>
+    <string name="back" formatted="false">Takaisin</string>
+    <string name="confirm_delete" formatted="false">Poistetaanko pysyvästi?</string>
+    <string name="invalid_distance" formatted="false">Anna matka, joka on suurempi kuin 0.</string>
+    <string name="favorites" formatted="false">Suosikit</string>
+    <string name="save_as_favorite" formatted="false">Tallenna myös suosikiksi</string>
+    <string name="favorite_label" formatted="false">Suosikin nimi</string>
+    <string name="no_favorites" formatted="false">Tallenna matka suosikiksi kirjataksesi sen yhdellä napautuksella.</string>
+    <string name="use_favorite" formatted="false">Suosikkimatkat</string>
+    <string name="swap" formatted="false">Vaihda</string>
+    <string name="quick_add_hint" formatted="false">Napauta suosikkia lisätäksesi sen tälle päivälle.</string>
+    <string name="added" formatted="false">Matka lisätty.</string>
+    <string name="undo" formatted="false">Kumoa</string>
+    <string name="vehicles" formatted="false">Ajoneuvot</string>
+    <string name="add_vehicle" formatted="false">Lisää ajoneuvo</string>
+    <string name="edit_vehicle" formatted="false">Muokkaa ajoneuvoa</string>
+    <string name="vehicle_name" formatted="false">Nimi</string>
+    <string name="vehicle_kind" formatted="false">Tyyppi</string>
+    <string name="kind_car" formatted="false">Auto</string>
+    <string name="kind_motorcycle" formatted="false">Moottoripyörä</string>
+    <string name="kind_moped" formatted="false">Mopo</string>
+    <string name="fiscal_power" formatted="false">Verotuksellinen teho (CV)</string>
+    <string name="cv">%1$d CV</string>
+    <string name="cv_or_more">%1$d CV tai enemmän</string>
+    <string name="cv_or_less">%1$d CV tai vähemmän</string>
+    <string name="cv_range_3_5" formatted="false">3–5 CV</string>
+    <string name="electric" formatted="false">Sähköajoneuvo</string>
+    <string name="no_vehicle" formatted="false">Ei ajoneuvoa. Lisää yksi: arvio tarvitsee sen.</string>
+    <string name="default_vehicle" formatted="false">Oletusajoneuvo</string>
+    <string name="vehicle_needed" formatted="false">Lisää ensin ajoneuvo kohdassa Lisää &gt; Ajoneuvot.</string>
+    <string name="estimation" formatted="false">Todellisten kulujen arvio</string>
+    <string name="income_year">Tulovuosi %1$d</string>
+    <string name="estimation_locked" formatted="false">Todellisten kulujen arvio, viennit, historian tuonti ja varmuuskopion palautus kuuluvat Pro-versioon.</string>
+    <string name="disclaimer_short" formatted="false">Suuntaa-antava arvio, ei taattu.</string>
+    <string name="disclaimer_long" formatted="false">Tämä arvio on suuntaa-antava eikä taattu. Se ei ole veroneuvontaa eikä korvaa virallisia tekstejä, verohallintoa tai ammattilaista. Tarkista tilanteeseesi sovellettavat säännöt ennen ilmoituksen tekemistä.</string>
+    <string name="commute_km_raw" formatted="false">Syötetyt työmatka-km</string>
+    <string name="commute_km_retained" formatted="false">Huomioidut työmatka-km</string>
+    <string name="business_km" formatted="false">Työajo-km</string>
+    <string name="retained_km" formatted="false">Huomioidut km</string>
+    <string name="allowance" formatted="false">Kilometrikorvaus</string>
+    <string name="tolls_parking" formatted="false">Tiemaksut ja pysäköinti</string>
+    <string name="total" formatted="false">Arvioitu yhteensä</string>
+    <string name="flat_deduction" formatted="false">Kiinteä 10 %:n vähennys</string>
+    <string name="real_better" formatted="false">Todelliset kulut näyttävät edullisemmilta kuin kiinteä vähennys.</string>
+    <string name="flat_better" formatted="false">Kiinteä vähennys näyttää edullisemmalta kuin todelliset kulut.</string>
+    <string name="enter_salary" formatted="false">Syötä vuotuinen verotettava nettopalkkasi verrataksesi sitä kiinteään vähennykseen.</string>
+    <string name="net_taxable_salary" formatted="false">Vuotuinen verotettava nettopalkka</string>
+    <string name="per_vehicle" formatted="false">Ajoneuvoa kohden</string>
+    <string name="note_scale_unconfirmed" formatted="false">Tämän vuoden taulukkoa ei ole vielä julkaistu: viimeisintä tunnettua taulukkoa sovelletaan.</string>
+    <string name="note_cap_applied" formatted="false">Yksi tai useampi työmatkaosuus rajattiin 40 kilometriin, koska erityisiä olosuhteita ei ilmoitettu.</string>
+    <string name="note_extra_legs" formatted="false">Yhden päivittäisen työmatkan meno-paluun lisäksi tehdyt matkat ilman erityisiä olosuhteita jätettiin pois.</string>
+    <string name="note_no_vehicle" formatted="false">Matkat ilman ajoneuvoa ohitettiin: valitse oletusajoneuvo.</string>
+    <string name="note_fuel">Syötettyä polttoainetta (%1$s) ei lisätä: kilometritaulukko kattaa sen jo.</string>
+    <string name="note_no_salary" formatted="false">Palkkaa ei syötetty: ei vertailua kiinteään vähennykseen.</string>
+    <string name="documents_title" formatted="false">Säilytettävät asiakirjat</string>
+    <string name="documents_list" formatted="false">Ajoneuvon rekisteröintitodistus\nTyösopimus tai työnantajan todistus\nLuettelo työpäivistä\nTiemaksu- ja pysäköintikuitit\nKaikki, mikä tukee erityisiä olosuhteita</string>
+    <string name="export" formatted="false">Vie</string>
+    <string name="export_title" formatted="false">Vienti</string>
+    <string name="export_pdf" formatted="false">PDF-raportti</string>
+    <string name="export_xlsx" formatted="false">Taulukkolaskentatiedosto</string>
+    <string name="export_csv" formatted="false">CSV-tiedosto</string>
+    <string name="export_period" formatted="false">Ajanjakso</string>
+    <string name="year" formatted="false">Vuosi</string>
+    <string name="export_from" formatted="false">Alkaen</string>
+    <string name="export_to" formatted="false">Päättyen</string>
+    <string name="export_include_estimation" formatted="false">Sisällytä vuoden arvio</string>
+    <string name="export_share" formatted="false">Tiedosto avautuu jakovalikossa: tallenna tai lähetä se.</string>
+    <string name="export_failed" formatted="false">Vienti epäonnistui.</string>
+    <string name="report_title" formatted="false">Kilometriraportti</string>
+    <string name="generated_on">Luotu %1$s</string>
+    <string name="yes" formatted="false">kyllä</string>
+    <string name="no" formatted="false">ei</string>
+    <string name="import_title" formatted="false">Tuo historia</string>
+    <string name="import_help" formatted="false">Jos puhelimesi tallentaa sijaintihistoriaasi, voit viedä sen JSON-tiedostona sitä hallinnoivasta sovelluksesta ja avata sen sitten tässä. Vain ajoneuvolla tehdyt matkat luetaan. Tiedostoa ei säilytetä: vain päivämäärä, matka ja, jos tiedossa, lähtö- ja määräpaikka tallennetaan.</string>
+    <string name="import_pick" formatted="false">Valitse tiedosto</string>
+    <string name="import_reading" formatted="false">Luetaan…</string>
+    <string name="import_found">Ajoneuvomatkoja löydetty: %1$d</string>
+    <string name="import_skipped">Muut matkat ohitettu (kävely, pyöräily, joukkoliikenne): %1$d</string>
+    <string name="import_default_purpose" formatted="false">Tarkoitus matkoille, joita ei tunnistettu työmatkoiksi</string>
+    <string name="import_period">Ajalta %1$s – %2$s</string>
+    <string name="import_confirm">Tuo %1$d matkaa</string>
+    <string name="import_done">Tuotuja matkoja: %1$d</string>
+    <string name="import_nothing_new" formatted="false">Ei uusia matkoja: ne oli jo tuotu.</string>
+    <string name="import_unreadable" formatted="false">Tämä tiedosto ei ole luettava sijaintihistoria.</string>
+    <string name="import_commute_hint" formatted="false">Kotisi ja työpaikkasi väliset matkat tunnistetaan, kun tiedosto merkitsee ne; ne saavat tarkoitukseksi työmatkan.</string>
+    <string name="backup_title" formatted="false">Varmuuskopio</string>
+    <string name="backup_explain" formatted="false">Tietosi poistuvat laitteeltasi vain, kun niin päätät. Varmuuskopio on tiedosto, jonka voit tallentaa minne tahansa ja palauttaa millä tahansa laitteella.</string>
+    <string name="backup_export" formatted="false">Vie varmuuskopio</string>
+    <string name="backup_restore" formatted="false">Palauta varmuuskopio</string>
+    <string name="backup_restore_help" formatted="false">Palautus yhdistää: mitään sen jälkeen syöttämääsi ei menetetä.</string>
+    <string name="backup_restored">Varmuuskopio palautettu: yhteensä %1$d matkaa.</string>
+    <string name="backup_invalid" formatted="false">Tämä tiedosto ei ole tämän sovelluksen varmuuskopio.</string>
+    <string name="cloud_title" formatted="false">Pilvivarmuuskopio</string>
+    <string name="cloud_explain" formatted="false">Automaattinen kopio tiedoistasi laitteesi pilvitilaan ilman lisätiliä. Se päivittyy jokaisen muutoksen jälkeen.</string>
+    <string name="cloud_now" formatted="false">Varmuuskopioi nyt</string>
+    <string name="cloud_restore" formatted="false">Palauta pilvestä</string>
+    <string name="cloud_last">Viimeisin pilvivarmuuskopio: %1$s</string>
+    <string name="cloud_never" formatted="false">Ei vielä pilvivarmuuskopiota.</string>
+    <string name="cloud_unavailable" formatted="false">Pilvivarmuuskopio ei ole käytettävissä tällä laitteella. Käytä varmuuskopion vientiä.</string>
+    <string name="cloud_done" formatted="false">Pilvivarmuuskopio valmis.</string>
+    <string name="cloud_nothing" formatted="false">Ei palautettavaa pilvivarmuuskopiota.</string>
+    <string name="cloud_system_restore" formatted="false">Järjestelmä palauttaa tämän varmuuskopion itse, kun asennat sovelluksen uudelleen tai otat käyttöön uuden laitteen.</string>
+    <string name="settings" formatted="false">Asetukset</string>
+    <string name="rules_title" formatted="false">Laskentasäännöt</string>
+    <string name="rule_fr" formatted="false">Ranskalainen kilometritaulukko</string>
+    <string name="rule_generic" formatted="false">Kiinteä korvaus kilometriä kohden</string>
+    <string name="generic_rate" formatted="false">Korvaus kilometriä kohden</string>
+    <string name="currency" formatted="false">Valuutta</string>
+    <string name="home_label" formatted="false">Kotisi nimi</string>
+    <string name="work_label" formatted="false">Työpaikkasi nimi</string>
+    <string name="home_work_distance" formatted="false">Kodin ja työpaikan välinen matka (yhteen suuntaan, km)</string>
+    <string name="places_help" formatted="false">Käytetään suosikkimatkoissa ja historian tuonnissa.</string>
+    <string name="pro_title" formatted="false">Pro-versio</string>
+    <string name="pro_subtitle" formatted="false">Kaikki, mitä tarvitset todellisiin kuluihisi, eikä mainoksia.</string>
+    <string name="pro_features_title" formatted="false">Avatut ominaisuudet:</string>
+    <string name="pro_feature_unlimited" formatted="false">Rajattomasti matkoja.</string>
+    <string name="pro_feature_estimation" formatted="false">Todellisten kulujen arvio ja vertailu kiinteään vähennykseen.</string>
+    <string name="pro_feature_export" formatted="false">Täydellinen, varmennettu vienti (siisti PDF, taulukkomuoto valmiina kirjanpitäjälle tai veroilmoitukseen).</string>
+    <string name="pro_feature_import" formatted="false">Puhelimesi matkahistorian tuonti.</string>
+    <string name="pro_feature_expenses" formatted="false">Tiemaksut, pysäköinti ja polttoaine lisätään arvioon.</string>
+    <string name="pro_feature_cloud" formatted="false">Palautus varmuuskopiotiedostosta ja synkronointi laitteidesi välillä.</string>
+    <string name="pro_feature_widgets" formatted="false">Aloitusnäytön widget.</string>
+    <string name="pro_feature_watch" formatted="false">Kellosovellus.</string>
+    <string name="pro_feature_no_ads" formatted="false">Ei lainkaan mainoksia.</string>
+    <string name="pro_feature_gps" formatted="false">Automaattinen GPS-seuranta (liikkeentunnistus tai Bluetooth-yhteys autoon).</string>
+    <string name="pro_feature_scan" formatted="false">Tiemaksu-, pysäköinti- ja polttoainekuittien älykäs skannaus (OCR) kameralla.</string>
+    <string name="pro_monthly">%1$s kuukaudessa</string>
+    <string name="pro_yearly">%1$s vuodessa</string>
+    <string name="pro_yearly_hint" formatted="false">Kaksi kuukautta ilmaiseksi kuukausitilaukseen verrattuna</string>
+    <string name="subscribe" formatted="false">Tilaa</string>
+    <string name="restore_purchases" formatted="false">Palauta ostot</string>
+    <string name="pro_active" formatted="false">Pro-versio käytössä</string>
+    <string name="pro_active_since">Tilaus: %1$s</string>
+    <string name="pro_unavailable" formatted="false">Ostot eivät ole käytettävissä tässä sovelluksen versiossa.</string>
+    <string name="pro_legal" formatted="false">Automaattisesti uusiutuva tilaus, joka veloitetaan kauppatililtäsi. Voit peruuttaa milloin tahansa kaupan asetuksissa; hinta veloitetaan seuraavalta jaksolta, ellei tilausta peruuteta vähintään 24 tuntia ennen sen päättymistä.</string>
+    <string name="purchase_pending" formatted="false">Osto käynnissä…</string>
+    <string name="purchase_failed" formatted="false">Ostoa ei saatu päätökseen.</string>
+    <string name="purchase_restored" formatted="false">Ostot palautettu.</string>
+    <string name="purchase_nothing" formatted="false">Ei palautettavaa.</string>
+    <string name="rewarded_title" formatted="false">Kokeile mainoksella</string>
+    <string name="rewarded_explain" formatted="false">Katso lyhyt mainos avataksesi tämän hetkeksi. Pro poistaa mainokset ja avaa kaiken.</string>
+    <string name="rewarded_estimation" formatted="false">Näytä arvio 24 tunniksi</string>
+    <string name="rewarded_export" formatted="false">Yksi vienti tunnin sisällä</string>
+    <string name="rewarded_trips" formatted="false">5 matkaa lisää tässä kuussa</string>
+    <string name="rewarded_watch" formatted="false">Katso mainos</string>
+    <string name="rewarded_unavailable" formatted="false">Mainosta ei ole juuri nyt saatavilla. Yritä hetken kuluttua uudelleen.</string>
+    <string name="rewarded_granted" formatted="false">Avattu. Hyvää matkaa!</string>
+    <string name="expenses" formatted="false">Kulut</string>
+    <string name="add_expense" formatted="false">Uusi kulu</string>
+    <string name="edit_expense" formatted="false">Muokkaa kulua</string>
+    <string name="expense_kind" formatted="false">Tyyppi</string>
+    <string name="kind_toll" formatted="false">Tiemaksu</string>
+    <string name="kind_parking" formatted="false">Pysäköinti</string>
+    <string name="kind_fuel" formatted="false">Polttoaine</string>
+    <string name="kind_other" formatted="false">Muu</string>
+    <string name="amount" formatted="false">Summa</string>
+    <string name="place" formatted="false">Paikka</string>
+    <string name="litres" formatted="false">Litraa</string>
+    <string name="odometer" formatted="false">Matkamittarin lukema</string>
+    <string name="no_expenses" formatted="false">Ei kuluja. Tiemaksut ja pysäköinti lisätään arvioon.</string>
+    <string name="invalid_amount" formatted="false">Anna summa, joka on suurempi kuin 0.</string>
+    <string name="legal_title" formatted="false">Oikeudelliset tiedot ja yksityisyys</string>
+    <string name="privacy_text" formatted="false">Kaikki tietosi pysyvät laitteellasi. Sovellus ei vaadi tiliä eikä lähetä mitään palvelimelle. Ainoat yhteydet ulkomaailmaan ovat ne, jotka itse käynnistät, vienti, varmuuskopio tai osto, sekä ilmaisversion mainokset, jotka Pro-versio poistaa.</string>
+    <string name="about" formatted="false">Tietoja</string>
+    <string name="version">Versio %1$s</string>
+    <string name="error_generic" formatted="false">Jokin meni pieleen.</string>
+    <string name="today" formatted="false">Tänään</string>
+    <string name="yesterday" formatted="false">Eilen</string>
+    <string name="ads_privacy_options" formatted="false">Mainosten yksityisyysasetukset</string>
+    <string name="ads_disabled_title" formatted="false">Mainokset on poistettu käytöstä</string>
+    <string name="ads_disabled_text" formatted="false">Järjestelmä ilmoittaa, että tämä tili kuuluu nuorelle käyttäjälle. Sovellus ei siksi näytä mainoksia eikä pyydä suostumusta. Mainostunnistetta ei lueta, eikä tietoja kerätä tai lähetetä.</string>
+    <string name="watch_quick_add" formatted="false">Pikamatka</string>
+    <string name="watch_no_favorites" formatted="false">Lisää suosikkimatkoja puhelimellasi.</string>
+    <string name="watch_added" formatted="false">Lisätty</string>
+    <string name="watch_open_phone" formatted="false">Avaa puhelimen sovellus</string>
+    <string name="widget_today" formatted="false">Tänään</string>
+    <string name="widget_month" formatted="false">Tässä kuussa</string>
+    <string name="widget_pro_needed" formatted="false">Widget saatavilla Pro-versiolla</string>
+</resources>
